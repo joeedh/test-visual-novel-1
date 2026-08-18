@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "scene": "c11b_on_the_run",
+  "shots": [
+    {
+      "id": "c11b_on_the_run__establishing",
+      "sceneId": "c11b_on_the_run",
+      "framing": "establishing",
+      "location": "day",
+      "subjects": [],
+      "coversLines": [],
+      "shotData": {
+        "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Scattered Wilds (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "image": "4a38698cb2867aca64ddc391a3907ee0b4f35311d5b4e497aefad0ffcf93c08b",
+        "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+        "status": "accepted"
+      }
+    }
+  ]
+}

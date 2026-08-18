@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "scene": "is_landing",
+  "shots": [
+    {
+      "id": "is_landing__establishing",
+      "sceneId": "is_landing",
+      "framing": "establishing",
+      "location": "day",
+      "subjects": [],
+      "coversLines": [],
+      "shotData": {
+        "prompt": "Art style: clean modern visual-novel illustration. establishing shot in The Grey Principality of Vorn (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "image": "1989816bbe5edce247a49aa6c541b77bd7e41318118dd170742a445bdc209a57",
+        "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+        "status": "accepted"
+      }
+    }
+  ]
+}

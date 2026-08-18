@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "scene": "c01_arrival",
+  "shots": [
+    {
+      "id": "c01_arrival__establishing",
+      "sceneId": "c01_arrival",
+      "framing": "establishing",
+      "location": "day",
+      "subjects": [],
+      "coversLines": [],
+      "shotData": {
+        "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Cog-College — Approach (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "image": "ea75310215b3e97fc00034d553b2e79a296935aeeb0aacd9a67c2bbb60b0ce73",
+        "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+        "status": "accepted"
+      }
+    }
+  ]
+}

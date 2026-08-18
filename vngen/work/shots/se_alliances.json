@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "scene": "se_alliances",
+  "shots": [
+    {
+      "id": "se_alliances__establishing",
+      "sceneId": "se_alliances",
+      "framing": "establishing",
+      "location": "day",
+      "subjects": [],
+      "coversLines": [],
+      "shotData": {
+        "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Halcyon Reach (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "image": "92acfe4abc6939b6379836f203377bbde36cbaf8ccce713c5eed942f4a317dbd",
+        "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+        "status": "accepted"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "scene": "is_infiltration",
+  "shots": [
+    {
+      "id": "is_infiltration__establishing",
+      "sceneId": "is_infiltration",
+      "framing": "establishing",
+      "location": "day",
+      "subjects": [],
+      "coversLines": [],
+      "shotData": {
+        "prompt": "Art style: clean modern visual-novel illustration. establishing shot in The Organization — Outer Works (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "image": "d7fc97eb270da9639395c8a5b06cac81c537ce18d6c756648cbce5954c70e904",
+        "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+        "status": "accepted"
+      }
+    }
+  ]
+}

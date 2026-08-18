@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "scene": "wr_landing",
+  "shots": [
+    {
+      "id": "wr_landing__establishing",
+      "sceneId": "wr_landing",
+      "framing": "establishing",
+      "location": "day",
+      "subjects": [],
+      "coversLines": [],
+      "shotData": {
+        "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Hostile Border Territory (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "image": "eed0a9cbd9102ab181672b975b9affa3b4938d6c0734c5ddc6521dc62fc3893d",
+        "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+        "status": "accepted"
+      }
+    }
+  ]
+}

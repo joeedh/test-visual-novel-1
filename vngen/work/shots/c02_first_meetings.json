@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "scene": "c02_first_meetings",
+  "shots": [
+    {
+      "id": "c02_first_meetings__establishing",
+      "sceneId": "c02_first_meetings",
+      "framing": "establishing",
+      "location": "day",
+      "subjects": [],
+      "coversLines": [],
+      "shotData": {
+        "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Cog-College — Great Courtyard (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "image": "73ec659f28f4019fbb80ee24b854d9f6297ae38fb15fa2241aab4ffdf7813015",
+        "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+        "status": "accepted"
+      }
+    }
+  ]
+}

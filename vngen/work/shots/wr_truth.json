@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "scene": "wr_truth",
+  "shots": [
+    {
+      "id": "wr_truth__establishing",
+      "sceneId": "wr_truth",
+      "framing": "establishing",
+      "location": "day",
+      "subjects": [],
+      "coversLines": [],
+      "shotData": {
+        "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Cloudlane Bolt-Hole (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "image": "6b4e5dc8ea6676716ca2115cca6d6d3bf1e043ae952716c8b7a7be221535d305",
+        "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+        "status": "accepted"
+      }
+    }
+  ]
+}

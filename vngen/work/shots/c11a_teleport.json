@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "scene": "c11a_teleport",
+  "shots": [
+    {
+      "id": "c11a_teleport__establishing",
+      "sceneId": "c11a_teleport",
+      "framing": "establishing",
+      "location": "day",
+      "subjects": [],
+      "coversLines": [],
+      "shotData": {
+        "prompt": "Art style: clean modern visual-novel illustration. establishing shot in The Translocation Hall (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "image": "c91fdc8b6de7a8d406b462193708190609dfc1224292fdd48541efacda1c668c",
+        "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+        "status": "accepted"
+      }
+    }
+  ]
+}

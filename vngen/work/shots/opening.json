@@ -6,16 +6,16 @@
       "id": "opening__s1",
       "sceneId": "opening",
       "framing": "establishing",
-      "location": "day",
+      "location": "dusk",
       "subjects": [],
       "coversLines": [
         "opening:L1",
         "opening:L2"
       ],
       "shotData": {
-        "prompt": "Art style: clean modern visual-novel illustration. establishing shot in A ROOM (day). No characters in frame. Render as a single illustrated frame, no UI text.",
-        "image": "f4928e71cebd76f258343d1660d5a6c82456de163c515f8d8c7b57c8c31764b5",
-        "proseHash": "d588b7f2a9a9832fc08771db32d03df628ea9a71c829f3457e9eb44f6ad62630",
+        "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Cog-College — Approach (dusk). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "image": "999022063fed6cc19df73ea317029155af8e8c974dc3efe3a8052d48949eb6a6",
+        "proseHash": "67061cca3dab4576372b0efc0fe3f73b2ab0bce4d4f6178814e4a5f13d8f3483",
         "status": "accepted"
       }
     }

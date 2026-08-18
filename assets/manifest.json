@@ -2,6 +2,197 @@
   "version": 1,
   "assets": [
     {
+      "hash": "0472f47cb312b250a63bb90cd1f3bddc13e68b07e0b2c86b4fde4c5db518dfaf",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "82e7a7cd2674ec7ab5450b9d300d24e252294d31c60bb58ff9c15c431eb3ea83",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of College Infirmary. A long white ward of iron cots and glass cabinets, its air kept still and clean by a metered filtration weave. Copper burn-salves, Loomwright healing-threads, and Nullifier cuffs for the dangerously overdrawn sit ready on wheeled trays. Rust-scarring is treated here quietly, and never without a report filed. It is where the cost of a victory shows up on the body, and where words too raw for the courtyard finally get said. Mood: hushed, sterile, tender. Time of day / condition: day. Palette: #cdd3d0, #e9e9e4, #3a4340, #7fb0a6. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "infirmary",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "0c12f20626a1be8315913e7d4b89cc226b4dca8ca790225e21888a519e9e83bc",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "8fa11a1e880557e2b854c914750ee5bb519fc70408473c17dbb1b4bfa82a2000",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of The Organization — Inner Sanctum. The inner sanctum at the organization's heart: a cavernous engine-cathedral built around a colossal Governor-core where the severed are harvested and the world's ruin is engineered. Catwalks thread a blinding aether-glare; the machinery is the enemy as much as anyone in it. This is the final-boss arena for all five routes — where a coalition wins it on the romance paths, and where a warlord's strategic-class weave ends it on the dark one. Mood: climactic, monstrous, awful. Time of day / condition: day. Palette: #0d1a17, #2e9e86, #050807, #c0342a. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "enemy_organization_core",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "1012519e0aeb5ac583343ea8a68f88809632d5bb53f1059083128e63bf3273e4",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "30153f2f63a0e2354f7577548d37d5a1a51b8f6e6658c8ea00c1b568c0a95e28",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of Scattered Wilds. A nowhere-country of wind-scoured heath and broken drystone walls, the kind of blank between-nations margin the College's panic-teleport flings its students into: no forge, no court, no warren, no cog-token that means anything here. Grey scudding cloud, a horizon of low hills and the rusted skeleton of some abandoned relay-mast. Cold, exposed, and anonymous — a place to be hunted across or to huddle out of the wind while a scrying-plate or a stolen broadcast-horn brings terrible news from somewhere else. It wears the palette of ash and iron and dead bracken. Time of day / condition: day. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "scattered_wilds",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "176a5b6476c67871f6ef186157f0ca99ca84c7173cd4557761fdb50294d2761e",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "12796269a072ad15c74bfcda92b0e20fcee5b1d2bf7526c79c968ad96d76211b",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of Cog-College — Approach. The outer approach to the Cog-College: a long iron viaduct climbing to gatehouses of brass and soot-darkened stone, geared Regulen sigils worked into the ironwork. Clocktower spires and glass-domed conservatories rise beyond a portcullis of interlocking cogs, and airship mooring-masts prick the skyline where cloudlane traffic drifts in. Steam vents hiss from grates underfoot; the air smells of coal, hot brass, and the faint ozone tang of the Weave. This is where the metered, licensed intake first gathers — a threshold built to remind every new talent exactly whose rules they are entering. Mood: imposing, ceremonious. Time of day / condition: day. Palette: #b08d3a, #e9e4d6, #2b2723, #7fa6bf. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "cog_college_approach",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "1a5236fbc22bbe8cba800cc704af694097287105741ace45224385a2102dd37f",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "2516bc0bebfc5d6c4d66cf2d150cc35ee667271f509706de2693821b47a8b64a",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of The Organization — Outer Works. The fortified outer works of the organization behind the world's collapse: black-iron curtain walls, gun-galleries, and vast aether-furnace stacks bleeding a sickly green glow into a permanent industrial dusk. Nullifier pylons ring the approach to clamp shut any weave. This is where the converging allies and surviving stranded pairs fight their way in — the set-piece battlefront shared by every route's endgame. Mood: ominous, fortified, cold. Time of day / condition: night. Palette: #10231f, #1e5e50, #0a0d0c, #7a1f1f. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "enemy_organization_approach",
+          "variant": "night"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "1aa1b98162de325c16973e46835a774bcc67efbeed497f6409f21149a55bef49",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "854bf265773f953b73878805350ac0464376cb1544f6eadf269c636dde0654e6",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of The Practice Yards. Open sand-and-slate training grounds behind the furnace hall, ringed by blast-baffles of riveted iron and rack after rack of Governor gauntlets. Chalked warding circles scar the ground; the air wavers with heat and the geometric cold-shimmer of competing currents. Here the cautious drill their metered weaves within the lines while the reckless — the ones who bare rust rather than hide it — burn scorch-marks past the baffles. It is the one place at the college where raw power is on open, dangerous display. Mood: charged, competitive. Time of day / condition: day. Palette: #a89066, #e8912d, #3a3730, #3fb8a6. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "practice_yards",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "224e128d302936f6930aeec7a892e9137d75f7e8fe9fec3f858e9bac4bbc9c08",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "73e90a8d4141899213f74282c0aaf6429bcd3b8b4ed0ab935d04ffe42bebe63e",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of Execution Square. A public plaza built for the display of state power: a broad flagged square hemmed by government facades, a raised iron scaffold at its heart, broadcast-horns and scrying-plates mounted high so the whole quarter can be made to watch. Assayer grey and governmental brass. Crowd-barriers, banners of a hostile regime, and the cold theatrical lighting of a place designed so that punishment is never private. In daylight it is grimly ordinary; lit for an execution it becomes the stage on which the story's cruelty is made undeniable. Time of day / condition: day. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "execution_square",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "2539415100a19baab81804594905c50310943871222c230cdca9ca04dea7ddb0",
+      "ext": "png",
+      "kind": "portrait",
+      "sourceTask": "392f12d016666041aacd53468127867b6efed6875e78478d055313c7191a6cf0",
+      "prompt": "Art style: clean modern visual-novel illustration. Character portrait of Caedon Vale. A nineteen-year-old scholarship student at the Cog-College of Cograuncy, born to a Ferran furnace-town family of modest means. Caedon is lean and wiry from years hauling coke on the furnace floors, with dark tousled hair, storm-grey eyes, and a smear of engine soot that never quite washes out from under his nails. He carries himself with a watchful, self-taught steadiness — the wariness of someone who has always been the outsider in a room of guild-born peers. Unusually, Caedon draws on both Currents — a faint pull of ordered Sela and wild Vash alike — a rarity the College has not yet decided whether to prize or fear. He channels without a Governor by instinct, which terrifies his professors and thrills the Kiln-Sworn recruiters. Earnest, stubborn, and quick to defend those the guild-state overlooks, he is the still point around whom the other students orbit. Palette: #2b2f36, #8a6a4f, #b8b0a4, #6d7681, #c9772f. Neutral pose and expression, plain neutral background, head-and-shoulders framing.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "caedon_vale"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "31fa66cdcfc7012c9f9e471b26c0d21a527738d2dacf472c275fcd07026e2de2",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "5fedaac4706f575b4a27ef653322a90b605bb97cd79be678968a9634c00b1b54",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of The Ruins (Interior). Beneath the fallen furnace-spine: a warren of buckled service tunnels and drowned engine-vaults, brass catwalks hanging askew over black water. Dead conduits bleed a low teal light along the walls, and the ruined core still hums faintly, as if the failed weave never fully died. Sound turns treacherous down here — footsteps, dripping, the scrape of something moving that shouldn't be. This is where the test stops being a test. Mood: claustrophobic, dangerous. Time of day / condition: day. Palette: #1c2622, #2e5e52, #0f1210, #c46a2a. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "ruins_interior",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "32a33c67dbce6ba1639b168b7df358f2bb5cfc36ccbc625cc54403f4f5d5ead6",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "7d3f5792400e470f8840b21869ca7fb93611444cd8759673d9a1436c728a8e65",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of Hostile Border Territory. A militarized frontier where the unlicensed and Rust-touched are shot on sight: checkpoint towers, razor-cog wire, propaganda hoardings, and Assayer patrols working the rail-yards with Nullifier cuffs. Wren's gloves and scars mark her instantly here. It is where the roles invert — where Caedon's schooling is worthless and only Wren's underground, her bolt-holes and forged tokens and called-in debts, keeps them both breathing. Mood: lethal, tense, unforgiving. Time of day / condition: day. Palette: #4a4e52, #8b6f47, #1c1f22, #7a1f1f. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "hostile_border",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "3bed1162f146fa3b33f894e6bc3e181757a4e852e7b23399a9711f7b3386a486",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "3756e4478922fb98109e2a7861673026ab906f5d17e79fab1986b2bc77a69cd1",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of Vashan Borderland. Scrubbed open country on the marches of the Vashan Dominion — red dust, wind-carved rock, dead telegraph lines, and no forge for a hundred miles to shelter a Kiln-Sworn. The horizon is too wide to hide in; every use of raw current throws a beacon across it. It is where Ember and Caedon land far from any friendly kiln, her power both their only shield and the thing that keeps drawing pursuit down on them. Mood: exposed, hunted, harsh. Time of day / condition: day. Palette: #b98a4a, #d9b877, #3a2a1a, #8a8175. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "vashan_borderland",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "3d0c1bc64b4d1f7d38bb360a82dc8d84c39caedeae803aede3bbf39df1b46547",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "31d24cda4c74cee65eddeaa99e30f72845be54224427f2290e0a14803e3a67db",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of Execution Square. A public plaza built for the display of state power: a broad flagged square hemmed by government facades, a raised iron scaffold at its heart, broadcast-horns and scrying-plates mounted high so the whole quarter can be made to watch. Assayer grey and governmental brass. Crowd-barriers, banners of a hostile regime, and the cold theatrical lighting of a place designed so that punishment is never private. In daylight it is grimly ordinary; lit for an execution it becomes the stage on which the story's cruelty is made undeniable. Time of day / condition: night. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "execution_square",
+          "variant": "night"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "3d4daec7ae88effc46d878bc2b03faa132ec91c626b32f64b0b49b21e76e9b07",
       "ext": "png",
       "kind": "location_ref",
@@ -13,6 +204,636 @@
         {
           "locationId": "a_room",
           "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "3d8ba619c3185af4ce3b559dfc7ab5291d3498160aae3c6ac845797bd1c861f7",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "4302654bd30bdc090e187c67909d33858abf792de53135a6fc994338a72bd680",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of The Ruins (Exterior). A field of collapsed aetherwork on a wind-scoured moor beyond the cloudlanes: toppled clocktower drums, a fallen furnace-spine gone green with corrosion, viaduct arches broken off into open sky. Old Governors lie half-buried and cold, and a faint teal residue still weeps from cracked conduits where a great weaving once failed. Silent but for wind and the tick of settling metal, it is exactly the kind of place a field-test is set — and exactly the kind of place an ambush hides. Mood: eerie, abandoned, tense. Time of day / condition: day. Palette: #6a6555, #9aa08c, #2a2824, #3fb8a6. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "the_ruins",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "42efcfddcf5bb5552dd47c00ce25bc547d9b50245d69eeccbe2f515ff8ce1ab5",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "9b28b458d379d830db0df56a72e4c7922a84697a9a8f3a5bb63ebcf66c412ae5",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of Cog-College — Great Courtyard. The beating hub of the college: a broad flagstone quad ringed by lecture wings, dormitory stacks, and the towering aether-furnace hall whose vent-stacks breathe a soft teal shimmer over everything. A central fountain runs on a slow Governor-metered weave, water lifting and folding in impossible geometric arcs. Students in brass-and-white Regulen livery cross between classes; noticeboards clatter with reassignment cogs. It feels ordered, watched, and faintly performative — a place designed to be seen behaving well. Mood: bustling, institutional. Time of day / condition: dusk. Palette: #caa64a, #e9e4d6, #4a453d, #3fb8a6. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "cog_college_courtyard",
+          "variant": "dusk"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "4808a67ce1f0e7578b8935d3b41dec8d29ca799a8002ca470dc8aef4dfe49b66",
+      "ext": "png",
+      "kind": "portrait",
+      "sourceTask": "ef10f283316a45a6311095386c8afccf38cdb9b7d13987d2f3657d0356bed523",
+      "prompt": "Art style: clean modern visual-novel illustration. Character portrait of Auria Coyle. Headmistress of the Cog-College, a woman in her late fifties who wears authority like a well-oiled mechanism. Auria rose through the Regulen Concord as a Sela-strong administrator rather than a battle-channeler, and she runs the College the way the Ferran Ascendancy likes its institutions run: metered, licensed, and accountable. Silver hair coiled tight beneath a brass circlet, a high slate-and-white coat of office, and a Governor gauntlet she rarely needs but always wears as a symbol. She is shrewd, fair, and quietly political — she must keep Concord inspectors, Dominion recruiters, and half a dozen monarchies' heirs all under one roof without the place burning down. Beneath the protocol is genuine care for her students and an old, private doubt about what the Assayers do with those the College severs. Palette: #5a6472, #f2f0ea, #b08d55, #2b2f36. Neutral pose and expression, plain neutral background, head-and-shoulders framing.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "headmistress_auria_coyle"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "4d7a18fb7f39ee982208aeeeaad57f83ee76f4363bb5133b4cfe62dc34c123ff",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "68fe2967586e9eb8a7a8db95fb84bf514ace6127f2ef53c75faf98e9e60c77c6",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of The Ruined Cities (Timeskip). Years later: cities cracked open by strategic-class weaves, viaducts snapped, clocktowers toppled, cloudlanes empty of everything but drifting ash. The world Caedon conquered to protect the people he loved lies gutted by the civil war of his own many children, fighting over his inheritance. Nothing metered, nothing safe — the harem fantasy followed to its logical, catastrophic end. The dark route's closing image. Mood: desolate, tragic, final. Time of day / condition: day. Palette: #2a2622, #6a655c, #b0491f, #8c8578. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "ruined_cities",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "52b03a948745bde30c4d776674f30d68f8b1884bb4a98da71a246d88aa5ca05a",
+      "ext": "png",
+      "kind": "portrait",
+      "sourceTask": "54d5f73fd741e1bb0a46adcc393f60593efbaf48634e4a1063a4ffe3ac5978ed",
+      "prompt": "Art style: clean modern visual-novel illustration. Character portrait of Isolde Vorn. A daughter of the Grey Principality of Vorn, sent south to the Cog-Colleges as much to watch as to learn. Isolde is pale and composed, with an aristocrat's stillness and a devout's certainty. Raised where the Assayers hold sway and channeling is tightly leashed, she was taught to distrust the Weave even as it woke strong in her — Sela-strong, precise and cold as her homeland. She wears her piety like armor and her doubt like a hidden knife: the more she sees of ungoverned power, the harder her convictions are tested. Grey silk, iron clasps, a single key-shaped pendant. Beneath the frost is a young woman aching to be more than her province's leash. Palette: #6b7078, #c9ccd1, #2b2f36, #9a8f7a, #e8e6e2. Neutral pose and expression, plain neutral background, head-and-shoulders framing.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "isolde_vorn"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "56b37f57c9e5b4d5eb4e8eb10fe43152e77b3227209f7e90089b04baed181302",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "6e04c578682bb0ce8c20569830a68701280be00472c6520928c42c2d164122ac",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of Dormitory Commons. A cluttered common room in the student stacks: mismatched armchairs, a coal hearth under a copper hood, a long scarred table strewn with study-cogs, playing cards, and half-drunk tea. Brass wall-sconces throw warm uneven light; pipes tick as they cool overhead. Personal clutter — smuggled snacks, contraband penny-novels, drying laundry — makes it the one unpoliced corner of the college. This is where the friend group forms and where guards come down. Mood: warm, informal, lived-in. Time of day / condition: day. Palette: #8a6a3a, #d8c39a, #332b22, #b3532a. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "dormitory_commons",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "57644a453ea5a435978ae82c020299f5553dfd839cf446b36d60cc641374ab4d",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "6e21afbe7986aa7e5cf8ff406a60583b8bd9e4f89bf31aaef17f2320609e66a6",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of Halcyon Reach. The Halcyon family seat, a Loomwright-inclined house of pale terraces and glass conservatories perched above the cloudlanes, indigo-and-silver thread in every hanging. Far-speaking looms and treaty-chambers make it a place where wars are settled with words. Groomed to broker peace here, Seraphine returns having chosen to act rather than mediate — braiding scandal into a single coalition, and, at the last, choosing her own thread. The route's wedding is held on its cloud-terraces. Mood: serene, poised, quietly powerful. Time of day / condition: day. Palette: #d9dbe2, #9aa6bd, #34305e, #b6c4cf. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "halcyon_reach",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "5b27e5e7f0e4350d5ba4269deafcac622a3510ed8027498e18f63bc0b487304a",
+      "ext": "png",
+      "kind": "portrait",
+      "sourceTask": "02cf983fa6cdbb29b062ff9d660f649a66214c0ae5c3dac4201faf18f4f3ae6e",
+      "prompt": "Art style: clean modern visual-novel illustration. Character portrait of Gideon Marsh. Gideon Marsh is a broad-shouldered, steady-handed Cog-College student from the Saltbound Crownland, the son of a harbor-city shipwright. Where others chase power, Gideon chases competence: he is the group's anchor, slow to anger and impossible to rattle. Sela-strong in the Stone Thread, he favors structural weaves — bracing, binding, mending — and dreams of building airship keels rather than fighting. He wears his Governor without complaint and thinks the Concord's rules are mostly sensible, which puts him at odds with the hotter heads around him. Loyal to a fault, he is the friend who carries the wounded and pays the tab. Broad face, sun-weathered from a childhood on the docks, close-cropped brown hair, and forearms scarred from foundry work. Palette: #2e5266, #6e8898, #c9a227, #e8e6df. Neutral pose and expression, plain neutral background, head-and-shoulders framing.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "gideon_marsh"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "5f33b355cff7d51138290ab73de3343630585f79480d484fe4608a9d5c7a33f6",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "b75fa488cff05fbd63e4c3da01b49cc90935b97442f394ed711f227d911df2c4",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of The Grey Hands' Assay-Hold. The seat of Assayer power in Vorn: a fortress-chapter house of grey basalt and cold iron, its great door marked with the single iron key of the Grey Hands. Vaults hold rows of Nullifier Governors and the ledgers of the severed; the air is incense and machine-oil at once. This is where corruption reaches highest and where Isolde turns her faith into a weapon against its makers — walking in on a devotion she no longer owes. Mood: oppressive, forbidding, sacred. Time of day / condition: night. Palette: #4a525e, #c3cad3, #20252d, #7f5a2a. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "vorn_stronghold",
+          "variant": "night"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "63db430f3b664d4cea56f08ef6454d9329f0b68854ab8d84b316873bac549ab1",
+      "ext": "png",
+      "kind": "portrait",
+      "sourceTask": "ea5d2d0a7496b2b2f4b0bd9972e6795d462a410ba5aeb9674585dd0ae56488f4",
+      "prompt": "Art style: clean modern visual-novel illustration. Character portrait of Professor Mirabel Quist. Professor Mirabel Quist is the Cog-College's mistress of Governors — the artificer-scholar who teaches the theory and craft of the brass-and-crystal regulators that meter a channeler's flow. A wiry woman in her fifties with cropped iron-grey hair, ink-stained fingers, and a jeweler's loupe forever pushed up on her forehead, she moves through her workshop amid a clutter of half-built gauntlets, crystal blanks, and pressure gauges. Sela-strong and Concord-trained, she believes fervently that measured power is the only safe power, yet she is no dogmatist: she quietly studies the failures of Governors, including the ones the Concord would rather bury. Warm, blunt, and endlessly curious, she treats students as apprentices and machines as puzzles. She is the professor most likely to notice when a student's talent outruns their Governor — and the one who understands exactly how dangerous that is. Palette: #b08d57, #d8d8d8, #3a4a5a, #7a6a55. Neutral pose and expression, plain neutral background, head-and-shoulders framing.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "professor_mirabel_quist"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "6428bba579e729de53e6fefd7d20f735fc03c8ca9a592025552f8bfb8fde6eaf",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "ee0391acee9f4bf6393fcaf060124507b10b5f6d7adb7e505c15d172a04e5d70",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of Cog-College — Great Courtyard. The beating hub of the college: a broad flagstone quad ringed by lecture wings, dormitory stacks, and the towering aether-furnace hall whose vent-stacks breathe a soft teal shimmer over everything. A central fountain runs on a slow Governor-metered weave, water lifting and folding in impossible geometric arcs. Students in brass-and-white Regulen livery cross between classes; noticeboards clatter with reassignment cogs. It feels ordered, watched, and faintly performative — a place designed to be seen behaving well. Mood: bustling, institutional. Time of day / condition: day. Palette: #caa64a, #e9e4d6, #4a453d, #3fb8a6. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "cog_college_courtyard",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "6a3c39162da0e73f937db44842abd5054326e145e01baf05b42eccc48453175f",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "d7144884171955581c15221d3bcda22999e80c9cbe500e0a938d33fa8759964b",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of The Organization — Inner Sanctum. The inner sanctum at the organization's heart: a cavernous engine-cathedral built around a colossal Governor-core where the severed are harvested and the world's ruin is engineered. Catwalks thread a blinding aether-glare; the machinery is the enemy as much as anyone in it. This is the final-boss arena for all five routes — where a coalition wins it on the romance paths, and where a warlord's strategic-class weave ends it on the dark one. Mood: climactic, monstrous, awful. Time of day / condition: night. Palette: #0d1a17, #2e9e86, #050807, #c0342a. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "enemy_organization_core",
+          "variant": "night"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "72b3930e4d1d87b1ce84892f42c4f16fa961ecd906d13af4cec26e3992d5d856",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "799b954fac55def7c386ac83288f2b0d58526a6662e98aaa8f9c6140f6b3ddad",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of Cinderhold — Vashan Forge-City. The Kiln-Sworn stronghold of the Vashan Dominion: a city built into the throat of a mountain forge, tiered foundries glowing molten-orange through a permanent haze of ember and soot. Great ungoverned aether-kilns roar without a Governor in sight, and the rust-scarred move openly, their corrosion worn as rank. Ash-grey and ember-orange banners hang over engine-yards that can arm a coalition. Here Ember's ties open doors no licensed talent could — and here the route's wedding, defiant and forge-lit, finally lands. Mood: molten, defiant, industrious. Time of day / condition: day. Palette: #c8531b, #e8912d, #241812, #8a8175. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "vashan_forge_city",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "73424054b2678b8b76fb16069f2e4b0dd2ef0744df0efafcbc2546191041e41f",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "b39f88f27ff2895a1cd06ea64a485ca7d0d60aa8ef42a6d1ab8523ac855fd34a",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of The Translocation Hall. A cathedral-sized engine-vault housing the college's translocation array: nested brass rings twenty feet across, wound with crystal conduits and tended by a ring of bound channelers at their Governors. When it fires it floods the hall with searing teal aether-flare and a bone-deep thrum. Built for careful, one-pair transit, it is pushed here to breaking — students hustled onto the plate in pairs and flung to random corners of the world as the crisis closes in. The last safe place, used in a moment that is anything but. Mood: urgent, frightening, chaotic. Time of day / condition: night. Palette: #1a2a44, #3fb8a6, #0d1420, #e2b24a. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "teleportation_hall",
+          "variant": "night"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "780d0761b5f479bc716b415f34b3490842835d0ec97672f8d456974576af1c70",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "e14805b1ca3cf3a2878147f200943500cc99d713e5b6bb22816d9076a98b6932",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of The College Woods. Old-growth forest beyond the college wards, where the metered order of the campus gives way to something older and unpoliced. Mossed standing stones and a mist-pooled clearing make a natural training ground out of reach of instructors' eyes; the Weave feels closer to the surface here, wilder. By day the canopy scatters green light; by night the mist takes a faint silver aether-shimmer. It is the first place in the story that belongs to Caedon and a love interest alone — or, on the dark path, to Caedon alone. Mood: private, intimate, wild. Time of day / condition: night. Palette: #3f5a37, #8fae5a, #23301f, #c9d6b0. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "college_woods",
+          "variant": "night"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "7a10630271d915f7034467b10e1876740cef4b236dd93e1ec006268e590c4558",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "3b13afe4ce065139a0719a322f1cb27900d3e6cc909fa2b9e1898581746f86af",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of The Organization — Outer Works. The fortified outer works of the organization behind the world's collapse: black-iron curtain walls, gun-galleries, and vast aether-furnace stacks bleeding a sickly green glow into a permanent industrial dusk. Nullifier pylons ring the approach to clamp shut any weave. This is where the converging allies and surviving stranded pairs fight their way in — the set-piece battlefront shared by every route's endgame. Mood: ominous, fortified, cold. Time of day / condition: day. Palette: #10231f, #1e5e50, #0a0d0c, #7a1f1f. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "enemy_organization_approach",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "7a4a7f292f199d07d80e573f86006c27a271922447ade9fa9f050a75415c7128",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "6dfb7857ba4c64c50f76a6aace83cd0949ef0f6a9dd35934f909e452f79176a9",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of Cloudlane Bolt-Hole. A smuggler's cache tucked into a disused mooring-mast high in the cloudlanes: crates of contraband weaves, forged transit-tokens, a cot, and a filed-smooth cog nailed by the door — the mark of the Ashen Circle. Wind moans through the girders; below, the fugitive networks thread the sky. This is where Wren and Caedon go to ground and where they piece together the truth of the Assayers' harvest of the severed. Mood: cramped, secretive, resourceful. Time of day / condition: night. Palette: #3a3b3e, #a8813f, #17191b, #5f7a80. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "cloudlane_bolthole",
+          "variant": "night"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "7dd1350bf1a6447a9d9c2227953c216dcaab2ebec0cb8529158af51acd102614",
+      "ext": "png",
+      "kind": "portrait",
+      "sourceTask": "8dfd45017f5f4c76fed69ab658c7f2b6e3d4b6cd5fe604b0327048de88dc6245",
+      "prompt": "Art style: clean modern visual-novel illustration. Character portrait of Pip Calloway. The youngest and smallest of the friend-circle, Pip Calloway is a wiry Amberline street-orphan turned Cog-College scholarship prodigy. Where others channel, Pip tinkers — a gearsmith and Governor-hacker whose nimble fingers can coax a regulator into doing things its makers never licensed. He talks fast, filches faster, and has an informant in every workshop and kitchen from the boiler-decks to the deans' tower. Barely a channeler at all — a flicker of Sela, no more — he compensates with cleverness and cheek, and a loyalty to his friends fiercer than his slight frame suggests. Amberline taught him that knowing everyone's secrets is the only reliable currency, and he collects them like a magpie collects brass. Palette: #e0a53c, #f5efe0, #6b5638, #3a3a3a. Neutral pose and expression, plain neutral background, head-and-shoulders framing.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "pip_calloway"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "7f882a19d6e90a54ba9f907281960dd3a56a57fded5e2fcdc075199f637f8c2d",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "839a635d42ca3b7199b0575ba024e5af70c23af5ec06233dbf62b620b9f33d45",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of Channeling Lecture Hall. A steep-raked theatre of dark wood benches descending to a demonstration floor, where a great brass orrery of the Five Threads turns slowly above a warded dais. Diagrams of Governors and current-flow hang between tall windows; a wall of confiscated, filed-smooth cogs serves as a quiet warning about ungoverned channeling. Here the doctrine is taught as much as the craft — measured power is safe power — and the contrast between Sela precision and Vash current is put on the floor for all to see. Mood: formal, doctrinal. Time of day / condition: day. Palette: #9a8a5a, #e3ddce, #2f3540, #7fa6bf. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "lecture_hall",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "8a843719657f5845cea392baba7f5d34b935c6543d870d81278a720fdc33d79c",
+      "ext": "png",
+      "kind": "portrait",
+      "sourceTask": "e4799bac544e9005aa7fa235270d631f2f535140df04a62307e040e3b40f6621",
+      "prompt": "Art style: clean modern visual-novel illustration. Character portrait of Wren Ashfield. Wren Ashfield is a wiry, quick-eyed young woman of the Ashen Circle underground — a burned-out talent who channels anyway, without a Governor, and pays for it. Raised in the soot-warrens beneath Cograuncy, she is a fugitive by birth: her mother was severed by the Assayers, and Wren has spent her life one filed-smooth cog-token ahead of the Grey Hands. She smuggles the hunted through the cloudlanes and trades in forbidden weaves. Sharp, wary, and fiercely loyal to the discarded, she hides a raw Vash strength she can no longer safely hold. Her hands bear the first faint bloom of Rust-scarring, which she keeps gloved. Beneath the guardedness is a starved hunger to be trusted by someone who won't sell her. Palette: #3a3f44, #6b7280, #b45309, #d97706, #1f2937. Neutral pose and expression, plain neutral background, head-and-shoulders framing.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "wren_ashfield"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "911643aed4303a4c97cd4f6345431014e7995ba502050641514ad9d98c66eb83",
+      "ext": "png",
+      "kind": "portrait",
+      "sourceTask": "2cea1383459e5f598f6cc5df1e4524b850ee281ede5ca35a463bae75c770f677",
+      "prompt": "Art style: clean modern visual-novel illustration. Character portrait of Seraphine Halcyon. A poised, quick-witted daughter of Halcyon Reach's ruling house, sent to the Cog-College as much for diplomacy as for schooling. Sela-strong and drawn to the Loomwrights' subtle art, she braids Spirit and Air with a delicacy that unnerves her instructors. Silver-blonde hair worn in a coiled braid, cloud-grey eyes, and the unhurried grace of someone raised to be watched. Warm beneath a practiced court reserve, she is torn between the peace-broker role her mother groomed her for and a hunger to choose her own thread. Palette: #3a4a6b, #c9cdd6, #e8e2d0, #8a93a8. Neutral pose and expression, plain neutral background, head-and-shoulders framing.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "seraphine_halcyon"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "a5bc386b7eaeedee62693b9632e3ab07054efa6f31e845e3730afa960ef1ce87",
+      "ext": "png",
+      "kind": "portrait",
+      "sourceTask": "62f5d8dd78efb1c02ad57de405370357634944ca6c3e9cf5403f5eba4a60068b",
+      "prompt": "Art style: clean modern visual-novel illustration. Character portrait of Ember Kellan. A Kiln-Sworn forge-prodigy from the Vashan Dominion, Ember is Vash-strong and channels raw, ungoverned current with a reckless brilliance that terrifies her instructors. Broad-shouldered and sun-dark, with close-cropped copper hair and the first faint rust-scarring already tracing her right forearm — a mark she wears like a dare. She grew up in Cinderhold's forge-quarters, tending engine-fires before she could read, and came to the Cog-College half as a prodigy and half as a Dominion test of whether their heresy could be tamed by Ferran licensing. It cannot. Hot-tempered, loyal, and allergic to caution, she believes power is meant to be spent, not metered — and privately fears how little time the Rust will leave her. Beneath the swagger is someone who loves fiercely because she does not expect to love long. Palette: #c8531b, #e8912d, #3a2418, #8a8175. Neutral pose and expression, plain neutral background, head-and-shoulders framing.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "ember_kellan"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "b293145033e2e8e5a2b4b72ce012e28c4bb2a107e2b14ee5ca34934dd9efe649",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "9dc6e8592948f6499ec5ddab466d148603444de923577701126c2bcd67b2c079",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of The Grey Hands' Assay-Hold. The seat of Assayer power in Vorn: a fortress-chapter house of grey basalt and cold iron, its great door marked with the single iron key of the Grey Hands. Vaults hold rows of Nullifier Governors and the ledgers of the severed; the air is incense and machine-oil at once. This is where corruption reaches highest and where Isolde turns her faith into a weapon against its makers — walking in on a devotion she no longer owes. Mood: oppressive, forbidding, sacred. Time of day / condition: day. Palette: #4a525e, #c3cad3, #20252d, #7f5a2a. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "vorn_stronghold",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "b31220dbaa7ebcffcf526624d35cde494d6532822d652efbd9d8cd5b19cae867",
+      "ext": "png",
+      "kind": "portrait",
+      "sourceTask": "cfcad5679e2d2aaa25f6b90ee6e4750ace0962ed77b11418707e189c1653ddcd",
+      "prompt": "Art style: clean modern visual-novel illustration. Character portrait of Silas Thorn. A gaunt, severe man in his late fifties, Professor Silas Thorn teaches the theory and discipline of Governors at the Cog-College — the brass-and-crystal regulators that meter a channeler's flow. Ferran to the bone and a devoted man of the Regulen Concord, he believes utterly that only measured power is safe power, and he drills that creed into every student who passes through his laboratory. His long fingers are stained with crystal-etching acid and his forearm bears a licensed Governor he has never once removed in public. Thorn is exacting, cold, and quietly brilliant; he has forgotten more about the mechanics of the Weave than most channelers ever learn. Beneath the rigor is an old grief — a former student who burned out under his instruction — that he has sealed away behind procedure. He distrusts the Kiln-Sworn as heretics and the Ashen Circle as criminals, and he watches any student who leans toward raw Vash with the wariness of a man who has seen where it ends. Palette: #8a8f98, #b5a642, #2b2f36, #e8e6df. Art direction: gaunt severe older man, deep-set eyes, close-cropped grey hair, austere Ferran bearing Neutral pose and expression, plain neutral background, head-and-shoulders framing.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "professor_silas_thorn"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "b4d5b8657a92201e0f590be1f4cd1d7659383342b2e58b77f89d186645446765",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "c9a25ab5442a56c989e6173d10a1add035d00bd4ba0f37adfb1cf26f60b41b98",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of Great Assembly Hall. The college's ceremonial heart: a vast vaulted hall beneath a glass-and-brass dome that glows with contained aether-light, banners of the recognized Orders hanging down its length. A raised rostrum of dark stone faces tiered galleries that can hold the entire cohort. It is where the Headmistress convenes the intake, sets the great tests, and — when the world starts to break — delivers the addresses no one wants to hear. Sound carries here; so does dread. Mood: solemn, weighty. Time of day / condition: day. Palette: #b08d3a, #e9e4d6, #26221d, #3fb8a6. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "assembly_hall",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "bd5f297bba1a4ded2df21e177697d10a7dc42c4e26674e1604c1d1da92cc9052",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "dd2b2c1936335108e0dc53eb5d8cca9fcb8ebc0ed0170ee8ec18ac3ff01751fa",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of The Grey Principality of Vorn. A cold northern principality of grey stone and iron: cliff-perched devotional houses, bell-towers, and shrine-roads where the Assayers' writ runs absolute and channeling is leashed to piety. Fog rolls off slate seas; everything is scrubbed, ordered, and watched. It is Isolde's homeland and her cage — the place whose devotional networks and Assayer methods she knows well enough to keep them both alive, even as the truth they uncover implicates the very order she was raised to serve. Mood: austere, devout, cold. Time of day / condition: day. Palette: #6b7686, #d7dce2, #2f3540, #8fa8c4. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "vorn_environs",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "bf0a9c0ebd976c95bb9434be1fff5386874d6cd3181ac50333dfd51b299b1055",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "337f88fe0698ee20771d08db340a5c999884faa28afad482f141a5ea056b9db5",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of College Infirmary. A long white ward of iron cots and glass cabinets, its air kept still and clean by a metered filtration weave. Copper burn-salves, Loomwright healing-threads, and Nullifier cuffs for the dangerously overdrawn sit ready on wheeled trays. Rust-scarring is treated here quietly, and never without a report filed. It is where the cost of a victory shows up on the body, and where words too raw for the courtyard finally get said. Mood: hushed, sterile, tender. Time of day / condition: night. Palette: #cdd3d0, #e9e9e4, #3a4340, #7fb0a6. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "infirmary",
+          "variant": "night"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "c95cb3a5285618fc5c847d3308485d44471cdb694cc226e0100aab80575aa8c0",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "e0280d0e40f2d599f8074e5ef8590661709f60b6d966c4c3c226a563ae1f9489",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of Cinderhold — Vashan Forge-City. The Kiln-Sworn stronghold of the Vashan Dominion: a city built into the throat of a mountain forge, tiered foundries glowing molten-orange through a permanent haze of ember and soot. Great ungoverned aether-kilns roar without a Governor in sight, and the rust-scarred move openly, their corrosion worn as rank. Ash-grey and ember-orange banners hang over engine-yards that can arm a coalition. Here Ember's ties open doors no licensed talent could — and here the route's wedding, defiant and forge-lit, finally lands. Mood: molten, defiant, industrious. Time of day / condition: night. Palette: #c8531b, #e8912d, #241812, #8a8175. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "vashan_forge_city",
+          "variant": "night"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "d1409a824e83695dea61b9b5c4de4f536ad4f609d52aad76727240472eda86f8",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "6f5b76d5d3806d267fb61c6c7baff44a2852859d38f48ed0243cf135ecec7edb",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of Cog-College — Approach. The outer approach to the Cog-College: a long iron viaduct climbing to gatehouses of brass and soot-darkened stone, geared Regulen sigils worked into the ironwork. Clocktower spires and glass-domed conservatories rise beyond a portcullis of interlocking cogs, and airship mooring-masts prick the skyline where cloudlane traffic drifts in. Steam vents hiss from grates underfoot; the air smells of coal, hot brass, and the faint ozone tang of the Weave. This is where the metered, licensed intake first gathers — a threshold built to remind every new talent exactly whose rules they are entering. Mood: imposing, ceremonious. Time of day / condition: dusk. Palette: #b08d3a, #e9e4d6, #2b2723, #7fa6bf. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "cog_college_approach",
+          "variant": "dusk"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "d2d64c0eae341efb808944a5bebe1bc86b7a790709cbd9a357277158b160de4b",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "a84249944a5be5a9bf4f8683ce956b38b053774bfffdf07e416cf3c4c9c4e003",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of The Ashen Circle Haven. The underground's beating heart: a hidden warren beneath a dead furnace-works where the burned-out, the fugitive strong, and the Rust-touched shelter together, ungoverned and unbowed. Filed-smooth cogs hang everywhere as tokens; salvaged Governors are stripped for forbidden work; a communal fire keeps the discarded warm. No monarch commands the doors Wren opens here. It is where the coalition of the thrown-away is built — and where her wedding, among people who never sold her, is finally held. Mood: defiant, communal, hidden. Time of day / condition: night. Palette: #4a4038, #b3762f, #1a1614, #6d7a80. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "ashen_circle_haven",
+          "variant": "night"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "d4a29cf66b5cddcfcdd9995297ca813bc323075ee2c44c37540f9ec36a562ed8",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "8bee55b7bae33a6bf1d778a2c87649e7a32cc5b98e12cc5102266fe5b472ee56",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of The College Woods. Old-growth forest beyond the college wards, where the metered order of the campus gives way to something older and unpoliced. Mossed standing stones and a mist-pooled clearing make a natural training ground out of reach of instructors' eyes; the Weave feels closer to the surface here, wilder. By day the canopy scatters green light; by night the mist takes a faint silver aether-shimmer. It is the first place in the story that belongs to Caedon and a love interest alone — or, on the dark path, to Caedon alone. Mood: private, intimate, wild. Time of day / condition: day. Palette: #3f5a37, #8fae5a, #23301f, #c9d6b0. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "college_woods",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "da1a5703093717e0cda1c5d80f2fb078f06a0c05f627c2e8d763e5d676868781",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "5248ea774d90a4465b64bca0f3a8a7204646d8a6d2cbbf4fc708f6243253f8ed",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of The Ashen Circle Haven. The underground's beating heart: a hidden warren beneath a dead furnace-works where the burned-out, the fugitive strong, and the Rust-touched shelter together, ungoverned and unbowed. Filed-smooth cogs hang everywhere as tokens; salvaged Governors are stripped for forbidden work; a communal fire keeps the discarded warm. No monarch commands the doors Wren opens here. It is where the coalition of the thrown-away is built — and where her wedding, among people who never sold her, is finally held. Mood: defiant, communal, hidden. Time of day / condition: day. Palette: #4a4038, #b3762f, #1a1614, #6d7a80. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "ashen_circle_haven",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "e17581e5f72c6cc6eb00227bea874c36b7dcbaf10c36efee3fbf11cedb757076",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "fe3446f888924c4acac55f576d806e6ec174fae364134363b84a4bb295dbbb1a",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of The Foreign Court. A gilded court of a rival city-state: mirrored galleries, clockwork chandeliers, and antechambers where every pleasantry is a move on a board. Envoys in the liveries of half the Orders circle sealed doors that open only to the right phrase. For Seraphine the place is both shield and target — her name known in every alcove — and her fluency in court protocol and cipher is the only thing that lets her and Caedon work its underlayer while security services hunt them through the ballrooms. Mood: glittering, treacherous, watchful. Time of day / condition: day. Palette: #c9ccd6, #e6d9a8, #2e3550, #8a6f9e. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "foreign_court",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "e87e2eb810ee342e8c24697906bc9deb1927cc3705196a4ddec5cf36a82bb96a",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "045444a9be3ecd49df3ba1c795191fbcbb18307fb97448ce0b0d3d5b264a99d1",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of The Translocation Hall. A cathedral-sized engine-vault housing the college's translocation array: nested brass rings twenty feet across, wound with crystal conduits and tended by a ring of bound channelers at their Governors. When it fires it floods the hall with searing teal aether-flare and a bone-deep thrum. Built for careful, one-pair transit, it is pushed here to breaking — students hustled onto the plate in pairs and flung to random corners of the world as the crisis closes in. The last safe place, used in a moment that is anything but. Mood: urgent, frightening, chaotic. Time of day / condition: day. Palette: #1a2a44, #3fb8a6, #0d1420, #e2b24a. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "teleportation_hall",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "e9c96b852924a75adc6a8d332c6c6f8e8ee24cd622d1bd0bc075db44c91db950",
+      "ext": "png",
+      "kind": "portrait",
+      "sourceTask": "397e5d927f973384dabb2c28fc84ae1dbd389403bc21f25fcbf970b8ff4633a0",
+      "prompt": "Art style: clean modern visual-novel illustration. Character portrait of Tobias Renn. Tobias Renn is a broad-shouldered, good-natured Cog-College student in his late teens, the protagonist's steadiest friend. Ferran-born to a family of furnace-engineers, he is Sela-strong and Concord-trained, more comfortable with a Governor bolted to his forearm than without it. Practical, loyal, and slow to anger, he is the anchor of the friend group — the one who reads the manual, checks the pressure gauges, and hauls everyone out of trouble. He has close-cropped sandy hair, a square honest face often smudged with engine grease, and forearms scarred from workshop burns. He dreams of designing a new class of aether furnace rather than fighting anyone's war. Palette: #b5893f, #5a5f66, #2f333a, #d8c9a8. Neutral pose and expression, plain neutral background, head-and-shoulders framing.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "tobias_renn"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "ea226356139865ce0079023fedb7b253bd9e5339b08284bab81643f6e84a9d41",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "51d4d7adab8f587525c455ff6145bba30f32928f520f0794478114c5241f2950",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of The Conquered Empire. An imperial capital taken by force: a throne-hall of black stone and looted brass raised over the ashes of the city Caedon bloodily conquered, absorbed armies drilling in the yards below, fires still guttering on the skyline. Banners of the old ruler burn; new ones — Caedon's — go up in their place. This is the seat of the dark route's dynasty, where he crowns himself and his four consorts and coalition-building has become empire. Mood: triumphant, monstrous, cold. Time of day / condition: day. Palette: #3a1f1a, #7a2b1f, #d98a3a, #55524c. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "conquered_empire",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "f510045a49be3cb942ed0e82f3b03d859936048c5e8b1a544f4b3393b61c9f60",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "4b66deef68b8fa26b9f7c1462a4cb2334c175f0700e1fcf978b9edbcdc25e24c",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of Dormitory Commons. A cluttered common room in the student stacks: mismatched armchairs, a coal hearth under a copper hood, a long scarred table strewn with study-cogs, playing cards, and half-drunk tea. Brass wall-sconces throw warm uneven light; pipes tick as they cool overhead. Personal clutter — smuggled snacks, contraband penny-novels, drying laundry — makes it the one unpoliced corner of the college. This is where the friend group forms and where guards come down. Mood: warm, informal, lived-in. Time of day / condition: night. Palette: #8a6a3a, #d8c39a, #332b22, #b3532a. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "dormitory_commons",
+          "variant": "night"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "f855027ee6b31e0106f9dab9de88d2f06165fe671c1a76ca0234ed90807d21fd",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "618dd8c88f8c8af47422502499e2247b947db1397bd61adc865917c4f8007cc8",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of Great Assembly Hall. The college's ceremonial heart: a vast vaulted hall beneath a glass-and-brass dome that glows with contained aether-light, banners of the recognized Orders hanging down its length. A raised rostrum of dark stone faces tiered galleries that can hold the entire cohort. It is where the Headmistress convenes the intake, sets the great tests, and — when the world starts to break — delivers the addresses no one wants to hear. Sound carries here; so does dread. Mood: solemn, weighty. Time of day / condition: night. Palette: #b08d3a, #e9e4d6, #26221d, #3fb8a6. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "assembly_hall",
+          "variant": "night"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "f9a1602c479d78958e55cc748d25dd4f4d09b5558fb65b8f5d00fe2bbc5e464b",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "ca4d190274982f18342ae04146e0adb056024f1136af3339ad4678bca393c2e4",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of Cloudlane Bolt-Hole. A smuggler's cache tucked into a disused mooring-mast high in the cloudlanes: crates of contraband weaves, forged transit-tokens, a cot, and a filed-smooth cog nailed by the door — the mark of the Ashen Circle. Wind moans through the girders; below, the fugitive networks thread the sky. This is where Wren and Caedon go to ground and where they piece together the truth of the Assayers' harvest of the severed. Mood: cramped, secretive, resourceful. Time of day / condition: day. Palette: #3a3b3e, #a8813f, #17191b, #5f7a80. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "cloudlane_bolthole",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "fad89406f811f449082a710e18976aef45697d8c4a6d2f5499a557ab0525574f",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "d4f1f0210afe9e44c5d71f38b7023cbfec6e6b8319eb514207e312949ef6a6b6",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of Scattered Wilds. A nowhere-country of wind-scoured heath and broken drystone walls, the kind of blank between-nations margin the College's panic-teleport flings its students into: no forge, no court, no warren, no cog-token that means anything here. Grey scudding cloud, a horizon of low hills and the rusted skeleton of some abandoned relay-mast. Cold, exposed, and anonymous — a place to be hunted across or to huddle out of the wind while a scrying-plate or a stolen broadcast-horn brings terrible news from somewhere else. It wears the palette of ash and iron and dead bracken. Time of day / condition: night. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "scattered_wilds",
+          "variant": "night"
         }
       ],
       "accepted": false

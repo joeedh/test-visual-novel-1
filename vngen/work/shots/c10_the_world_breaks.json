@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "scene": "c10_the_world_breaks",
+  "shots": [
+    {
+      "id": "c10_the_world_breaks__establishing",
+      "sceneId": "c10_the_world_breaks",
+      "framing": "establishing",
+      "location": "day",
+      "subjects": [],
+      "coversLines": [],
+      "shotData": {
+        "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Great Assembly Hall (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "image": "af50535730b176ebdb654799074137687b66ae597b047c42bc2204b4a9eace75",
+        "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+        "status": "accepted"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "scene": "c04_first_class",
+  "shots": [
+    {
+      "id": "c04_first_class__establishing",
+      "sceneId": "c04_first_class",
+      "framing": "establishing",
+      "location": "day",
+      "subjects": [],
+      "coversLines": [],
+      "shotData": {
+        "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Channeling Lecture Hall (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "image": "540f7b62e849777611579510c6afd548622874508f242bb02455a109bcf2b1f0",
+        "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+        "status": "accepted"
+      }
+    }
+  ]
+}

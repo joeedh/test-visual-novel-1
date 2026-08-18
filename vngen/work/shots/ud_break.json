@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "scene": "ud_break",
+  "shots": [
+    {
+      "id": "ud_break__establishing",
+      "sceneId": "ud_break",
+      "framing": "establishing",
+      "location": "day",
+      "subjects": [],
+      "coversLines": [],
+      "shotData": {
+        "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Execution Square (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "image": "b85b64dd48f04252bc76ad1894921b68153e497e7d8b578977ae5d35462fa654",
+        "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+        "status": "accepted"
+      }
+    }
+  ]
+}

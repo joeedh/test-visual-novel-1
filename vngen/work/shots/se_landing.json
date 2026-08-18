@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "scene": "se_landing",
+  "shots": [
+    {
+      "id": "se_landing__establishing",
+      "sceneId": "se_landing",
+      "framing": "establishing",
+      "location": "day",
+      "subjects": [],
+      "coversLines": [],
+      "shotData": {
+        "prompt": "Art style: clean modern visual-novel illustration. establishing shot in The Foreign Court (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "image": "409c0a012e8ccf0646d59b3b7c5cfeaefc24795c0ce603775b0148fb484af081",
+        "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+        "status": "needs_human"
+      }
+    }
+  ]
+}

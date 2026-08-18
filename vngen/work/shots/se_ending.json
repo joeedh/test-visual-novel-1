@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "scene": "se_ending",
+  "shots": [
+    {
+      "id": "se_ending__establishing",
+      "sceneId": "se_ending",
+      "framing": "establishing",
+      "location": "day",
+      "subjects": [],
+      "coversLines": [],
+      "shotData": {
+        "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Halcyon Reach (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "image": "9e47961e8ba53e2ce2080d2ae559001e372d9584327674e065ce18f0293a5f1e",
+        "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+        "status": "accepted"
+      }
+    }
+  ]
+}

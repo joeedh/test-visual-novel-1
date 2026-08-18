@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "scene": "is_alliances",
+  "shots": [
+    {
+      "id": "is_alliances__establishing",
+      "sceneId": "is_alliances",
+      "framing": "establishing",
+      "location": "day",
+      "subjects": [],
+      "coversLines": [],
+      "shotData": {
+        "prompt": "Art style: clean modern visual-novel illustration. establishing shot in The Grey Hands' Assay-Hold (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "image": "acaf8041c5ef3abc67028fc5998f8d1685f1438b7a20ab0648d364ded0137d63",
+        "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+        "status": "accepted"
+      }
+    }
+  ]
+}

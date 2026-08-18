@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "scene": "se_final_boss",
+  "shots": [
+    {
+      "id": "se_final_boss__establishing",
+      "sceneId": "se_final_boss",
+      "framing": "establishing",
+      "location": "day",
+      "subjects": [],
+      "coversLines": [],
+      "shotData": {
+        "prompt": "Art style: clean modern visual-novel illustration. establishing shot in The Organization — Inner Sanctum (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "image": "9e0dd27a0a4616795096bbd5a3dc94a54e3ac10e8422f744d34244f60e822435",
+        "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+        "status": "accepted"
+      }
+    }
+  ]
+}

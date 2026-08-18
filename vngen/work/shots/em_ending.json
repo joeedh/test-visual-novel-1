@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "scene": "em_ending",
+  "shots": [
+    {
+      "id": "em_ending__establishing",
+      "sceneId": "em_ending",
+      "framing": "establishing",
+      "location": "day",
+      "subjects": [],
+      "coversLines": [],
+      "shotData": {
+        "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Cinderhold — Vashan Forge-City (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "image": "4592a7845e6af988feedf14fd0d342d2009b5b625c093cf7105332b463f4a295",
+        "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+        "status": "accepted"
+      }
+    }
+  ]
+}

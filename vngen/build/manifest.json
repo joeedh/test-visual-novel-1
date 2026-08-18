@@ -2,6 +2,798 @@
   "version": 1,
   "assets": [
     {
+      "hash": "00c0e47e0d3e2950ae09a29d42cd135ce6ddfbe41bbc6ba8d55c15a6503e86d9",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "a2366db0f25d0c4ffb4659e6c4c647130238f9b977946de61481c0a6d65b4a83",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Dormitory Commons (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "56b37f57c9e5b4d5eb4e8eb10fe43152e77b3227209f7e90089b04baed181302"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c03_the_friend_group",
+          "shotId": "c03_the_friend_group__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "10fc803d43fad5407d5d69e5399be3c48b46cec9d1ffa694df72e01f46b340fa",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "a2eae1d524a6d2cd4da8d038d1f2470128cef08be7083c0604f06aa6ee2ea45b",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Great Assembly Hall (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "b4d5b8657a92201e0f590be1f4cd1d7659383342b2e58b77f89d186645446765"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c10_the_world_breaks",
+          "shotId": "c10_the_world_breaks__establishing"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "18dbdfc14406c972678f4372b09570c91cc03bfaeabba0829ad85a4e7fdf46c8",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "cd934d73825936e2e5312cf838bbe5cc183f5460bfb56c5f46e37619da484d79",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in College Infirmary (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "0472f47cb312b250a63bb90cd1f3bddc13e68b07e0b2c86b4fde4c5db518dfaf"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c08_aftermath",
+          "shotId": "c08_aftermath__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "1989816bbe5edce247a49aa6c541b77bd7e41318118dd170742a445bdc209a57",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "03d0b2d0cb3399343fd9a8611b8c3387f1c31129224b65d65017804eeddc4029",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in The Grey Principality of Vorn (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "bd5f297bba1a4ded2df21e177697d10a7dc42c4e26674e1604c1d1da92cc9052"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "is_landing",
+          "shotId": "is_landing__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "297b740e27201f1f6ceaba1a485ee3858a523f747509627e70ab9bbf1f6b6e16",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "56aaa377afd7a254204faf0f8776055612a7db9b8bea7b2593349a08a8bc919d",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in The Organization — Inner Sanctum (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "0c12f20626a1be8315913e7d4b89cc226b4dca8ca790225e21888a519e9e83bc"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "is_final_boss",
+          "shotId": "is_final_boss__establishing"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "2c4906ad52825d2dcc59c0f6aa83646325bef26b90663bc9928de31c39d75131",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "56aaa377afd7a254204faf0f8776055612a7db9b8bea7b2593349a08a8bc919d",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in The Organization — Inner Sanctum (day). No characters in frame. Render as a single illustrated frame, no UI text. Corrections: Remove all humanoid figures from the image to align with the 'no characters' requirement.; Adjust the lighting and color palette to evoke a 'day' setting, if conceptually possible for this type of environment, or clarify the time of day in the specification if 'day' was a mislabel for a perpetually dark/lit environment..",
+      "refs": [
+        "0c12f20626a1be8315913e7d4b89cc226b4dca8ca790225e21888a519e9e83bc"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "is_final_boss",
+          "shotId": "is_final_boss__establishing"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "409c0a012e8ccf0646d59b3b7c5cfeaefc24795c0ce603775b0148fb484af081",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "7cd25b6f5fa7a24c05e9a8f02fae2df2372a1598710ec9085e9948cd87970db9",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in The Foreign Court (day). No characters in frame. Render as a single illustrated frame, no UI text. Corrections: Regenerate the image ensuring no characters are present, as specified for a background plate..",
+      "refs": [
+        "e17581e5f72c6cc6eb00227bea874c36b7dcbaf10c36efee3fbf11cedb757076"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "se_landing",
+          "shotId": "se_landing__establishing"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "420c3a86fae36a5d3fbd9fd9bbba01b5749bbd94cd443977d25e4600452db3d5",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "b627733aabac25427ecbdd3d14c40d955b002b7c9f61eee987f24fcba26a2709",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Hostile Border Territory (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "32a33c67dbce6ba1639b168b7df358f2bb5cfc36ccbc625cc54403f4f5d5ead6"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_landing",
+          "shotId": "wr_landing__establishing"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "4592a7845e6af988feedf14fd0d342d2009b5b625c093cf7105332b463f4a295",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "927234fa5138ec57e8cafd120d7e9b06e510969b6426a76a70992b9b7ffc6f21",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Cinderhold — Vashan Forge-City (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "72b3930e4d1d87b1ce84892f42c4f16fa961ecd906d13af4cec26e3992d5d856"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "em_ending",
+          "shotId": "em_ending__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "4a38698cb2867aca64ddc391a3907ee0b4f35311d5b4e497aefad0ffcf93c08b",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "ac8c6040145786adfd693f2fbc42a5a31375177b588c11ce245bd1818b570229",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Scattered Wilds (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "1012519e0aeb5ac583343ea8a68f88809632d5bb53f1059083128e63bf3273e4"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c11b_on_the_run",
+          "shotId": "c11b_on_the_run__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "540f7b62e849777611579510c6afd548622874508f242bb02455a109bcf2b1f0",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "e81dad02af0d5d085342ee63e8bcaa01bf510cfaf499091a88528161e184df52",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Channeling Lecture Hall (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "7f882a19d6e90a54ba9f907281960dd3a56a57fded5e2fcdc075199f637f8c2d"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c04_first_class",
+          "shotId": "c04_first_class__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "5aff03789a9e3a8cdf10fe595d46072b6e21419e956e777ac4c8db8b247f8ebb",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "82069fe6f736cd82ee62b163168d8454b32b000a8b6a6bcade816f36f44fe5be",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Cinderhold — Vashan Forge-City (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "72b3930e4d1d87b1ce84892f42c4f16fa961ecd906d13af4cec26e3992d5d856"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "em_alliances",
+          "shotId": "em_alliances__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "5f308cf82fe91078a780b2299a8a995feefbb0ea8b3bbfbb7407efdc6acfe965",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "2844054be6ddf85e7df226ab1f4ec299d91cc8a192821576a2eac3160ac824da",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in The Ruins (Exterior) (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "3d8ba619c3185af4ce3b559dfc7ab5291d3498160aae3c6ac845797bd1c861f7"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c06_the_ruins",
+          "shotId": "c06_the_ruins__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "5f74a3cfeb7c7f7622cab280678b3499fe15df72cee1087e2856b569c5ef7405",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "56aaa377afd7a254204faf0f8776055612a7db9b8bea7b2593349a08a8bc919d",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in The Organization — Inner Sanctum (day). No characters in frame. Render as a single illustrated frame, no UI text. Corrections: Remove all humanoid figures from the scene to align with the 'no characters' specification..",
+      "refs": [
+        "0c12f20626a1be8315913e7d4b89cc226b4dca8ca790225e21888a519e9e83bc"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "is_final_boss",
+          "shotId": "is_final_boss__establishing"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "6b4e5dc8ea6676716ca2115cca6d6d3bf1e043ae952716c8b7a7be221535d305",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "bddd1394029646367ba32fe61c8d881a318f3d62f1e3852095360ebc0cc659c4",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Cloudlane Bolt-Hole (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "f9a1602c479d78958e55cc748d25dd4f4d09b5558fb65b8f5d00fe2bbc5e464b"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_truth",
+          "shotId": "wr_truth__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "73ec659f28f4019fbb80ee24b854d9f6297ae38fb15fa2241aab4ffdf7813015",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "5d076d14a5c13e8902a56cdeac7b3fd80655f1ba238caf16efa3ae46089f2b36",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Cog-College — Great Courtyard (day). No characters in frame. Render as a single illustrated frame, no UI text. Corrections: Remove all human figures from the image to align with the 'background plate' instruction and empty `characters` array.; Remove all human figures to produce a clean background plate matching the empty characters field..",
+      "refs": [
+        "6428bba579e729de53e6fefd7d20f735fc03c8ca9a592025552f8bfb8fde6eaf"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c02_first_meetings",
+          "shotId": "c02_first_meetings__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "7544c0a1bcc32aa21b0141c056cc95bd6dee936f86599c58ed2612caf952f50e",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "ec8b0f8aae1b8dd41bc7c2e3a9c0054c62e58a03c9d3e263258b20160fce0a66",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in The Organization — Inner Sanctum (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "0c12f20626a1be8315913e7d4b89cc226b4dca8ca790225e21888a519e9e83bc"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "em_final_boss",
+          "shotId": "em_final_boss__establishing"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "7ea1d72db99b5d3e6fec20246bbb47f0c75722c9e25696773a262d644a0f0d9f",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "260bbaece1a4352176083a2ca9ee31f637e2ea09e20eb46182944d0b757cd84e",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in The Grey Principality of Vorn (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "bd5f297bba1a4ded2df21e177697d10a7dc42c4e26674e1604c1d1da92cc9052"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "is_ending",
+          "shotId": "is_ending__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "8d1694b70f694b5ff44f54fe81334acdcb15cd99ad4b7f0b2669a47a2294efff",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "5d076d14a5c13e8902a56cdeac7b3fd80655f1ba238caf16efa3ae46089f2b36",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Cog-College — Great Courtyard (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "6428bba579e729de53e6fefd7d20f735fc03c8ca9a592025552f8bfb8fde6eaf"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c02_first_meetings",
+          "shotId": "c02_first_meetings__establishing"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "92acfe4abc6939b6379836f203377bbde36cbaf8ccce713c5eed942f4a317dbd",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "46c21e09eca25331dd547186980e19947064104b5ebf10b4576bdfd0a68b8d4b",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Halcyon Reach (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "57644a453ea5a435978ae82c020299f5553dfd839cf446b36d60cc641374ab4d"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "se_alliances",
+          "shotId": "se_alliances__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "958218479695f5467f6ffc0df33f89e6f858d42b7c7be1d308d7aa0bb1c7b34d",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "5e8f00ce24a373796317236a138fef3a7418f6ee38fe836784efdd0420bc4626",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in The Organization — Outer Works (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "7a10630271d915f7034467b10e1876740cef4b236dd93e1ec006268e590c4558"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "em_infiltration",
+          "shotId": "em_infiltration__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "958d8d93ff6def3d890f4eea4c2b7eca9198e3151c4659ff420913456a7f8792",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "703e676fb4754e22c0f2a4d49f94bab8979e6a1741e4486236dc80d5091277ec",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Scattered Wilds (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "1012519e0aeb5ac583343ea8a68f88809632d5bb53f1059083128e63bf3273e4"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c11_execution",
+          "shotId": "c11_execution__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "999022063fed6cc19df73ea317029155af8e8c974dc3efe3a8052d48949eb6a6",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "e716d817cfc0a63adbe1e8c44ae9b313e3ca2d791a8b048c02b93db3d19e4268",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Cog-College — Approach (dusk). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "d1409a824e83695dea61b9b5c4de4f536ad4f609d52aad76727240472eda86f8"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "opening",
+          "shotId": "opening__s1"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "9c95204ee5e4af207154051aef37ab79df66d2a7482924bfc48c8b975c7af977",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "56aaa377afd7a254204faf0f8776055612a7db9b8bea7b2593349a08a8bc919d",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in The Organization — Inner Sanctum (day). No characters in frame. Render as a single illustrated frame, no UI text. Corrections: Remove all human figures from the image to comply with the 'no characters' requirement..",
+      "refs": [
+        "0c12f20626a1be8315913e7d4b89cc226b4dca8ca790225e21888a519e9e83bc"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "is_final_boss",
+          "shotId": "is_final_boss__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "9e0dd27a0a4616795096bbd5a3dc94a54e3ac10e8422f744d34244f60e822435",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "c0ac35904716fd4f446e5847a7f6ff317a99acebcc8ace7d0a65f7756df1d9ef",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in The Organization — Inner Sanctum (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "0c12f20626a1be8315913e7d4b89cc226b4dca8ca790225e21888a519e9e83bc"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "se_final_boss",
+          "shotId": "se_final_boss__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "9e47961e8ba53e2ce2080d2ae559001e372d9584327674e065ce18f0293a5f1e",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "fde6630fed9b2f4b4caf442891c2dd6219beca842fcc2711a04290f7d1d6f97f",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Halcyon Reach (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "57644a453ea5a435978ae82c020299f5553dfd839cf446b36d60cc641374ab4d"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "se_ending",
+          "shotId": "se_ending__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "a1a46750cf632bb2d6fcaeea8bde2ac1bd2651045ee55477f955732267e71292",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "c0058739d6d012ea136bb077d89899941c71b0281b6c876a29ff36e1b8c7e09c",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in The College Woods (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "d4a29cf66b5cddcfcdd9995297ca813bc323075ee2c44c37540f9ec36a562ed8"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c09_woods_training",
+          "shotId": "c09_woods_training__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "acaf8041c5ef3abc67028fc5998f8d1685f1438b7a20ab0648d364ded0137d63",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "eab943f04d6bfae18c3b9702d15e0ab50a5ec0d6a4b1445bfb3f49544ca334e8",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in The Grey Hands' Assay-Hold (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "b293145033e2e8e5a2b4b72ce012e28c4bb2a107e2b14ee5ca34934dd9efe649"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "is_alliances",
+          "shotId": "is_alliances__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "af50535730b176ebdb654799074137687b66ae597b047c42bc2204b4a9eace75",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "a2eae1d524a6d2cd4da8d038d1f2470128cef08be7083c0604f06aa6ee2ea45b",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Great Assembly Hall (day). No characters in frame. Render as a single illustrated frame, no UI text. Corrections: Remove the watermark completely or regenerate the image to ensure no watermarks are present..",
+      "refs": [
+        "b4d5b8657a92201e0f590be1f4cd1d7659383342b2e58b77f89d186645446765"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c10_the_world_breaks",
+          "shotId": "c10_the_world_breaks__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "b14415d87a9aedf1e1375940d335f578a052c0c1e0ae30df1d8445d5a0af8fed",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "5d076d14a5c13e8902a56cdeac7b3fd80655f1ba238caf16efa3ae46089f2b36",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Cog-College — Great Courtyard (day). No characters in frame. Render as a single illustrated frame, no UI text. Corrections: Remove all characters from the generated image to create a background plate as specified.; Regenerate without any characters to produce a clean background plate..",
+      "refs": [
+        "6428bba579e729de53e6fefd7d20f735fc03c8ca9a592025552f8bfb8fde6eaf"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c02_first_meetings",
+          "shotId": "c02_first_meetings__establishing"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "b620421b8aeab5c1d7ed99bb409de68913ddc7ca3d79b3a13b808f03e881188d",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "0de05ddb6173bc583144c5bfac0f343e802b3055b23251bb12e0c1cd9ea1026c",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Great Assembly Hall (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "b4d5b8657a92201e0f590be1f4cd1d7659383342b2e58b77f89d186645446765"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c05_ruins_briefing",
+          "shotId": "c05_ruins_briefing__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "b7b3cdc54a533db723d8ba07fca4bc2d372769c7a8c70a6f5b1cd4129891afe1",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "ec8b0f8aae1b8dd41bc7c2e3a9c0054c62e58a03c9d3e263258b20160fce0a66",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in The Organization — Inner Sanctum (day). No characters in frame. Render as a single illustrated frame, no UI text. Corrections: Remove all human-like figures or characters from the image to ensure it is a background plate as specified..",
+      "refs": [
+        "0c12f20626a1be8315913e7d4b89cc226b4dca8ca790225e21888a519e9e83bc"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "em_final_boss",
+          "shotId": "em_final_boss__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "b85b64dd48f04252bc76ad1894921b68153e497e7d8b578977ae5d35462fa654",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "17e5364fbd769815fc7ff73bd2e419efb191a0fd9f383b497537a3dd654e1301",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Execution Square (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "224e128d302936f6930aeec7a892e9137d75f7e8fe9fec3f858e9bac4bbc9c08"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "ud_break",
+          "shotId": "ud_break__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "bbe49ac380c41e11bb3c107a3e11dfa82131822aed0ecb6eeea5975c493d1f37",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "7cd25b6f5fa7a24c05e9a8f02fae2df2372a1598710ec9085e9948cd87970db9",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in The Foreign Court (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "e17581e5f72c6cc6eb00227bea874c36b7dcbaf10c36efee3fbf11cedb757076"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "se_landing",
+          "shotId": "se_landing__establishing"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "c0f501946bad273140ee0d4da7f0edb786d4e94932690b202295cd328c63860e",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "adf6c144c04cef8cfed2485d96cb7e5b257b520be8c77430773c04f99a405fe2",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in The Organization — Outer Works (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "7a10630271d915f7034467b10e1876740cef4b236dd93e1ec006268e590c4558"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "se_infiltration",
+          "shotId": "se_infiltration__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "c6fd7b6ef79eca74c0363833883f749b0949fa5893f3424bfdd1e602d480c6e4",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "5d076d14a5c13e8902a56cdeac7b3fd80655f1ba238caf16efa3ae46089f2b36",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Cog-College — Great Courtyard (day). No characters in frame. Render as a single illustrated frame, no UI text. Corrections: Remove all characters from the image to align with the 'background plate' instruction.; none.",
+      "refs": [
+        "6428bba579e729de53e6fefd7d20f735fc03c8ca9a592025552f8bfb8fde6eaf"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c02_first_meetings",
+          "shotId": "c02_first_meetings__establishing"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "c91fdc8b6de7a8d406b462193708190609dfc1224292fdd48541efacda1c668c",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "a5165dc3ab35762d77f31d378731173e76d331ab7c625f3530f83c904748f387",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in The Translocation Hall (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "e87e2eb810ee342e8c24697906bc9deb1927cc3705196a4ddec5cf36a82bb96a"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c11a_teleport",
+          "shotId": "c11a_teleport__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "ce65a993811736621293b436348f45293793fa3ce52efebba2af9a63d3814d1f",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "7adc8ada3ad974ed7edab1d70aa2c9a360fc067788b9dbd8b4e3c25ba8282755",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in The Ruins (Interior) (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "31fa66cdcfc7012c9f9e471b26c0d21a527738d2dacf472c275fcd07026e2de2"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c07_the_ambush",
+          "shotId": "c07_the_ambush__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "d7fc97eb270da9639395c8a5b06cac81c537ce18d6c756648cbce5954c70e904",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "59fa7e63a1714eace8db91e4558fec9827e52172bd1ad6f60bfe5006711a612c",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in The Organization — Outer Works (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "7a10630271d915f7034467b10e1876740cef4b236dd93e1ec006268e590c4558"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "is_infiltration",
+          "shotId": "is_infiltration__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "e44a43d81c1014e178b237c46ecc3099b9b332459f54b1eab4fe6aa58a4e1a55",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "a9f50d792f17f249078e248e174d868905247d1839482a051e8c97c9587d3d51",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Vashan Borderland (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "3bed1162f146fa3b33f894e6bc3e181757a4e852e7b23399a9711f7b3386a486"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "em_landing",
+          "shotId": "em_landing__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "e981b27f747dde4136dee543ab653690651524d584e6a709b82ad3040e691fd3",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "7cd25b6f5fa7a24c05e9a8f02fae2df2372a1598710ec9085e9948cd87970db9",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in The Foreign Court (day). No characters in frame. Render as a single illustrated frame, no UI text. Corrections: Regenerate the image ensuring no characters are depicted, as this is intended to be a background plate.; Regenerate without any human figures to produce a clean empty establishing shot of the hall..",
+      "refs": [
+        "e17581e5f72c6cc6eb00227bea874c36b7dcbaf10c36efee3fbf11cedb757076"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "se_landing",
+          "shotId": "se_landing__establishing"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "ea75310215b3e97fc00034d553b2e79a296935aeeb0aacd9a67c2bbb60b0ce73",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "03844cb3befaecf8bb90c6dd4b661323ba6e6df26d7f2f85a114b7050198262b",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Cog-College — Approach (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "176a5b6476c67871f6ef186157f0ca99ca84c7173cd4557761fdb50294d2761e"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c01_arrival",
+          "shotId": "c01_arrival__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "ec6e7c1eda630a24894c7643a092a8fdb7880f81bea2bf4225c9d7ca60615be4",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "7cd25b6f5fa7a24c05e9a8f02fae2df2372a1598710ec9085e9948cd87970db9",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in The Foreign Court (day). No characters in frame. Render as a single illustrated frame, no UI text. Corrections: None needed.",
+      "refs": [
+        "e17581e5f72c6cc6eb00227bea874c36b7dcbaf10c36efee3fbf11cedb757076"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "se_landing",
+          "shotId": "se_landing__establishing"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "eed0a9cbd9102ab181672b975b9affa3b4938d6c0734c5ddc6521dc62fc3893d",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "b627733aabac25427ecbdd3d14c40d955b002b7c9f61eee987f24fcba26a2709",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Hostile Border Territory (day). No characters in frame. Render as a single illustrated frame, no UI text. Corrections: Regenerate the image ensuring no characters are present, adhering strictly to the `characters: []` specification for a background plate..",
+      "refs": [
+        "32a33c67dbce6ba1639b168b7df358f2bb5cfc36ccbc625cc54403f4f5d5ead6"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_landing",
+          "shotId": "wr_landing__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "f4928e71cebd76f258343d1660d5a6c82456de163c515f8d8c7b57c8c31764b5",
       "ext": "png",
       "kind": "shot_image",
