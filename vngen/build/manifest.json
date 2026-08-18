@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "hash": "f4928e71cebd76f258343d1660d5a6c82456de163c515f8d8c7b57c8c31764b5",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "dcc7a5f1a841a55cf7be42d95ee86de7df52e0ea84683705b2d0b86931511cd6",
+      "prompt": "Art style: clean modern visual-novel illustration. establishing shot in A ROOM (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "3d4daec7ae88effc46d878bc2b03faa132ec91c626b32f64b0b49b21e76e9b07"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "opening",
+          "shotId": "opening__s1"
+        }
+      ],
+      "accepted": true
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "hash": "3d4daec7ae88effc46d878bc2b03faa132ec91c626b32f64b0b49b21e76e9b07",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "d2d54bb8d16d817e2d9d8fb2b945955a0a7a16a745c9c3cf7b537d0e25352d66",
+      "prompt": "Art style: clean modern visual-novel illustration. Establishing shot of A ROOM. Time of day / condition: day. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "a_room",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    }
+  ]
+}
