@@ -58,7 +58,67 @@ This divide shapes every guild, law, and prejudice in the world.
 - **The Ashen Circle** — an underground of the burned-out and the fugitive strong,
   who channel without Governors and pay the price.
 
+## The Named Orders of Channelers
+
+Every channeler who works within the law belongs — by oath, brand, or livery — to
+one of the recognized Orders. Each grew from a different answer to the same
+question: how do you wield a divided, dangerous power without being destroyed by
+it? The Orders both cooperate and feud, and their rivalries are the fault lines of
+Aetherwork politics.
+
+### The Regulen Concord ("the Brass Wardens")
+The establishment Order, and the largest. Regulen channelers are Sela-strong and
+governed to the last valve — no Warden channels without a licensed Governor locked
+to their forearm. They run the Cog-Colleges, tend the great aether furnaces, and
+hold that only *measured* power is safe power. Livery: brass-and-white, geared
+sigil. Politically they are the guild-state's right hand, and they equate
+Rust-risk with moral weakness. Their weakness is dependency: sever a Warden from
+their Governor and they are nearly helpless.
+
+### The Kiln-Sworn ("Rustwrights")
+An Order of the Vash-strong who refuse to fear the Rust — they *ride* it. Kiln-Sworn
+channel raw, ungoverned Vash for the strongest, wildest weaves in the world, and
+accept the corrosion as the price of true power. They are the master forge-mages,
+airship engine-tamers, and battle-channelers no army wants to face. Most die mad
+or oxidized before forty. Livery: ash-grey and ember-orange, and the visible rust
+scarring they wear as rank. The Concord calls them heretics; the Kiln-Sworn call
+the Concord gelded.
+
+### The Loomwrights ("the Weavers' Guild")
+Neither the strongest nor the boldest, but the most *skilled*. Loomwrights prize
+Spirit and the art of braiding many Threads into subtle, precise weaves — healing,
+far-speaking, the fine work of clockwork enchantment. They sell their craft to all
+sides and swear to no city, which makes them trusted couriers and distrusted
+spies. Livery: indigo and silver thread. They keep the oldest records of the Weave
+and quietly hunt for the truth of the Vash cracking.
+
+### The Assayers' Order ("the Grey Hands")
+Once a branch of the Concord, now a sworn Order in their own right. The Assayers
+license, inspect, and — when they must — sever. They carry Nullifier Governors
+that can clamp shut another channeler's flow, and the authority to burn out anyone
+channeling unlicensed or Rust-touched. Feared by every other Order, including the
+Concord that birthed them. Livery: unmarked grey, a single iron key.
+
+### The Ashen Circle (unrecognized)
+Not a lawful Order but a shadow-brotherhood of the burned-out, the fugitive strong,
+and the Rust-touched who will not be taken. They channel without Governors, shelter
+the hunted, and trade in forbidden weaves. To the Concord they are criminals; to
+the desperate they are the only door left open. They have no livery — only a token,
+a cog with its teeth filed smooth.
+
+## Factions & Fault Lines
+- **Concord vs. Kiln-Sworn** — the central schism: governed safety against
+  ungoverned power. Cold war, occasional open violence over furnace territory.
+- **Assayers over all** — feared by every Order; their expanding writ is the
+  slow-burning grievance that could unite the others against them.
+- **The Loomwrights' neutrality** — coveted and resented; both great Orders court
+  them, and both suspect them of playing every side.
+- **The Ashen Circle underground** — a rising tide as Governors grow scarcer and
+  licenses dearer; a spark away from becoming a movement.
+
 ## Open threads for stories
 - Who cracked the Vash current, and can it be mended?
 - A Governor that amplifies rather than meters — and who would kill for it.
 - The first channeler in a generation strong in all five Threads.
+- A Loomwright who learns what the Assayers really do with the severed.
+- A Kiln-Sworn and a Brass Warden forced to weave Sela and Vash together.
