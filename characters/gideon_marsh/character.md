@@ -1,22 +1,22 @@
 ---
 id: gideon_marsh
-name: "Gideon Marsh"
+name: Gideon Marsh
 status: draft
 default_outfit: everyday
 outfits:
   everyday: what they wear in most scenes — silhouette, colour, one detail that is theirs
   formal: the same person dressed for an occasion the story cares about
-# A palette is the two to five colours the art keeps returning to for this character,
-# written as quoted hex strings — "#a02828" — because a colour *name* will not parse.
-# Ask the agent ("give Gideon Marsh a palette") and it will read the description below and
-# fill these in. An empty palette is fine: it lets the image model choose.
-palette: []
+palette:
+  - "#2e5266"
+  - "#6e8898"
+  - "#c9a227"
+  - "#e8e6df"
 traits:
-  - one adjective per line
-  - how they carry themselves
-  - what they want
+  - steady
+  - loyal
+  - practical
+  - even-tempered
+  - protective
 ---
 
-Describe them here: age, build, hair and eye colour, and anything the art has to get
-right every time. This paragraph is the description the image model is given, so write
-what can be seen — backstory belongs in a wiki note.
+Gideon Marsh is a broad-shouldered, steady-handed Cog-College student from the Saltbound Crownland, the son of a harbor-city shipwright. Where others chase power, Gideon chases competence: he is the group's anchor, slow to anger and impossible to rattle. Sela-strong in the Stone Thread, he favors structural weaves — bracing, binding, mending — and dreams of building airship keels rather than fighting. He wears his Governor without complaint and thinks the Concord's rules are mostly sensible, which puts him at odds with the hotter heads around him. Loyal to a fault, he is the friend who carries the wounded and pays the tab. Broad face, sun-weathered from a childhood on the docks, close-cropped brown hair, and forearms scarred from foundry work.

@@ -1,22 +1,27 @@
 ---
 id: pip_calloway
-name: "Pip Calloway"
+name: Pip Calloway
 status: draft
-default_outfit: everyday
+default_outfit: scholar_scruffs
 outfits:
-  everyday: what they wear in most scenes — silhouette, colour, one detail that is theirs
-  formal: the same person dressed for an occasion the story cares about
-# A palette is the two to five colours the art keeps returning to for this character,
-# written as quoted hex strings — "#a02828" — because a colour *name* will not parse.
-# Ask the agent ("give Pip Calloway a palette") and it will read the description below and
-# fill these in. An empty palette is fine: it lets the image model choose.
-palette: []
+  scholar_scruffs: Patched Cog-College undergraduate coat two sizes too big,
+    sleeves rolled, pockets bulging with tools and stolen odds; scuffed boots, a
+    leather tool-roll slung across the chest, amber-and-white Amberline kerchief
+    at the throat.
+  workshop_rig: Grease-stained work apron over shirtsleeves, brass loupe-goggles
+    pushed up on the forehead, fingerless gloves, a bandolier of fine gearsmith
+    tools.
+palette:
+  - "#e0a53c"
+  - "#f5efe0"
+  - "#6b5638"
+  - "#3a3a3a"
 traits:
-  - one adjective per line
-  - how they carry themselves
-  - what they want
+  - quick-witted
+  - resourceful
+  - irreverent
+  - loyal
+  - light-fingered
 ---
 
-Describe them here: age, build, hair and eye colour, and anything the art has to get
-right every time. This paragraph is the description the image model is given, so write
-what can be seen — backstory belongs in a wiki note.
+The youngest and smallest of the friend-circle, Pip Calloway is a wiry Amberline street-orphan turned Cog-College scholarship prodigy. Where others channel, Pip tinkers — a gearsmith and Governor-hacker whose nimble fingers can coax a regulator into doing things its makers never licensed. He talks fast, filches faster, and has an informant in every workshop and kitchen from the boiler-decks to the deans' tower. Barely a channeler at all — a flicker of Sela, no more — he compensates with cleverness and cheek, and a loyalty to his friends fiercer than his slight frame suggests. Amberline taught him that knowing everyone's secrets is the only reliable currency, and he collects them like a magpie collects brass.

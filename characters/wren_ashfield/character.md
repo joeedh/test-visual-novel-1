@@ -1,6 +1,24 @@
 ---
 id: wren_ashfield
 name: Wren Ashfield
+status: draft
+default_outfit: warrens
+outfits:
+  warrens: Patched smuggler's leathers in soot-grey, a hooded canvas coat with too
+    many hidden pockets, fingerless gloves worn over rust-scarred hands, and a
+    filed-smooth cog-token on a leather cord.
+traits:
+  - street-smart
+  - guarded
+  - fiercely loyal
+  - reckless
+  - resourceful
+palette:
+  - "#3a3f44"
+  - "#6b7280"
+  - "#b45309"
+  - "#d97706"
+  - "#1f2937"
 ---
 
-A quiet, sharp-eyed student channeler at the Cog-College, secretly tied to the Ashen Circle. Wren is Spirit-strong and a gifted Loomwright-in-training who hides her sympathies for the burned-out and unlicensed. She wears indigo-and-silver student livery worn at the cuffs, keeps her dark hair cropped short, and carries a filed-smooth cog token she must never let the Assayers find. Wary, loyal, and slow to trust, she thaws only for those who prove they will not turn her in.
+Wren Ashfield is a wiry, quick-eyed young woman of the Ashen Circle underground — a burned-out talent who channels anyway, without a Governor, and pays for it. Raised in the soot-warrens beneath Cograuncy, she is a fugitive by birth: her mother was severed by the Assayers, and Wren has spent her life one filed-smooth cog-token ahead of the Grey Hands. She smuggles the hunted through the cloudlanes and trades in forbidden weaves. Sharp, wary, and fiercely loyal to the discarded, she hides a raw Vash strength she can no longer safely hold. Her hands bear the first faint bloom of Rust-scarring, which she keeps gloved. Beneath the guardedness is a starved hunger to be trusted by someone who won't sell her.

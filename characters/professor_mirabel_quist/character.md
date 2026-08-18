@@ -1,22 +1,25 @@
 ---
 id: professor_mirabel_quist
-name: "Professor Mirabel Quist"
+name: Professor Mirabel Quist
 status: draft
-default_outfit: everyday
+default_outfit: workshop
 outfits:
-  everyday: what they wear in most scenes — silhouette, colour, one detail that is theirs
-  formal: the same person dressed for an occasion the story cares about
-# A palette is the two to five colours the art keeps returning to for this character,
-# written as quoted hex strings — "#a02828" — because a colour *name* will not parse.
-# Ask the agent ("give Professor Mirabel Quist a palette") and it will read the description below and
-# fill these in. An empty palette is fine: it lets the image model choose.
-palette: []
+  workshop: A practical leather apron over a slate-grey work dress, sleeves rolled
+    and buckled back, a bandolier of fine tools across the chest, brass
+    Governor-gauntlet on one forearm, jeweler's loupe pushed up on the forehead.
+  faculty: A tidy Concord faculty coat of brass-and-slate with an artificer's
+    guild pin, worn stiffly and clearly disliked in favor of the apron.
+palette:
+  - "#b08d57"
+  - "#d8d8d8"
+  - "#3a4a5a"
+  - "#7a6a55"
 traits:
-  - one adjective per line
-  - how they carry themselves
-  - what they want
+  - meticulous
+  - curious
+  - blunt
+  - warm
+  - inventive
 ---
 
-Describe them here: age, build, hair and eye colour, and anything the art has to get
-right every time. This paragraph is the description the image model is given, so write
-what can be seen — backstory belongs in a wiki note.
+Professor Mirabel Quist is the Cog-College's mistress of Governors — the artificer-scholar who teaches the theory and craft of the brass-and-crystal regulators that meter a channeler's flow. A wiry woman in her fifties with cropped iron-grey hair, ink-stained fingers, and a jeweler's loupe forever pushed up on her forehead, she moves through her workshop amid a clutter of half-built gauntlets, crystal blanks, and pressure gauges. Sela-strong and Concord-trained, she believes fervently that measured power is the only safe power, yet she is no dogmatist: she quietly studies the failures of Governors, including the ones the Concord would rather bury. Warm, blunt, and endlessly curious, she treats students as apprentices and machines as puzzles. She is the professor most likely to notice when a student's talent outruns their Governor — and the one who understands exactly how dangerous that is.
