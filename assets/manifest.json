@@ -18,6 +18,52 @@
       "accepted": false
     },
     {
+      "hash": "07240a7b0a82fcbc8f5b567c7e235f3a49ad7baa2b263cf8e26df4a413e657f1",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "ae40a65f113aea0195877f5206514df000c57f260001bfc46f2adbefaf8d1d4e",
+      "prompt": "Art style: Japanese anime. Establishing shot of The Grey Hands' Assay-Hold. The seat of Assayer power in Vorn: a fortress-chapter house of grey basalt and cold iron, its great door marked with the single iron key of the Grey Hands. Vaults hold rows of Nullifier Governors and the ledgers of the severed; the air is incense and machine-oil at once. This is where corruption reaches highest and where Isolde turns her faith into a weapon against its makers — walking in on a devotion she no longer owes. Mood: oppressive, forbidding, sacred. Time of day / condition: night. Palette: #4a525e, #c3cad3, #20252d, #7f5a2a. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "vorn_stronghold",
+          "variant": "night"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "07276f859c6a4f7988df13091a21533334e8c7fe7055483a53237f9b5fe4946e",
+      "ext": "png",
+      "kind": "portrait",
+      "sourceTask": "5643c2e51e72ff8611c329fcf9b185c07e44267c11c7a2b1a3fd7f2d2fc0aa80",
+      "prompt": "Art style: Japanese anime. Character portrait of Wren Ashfield. Wren Ashfield is a wiry, quick-eyed young woman of the Ashen Circle underground — a burned-out talent who channels anyway, without a Governor, and pays for it. Raised in the soot-warrens beneath Cograuncy, she is a fugitive by birth: her mother was severed by the Assayers, and Wren has spent her life one filed-smooth cog-token ahead of the Grey Hands. She smuggles the hunted through the cloudlanes and trades in forbidden weaves. Sharp, wary, and fiercely loyal to the discarded, she hides a raw Vash strength she can no longer safely hold. Her hands bear the first faint bloom of Rust-scarring, which she keeps gloved. Beneath the guardedness is a starved hunger to be trusted by someone who won't sell her. Palette: #3a3f44, #6b7280, #b45309, #d97706, #1f2937. Neutral pose and expression, plain neutral background, head-and-shoulders framing.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "wren_ashfield"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "094ee8c9815dd963a963618ab4191990d7db868186cc7bf7a7541d8e9253f229",
+      "ext": "png",
+      "kind": "portrait",
+      "sourceTask": "4be179bba33fcddd12e99fe8fdc920139182267e1a78dfad61b6ae2f3bcfd7e3",
+      "prompt": "Art style: Japanese anime. Character portrait of Isolde Vorn. A daughter of the Grey Principality of Vorn, sent south to the Cog-Colleges as much to watch as to learn. Isolde is pale and composed, with an aristocrat's stillness and a devout's certainty. Raised where the Assayers hold sway and channeling is tightly leashed, she was taught to distrust the Weave even as it woke strong in her — Sela-strong, precise and cold as her homeland. She wears her piety like armor and her doubt like a hidden knife: the more she sees of ungoverned power, the harder her convictions are tested. Grey silk, iron clasps, a single key-shaped pendant. Beneath the frost is a young woman aching to be more than her province's leash. Palette: #6b7078, #c9ccd1, #2b2f36, #9a8f7a, #e8e6e2. Neutral pose and expression, plain neutral background, head-and-shoulders framing.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "isolde_vorn"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "0c12f20626a1be8315913e7d4b89cc226b4dca8ca790225e21888a519e9e83bc",
       "ext": "png",
       "kind": "location_ref",
@@ -28,6 +74,22 @@
       "satisfies": [
         {
           "locationId": "enemy_organization_core",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "0cf481e17a98d26c1d6e61f53c357c12c4fc784e28d5eaaea3e6cb2bc519c62e",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "eb435819a1d7c5d309997f39778e912d8b800c08c3e6cd23315bcf42a774bd97",
+      "prompt": "Art style: Japanese anime. Establishing shot of The Conquered Empire. An imperial capital taken by force: a throne-hall of black stone and looted brass raised over the ashes of the city Caedon bloodily conquered, absorbed armies drilling in the yards below, fires still guttering on the skyline. Banners of the old ruler burn; new ones — Caedon's — go up in their place. This is the seat of the dark route's dynasty, where he crowns himself and his four consorts and coalition-building has become empire. Mood: triumphant, monstrous, cold. Time of day / condition: day. Palette: #3a1f1a, #7a2b1f, #d98a3a, #55524c. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "conquered_empire",
           "variant": "day"
         }
       ],
@@ -50,6 +112,22 @@
       "accepted": false
     },
     {
+      "hash": "10f43e519578ba9abb183a3330e035d1ccab6d5ee5751828464fbf42b9545841",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "4aff702e4fdf428193aaf2e07e40800cf6ea2b27fb2e2deb46e9ed939641acc1",
+      "prompt": "Art style: Japanese anime. Establishing shot of Channeling Lecture Hall. A steep-raked theatre of dark wood benches descending to a demonstration floor, where a great brass orrery of the Five Threads turns slowly above a warded dais. Diagrams of Governors and current-flow hang between tall windows; a wall of confiscated, filed-smooth cogs serves as a quiet warning about ungoverned channeling. Here the doctrine is taught as much as the craft — measured power is safe power — and the contrast between Sela precision and Vash current is put on the floor for all to see. Mood: formal, doctrinal. Time of day / condition: day. Palette: #9a8a5a, #e3ddce, #2f3540, #7fa6bf. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "lecture_hall",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "176a5b6476c67871f6ef186157f0ca99ca84c7173cd4557761fdb50294d2761e",
       "ext": "png",
       "kind": "location_ref",
@@ -61,6 +139,37 @@
         {
           "locationId": "cog_college_approach",
           "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "19c27b9584192629c15d5c9d5103cbd9edec278b5739de9372d7b2b600032d82",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "6437ee4d836140a645b251ce380a1a821e6bb695f072403fd9afaf9d3faa559a",
+      "prompt": "Art style: Japanese anime. Establishing shot of The Translocation Hall. A cathedral-sized engine-vault housing the college's translocation array: nested brass rings twenty feet across, wound with crystal conduits and tended by a ring of bound channelers at their Governors. When it fires it floods the hall with searing teal aether-flare and a bone-deep thrum. Built for careful, one-pair transit, it is pushed here to breaking — students hustled onto the plate in pairs and flung to random corners of the world as the crisis closes in. The last safe place, used in a moment that is anything but. Mood: urgent, frightening, chaotic. Time of day / condition: night. Palette: #1a2a44, #3fb8a6, #0d1420, #e2b24a. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "teleportation_hall",
+          "variant": "night"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "1a2bdf64fde2faa8a165bb4fd788e53186ca537ccbbae38b5ce85cb6177729e3",
+      "ext": "png",
+      "kind": "portrait",
+      "sourceTask": "c06e362b18cc7d556514a3a0ef2d6a5500916ccd87aed8d8ba984db81a8d40d5",
+      "prompt": "Art style: Japanese anime. Character portrait of Tobias Renn. Tobias Renn is a broad-shouldered, good-natured Cog-College student in his late teens, the protagonist's steadiest friend. Ferran-born to a family of furnace-engineers, he is Sela-strong and Concord-trained, more comfortable with a Governor bolted to his forearm than without it. Practical, loyal, and slow to anger, he is the anchor of the friend group — the one who reads the manual, checks the pressure gauges, and hauls everyone out of trouble. He has close-cropped sandy hair, a square honest face often smudged with engine grease, and forearms scarred from workshop burns. He dreams of designing a new class of aether furnace rather than fighting anyone's war. Palette: #b5893f, #5a5f66, #2f333a, #d8c9a8. Neutral pose and expression, plain neutral background, head-and-shoulders framing.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "tobias_renn"
         }
       ],
       "accepted": false
@@ -98,6 +207,22 @@
       "accepted": false
     },
     {
+      "hash": "212fe5053f035e644dec4bffc46902f7aafc06b7ffa0021cd71dd715a6cf2793",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "2283c10253a722ce30887b08312f1f110e530adad569b8af9a55a058bc146c84",
+      "prompt": "Art style: Japanese anime. Establishing shot of Cinderhold — Vashan Forge-City. The Kiln-Sworn stronghold of the Vashan Dominion: a city built into the throat of a mountain forge, tiered foundries glowing molten-orange through a permanent haze of ember and soot. Great ungoverned aether-kilns roar without a Governor in sight, and the rust-scarred move openly, their corrosion worn as rank. Ash-grey and ember-orange banners hang over engine-yards that can arm a coalition. Here Ember's ties open doors no licensed talent could — and here the route's wedding, defiant and forge-lit, finally lands. Mood: molten, defiant, industrious. Time of day / condition: day. Palette: #c8531b, #e8912d, #241812, #8a8175. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "vashan_forge_city",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "224e128d302936f6930aeec7a892e9137d75f7e8fe9fec3f858e9bac4bbc9c08",
       "ext": "png",
       "kind": "location_ref",
@@ -114,6 +239,22 @@
       "accepted": false
     },
     {
+      "hash": "226f6e9553feb488976e7ee0f0998afb7b0cbf4eac212b423dccf2973745a1a6",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "7b0732530cf8f60ceace593d7a5549b05099825b8aa08f148b5b0dc1425e210c",
+      "prompt": "Art style: Japanese anime. Establishing shot of The Ashen Circle Haven. The underground's beating heart: a hidden warren beneath a dead furnace-works where the burned-out, the fugitive strong, and the Rust-touched shelter together, ungoverned and unbowed. Filed-smooth cogs hang everywhere as tokens; salvaged Governors are stripped for forbidden work; a communal fire keeps the discarded warm. No monarch commands the doors Wren opens here. It is where the coalition of the thrown-away is built — and where her wedding, among people who never sold her, is finally held. Mood: defiant, communal, hidden. Time of day / condition: day. Palette: #4a4038, #b3762f, #1a1614, #6d7a80. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "ashen_circle_haven",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "2539415100a19baab81804594905c50310943871222c230cdca9ca04dea7ddb0",
       "ext": "png",
       "kind": "portrait",
@@ -124,6 +265,37 @@
       "satisfies": [
         {
           "characterId": "caedon_vale"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "27498ab9c36cd39376e8ebb0fa6a8cb61dff55623616578bed1303cb8ba95b70",
+      "ext": "png",
+      "kind": "portrait",
+      "sourceTask": "b94fe1bd509c57e62eb27fd2d981960e0d6f487cf92c87ada0eebd532550ff55",
+      "prompt": "Art style: Japanese anime. Character portrait of Pip Calloway. The youngest and smallest of the friend-circle, Pip Calloway is a wiry Amberline street-orphan turned Cog-College scholarship prodigy. Where others channel, Pip tinkers — a gearsmith and Governor-hacker whose nimble fingers can coax a regulator into doing things its makers never licensed. He talks fast, filches faster, and has an informant in every workshop and kitchen from the boiler-decks to the deans' tower. Barely a channeler at all — a flicker of Sela, no more — he compensates with cleverness and cheek, and a loyalty to his friends fiercer than his slight frame suggests. Amberline taught him that knowing everyone's secrets is the only reliable currency, and he collects them like a magpie collects brass. Palette: #e0a53c, #f5efe0, #6b5638, #3a3a3a. Neutral pose and expression, plain neutral background, head-and-shoulders framing.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "pip_calloway"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "2e9be6bdaafa1b1818b28e4f1c87585f5426d1f32ed3b3362f2ae768435d47a8",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "1e7be389c4719aa6530db4a4052f9aa2081776f12561476a46872a93faf323ee",
+      "prompt": "Art style: Japanese anime. Establishing shot of Halcyon Reach. The Halcyon family seat, a Loomwright-inclined house of pale terraces and glass conservatories perched above the cloudlanes, indigo-and-silver thread in every hanging. Far-speaking looms and treaty-chambers make it a place where wars are settled with words. Groomed to broker peace here, Seraphine returns having chosen to act rather than mediate — braiding scandal into a single coalition, and, at the last, choosing her own thread. The route's wedding is held on its cloud-terraces. Mood: serene, poised, quietly powerful. Time of day / condition: day. Palette: #d9dbe2, #9aa6bd, #34305e, #b6c4cf. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "halcyon_reach",
+          "variant": "day"
         }
       ],
       "accepted": false
@@ -155,6 +327,22 @@
       "satisfies": [
         {
           "locationId": "hostile_border",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "346b3c4abb18fb28369f53d6fdbad65b8cb38c9de99a32ee487ed040449c926c",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "f62208555f3d3d28cbc439316da74dc51a32831d704d4ef4447d90f457fee351",
+      "prompt": "Art style: Japanese anime. Establishing shot of The Grey Principality of Vorn. A cold northern principality of grey stone and iron: cliff-perched devotional houses, bell-towers, and shrine-roads where the Assayers' writ runs absolute and channeling is leashed to piety. Fog rolls off slate seas; everything is scrubbed, ordered, and watched. It is Isolde's homeland and her cage — the place whose devotional networks and Assayer methods she knows well enough to keep them both alive, even as the truth they uncover implicates the very order she was raised to serve. Mood: austere, devout, cold. Time of day / condition: day. Palette: #6b7686, #d7dce2, #2f3540, #8fa8c4. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "vorn_environs",
           "variant": "day"
         }
       ],
@@ -209,6 +397,22 @@
       "accepted": false
     },
     {
+      "hash": "3d7783e4b720047614a4b74a3ec71896e02ceba4d73d79e7a014506bb325a68e",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "e3a28e0457596404da97584c7056c8eae124801213d1f5e9c0aa20953eaeaf3a",
+      "prompt": "Art style: Japanese anime. Establishing shot of Cog-College — Great Courtyard. The beating hub of the college: a broad flagstone quad ringed by lecture wings, dormitory stacks, and the towering aether-furnace hall whose vent-stacks breathe a soft teal shimmer over everything. A central fountain runs on a slow Governor-metered weave, water lifting and folding in impossible geometric arcs. Students in brass-and-white Regulen livery cross between classes; noticeboards clatter with reassignment cogs. It feels ordered, watched, and faintly performative — a place designed to be seen behaving well. Mood: bustling, institutional. Time of day / condition: dusk. Palette: #caa64a, #e9e4d6, #4a453d, #3fb8a6. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "cog_college_courtyard",
+          "variant": "dusk"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "3d8ba619c3185af4ce3b559dfc7ab5291d3498160aae3c6ac845797bd1c861f7",
       "ext": "png",
       "kind": "location_ref",
@@ -241,6 +445,37 @@
       "accepted": false
     },
     {
+      "hash": "43c226e96b96be027bd11f711a16061e78bf1f663659fd1a0da6f80c04da4e7f",
+      "ext": "png",
+      "kind": "portrait",
+      "sourceTask": "7cd83451f7f52374df0588922b6bccd2bb5e2e6fc994ac34dd177f17a5b9da53",
+      "prompt": "Art style: Japanese anime. Character portrait of Auria Coyle. Headmistress of the Cog-College, a woman in her late fifties who wears authority like a well-oiled mechanism. Auria rose through the Regulen Concord as a Sela-strong administrator rather than a battle-channeler, and she runs the College the way the Ferran Ascendancy likes its institutions run: metered, licensed, and accountable. Silver hair coiled tight beneath a brass circlet, a high slate-and-white coat of office, and a Governor gauntlet she rarely needs but always wears as a symbol. She is shrewd, fair, and quietly political — she must keep Concord inspectors, Dominion recruiters, and half a dozen monarchies' heirs all under one roof without the place burning down. Beneath the protocol is genuine care for her students and an old, private doubt about what the Assayers do with those the College severs. Palette: #5a6472, #f2f0ea, #b08d55, #2b2f36. Neutral pose and expression, plain neutral background, head-and-shoulders framing.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "headmistress_auria_coyle"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "45d314b45e5fe29f3da3b0cc7fe4e073633d1e146c35d5bd1ff23414465631ab",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "21f3fa7a2da44caa5a42812b7e1bb068a95974614dfc7cb7351f8b3bbba7cfbd",
+      "prompt": "Art style: Japanese anime. Establishing shot of The Organization — Outer Works. The fortified outer works of the organization behind the world's collapse: black-iron curtain walls, gun-galleries, and vast aether-furnace stacks bleeding a sickly green glow into a permanent industrial dusk. Nullifier pylons ring the approach to clamp shut any weave. This is where the converging allies and surviving stranded pairs fight their way in — the set-piece battlefront shared by every route's endgame. Mood: ominous, fortified, cold. Time of day / condition: night. Palette: #10231f, #1e5e50, #0a0d0c, #7a1f1f. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "enemy_organization_approach",
+          "variant": "night"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "4808a67ce1f0e7578b8935d3b41dec8d29ca799a8002ca470dc8aef4dfe49b66",
       "ext": "png",
       "kind": "portrait",
@@ -251,6 +486,21 @@
       "satisfies": [
         {
           "characterId": "headmistress_auria_coyle"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "490599dbb80bb328ef37778ab184a855ec6529a2622f6a2956c480616ebf43dc",
+      "ext": "png",
+      "kind": "portrait",
+      "sourceTask": "04ccb61173b4dbe45d02832b6d8ad0551afb5a6dc83c6f515b8e57bc36c8a992",
+      "prompt": "Art style: Japanese anime. Character portrait of Ember Kellan. A Kiln-Sworn forge-prodigy from the Vashan Dominion, Ember is Vash-strong and channels raw, ungoverned current with a reckless brilliance that terrifies her instructors. Broad-shouldered and sun-dark, with close-cropped copper hair and the first faint rust-scarring already tracing her right forearm — a mark she wears like a dare. She grew up in Cinderhold's forge-quarters, tending engine-fires before she could read, and came to the Cog-College half as a prodigy and half as a Dominion test of whether their heresy could be tamed by Ferran licensing. It cannot. Hot-tempered, loyal, and allergic to caution, she believes power is meant to be spent, not metered — and privately fears how little time the Rust will leave her. Beneath the swagger is someone who loves fiercely because she does not expect to love long. Palette: #c8531b, #e8912d, #3a2418, #8a8175. Neutral pose and expression, plain neutral background, head-and-shoulders framing.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "ember_kellan"
         }
       ],
       "accepted": false
@@ -334,6 +584,38 @@
       "accepted": false
     },
     {
+      "hash": "5b2fce78de73e7c83a2f03fb3b4600a7d499204b31ec423a7f1984cf75d8a79a",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "e98891a80b68849eac74b6117365b262049782617f1c4013cf3cab7ebb4402f9",
+      "prompt": "Art style: Japanese anime. Establishing shot of The Practice Yards. Open sand-and-slate training grounds behind the furnace hall, ringed by blast-baffles of riveted iron and rack after rack of Governor gauntlets. Chalked warding circles scar the ground; the air wavers with heat and the geometric cold-shimmer of competing currents. Here the cautious drill their metered weaves within the lines while the reckless — the ones who bare rust rather than hide it — burn scorch-marks past the baffles. It is the one place at the college where raw power is on open, dangerous display. Mood: charged, competitive. Time of day / condition: day. Palette: #a89066, #e8912d, #3a3730, #3fb8a6. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "practice_yards",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "5d7ebc127462079714a4c0b2aaeb20daf33e2d09fe0e7b113375a1f57d721974",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "0385530c6c765ef77b1f76c0b2e5b4bb56697f742abb4881389e35d937d39e73",
+      "prompt": "Art style: Japanese anime. Establishing shot of The Organization — Inner Sanctum. The inner sanctum at the organization's heart: a cavernous engine-cathedral built around a colossal Governor-core where the severed are harvested and the world's ruin is engineered. Catwalks thread a blinding aether-glare; the machinery is the enemy as much as anyone in it. This is the final-boss arena for all five routes — where a coalition wins it on the romance paths, and where a warlord's strategic-class weave ends it on the dark one. Mood: climactic, monstrous, awful. Time of day / condition: day. Palette: #0d1a17, #2e9e86, #050807, #c0342a. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "enemy_organization_core",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "5f33b355cff7d51138290ab73de3343630585f79480d484fe4608a9d5c7a33f6",
       "ext": "png",
       "kind": "location_ref",
@@ -345,6 +627,21 @@
         {
           "locationId": "vorn_stronghold",
           "variant": "night"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "603756e4c7607298f3c7f21f6aca8c2afa0f37e46bf1f2571dda40dec8f94ca4",
+      "ext": "png",
+      "kind": "portrait",
+      "sourceTask": "908bf9b802900762cbdae8660ba4d623fb88761d5f79b7a32fa95cc280a65676",
+      "prompt": "Art style: Japanese anime. Character portrait of Seraphine Halcyon. A poised, quick-witted daughter of Halcyon Reach's ruling house, sent to the Cog-College as much for diplomacy as for schooling. Sela-strong and drawn to the Loomwrights' subtle art, she braids Spirit and Air with a delicacy that unnerves her instructors. Silver-blonde hair worn in a coiled braid, cloud-grey eyes, and the unhurried grace of someone raised to be watched. Warm beneath a practiced court reserve, she is torn between the peace-broker role her mother groomed her for and a hunger to choose her own thread. Palette: #3a4a6b, #c9cdd6, #e8e2d0, #8a93a8. Neutral pose and expression, plain neutral background, head-and-shoulders framing.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "seraphine_halcyon"
         }
       ],
       "accepted": false
@@ -381,6 +678,22 @@
       "accepted": false
     },
     {
+      "hash": "68ef396781e32deb3b6eb51a5b64543c75589dc15d7130bfbab88cc9068d2bef",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "9cbb71024852443941b10eb37040afb7b91f8a15d927236aeceea6e87d629da3",
+      "prompt": "Art style: Japanese anime. Establishing shot of Hostile Border Territory. A militarized frontier where the unlicensed and Rust-touched are shot on sight: checkpoint towers, razor-cog wire, propaganda hoardings, and Assayer patrols working the rail-yards with Nullifier cuffs. Wren's gloves and scars mark her instantly here. It is where the roles invert — where Caedon's schooling is worthless and only Wren's underground, her bolt-holes and forged tokens and called-in debts, keeps them both breathing. Mood: lethal, tense, unforgiving. Time of day / condition: day. Palette: #4a4e52, #8b6f47, #1c1f22, #7a1f1f. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "hostile_border",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "6a3c39162da0e73f937db44842abd5054326e145e01baf05b42eccc48453175f",
       "ext": "png",
       "kind": "location_ref",
@@ -397,6 +710,38 @@
       "accepted": false
     },
     {
+      "hash": "6c93999c215fae84695075e0aa93fbf3ca4853cf1bf45ce2cee4d72d2257ad38",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "990fa6014ec0c7f0a465f07392637ba8ff4378342c76815e83f37a9ae0915df2",
+      "prompt": "Art style: Japanese anime. Establishing shot of The Foreign Court. A gilded court of a rival city-state: mirrored galleries, clockwork chandeliers, and antechambers where every pleasantry is a move on a board. Envoys in the liveries of half the Orders circle sealed doors that open only to the right phrase. For Seraphine the place is both shield and target — her name known in every alcove — and her fluency in court protocol and cipher is the only thing that lets her and Caedon work its underlayer while security services hunt them through the ballrooms. Mood: glittering, treacherous, watchful. Time of day / condition: day. Palette: #c9ccd6, #e6d9a8, #2e3550, #8a6f9e. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "foreign_court",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "6d02424c9ec1eb75d7f01858f9ade0ce7306f33c28748449eeeb8435116c71ca",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "61b6e566943fbb5522fb3875523e128377a22ac66db1078f63e97befd2a2468e",
+      "prompt": "Art style: Japanese anime. Establishing shot of Scattered Wilds. A nowhere-country of wind-scoured heath and broken drystone walls, the kind of blank between-nations margin the College's panic-teleport flings its students into: no forge, no court, no warren, no cog-token that means anything here. Grey scudding cloud, a horizon of low hills and the rusted skeleton of some abandoned relay-mast. Cold, exposed, and anonymous — a place to be hunted across or to huddle out of the wind while a scrying-plate or a stolen broadcast-horn brings terrible news from somewhere else. It wears the palette of ash and iron and dead bracken. Time of day / condition: night. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "scattered_wilds",
+          "variant": "night"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "72b3930e4d1d87b1ce84892f42c4f16fa961ecd906d13af4cec26e3992d5d856",
       "ext": "png",
       "kind": "location_ref",
@@ -407,6 +752,22 @@
       "satisfies": [
         {
           "locationId": "vashan_forge_city",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "72f00682bfcd531c3efc0fd6c3a8bc87bf5db3446beb292b425ef4e4b5ea0992",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "b52503dd98dad8950d725911828f5e4e85ee48be938ad4e45c486f6007db5def",
+      "prompt": "Art style: Japanese anime. Establishing shot of Scattered Wilds. A nowhere-country of wind-scoured heath and broken drystone walls, the kind of blank between-nations margin the College's panic-teleport flings its students into: no forge, no court, no warren, no cog-token that means anything here. Grey scudding cloud, a horizon of low hills and the rusted skeleton of some abandoned relay-mast. Cold, exposed, and anonymous — a place to be hunted across or to huddle out of the wind while a scrying-plate or a stolen broadcast-horn brings terrible news from somewhere else. It wears the palette of ash and iron and dead bracken. Time of day / condition: day. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "scattered_wilds",
           "variant": "day"
         }
       ],
@@ -492,6 +853,22 @@
       "accepted": false
     },
     {
+      "hash": "7dfc38f4dc0da60ad0672c5460c23a1aa14fab671a0fd7c7a973a7f77cab3122",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "f7b76ab88ec8ede058695b0b0cc60bcdcfff431cdc446cb4dafa6ac697e9be30",
+      "prompt": "Art style: Japanese anime. Establishing shot of The Ashen Circle Haven. The underground's beating heart: a hidden warren beneath a dead furnace-works where the burned-out, the fugitive strong, and the Rust-touched shelter together, ungoverned and unbowed. Filed-smooth cogs hang everywhere as tokens; salvaged Governors are stripped for forbidden work; a communal fire keeps the discarded warm. No monarch commands the doors Wren opens here. It is where the coalition of the thrown-away is built — and where her wedding, among people who never sold her, is finally held. Mood: defiant, communal, hidden. Time of day / condition: night. Palette: #4a4038, #b3762f, #1a1614, #6d7a80. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "ashen_circle_haven",
+          "variant": "night"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "7f882a19d6e90a54ba9f907281960dd3a56a57fded5e2fcdc075199f637f8c2d",
       "ext": "png",
       "kind": "location_ref",
@@ -503,6 +880,70 @@
         {
           "locationId": "lecture_hall",
           "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "80b08bb406d2c68d3ef6a176e1d9e6a8e4acee2ad6165668781f2dbb846cc89c",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "a1f8fccceb74c36bd5a3015da4ce422852e9204910549f36505a9a24531dda93",
+      "prompt": "Art style: Japanese anime. Establishing shot of Execution Square. A public plaza built for the display of state power: a broad flagged square hemmed by government facades, a raised iron scaffold at its heart, broadcast-horns and scrying-plates mounted high so the whole quarter can be made to watch. Assayer grey and governmental brass. Crowd-barriers, banners of a hostile regime, and the cold theatrical lighting of a place designed so that punishment is never private. In daylight it is grimly ordinary; lit for an execution it becomes the stage on which the story's cruelty is made undeniable. Time of day / condition: night. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "execution_square",
+          "variant": "night"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "81af9781e029ebeb508ec47a63bf4b4fc7dd75aaae0797e5cafccb53647bdd5f",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "f298fe6a75ee46467aa0085a6ef7b49b7a2701ae25a2efca507d9c5ffe163be2",
+      "prompt": "Art style: Japanese anime. Establishing shot of Dormitory Commons. A cluttered common room in the student stacks: mismatched armchairs, a coal hearth under a copper hood, a long scarred table strewn with study-cogs, playing cards, and half-drunk tea. Brass wall-sconces throw warm uneven light; pipes tick as they cool overhead. Personal clutter — smuggled snacks, contraband penny-novels, drying laundry — makes it the one unpoliced corner of the college. This is where the friend group forms and where guards come down. Mood: warm, informal, lived-in. Time of day / condition: night. Palette: #8a6a3a, #d8c39a, #332b22, #b3532a. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "dormitory_commons",
+          "variant": "night"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "81c4c26b287c4469bd141b0dc6ef7e669653eac4c4f5dac9c1155fecd27089ab",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "1a95a7891c683fad76451e5e2b85b46ce4ac41cf2a8e24cbdb6ec4a78d2ec1ad",
+      "prompt": "Art style: Japanese anime. Establishing shot of The Translocation Hall. A cathedral-sized engine-vault housing the college's translocation array: nested brass rings twenty feet across, wound with crystal conduits and tended by a ring of bound channelers at their Governors. When it fires it floods the hall with searing teal aether-flare and a bone-deep thrum. Built for careful, one-pair transit, it is pushed here to breaking — students hustled onto the plate in pairs and flung to random corners of the world as the crisis closes in. The last safe place, used in a moment that is anything but. Mood: urgent, frightening, chaotic. Time of day / condition: day. Palette: #1a2a44, #3fb8a6, #0d1420, #e2b24a. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "teleportation_hall",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "8717460492414308d261a9ba99c1e417c7b1dab58bf927bc45f8abb43c4f4a6e",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "9558cfeac23e2ea44e3c577df5bbd55b8446a614410869e76820757631cba77a",
+      "prompt": "Art style: Japanese anime. Establishing shot of Cloudlane Bolt-Hole. A smuggler's cache tucked into a disused mooring-mast high in the cloudlanes: crates of contraband weaves, forged transit-tokens, a cot, and a filed-smooth cog nailed by the door — the mark of the Ashen Circle. Wind moans through the girders; below, the fugitive networks thread the sky. This is where Wren and Caedon go to ground and where they piece together the truth of the Assayers' harvest of the severed. Mood: cramped, secretive, resourceful. Time of day / condition: night. Palette: #3a3b3e, #a8813f, #17191b, #5f7a80. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "cloudlane_bolthole",
+          "variant": "night"
         }
       ],
       "accepted": false
@@ -523,6 +964,22 @@
       "accepted": false
     },
     {
+      "hash": "8b92bd4e5bd21a279a22de58f82ee9c8e1cd0cf172555f76936be3df43e1dce3",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "7fb59139cbb24591c954fd8a5a262d50a02d82954246fd08cc72598865d28f31",
+      "prompt": "Art style: Japanese anime. Establishing shot of Cloudlane Bolt-Hole. A smuggler's cache tucked into a disused mooring-mast high in the cloudlanes: crates of contraband weaves, forged transit-tokens, a cot, and a filed-smooth cog nailed by the door — the mark of the Ashen Circle. Wind moans through the girders; below, the fugitive networks thread the sky. This is where Wren and Caedon go to ground and where they piece together the truth of the Assayers' harvest of the severed. Mood: cramped, secretive, resourceful. Time of day / condition: day. Palette: #3a3b3e, #a8813f, #17191b, #5f7a80. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "cloudlane_bolthole",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "911643aed4303a4c97cd4f6345431014e7995ba502050641514ad9d98c66eb83",
       "ext": "png",
       "kind": "portrait",
@@ -538,6 +995,70 @@
       "accepted": false
     },
     {
+      "hash": "9ac33dfe714cd127310a05b1d3e7dd785ed8291caaaeb0dc2d81dfc3b8c56485",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "f6ebd6b60b959ff0cfb32baa5bbdc7596a0ec7aef0e67d18a712a94c3fcbeec2",
+      "prompt": "Art style: Japanese anime. Establishing shot of College Infirmary. A long white ward of iron cots and glass cabinets, its air kept still and clean by a metered filtration weave. Copper burn-salves, Loomwright healing-threads, and Nullifier cuffs for the dangerously overdrawn sit ready on wheeled trays. Rust-scarring is treated here quietly, and never without a report filed. It is where the cost of a victory shows up on the body, and where words too raw for the courtyard finally get said. Mood: hushed, sterile, tender. Time of day / condition: night. Palette: #cdd3d0, #e9e9e4, #3a4340, #7fb0a6. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "infirmary",
+          "variant": "night"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "9b0e585f43059a6cab9a8a182c1b946160b17d6c8a41708c1f44fbedad570164",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "398fd669e2dc8b534dc1d9110ee823fbc06b4ed7860081a7dd01ea40e52133e9",
+      "prompt": "Art style: Japanese anime. Establishing shot of The Organization — Inner Sanctum. The inner sanctum at the organization's heart: a cavernous engine-cathedral built around a colossal Governor-core where the severed are harvested and the world's ruin is engineered. Catwalks thread a blinding aether-glare; the machinery is the enemy as much as anyone in it. This is the final-boss arena for all five routes — where a coalition wins it on the romance paths, and where a warlord's strategic-class weave ends it on the dark one. Mood: climactic, monstrous, awful. Time of day / condition: night. Palette: #0d1a17, #2e9e86, #050807, #c0342a. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "enemy_organization_core",
+          "variant": "night"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "9d37195c9b31d1e261544555aaf761fcf502a47be75fe2d0f50d5e75f94972f5",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "1725d68aca625298e2e2efd785819c74f7953d951512b147b5c437e89b29f91f",
+      "prompt": "Art style: Japanese anime. Establishing shot of Cinderhold — Vashan Forge-City. The Kiln-Sworn stronghold of the Vashan Dominion: a city built into the throat of a mountain forge, tiered foundries glowing molten-orange through a permanent haze of ember and soot. Great ungoverned aether-kilns roar without a Governor in sight, and the rust-scarred move openly, their corrosion worn as rank. Ash-grey and ember-orange banners hang over engine-yards that can arm a coalition. Here Ember's ties open doors no licensed talent could — and here the route's wedding, defiant and forge-lit, finally lands. Mood: molten, defiant, industrious. Time of day / condition: night. Palette: #c8531b, #e8912d, #241812, #8a8175. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "vashan_forge_city",
+          "variant": "night"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "a047f5185f047ecdb40a3734343ed28c1e9b5ed2209e2ffbe10c44d63acca07c",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "bd93933b2d0b7efc72f561eeb63951d106d2ef90f9fa58eacf19b7fb2e6d068a",
+      "prompt": "Art style: Japanese anime. Establishing shot of The College Woods. Old-growth forest beyond the college wards, where the metered order of the campus gives way to something older and unpoliced. Mossed standing stones and a mist-pooled clearing make a natural training ground out of reach of instructors' eyes; the Weave feels closer to the surface here, wilder. By day the canopy scatters green light; by night the mist takes a faint silver aether-shimmer. It is the first place in the story that belongs to Caedon and a love interest alone — or, on the dark path, to Caedon alone. Mood: private, intimate, wild. Time of day / condition: night. Palette: #3f5a37, #8fae5a, #23301f, #c9d6b0. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "college_woods",
+          "variant": "night"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "a5bc386b7eaeedee62693b9632e3ab07054efa6f31e845e3730afa960ef1ce87",
       "ext": "png",
       "kind": "portrait",
@@ -548,6 +1069,53 @@
       "satisfies": [
         {
           "characterId": "ember_kellan"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "a71575e18d4c3f33e27da0f19663a373cafa3e3382b72279142a72ee7c8a8a7a",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "53d1fa4db7b697faa85e281027e89f41585ce0c5cddd87ca7699561a9692a972",
+      "prompt": "Art style: Japanese anime. Establishing shot of The Ruins (Exterior). A field of collapsed aetherwork on a wind-scoured moor beyond the cloudlanes: toppled clocktower drums, a fallen furnace-spine gone green with corrosion, viaduct arches broken off into open sky. Old Governors lie half-buried and cold, and a faint teal residue still weeps from cracked conduits where a great weaving once failed. Silent but for wind and the tick of settling metal, it is exactly the kind of place a field-test is set — and exactly the kind of place an ambush hides. Mood: eerie, abandoned, tense. Time of day / condition: day. Palette: #6a6555, #9aa08c, #2a2824, #3fb8a6. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "the_ruins",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "ac1899dd20cb392780cd66be6e1079be3981e09c32c8fca502815ab1aadd89d7",
+      "ext": "png",
+      "kind": "portrait",
+      "sourceTask": "a90dfb6b4aa573c41b10f55c0d99b3b8eea7995349bf1f8c3d8679a75c5deb4a",
+      "prompt": "Art style: Japanese anime. Character portrait of Gideon Marsh. Gideon Marsh is a broad-shouldered, steady-handed Cog-College student from the Saltbound Crownland, the son of a harbor-city shipwright. Where others chase power, Gideon chases competence: he is the group's anchor, slow to anger and impossible to rattle. Sela-strong in the Stone Thread, he favors structural weaves — bracing, binding, mending — and dreams of building airship keels rather than fighting. He wears his Governor without complaint and thinks the Concord's rules are mostly sensible, which puts him at odds with the hotter heads around him. Loyal to a fault, he is the friend who carries the wounded and pays the tab. Broad face, sun-weathered from a childhood on the docks, close-cropped brown hair, and forearms scarred from foundry work. Palette: #2e5266, #6e8898, #c9a227, #e8e6df. Neutral pose and expression, plain neutral background, head-and-shoulders framing.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "gideon_marsh"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "ad12d4d7cd36490a36096363d344af76d8a1d7383d3bfe585607bb25fd6b5a08",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "f5cf5cb9746b320a4673141678ac64c0b514efa858d97e626fdfb6397d7cda23",
+      "prompt": "Art style: Japanese anime. Establishing shot of Great Assembly Hall. The college's ceremonial heart: a vast vaulted hall beneath a glass-and-brass dome that glows with contained aether-light, banners of the recognized Orders hanging down its length. A raised rostrum of dark stone faces tiered galleries that can hold the entire cohort. It is where the Headmistress convenes the intake, sets the great tests, and — when the world starts to break — delivers the addresses no one wants to hear. Sound carries here; so does dread. Mood: solemn, weighty. Time of day / condition: day. Palette: #b08d3a, #e9e4d6, #26221d, #3fb8a6. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "assembly_hall",
+          "variant": "day"
         }
       ],
       "accepted": false
@@ -600,6 +1168,22 @@
       "accepted": false
     },
     {
+      "hash": "bc96c5ca44df0137ff271e671fd5a021023fb137e98b5b1a8bd3faf2492e23d1",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "c5bd4dc65e84c545f46400aad55f6e5f9cd557e9d2ac5570b2218f36d964d5d3",
+      "prompt": "Art style: Japanese anime. Establishing shot of The Ruined Cities (Timeskip). Years later: cities cracked open by strategic-class weaves, viaducts snapped, clocktowers toppled, cloudlanes empty of everything but drifting ash. The world Caedon conquered to protect the people he loved lies gutted by the civil war of his own many children, fighting over his inheritance. Nothing metered, nothing safe — the harem fantasy followed to its logical, catastrophic end. The dark route's closing image. Mood: desolate, tragic, final. Time of day / condition: day. Palette: #2a2622, #6a655c, #b0491f, #8c8578. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "ruined_cities",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "bd5f297bba1a4ded2df21e177697d10a7dc42c4e26674e1604c1d1da92cc9052",
       "ext": "png",
       "kind": "location_ref",
@@ -632,6 +1216,38 @@
       "accepted": false
     },
     {
+      "hash": "c0a92a28796d9f1090fee629309613eb0d5c7983d9a432980890431e5bffbe15",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "21ebe6938c9f6e631d3ae69d356bba8eea2c26f73a8969aeaf7a3ce7d6f36bfc",
+      "prompt": "Art style: Japanese anime. Establishing shot of Cog-College — Great Courtyard. The beating hub of the college: a broad flagstone quad ringed by lecture wings, dormitory stacks, and the towering aether-furnace hall whose vent-stacks breathe a soft teal shimmer over everything. A central fountain runs on a slow Governor-metered weave, water lifting and folding in impossible geometric arcs. Students in brass-and-white Regulen livery cross between classes; noticeboards clatter with reassignment cogs. It feels ordered, watched, and faintly performative — a place designed to be seen behaving well. Mood: bustling, institutional. Time of day / condition: day. Palette: #caa64a, #e9e4d6, #4a453d, #3fb8a6. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "cog_college_courtyard",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "c62d7c3b988cb6a24abe5009832b84069c91ec83f0c99fdfab3e6db0ec561b1d",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "bc67dc561f520b761b362ffa289544509786a8590f962ed56eb74c8751b77ba9",
+      "prompt": "Art style: Japanese anime. Establishing shot of The Grey Hands' Assay-Hold. The seat of Assayer power in Vorn: a fortress-chapter house of grey basalt and cold iron, its great door marked with the single iron key of the Grey Hands. Vaults hold rows of Nullifier Governors and the ledgers of the severed; the air is incense and machine-oil at once. This is where corruption reaches highest and where Isolde turns her faith into a weapon against its makers — walking in on a devotion she no longer owes. Mood: oppressive, forbidding, sacred. Time of day / condition: day. Palette: #4a525e, #c3cad3, #20252d, #7f5a2a. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "vorn_stronghold",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "c95cb3a5285618fc5c847d3308485d44471cdb694cc226e0100aab80575aa8c0",
       "ext": "png",
       "kind": "location_ref",
@@ -643,6 +1259,22 @@
         {
           "locationId": "vashan_forge_city",
           "variant": "night"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "cc807b652355d09e8aa34d627d6848ce283608ab86a186485a8eab43172650fd",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "90ad87276a0db3cd7698f3df179eb0b3aacef7f6f0cb44f1846b53c57310f748",
+      "prompt": "Art style: Japanese anime. Establishing shot of Dormitory Commons. A cluttered common room in the student stacks: mismatched armchairs, a coal hearth under a copper hood, a long scarred table strewn with study-cogs, playing cards, and half-drunk tea. Brass wall-sconces throw warm uneven light; pipes tick as they cool overhead. Personal clutter — smuggled snacks, contraband penny-novels, drying laundry — makes it the one unpoliced corner of the college. This is where the friend group forms and where guards come down. Mood: warm, informal, lived-in. Time of day / condition: day. Palette: #8a6a3a, #d8c39a, #332b22, #b3532a. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "dormitory_commons",
+          "variant": "day"
         }
       ],
       "accepted": false
@@ -680,6 +1312,21 @@
       "accepted": false
     },
     {
+      "hash": "d467b8a1833ccb78a9d55d0333396a2590dad2226de35d958f03614a77c6a48b",
+      "ext": "png",
+      "kind": "portrait",
+      "sourceTask": "2cba206c7b484298d82afeba4b256219fc27945779aa92fc06f815ee9ba5bcc6",
+      "prompt": "Art style: Japanese anime. Character portrait of Professor Mirabel Quist. Professor Mirabel Quist is the Cog-College's mistress of Governors — the artificer-scholar who teaches the theory and craft of the brass-and-crystal regulators that meter a channeler's flow. A wiry woman in her fifties with cropped iron-grey hair, ink-stained fingers, and a jeweler's loupe forever pushed up on her forehead, she moves through her workshop amid a clutter of half-built gauntlets, crystal blanks, and pressure gauges. Sela-strong and Concord-trained, she believes fervently that measured power is the only safe power, yet she is no dogmatist: she quietly studies the failures of Governors, including the ones the Concord would rather bury. Warm, blunt, and endlessly curious, she treats students as apprentices and machines as puzzles. She is the professor most likely to notice when a student's talent outruns their Governor — and the one who understands exactly how dangerous that is. Palette: #b08d57, #d8d8d8, #3a4a5a, #7a6a55. Neutral pose and expression, plain neutral background, head-and-shoulders framing.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "professor_mirabel_quist"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "d4a29cf66b5cddcfcdd9995297ca813bc323075ee2c44c37540f9ec36a562ed8",
       "ext": "png",
       "kind": "location_ref",
@@ -690,6 +1337,22 @@
       "satisfies": [
         {
           "locationId": "college_woods",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "d7d4d08392f704f76dd461c89f2530346c365b053b288efee466d0bccec38092",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "246c525b5a596320ab6aa77998bdcb1d10f530c0896ba382aa8903f7c3f0f6f9",
+      "prompt": "Art style: Japanese anime. Establishing shot of Vashan Borderland. Scrubbed open country on the marches of the Vashan Dominion — red dust, wind-carved rock, dead telegraph lines, and no forge for a hundred miles to shelter a Kiln-Sworn. The horizon is too wide to hide in; every use of raw current throws a beacon across it. It is where Ember and Caedon land far from any friendly kiln, her power both their only shield and the thing that keeps drawing pursuit down on them. Mood: exposed, hunted, harsh. Time of day / condition: day. Palette: #b98a4a, #d9b877, #3a2a1a, #8a8175. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "vashan_borderland",
           "variant": "day"
         }
       ],
@@ -712,6 +1375,69 @@
       "accepted": false
     },
     {
+      "hash": "dd5bd882de58ab98f6fc8b25d39048fb01489a6c8f15a41122475aea21573593",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "d2df2320e850f05981f1678b0e9bb4e4b6d14e7d2525897066888b60a67bc0eb",
+      "prompt": "Art style: Japanese anime. Establishing shot of The College Woods. Old-growth forest beyond the college wards, where the metered order of the campus gives way to something older and unpoliced. Mossed standing stones and a mist-pooled clearing make a natural training ground out of reach of instructors' eyes; the Weave feels closer to the surface here, wilder. By day the canopy scatters green light; by night the mist takes a faint silver aether-shimmer. It is the first place in the story that belongs to Caedon and a love interest alone — or, on the dark path, to Caedon alone. Mood: private, intimate, wild. Time of day / condition: day. Palette: #3f5a37, #8fae5a, #23301f, #c9d6b0. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "college_woods",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "de8ceaebc83f2367ab83cb5c58e63517a823f15ad7e43ccbe9c924248cc52bea",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "50d44dcc9fb045190ca1dc180b8dee5ce1567b8caf99b8a0bd47adfb59858f2f",
+      "prompt": "Art style: Japanese anime. Establishing shot of The Ruins (Interior). Beneath the fallen furnace-spine: a warren of buckled service tunnels and drowned engine-vaults, brass catwalks hanging askew over black water. Dead conduits bleed a low teal light along the walls, and the ruined core still hums faintly, as if the failed weave never fully died. Sound turns treacherous down here — footsteps, dripping, the scrape of something moving that shouldn't be. This is where the test stops being a test. Mood: claustrophobic, dangerous. Time of day / condition: day. Palette: #1c2622, #2e5e52, #0f1210, #c46a2a. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "ruins_interior",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "e003651cbc02c8d86528eb4ad18c6fb5d6899ecf0b61786bf05babcd7db71b2c",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "aa6cb91acdef00b8312100cdaa34955342629048c3503ce7424c0dd5eb05c7f4",
+      "prompt": "Art style: Japanese anime. Establishing shot of Cog-College — Approach. The outer approach to the Cog-College: a long iron viaduct climbing to gatehouses of brass and soot-darkened stone, geared Regulen sigils worked into the ironwork. Clocktower spires and glass-domed conservatories rise beyond a portcullis of interlocking cogs, and airship mooring-masts prick the skyline where cloudlane traffic drifts in. Steam vents hiss from grates underfoot; the air smells of coal, hot brass, and the faint ozone tang of the Weave. This is where the metered, licensed intake first gathers — a threshold built to remind every new talent exactly whose rules they are entering. Mood: imposing, ceremonious. Time of day / condition: dusk. Palette: #b08d3a, #e9e4d6, #2b2723, #7fa6bf. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "cog_college_approach",
+          "variant": "dusk"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "e13b85bb9f4aeebb2f0839715d3a40fce20d10145cef340f13e0e72f0412e815",
+      "ext": "png",
+      "kind": "portrait",
+      "sourceTask": "d2ce4f9405d0666d61349691d9dce8f33b2e2f35ba025164cfeea57e01a30a67",
+      "prompt": "Art style: Japanese anime. Character portrait of Caedon Vale. A nineteen-year-old scholarship student at the Cog-College of Cograuncy, born to a Ferran furnace-town family of modest means. Caedon is lean and wiry from years hauling coke on the furnace floors, with dark tousled hair, storm-grey eyes, and a smear of engine soot that never quite washes out from under his nails. He carries himself with a watchful, self-taught steadiness — the wariness of someone who has always been the outsider in a room of guild-born peers. Unusually, Caedon draws on both Currents — a faint pull of ordered Sela and wild Vash alike — a rarity the College has not yet decided whether to prize or fear. He channels without a Governor by instinct, which terrifies his professors and thrills the Kiln-Sworn recruiters. Earnest, stubborn, and quick to defend those the guild-state overlooks, he is the still point around whom the other students orbit. Palette: #2b2f36, #8a6a4f, #b8b0a4, #6d7681, #c9772f. Neutral pose and expression, plain neutral background, head-and-shoulders framing.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "caedon_vale"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "e17581e5f72c6cc6eb00227bea874c36b7dcbaf10c36efee3fbf11cedb757076",
       "ext": "png",
       "kind": "location_ref",
@@ -723,6 +1449,37 @@
         {
           "locationId": "foreign_court",
           "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "e6a958da5a53b887416b6059ebb65ac74d15d6feda55eef6ee4e71a90fd0ce88",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "abf160e0d149f76cb4c78dd52208b12ffed647d41c2cee1ab94f57de3c0b95da",
+      "prompt": "Art style: Japanese anime. Establishing shot of Cog-College — Approach. The outer approach to the Cog-College: a long iron viaduct climbing to gatehouses of brass and soot-darkened stone, geared Regulen sigils worked into the ironwork. Clocktower spires and glass-domed conservatories rise beyond a portcullis of interlocking cogs, and airship mooring-masts prick the skyline where cloudlane traffic drifts in. Steam vents hiss from grates underfoot; the air smells of coal, hot brass, and the faint ozone tang of the Weave. This is where the metered, licensed intake first gathers — a threshold built to remind every new talent exactly whose rules they are entering. Mood: imposing, ceremonious. Time of day / condition: day. Palette: #b08d3a, #e9e4d6, #2b2723, #7fa6bf. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "cog_college_approach",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "e7fb9a14eab5f2ad4743772e9a10796537136140daa03032c6ebd088c9724f66",
+      "ext": "png",
+      "kind": "portrait",
+      "sourceTask": "f78ea7a7d771f9aada26be9adadc569624741abe781351c3f238160d279643ec",
+      "prompt": "Art style: Japanese anime. Character portrait of Silas Thorn. A gaunt, severe man in his late fifties, Professor Silas Thorn teaches the theory and discipline of Governors at the Cog-College — the brass-and-crystal regulators that meter a channeler's flow. Ferran to the bone and a devoted man of the Regulen Concord, he believes utterly that only measured power is safe power, and he drills that creed into every student who passes through his laboratory. His long fingers are stained with crystal-etching acid and his forearm bears a licensed Governor he has never once removed in public. Thorn is exacting, cold, and quietly brilliant; he has forgotten more about the mechanics of the Weave than most channelers ever learn. Beneath the rigor is an old grief — a former student who burned out under his instruction — that he has sealed away behind procedure. He distrusts the Kiln-Sworn as heretics and the Ashen Circle as criminals, and he watches any student who leans toward raw Vash with the wariness of a man who has seen where it ends. Palette: #8a8f98, #b5a642, #2b2f36, #e8e6df. Art direction: gaunt severe older man, deep-set eyes, close-cropped grey hair, austere Ferran bearing Neutral pose and expression, plain neutral background, head-and-shoulders framing.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "professor_silas_thorn"
         }
       ],
       "accepted": false
@@ -775,6 +1532,22 @@
       "accepted": false
     },
     {
+      "hash": "f35c299a66a02be3f2275cec075e9f2a0744315c3286e42991afd580716f0c6d",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "6e2a42a77b30527fc6715460bc84da15acfe206c504c23dd680eea88c43adfd0",
+      "prompt": "Art style: Japanese anime. Establishing shot of Great Assembly Hall. The college's ceremonial heart: a vast vaulted hall beneath a glass-and-brass dome that glows with contained aether-light, banners of the recognized Orders hanging down its length. A raised rostrum of dark stone faces tiered galleries that can hold the entire cohort. It is where the Headmistress convenes the intake, sets the great tests, and — when the world starts to break — delivers the addresses no one wants to hear. Sound carries here; so does dread. Mood: solemn, weighty. Time of day / condition: night. Palette: #b08d3a, #e9e4d6, #26221d, #3fb8a6. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "assembly_hall",
+          "variant": "night"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "f510045a49be3cb942ed0e82f3b03d859936048c5e8b1a544f4b3393b61c9f60",
       "ext": "png",
       "kind": "location_ref",
@@ -786,6 +1559,22 @@
         {
           "locationId": "dormitory_commons",
           "variant": "night"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "f57fbe24609e3e3226475c6ec2a7f34b32661dae657f6a2fd1ab22919e20d3c2",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "c5daa02dbbfd6f63f486875badce9ee7ec13d1a5dc906eb0367b5b7623472884",
+      "prompt": "Art style: Japanese anime. Establishing shot of College Infirmary. A long white ward of iron cots and glass cabinets, its air kept still and clean by a metered filtration weave. Copper burn-salves, Loomwright healing-threads, and Nullifier cuffs for the dangerously overdrawn sit ready on wheeled trays. Rust-scarring is treated here quietly, and never without a report filed. It is where the cost of a victory shows up on the body, and where words too raw for the courtyard finally get said. Mood: hushed, sterile, tender. Time of day / condition: day. Palette: #cdd3d0, #e9e9e4, #3a4340, #7fb0a6. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "infirmary",
+          "variant": "day"
         }
       ],
       "accepted": false
@@ -834,6 +1623,38 @@
         {
           "locationId": "scattered_wilds",
           "variant": "night"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "fc74de8d1ac18ca20417b5ab7849e3a82e559fde5989585a60dafbc22518f761",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "3511a1bea074aa532e5e5be0bef4e568ee4cab77fd683aa64e1a4996cfadd92c",
+      "prompt": "Art style: Japanese anime. Establishing shot of Execution Square. A public plaza built for the display of state power: a broad flagged square hemmed by government facades, a raised iron scaffold at its heart, broadcast-horns and scrying-plates mounted high so the whole quarter can be made to watch. Assayer grey and governmental brass. Crowd-barriers, banners of a hostile regime, and the cold theatrical lighting of a place designed so that punishment is never private. In daylight it is grimly ordinary; lit for an execution it becomes the stage on which the story's cruelty is made undeniable. Time of day / condition: day. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "execution_square",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "fcb5567e924773968afdc1847ebacc643910b9cfe36b2ca9a7cadfcd9c004f95",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "9504e6b33712c27b1e373919c2b3f85a5371d02616fa5b791d729447bb32e84a",
+      "prompt": "Art style: Japanese anime. Establishing shot of The Organization — Outer Works. The fortified outer works of the organization behind the world's collapse: black-iron curtain walls, gun-galleries, and vast aether-furnace stacks bleeding a sickly green glow into a permanent industrial dusk. Nullifier pylons ring the approach to clamp shut any weave. This is where the converging allies and surviving stranded pairs fight their way in — the set-piece battlefront shared by every route's endgame. Mood: ominous, fortified, cold. Time of day / condition: day. Palette: #10231f, #1e5e50, #0a0d0c, #7a1f1f. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "enemy_organization_approach",
+          "variant": "day"
         }
       ],
       "accepted": false

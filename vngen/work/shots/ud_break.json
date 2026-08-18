@@ -10,8 +10,8 @@
       "subjects": [],
       "coversLines": [],
       "shotData": {
-        "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Execution Square (day). No characters in frame. Render as a single illustrated frame, no UI text.",
-        "image": "b85b64dd48f04252bc76ad1894921b68153e497e7d8b578977ae5d35462fa654",
+        "prompt": "Art style: Japanese anime. establishing shot in Execution Square (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "image": "486b60d375c2ad44fcedcb719a5cd3bc3de42533f0e4b2d027cb987363086739",
         "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
         "status": "accepted"
       }

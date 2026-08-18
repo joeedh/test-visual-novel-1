@@ -10,8 +10,8 @@
       "subjects": [],
       "coversLines": [],
       "shotData": {
-        "prompt": "Art style: clean modern visual-novel illustration. establishing shot in The Ruins (Interior) (day). No characters in frame. Render as a single illustrated frame, no UI text.",
-        "image": "ce65a993811736621293b436348f45293793fa3ce52efebba2af9a63d3814d1f",
+        "prompt": "Art style: Japanese anime. establishing shot in The Ruins (Interior) (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "image": "7cb50d298ce9ffcd3be85e1b766056d8ee32f9df3971db6ffd851a5b7af7207a",
         "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
         "status": "accepted"
       }

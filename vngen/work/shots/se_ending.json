@@ -10,8 +10,8 @@
       "subjects": [],
       "coversLines": [],
       "shotData": {
-        "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Halcyon Reach (day). No characters in frame. Render as a single illustrated frame, no UI text.",
-        "image": "9e47961e8ba53e2ce2080d2ae559001e372d9584327674e065ce18f0293a5f1e",
+        "prompt": "Art style: Japanese anime. establishing shot in Halcyon Reach (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "image": "19f0c3a663c75d9eab952057065992a4fb8ee4016c93897e1c91cd6a2707352d",
         "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
         "status": "accepted"
       }

@@ -10,8 +10,8 @@
       "subjects": [],
       "coversLines": [],
       "shotData": {
-        "prompt": "Art style: clean modern visual-novel illustration. establishing shot in The Translocation Hall (day). No characters in frame. Render as a single illustrated frame, no UI text.",
-        "image": "c91fdc8b6de7a8d406b462193708190609dfc1224292fdd48541efacda1c668c",
+        "prompt": "Art style: Japanese anime. establishing shot in The Translocation Hall (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "image": "792fea0483559a3a98b8c39a0e64907bb8ac80b3f44f1cca84ef49843eb7c325",
         "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
         "status": "accepted"
       }

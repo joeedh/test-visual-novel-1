@@ -10,10 +10,8 @@
       "subjects": [],
       "coversLines": [],
       "shotData": {
-        "prompt": "Art style: clean modern visual-novel illustration. establishing shot in The Organization — Inner Sanctum (day). No characters in frame. Render as a single illustrated frame, no UI text.",
-        "image": "9c95204ee5e4af207154051aef37ab79df66d2a7482924bfc48c8b975c7af977",
-        "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
-        "status": "accepted"
+        "prompt": "Art style: Japanese anime. establishing shot in The Organization — Inner Sanctum (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
       }
     }
   ]

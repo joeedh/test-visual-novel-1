@@ -10,8 +10,8 @@
       "subjects": [],
       "coversLines": [],
       "shotData": {
-        "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Great Assembly Hall (day). No characters in frame. Render as a single illustrated frame, no UI text.",
-        "image": "b620421b8aeab5c1d7ed99bb409de68913ddc7ca3d79b3a13b808f03e881188d",
+        "prompt": "Art style: Japanese anime. establishing shot in Great Assembly Hall (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "image": "6817ca50a9ce4f1a1e9d3af50553e41eb66209cd47cf37c86cc35732550a2764",
         "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
         "status": "accepted"
       }

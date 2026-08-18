@@ -10,8 +10,8 @@
       "subjects": [],
       "coversLines": [],
       "shotData": {
-        "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Dormitory Commons (day). No characters in frame. Render as a single illustrated frame, no UI text.",
-        "image": "00c0e47e0d3e2950ae09a29d42cd135ce6ddfbe41bbc6ba8d55c15a6503e86d9",
+        "prompt": "Art style: Japanese anime. establishing shot in Dormitory Commons (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "image": "ca188643265e4275aa5d061b0a5263697cbe9bb6ab3af24353fd88bda96261ab",
         "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
         "status": "accepted"
       }

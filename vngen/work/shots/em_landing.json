@@ -10,8 +10,8 @@
       "subjects": [],
       "coversLines": [],
       "shotData": {
-        "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Vashan Borderland (day). No characters in frame. Render as a single illustrated frame, no UI text.",
-        "image": "e44a43d81c1014e178b237c46ecc3099b9b332459f54b1eab4fe6aa58a4e1a55",
+        "prompt": "Art style: Japanese anime. establishing shot in Vashan Borderland (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "image": "8413e080bf3b89ac43b9840415bbe95607686a88f9cfe80f46a760581afbb827",
         "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
         "status": "accepted"
       }

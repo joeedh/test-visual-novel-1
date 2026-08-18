@@ -10,8 +10,8 @@
       "subjects": [],
       "coversLines": [],
       "shotData": {
-        "prompt": "Art style: clean modern visual-novel illustration. establishing shot in College Infirmary (day). No characters in frame. Render as a single illustrated frame, no UI text.",
-        "image": "18dbdfc14406c972678f4372b09570c91cc03bfaeabba0829ad85a4e7fdf46c8",
+        "prompt": "Art style: Japanese anime. establishing shot in College Infirmary (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "image": "85a9438b49591faef29f0bef5370989b178ec9a741322a066608a355f4520133",
         "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
         "status": "accepted"
       }

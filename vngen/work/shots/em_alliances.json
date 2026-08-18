@@ -10,8 +10,8 @@
       "subjects": [],
       "coversLines": [],
       "shotData": {
-        "prompt": "Art style: clean modern visual-novel illustration. establishing shot in Cinderhold — Vashan Forge-City (day). No characters in frame. Render as a single illustrated frame, no UI text.",
-        "image": "5aff03789a9e3a8cdf10fe595d46072b6e21419e956e777ac4c8db8b247f8ebb",
+        "prompt": "Art style: Japanese anime. establishing shot in Cinderhold — Vashan Forge-City (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "image": "0de58dc911f031d8e5b580520f80f42f112cbb513f8fbe6d3e62648c1894714f",
         "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
         "status": "accepted"
       }
