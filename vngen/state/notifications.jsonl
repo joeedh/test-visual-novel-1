@@ -1,0 +1,2 @@
+{"v":1,"r":0,"h":0,"id":"20260817-223810-0691-0000","at":"2026-08-18T05:40:12.197Z","session":"20260817-223810-0691","category":"workspace","level":"info","source":"ui","message":"Created test4 (C:\\dev\\visualnovel\\examples\\test4)."}
+{"v":1,"r":0,"h":0,"id":"20260817-223810-0691-0001","at":"2026-08-18T05:41:28.649Z","session":"20260817-223810-0691","category":"error","level":"error","source":"ui","message":"missing anthropic API key: set $ANTHROPIC_API_KEY or place claude.txt in a keys/ dir"}
