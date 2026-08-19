@@ -202,3 +202,4 @@
 {"v":1,"r":0,"h":0,"id":"20260819-021324-ddca-0005","at":"2026-08-19T09:41:57.064Z","session":"20260819-021324-ddca","category":"error","level":"error","source":"pipeline","message":"shot_image af8cb12f failed: Gemini returned no image (gemini-2.5-flash-image)."}
 {"v":1,"r":0,"h":0,"id":"20260819-021324-ddca-0006","at":"2026-08-19T09:41:57.064Z","session":"20260819-021324-ddca","category":"pipeline","level":"warn","source":"pipeline","message":"Run finished: 1 task, 1 failed."}
 {"v":1,"r":0,"h":0,"id":"20260819-021324-ddca-0007","at":"2026-08-19T09:41:57.532Z","session":"20260819-021324-ddca","category":"pipeline","level":"info","source":"ui","message":"1 task(s) ran, 1 failed."}
+{"v":1,"r":0,"h":0,"id":"20260819-021324-ddca-0008","at":"2026-08-19T09:44:45.165Z","session":"20260819-021324-ddca","category":"pipeline","level":"info","source":"ui","message":"Approved caedon_vale → e13b85bb9f4aeebb2f0839715d3a40fce20d10145cef340f13e0e72f0412e815."}

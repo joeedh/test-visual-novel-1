@@ -1,7 +1,7 @@
 ---
 id: ember_kellan
 name: Ember Kellan
-status: draft
+status: approved
 default_outfit: college_leathers
 outfits:
   college_leathers: Ash-grey forge leathers scorched at the cuffs, sleeves rolled
@@ -20,6 +20,7 @@ palette:
   - "#e8912d"
   - "#3a2418"
   - "#8a8175"
+approved_portrait: a5bc386b7eaeedee62693b9632e3ab07054efa6f31e845e3730afa960ef1ce87
 ---
 
 A Kiln-Sworn forge-prodigy from the Vashan Dominion, Ember is Vash-strong and channels raw, ungoverned current with a reckless brilliance that terrifies her instructors. Broad-shouldered and sun-dark, with close-cropped copper hair and the first faint rust-scarring already tracing her right forearm — a mark she wears like a dare. She grew up in Cinderhold's forge-quarters, tending engine-fires before she could read, and came to the Cog-College half as a prodigy and half as a Dominion test of whether their heresy could be tamed by Ferran licensing. It cannot. Hot-tempered, loyal, and allergic to caution, she believes power is meant to be spent, not metered — and privately fears how little time the Rust will leave her. Beneath the swagger is someone who loves fiercely because she does not expect to love long.
