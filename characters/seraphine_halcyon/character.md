@@ -1,7 +1,7 @@
 ---
 id: seraphine_halcyon
 name: Seraphine Halcyon
-status: draft
+status: approved
 default_outfit: college_indigo
 outfits:
   college_indigo: Loomwright student's indigo coat with silver thread trim over a
@@ -20,6 +20,7 @@ palette:
   - "#c9cdd6"
   - "#e8e2d0"
   - "#8a93a8"
+approved_portrait: 911643aed4303a4c97cd4f6345431014e7995ba502050641514ad9d98c66eb83
 ---
 
 A poised, quick-witted daughter of Halcyon Reach's ruling house, sent to the Cog-College as much for diplomacy as for schooling. Sela-strong and drawn to the Loomwrights' subtle art, she braids Spirit and Air with a delicacy that unnerves her instructors. Silver-blonde hair worn in a coiled braid, cloud-grey eyes, and the unhurried grace of someone raised to be watched. Warm beneath a practiced court reserve, she is torn between the peace-broker role her mother groomed her for and a hunger to choose her own thread.
