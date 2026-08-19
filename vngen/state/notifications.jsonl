@@ -201,3 +201,4 @@
 {"v":1,"r":0,"h":0,"id":"20260819-021324-ddca-0004","at":"2026-08-19T09:39:28.452Z","session":"20260819-021324-ddca","category":"agent","level":"info","source":"ui","message":"All requested location art has been approved."}
 {"v":1,"r":0,"h":0,"id":"20260819-021324-ddca-0005","at":"2026-08-19T09:41:57.064Z","session":"20260819-021324-ddca","category":"error","level":"error","source":"pipeline","message":"shot_image af8cb12f failed: Gemini returned no image (gemini-2.5-flash-image)."}
 {"v":1,"r":0,"h":0,"id":"20260819-021324-ddca-0006","at":"2026-08-19T09:41:57.064Z","session":"20260819-021324-ddca","category":"pipeline","level":"warn","source":"pipeline","message":"Run finished: 1 task, 1 failed."}
+{"v":1,"r":0,"h":0,"id":"20260819-021324-ddca-0007","at":"2026-08-19T09:41:57.532Z","session":"20260819-021324-ddca","category":"pipeline","level":"info","source":"ui","message":"1 task(s) ran, 1 failed."}
