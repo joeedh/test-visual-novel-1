@@ -10,4 +10,4 @@ palette:
   - "#c0342a"
 ---
 
-The inner sanctum at the organization's heart: a cavernous engine-cathedral built around a colossal Governor-core where the severed are harvested and the world's ruin is engineered. Catwalks thread a blinding aether-glare; the machinery is the enemy as much as anyone in it. This is the final-boss arena for all five routes — where a coalition wins it on the romance paths, and where a warlord's strategic-class weave ends it on the dark one.
+The inner sanctum at the organization's heart: a cavernous engine-cathedral built around a colossal Governor-core where the severed are harvested and the world's ruin is engineered. Catwalks thread a blinding aether-glare and deep shadows; the machinery is the enemy as much as anyone in it. This is the final-boss arena for all five routes — where a converged coalition wins it on the romance paths, and where a warlord's strategic-class weave ends it on the dark one.

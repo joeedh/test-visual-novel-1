@@ -10,4 +10,4 @@ palette:
   - "#8fa8c4"
 ---
 
-A cold northern principality of grey stone and iron: cliff-perched devotional houses, bell-towers, and shrine-roads where the Assayers' writ runs absolute and channeling is leashed to piety. Fog rolls off slate seas; everything is scrubbed, ordered, and watched. It is Isolde's homeland and her cage — the place whose devotional networks and Assayer methods she knows well enough to keep them both alive, even as the truth they uncover implicates the very order she was raised to serve.
+A cold northern principality of grey stone and iron: cliff-perched devotional houses, bell-towers, and shrine-roads where the Assayers' writ runs absolute and channeling is leashed to piety. Fog rolls off slate seas; everything is scrubbed, ordered, and watched. It is Isolde's homeland and her cage — the place whose devotional networks and Assayer methods she knows well enough to keep them both alive, even as the truth they uncover implicates the very order she was raised to serve. The executed pair lands on her here like a verdict on her own faith.

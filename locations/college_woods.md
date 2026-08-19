@@ -9,8 +9,8 @@ palette:
   - "#23301f"
   - "#c9d6b0"
 variants:
-  - day
-  - night
+  - id: day
+  - id: night
 ---
 
-Old-growth forest beyond the college wards, where the metered order of the campus gives way to something older and unpoliced. Mossed standing stones and a mist-pooled clearing make a natural training ground out of reach of instructors' eyes; the Weave feels closer to the surface here, wilder. By day the canopy scatters green light; by night the mist takes a faint silver aether-shimmer. It is the first place in the story that belongs to Caedon and a love interest alone — or, on the dark path, to Caedon alone.
+Old-growth forest beyond the college wards, where the metered order of the campus gives way to something older and unpoliced. Mossed standing stones and a mist-pooled clearing make a natural training ground out of reach of instructors' eyes; the Weave feels closer to the surface here, wilder and less constrained. By day the canopy scatters dappled green light; by night the mist takes a faint silver aether-shimmer. It is the first place in the story that belongs to Caedon and a love interest alone, offering an intimate turn in the romance paths, or to Caedon alone, hardening himself in the undivided path.

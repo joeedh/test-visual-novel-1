@@ -10,4 +10,4 @@ palette:
   - "#8a8175"
 ---
 
-The Kiln-Sworn stronghold of the Vashan Dominion: a city built into the throat of a mountain forge, tiered foundries glowing molten-orange through a permanent haze of ember and soot. Great ungoverned aether-kilns roar without a Governor in sight, and the rust-scarred move openly, their corrosion worn as rank. Ash-grey and ember-orange banners hang over engine-yards that can arm a coalition. Here Ember's ties open doors no licensed talent could — and here the route's wedding, defiant and forge-lit, finally lands.
+The Kiln-Sworn stronghold of the Vashan Dominion: a city built into the throat of a mountain forge, tiered foundries glowing molten-orange through a permanent haze of ember and soot. Great ungoverned aether-kilns roar without a Governor in sight, and the rust-scarred move openly, their corrosion worn as rank. Ash-grey and ember-orange banners hang over engine-yards that can arm a coalition. Here Ember's Kiln-Sworn ties and forge-craft open doors no licensed talent could. This is where Ember and Caedon build their growing coalition, and where the route's wedding, defiant and forge-lit, finally lands.

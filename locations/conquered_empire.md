@@ -10,4 +10,4 @@ palette:
   - "#55524c"
 ---
 
-An imperial capital taken by force: a throne-hall of black stone and looted brass raised over the ashes of the city Caedon bloodily conquered, absorbed armies drilling in the yards below, fires still guttering on the skyline. Banners of the old ruler burn; new ones — Caedon's — go up in their place. This is the seat of the dark route's dynasty, where he crowns himself and his four consorts and coalition-building has become empire.
+An imperial capital taken by force: a throne-hall of black stone and looted brass raised over the ashes of the city Caedon bloodily conquered, its armies absorbed into his growing host, drilling in the yards below. Fires still gutter on the skyline where banners of the old ruler burn, and new ones — Caedon's — go up in their place. This is the monstrous seat of the dark route's dynasty, where he crowns himself and his four consorts, and where coalition-building has become empire-building.

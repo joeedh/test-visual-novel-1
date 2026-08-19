@@ -10,4 +10,4 @@ palette:
   - "#c46a2a"
 ---
 
-Beneath the fallen furnace-spine: a warren of buckled service tunnels and drowned engine-vaults, brass catwalks hanging askew over black water. Dead conduits bleed a low teal light along the walls, and the ruined core still hums faintly, as if the failed weave never fully died. Sound turns treacherous down here — footsteps, dripping, the scrape of something moving that shouldn't be. This is where the test stops being a test.
+Beneath the fallen furnace-spine: a warren of buckled service tunnels and drowned engine-vaults, brass catwalks hanging askew over black water. Dead conduits bleed a low teal light along the walls, and the ruined core still hums faintly, as if the failed weave never fully died. Sound turns treacherous down here — footsteps, dripping, the scrape of something moving that shouldn't be. This is where the test stops being a test and nefarious actors intervene, turning it into real danger for Caedon, the friend group, and the love interests.
