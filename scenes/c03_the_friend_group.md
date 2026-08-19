@@ -5,25 +5,26 @@ scene: c03_the_friend_group
 INT. DORMITORY COMMONS - NIGHT
 
 [[next: c04_first_class]]
-[[nextline: 7]]
+[[nextline: 13]]
 
-[[line: L1]]
-The dormitory commons, cluttered and warm, is a welcome respite from the college's ordered formality. Mismatched armchairs, the glow of the hearth, the scent of smuggled snacks—this is where the real lives unfold.
-
-[[line: L2]]
-Gideon Marsh, Pip Calloway, and Tobias Renn are already here, sprawled around a scarred table, arguing good-naturedly over study-cogs and playing cards. They’re easy company, fellow students navigating this new world.
+[[line: L7]]
+The dormitory commons after dark: mismatched armchairs, a coal hearth, a table buried in study-cogs and half-drunk tea. The one unpoliced corner of the college.
 
 GIDEON MARSH
-[[line: L3]]
-Another lecture, another hour spent deciphering Professor Thorn's riddles. At least we're all in this together, eh?
+[[line: L8]]
+Another lecture, another hour untangling Thorn's riddles. At least we drown together.
 
 PIP CALLOWAY
-[[line: L4]]
-Speak for yourself, Gideon. I'm still trying to figure out if 'aetheric resonance' is a weave or a particularly aggressive form of indigestion.
+[[line: L9]]
+Speak for yourself. I still can't tell if 'aetheric resonance' is a weave or just what my stomach does before an exam.
 
 TOBIAS RENN
-[[line: L5]]
-It's both, Pip. Definitely both, if you ask Professor Quist.
+[[line: L10]]
+It's both, Pip. Ask Quist.
 
-[[line: L6]]
-Laughter fills the room. This is the friend group, the ensemble that will crew the ruins test, and later, become scattered pairs across the world. For now, it's just a moment of quiet camaraderie before the storm.
+CAEDON VALE
+[[line: L11]]
+Remind me to sit next to Tobias, then.
+
+[[line: L12]]
+The laughter comes easy. It is the last easy thing — though none of them know that yet.

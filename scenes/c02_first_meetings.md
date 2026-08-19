@@ -5,22 +5,20 @@ scene: c02_first_meetings
 EXT. COG COLLEGE COURTYARD - DAY
 
 [[next: c03_the_friend_group]]
-[[nextline: 7]]
+[[nextline: 12]]
 
-[[line: L1]]
-The Great Courtyard buzzes with activity. Students move between classes, the fountain's metered weave folding water in impossible arcs. It feels like a stage.
+[[line: L7]]
+The Great Courtyard, mid-morning. The metered fountain folds water into impossible arcs while students in Regulen livery cross between the lecture wings.
 
-[[line: L2]]
-I see Ember Kellan first, in the practice yards. She's channeling raw current, a vivid, uncontrolled surge that makes the cautious hang back. A bloom of rust already stains her forearm, a mark of her untamed strength.
+[[line: L8]]
+In the practice yards, Ember Kellan pours raw current into a target until the cautious around her step back; the rust on her forearm darkens with the effort.
 
-[[line: L3]]
-Then Isolde Vorn, her aristocratic stillness a stark contrast. She holds a key-pendant, a ward against ungoverned talent, her movements precise, almost guarded. She keeps ungoverned power at arm's length, a study in disciplined control.
+[[line: L9]]
+Isolde Vorn keeps to the colonnade, unmoving, one hand at her key-pendant — ungoverned talent held at arm's length.
 
-[[line: L4]]
-Seraphine Halcyon is at the heart of a small circle, surrounded by envoys, drawing eyes without seeming to seek them. She navigates the social currents with unnerving ease, every gesture a calculated grace.
+[[line: L10]]
+Seraphine Halcyon stands at the centre of a knot of envoys without seeming to have sought it. Wren Ashfield watches from the margin, and slips away before anyone thinks to ask her name.
 
-[[line: L5]]
-And Wren Ashfield. A guarded scholarship outsider, she slips through the college's rules like weather, a ghost at the periphery, observing everything, revealing nothing. Her eyes are sharp, wary.
-
-[[line: L6]]
-My attention begins to weigh, pulled in different directions. Each one a world, a challenge, a promise.
+CAEDON VALE
+[[line: L11]]
+Four directions to look. Somehow I keep looking in all of them.

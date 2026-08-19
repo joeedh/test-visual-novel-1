@@ -5,29 +5,32 @@ scene: c07_the_ambush
 INT. RUINS INTERIOR - DAY
 
 [[next: c08_aftermath]]
-[[nextline: 9]]
+[[nextline: 18]]
 
-[[line: L1]]
-The ruins interior is a maze of buckled service tunnels and drowned engine-vaults. The hum of the failed weave is unnervingly present. Then, the silence breaks. Shouts, the clash of metal on stone. We're ambushed.
+[[line: L9]]
+The ruins interior is a maze of buckled service tunnels. The hum of the failed weave is unnervingly present. Then, the silence breaks. Shouts, the clash of metal on stone. We're ambushed.
 
 GIDEON MARSH
-[[line: L2]]
+[[line: L10]]
 Assayers! How did they—?
 
-[[line: L3]]
-They're here for someone, or something, within these ruins. The test has turned deadly. I see Ember, a furious shield of raw current, blazing defiance. She spends power without counting the cost, saving our group from a collapsing archway, but a fresh bloom of rust darkens her arm.
+[[line: L11]]
+The test has turned deadly.
 
-[[line: L4]]
-Isolde, precise as ever, uses her Sela-strong weave to pinpoint weaknesses in their assault, her movements disciplined. She creates an opening where recklessness would have failed, but I see a flicker of distress—she's broken some unspoken rule of her own.
+[[line: L12]]
+(Ember path) Ember becomes a shield of raw current, her power lashing out. She saves us from a collapsing archway, but a fresh bloom of rust darkens her arm.
 
-[[line: L5]]
-Seraphine, calm amidst the chaos, reads the flow of the ambush like a text. She talks down one group of attackers, misdirects another, weaving a losing fight into a win. She alone seems to realize this wasn't random; it was arranged.
+[[line: L13]]
+(Isolde path) Isolde's precision wins where recklessness would fail. Her Sela-strong weave pinpoints weaknesses in their assault, creating an opening. I see a flicker of distress—she's broken some unspoken rule of her own.
 
-[[line: L6]]
-Wren, on the fringes, taps into something deeper. She knows these ruins, these hidden ways. Her smuggling contacts are already making a path, revealing a bolt-hole. Without her, none of us would get out.
+[[line: L14]]
+(Seraphine path) Seraphine reads the flow of the ambush like a text. She misdirects a squad of attackers, weaving a losing fight into a win. She alone seems to realize this wasn't random; it was arranged.
 
-[[line: L7]]
-(Undivided colour: I move between them, coordinating. "Ember, shield the flank! Isolde, secure the passage! Seraphine, divert their attention! Wren, the exit!" Each covers the others' weaknesses. We win with unnerving, almost chilling, efficiency.)
+[[line: L15]]
+(Wren path) Wren knows these ruins. A smugglers' bolt-hole stands open. Without her, none of us would get out.
 
-[[line: L8]]
-We emerge, battered but victorious. The air tastes of ozone and fear. The world is far more dangerous than we knew.
+[[line: L16]]
+(Undivided path) I move between them, coordinating their strengths. Each covers the others' weaknesses. We win with unnerving efficiency.
+
+[[line: L17]]
+We emerge, battered but victorious. The air tastes of ozone and fear.
