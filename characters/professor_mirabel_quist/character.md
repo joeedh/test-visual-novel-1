@@ -1,7 +1,7 @@
 ---
 id: professor_mirabel_quist
 name: Professor Mirabel Quist
-status: draft
+status: approved
 default_outfit: workshop
 outfits:
   workshop: A practical leather apron over a slate-grey work dress, sleeves rolled
@@ -20,6 +20,7 @@ traits:
   - blunt
   - warm
   - inventive
+approved_portrait: d467b8a1833ccb78a9d55d0333396a2590dad2226de35d958f03614a77c6a48b
 ---
 
 Professor Mirabel Quist is the Cog-College's mistress of Governors — the artificer-scholar who teaches the theory and craft of the brass-and-crystal regulators that meter a channeler's flow. A wiry woman in her fifties with cropped iron-grey hair, ink-stained fingers, and a jeweler's loupe forever pushed up on her forehead, she moves through her workshop amid a clutter of half-built gauntlets, crystal blanks, and pressure gauges. Sela-strong and Concord-trained, she believes fervently that measured power is the only safe power, yet she is no dogmatist: she quietly studies the failures of Governors, including the ones the Concord would rather bury. Warm, blunt, and endlessly curious, she treats students as apprentices and machines as puzzles. She is the professor most likely to notice when a student's talent outruns their Governor — and the one who understands exactly how dangerous that is.
