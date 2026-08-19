@@ -902,6 +902,24 @@
       "accepted": true
     },
     {
+      "hash": "a3682d29e7219f6b9c40466af17182a3b6acd9fe1f5266adfc0602589c4e296e",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "af8cb12fb915894ae37791e64056492cb1626538cbc1232714325e83c37da8f2",
+      "prompt": "Art style: Japanese anime. establishing shot in The Organization — Inner Sanctum (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "5d7ebc127462079714a4c0b2aaeb20daf33e2d09fe0e7b113375a1f57d721974"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "is_final_boss",
+          "shotId": "is_final_boss__establishing"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "a5282ff290faaf9df3fb3242863af6e2df1c9c63a9ac14a38b48c6677e3b5542",
       "ext": "png",
       "kind": "shot_image",
