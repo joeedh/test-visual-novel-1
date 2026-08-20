@@ -523,3 +523,4 @@
 {"v":1,"r":0,"h":0,"id":"20260819-182731-c9db-0296","at":"2026-08-20T03:15:16.594Z","session":"20260819-182731-c9db","category":"pipeline","level":"info","source":"pipeline","message":"Run finished: 0 tasks, 0 failed."}
 {"v":1,"r":0,"h":0,"id":"20260819-182731-c9db-0297","at":"2026-08-20T03:15:17.383Z","session":"20260819-182731-c9db","category":"pipeline","level":"info","source":"ui","message":"0 task(s) ran."}
 {"v":1,"r":0,"h":0,"id":"20260819-182731-c9db-0298","at":"2026-08-20T03:15:33.995Z","session":"20260819-182731-c9db","category":"pipeline","level":"info","source":"pipeline","message":"Dry run finished: 0 tasks, 0 failed."}
+{"v":1,"r":0,"h":0,"id":"20260819-182731-c9db-0299","at":"2026-08-20T03:15:34.525Z","session":"20260819-182731-c9db","category":"pipeline","level":"info","source":"ui","message":"0 pending task(s) previewed."}
