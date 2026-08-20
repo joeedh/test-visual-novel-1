@@ -30,7 +30,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. medium shot in College Infirmary (day). No characters in frame. Camera: slow push-in. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "959c345f86f2c0c1f0e48b1b2c4d0673ecb6fefed9eba4cc87b74c8754c7069d",
+        "proseHash": "f93cea253d43aa6a5eddd9a7e9ece7bc78556227053c638309dad62ab3607bb5",
+        "status": "accepted"
       }
     },
     {

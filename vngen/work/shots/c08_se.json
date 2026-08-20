@@ -31,7 +31,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. wide shot in College Infirmary (day). No characters in frame. Camera: static, distant view toward far corner. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "003fcf65047a6b9ef2653d3d93dce237c3b87105ab87774ed5e22c4f32072ccb",
+        "proseHash": "5f36eb80e6748e3c0e7feedda8fd0f43d98957875995d0352b57e6c8235ad207",
+        "status": "accepted"
       }
     },
     {

@@ -34,6 +34,24 @@
       "accepted": true
     },
     {
+      "hash": "068eb4f76f453fc55447085e8946bdf88ab67cad889cff0bedd796eec3a18981",
+      "ext": "png",
+      "kind": "model_sheet",
+      "sourceTask": "fb163be4dcbaec1917599f6f16802d8836742b5758bd980774351737f26b9135",
+      "prompt": "Art style: Japanese anime. Full-body front view of Seraphine Halcyon wearing Loomwright student's indigo coat with silver thread trim over a high-collared cream blouse, fitted trousers, and soft leather boots; a silver Loomwright pin at the throat.. Preserve the exact face and look from the reference image. A poised, quick-witted daughter of Halcyon Reach's ruling house, sent to the Cog-College as much for diplomacy as for schooling. Sela-strong and drawn to the Loomwrights' subtle art, she braids Spirit and Air with a delicacy that unnerves her instructors. Silver-blonde hair worn in a coiled braid, cloud-grey eyes, and the unhurried grace of someone raised to be watched. Warm beneath a practiced court reserve, she is torn between the peace-broker role her mother groomed her for and a hunger to choose her own thread. Palette: #3a4a6b, #c9cdd6, #e8e2d0, #8a93a8. Neutral background, consistent lighting, turnaround model-sheet style.",
+      "refs": [
+        "603756e4c7607298f3c7f21f6aca8c2afa0f37e46bf1f2571dda40dec8f94ca4"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "seraphine_halcyon",
+          "outfit": "college_indigo"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "07240a7b0a82fcbc8f5b567c7e235f3a49ad7baa2b263cf8e26df4a413e657f1",
       "ext": "png",
       "kind": "location_ref",
@@ -874,6 +892,24 @@
       "accepted": true
     },
     {
+      "hash": "4b8bdcd42420cfcbe40e74422ea38ee8926fbd6a3dc742673e13ba078bcabcd6",
+      "ext": "png",
+      "kind": "model_sheet",
+      "sourceTask": "8b495b6de4f7cc3be1f30ee1f1c1aff7bb1a6a733526143f83c8ad70bf66564a",
+      "prompt": "Art style: Japanese anime. Full-body side view of Seraphine Halcyon wearing Loomwright student's indigo coat with silver thread trim over a high-collared cream blouse, fitted trousers, and soft leather boots; a silver Loomwright pin at the throat.. Preserve the exact face and look from the reference image. A poised, quick-witted daughter of Halcyon Reach's ruling house, sent to the Cog-College as much for diplomacy as for schooling. Sela-strong and drawn to the Loomwrights' subtle art, she braids Spirit and Air with a delicacy that unnerves her instructors. Silver-blonde hair worn in a coiled braid, cloud-grey eyes, and the unhurried grace of someone raised to be watched. Warm beneath a practiced court reserve, she is torn between the peace-broker role her mother groomed her for and a hunger to choose her own thread. Palette: #3a4a6b, #c9cdd6, #e8e2d0, #8a93a8. Neutral background, consistent lighting, turnaround model-sheet style.",
+      "refs": [
+        "603756e4c7607298f3c7f21f6aca8c2afa0f37e46bf1f2571dda40dec8f94ca4"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "seraphine_halcyon",
+          "outfit": "college_indigo"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "4c78f684132b7701215cafa332b5a80c6083854ca61de874a066204fdc5ae90e",
       "ext": "png",
       "kind": "location_ref",
@@ -969,6 +1005,22 @@
         }
       ],
       "accepted": true
+    },
+    {
+      "hash": "55813ad8c288ffce4f53d56e0df2e3ab07d1e49600d20bffcadc78fca97e3c52",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "f084d80ca5ae93ce971dd59852546de35869f44355ef52ba845cadec47ba47b8",
+      "prompt": "Art style: Japanese anime. Establishing shot of The Ashen Circle Haven. The underground's beating heart: a hidden warren beneath a dead furnace-works where the burned-out, the fugitive strong, and the Rust-touched shelter together, ungoverned and unbowed. This is a haven for the discarded, where filed-smooth cogs hang everywhere as tokens of defiance, and salvaged Governors are stripped for forbidden work. A communal fire keeps the ungoverned warm. No monarch commands the doors Wren opens here; it is where the coalition of the thrown-away is built, and where her wedding, among people who never sold her, is finally held. Mood: defiant, communal, hidden. Time of day / condition: night. Palette: #4a4038, #b3762f, #1a1614, #6d7a80. Art direction: do not use a fisheye view. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "ashen_circle_haven",
+          "variant": "night"
+        }
+      ],
+      "accepted": false
     },
     {
       "hash": "56b37f57c9e5b4d5eb4e8eb10fe43152e77b3227209f7e90089b04baed181302",
@@ -2172,6 +2224,24 @@
       "accepted": false
     },
     {
+      "hash": "c80cb572b7ac708344471a22782c7fd13cc7446c4b780c1161318b9c963fb913",
+      "ext": "png",
+      "kind": "model_sheet",
+      "sourceTask": "e26de41e229f28aa337226bda5c01c27bc3690583cbed0e66ca1d6295a7524a7",
+      "prompt": "Art style: Japanese anime. Full-body back view of Seraphine Halcyon wearing Loomwright student's indigo coat with silver thread trim over a high-collared cream blouse, fitted trousers, and soft leather boots; a silver Loomwright pin at the throat.. Preserve the exact face and look from the reference image. A poised, quick-witted daughter of Halcyon Reach's ruling house, sent to the Cog-College as much for diplomacy as for schooling. Sela-strong and drawn to the Loomwrights' subtle art, she braids Spirit and Air with a delicacy that unnerves her instructors. Silver-blonde hair worn in a coiled braid, cloud-grey eyes, and the unhurried grace of someone raised to be watched. Warm beneath a practiced court reserve, she is torn between the peace-broker role her mother groomed her for and a hunger to choose her own thread. Palette: #3a4a6b, #c9cdd6, #e8e2d0, #8a93a8. Neutral background, consistent lighting, turnaround model-sheet style.",
+      "refs": [
+        "603756e4c7607298f3c7f21f6aca8c2afa0f37e46bf1f2571dda40dec8f94ca4"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "seraphine_halcyon",
+          "outfit": "college_indigo"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "c95cb3a5285618fc5c847d3308485d44471cdb694cc226e0100aab80575aa8c0",
       "ext": "png",
       "kind": "location_ref",
@@ -2303,6 +2373,22 @@
         {
           "characterId": "caedon_vale",
           "outfit": "college_uniform"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "d19c2271d9d4280d8a52fec33d6029deed42e39ba940fae76883a9a23e37954e",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "c6b6acd92958f76f86bfbaf783a6cc84ce1b39433230778405c4385f1c7b34cb",
+      "prompt": "Art style: Japanese anime. Establishing shot of The Ashen Circle Haven. The underground's beating heart: a hidden warren beneath a dead furnace-works where the burned-out, the fugitive strong, and the Rust-touched shelter together, ungoverned and unbowed. This is a haven for the discarded, where filed-smooth cogs hang everywhere as tokens of defiance, and salvaged Governors are stripped for forbidden work. A communal fire keeps the ungoverned warm. No monarch commands the doors Wren opens here; it is where the coalition of the thrown-away is built, and where her wedding, among people who never sold her, is finally held. Mood: defiant, communal, hidden. Time of day / condition: day. Palette: #4a4038, #b3762f, #1a1614, #6d7a80. Art direction: do not use a fisheye view. do not use a fisheye view. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "ashen_circle_haven",
+          "variant": "day"
         }
       ],
       "accepted": false
