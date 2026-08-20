@@ -51,15 +51,15 @@ file for its text, and search_bible for anything under wiki/.
 
 ## Scenes (40) — entry: opening
 
-- c01_arrival @cog_college_approach — cast: headmistress_auria_coyle — next: c02_first_meetings — scenes/c01_arrival.md
-- c02_first_meetings @cog_college_courtyard — next: c03_the_friend_group — scenes/c02_first_meetings.md
-- c03_the_friend_group @dormitory_commons — cast: gideon_marsh, pip_calloway, tobias_renn — next: c04_first_class — scenes/c03_the_friend_group.md
+- c01_arrival @cog_college_approach — cast: headmistress_auria_coyle, caedon_vale — next: c02_first_meetings — scenes/c01_arrival.md
+- c02_first_meetings @cog_college_courtyard — cast: caedon_vale — next: c03_the_friend_group — scenes/c02_first_meetings.md
+- c03_the_friend_group @dormitory_commons — cast: gideon_marsh, pip_calloway, tobias_renn, caedon_vale — next: c04_first_class — scenes/c03_the_friend_group.md
 - c04_first_class @lecture_hall — cast: professor_mirabel_quist, professor_silas_thorn — next: c05_ruins_briefing — scenes/c04_first_class.md
 - c05_ruins_briefing @assembly_hall — cast: headmistress_auria_coyle — next: c06_the_ruins — scenes/c05_ruins_briefing.md
 - c06_the_ruins @the_ruins — next: c07_the_ambush — scenes/c06_the_ruins.md
 - c07_the_ambush @ruins_interior — cast: gideon_marsh — next: c08_aftermath — scenes/c07_the_ambush.md
 - c08_aftermath @infirmary — next: c09_woods_training — scenes/c08_aftermath.md
-- c09_woods_training @college_woods — next: c10_the_world_breaks — scenes/c09_woods_training.md
+- c09_woods_training @college_woods — cast: ember_kellan, isolde_vorn, seraphine_halcyon, wren_ashfield — next: c10_the_world_breaks — scenes/c09_woods_training.md
 - c10_the_world_breaks @assembly_hall — cast: headmistress_auria_coyle, professor_mirabel_quist — next: c11a_teleport — scenes/c10_the_world_breaks.md
 - c11_execution @scattered_wilds — choices: "Reach for Ember — burn while there's time" -> em_landing, "Trust Isolde — help her unclasp the armour" -> is_landing, "Choose Seraphine — a thread she picks herself" -> se_landing, "Hold to Wren — be the one who never sells her" -> wr_landing, "Refuse to choose — and vow to lose none of them" -> ud_break — scenes/c11_execution.md
 - c11a_teleport @teleportation_hall — cast: headmistress_auria_coyle — next: c11b_on_the_run — scenes/c11a_teleport.md
@@ -80,14 +80,12 @@ file for its text, and search_bible for anything under wiki/.
 - se_final_boss @enemy_organization_core — next: se_ending — scenes/se_final_boss.md
 - se_infiltration @enemy_organization_approach — cast: seraphine_halcyon — next: se_final_boss — scenes/se_infiltration.md
 - se_landing @foreign_court — next: se_alliances — scenes/se_landing.md
-- ud_binding @cloudlane_bolthole — end — scenes/ud_binding.md [unreachable]
-- ud_break @execution_square — end — scenes/ud_break.md
-- ud_conquest @conquered_empire — end — scenes/ud_conquest.md [unreachable]
-- ud_epilogue @ruined_cities — end — scenes/ud_epilogue.md [unreachable]
-- ud_final_boss @enemy_organization_core — end — scenes/ud_final_boss.md [unreachable]
-- wr_alliances @ashen_circle_haven — end — scenes/wr_alliances.md [unreachable]
-- wr_ending @ashen_circle_haven — end — scenes/wr_ending.md [unreachable]
-… and 4 more scene(s); list_workspace lists them all.
+- ud_binding @cloudlane_bolthole — next: ud_conquest — scenes/ud_binding.md
+- ud_break @execution_square — next: ud_binding — scenes/ud_break.md
+- ud_conquest @conquered_empire — next: ud_final_boss — scenes/ud_conquest.md
+- ud_epilogue @ruined_cities — end — scenes/ud_epilogue.md
+- ud_final_boss @enemy_organization_core — next: ud_epilogue — scenes/ud_final_boss.md
+… and 6 more scene(s); list_workspace lists them all.
 
 ## Story bible (15 note(s) under wiki/)
 
