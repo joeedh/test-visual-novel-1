@@ -36,7 +36,7 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. close shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: defensive, expression: alarmed. Render as a single illustrated frame, no UI text.",
-        "image": "2ba9220785c71eec76fae8676a5ff28c5e04ec15769ebb2edfffdda21b255948",
+        "image": "577bdf9ec6d733d1d2986d7549ce41b883b235424d5d5e1bbb44ddfe3cd7887a",
         "proseHash": "480524b3c3417050cc8668b28d96df47caccfce5d0d4ccdf19f866330deb276b",
         "status": "accepted"
       }
@@ -58,7 +58,7 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. wide shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: bracing. Camera: dynamic action. Render as a single illustrated frame, no UI text.",
-        "image": "6725cd6a15083a570738bbdffc1ecccf3e623c1baef43c7f9511e140f1badbce",
+        "image": "d2b8846a41fe62ff42688b795ac6d1953dc8a93ef09ef9a4c79f04ad9ccbb723",
         "proseHash": "7108d66fd91db1c26e73ffc74fa0ea0ffe9d1c56c984b90339fcc3ec4ce6c1c5",
         "status": "accepted"
       }
@@ -79,7 +79,7 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. medium shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, expression: exhausted. Render as a single illustrated frame, no UI text.",
-        "image": "73800ac3c1f87dff9d3a885abcef0575f1339e6a2640ce9d3cdc6c5bf4ba9db2",
+        "image": "31485c1dcf36cf4e876f8bb812b2aa4f45ac2167406caf635e4c2f9cd2ae6d56",
         "proseHash": "86c21e8867cd8b0f0ecf234bcadb71b2bb7f77a271f537903fd2a98cf6d3a338",
         "status": "accepted"
       }

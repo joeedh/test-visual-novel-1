@@ -260,6 +260,25 @@
       "accepted": true
     },
     {
+      "hash": "0ca8c06365c1e7f4ec4de6ca0523f3c4999e2ad9bc1efeec711de593e4bf906a",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "7f54f37db4fddc8100f404564b889557ecfcec607be3561f95560a69be226d44",
+      "prompt": "Art style: Japanese anime. wide shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: mid-combat. Camera: dynamic. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "1482f706008b0f613e27d9fbe3fc1e76966c8e052a1862e15709330e0e7248e1",
+        "5b27e5e7f0e4350d5ba4269deafcac622a3510ed8027498e18f63bc0b487304a"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c07_ud",
+          "shotId": "c07_ud__s3"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "0de58dc911f031d8e5b580520f80f42f112cbb513f8fbe6d3e62648c1894714f",
       "ext": "png",
       "kind": "shot_image",
@@ -292,6 +311,45 @@
         {
           "sceneId": "wr_ending",
           "shotId": "wr_ending__s3"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "0fa0e1a94da385b91820434d1b41c27363f6071b444dccfa32f84cf1955cb597",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "c5c3f5b8d2d84d820d560a96058221509436447ff0785517559829e554160748",
+      "prompt": "Art style: Japanese anime. medium shot in The Ashen Circle Haven (night). Subjects: Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord., pose: holding hands, expression: softened; Caedon Vale, wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear., pose: holding hands. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "c9207d8aa48e9c7d986407e69789d535364796907625ad8b127d9a3110a578cf",
+        "07276f859c6a4f7988df13091a21533334e8c7fe7055483a53237f9b5fe4946e",
+        "2539415100a19baab81804594905c50310943871222c230cdca9ca04dea7ddb0"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_ending",
+          "shotId": "wr_ending__s2"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "102e4c7708ed0032e2217ccf3160864da08d018a496ea95ef56a08e6de9d48d5",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "41d7556b0dccc35889477986538a7daa3d5aec314f4aa3b025306b1739549eae",
+      "prompt": "Art style: Japanese anime. establishing shot in The Organization — Outer Works (night). Subjects: Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord., pose: leading forward, expression: determined. Camera: wide low angle on looming outer works. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "cd896526928fb42d9d0c26f60b36afdb4caadc70b7cc076e19d1e38b08f36268",
+        "07276f859c6a4f7988df13091a21533334e8c7fe7055483a53237f9b5fe4946e"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_infiltration",
+          "shotId": "wr_infiltration__s1"
         }
       ],
       "accepted": true
@@ -685,6 +743,25 @@
       "accepted": false
     },
     {
+      "hash": "220c7516b81c7de5a9a2af82fd22d278dcebd133f5af1b8b39c738adf395b23d",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "0fcfd374eff7e46d3dfddd059fcceb90db73d462126f681ada0fa2897c608e49",
+      "prompt": "Art style: Japanese anime. wide shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: following through hidden passage, expression: tense. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "1482f706008b0f613e27d9fbe3fc1e76966c8e052a1862e15709330e0e7248e1",
+        "5b27e5e7f0e4350d5ba4269deafcac622a3510ed8027498e18f63bc0b487304a"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c07_wr",
+          "shotId": "c07_wr__s3"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "2448f772fd6c96f1e10b22447023b17c2c2e27f1aef36d7b4cdaf63f56eab0a7",
       "ext": "png",
       "kind": "shot_image",
@@ -834,6 +911,25 @@
       "accepted": true
     },
     {
+      "hash": "31485c1dcf36cf4e876f8bb812b2aa4f45ac2167406caf635e4c2f9cd2ae6d56",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "708d8b9e79c3b68678d5895f9975822e5ea08894d6b8beacad486ed9f09486f0",
+      "prompt": "Art style: Japanese anime. medium shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, expression: exhausted. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "1482f706008b0f613e27d9fbe3fc1e76966c8e052a1862e15709330e0e7248e1",
+        "5b27e5e7f0e4350d5ba4269deafcac622a3510ed8027498e18f63bc0b487304a"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c07_em",
+          "shotId": "c07_em__s4"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "320bb5e4c3cd1a7376104919acaa05a65b63af4cffb7f2b01de0783824af6736",
       "ext": "png",
       "kind": "shot_image",
@@ -907,6 +1003,26 @@
       "accepted": true
     },
     {
+      "hash": "3bce1445215beed45e88b6aecb9d9c48127d48852c5338fd2687ea611bcf711c",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "640edc6dd1dc5d8b1623842a37921d76d348eec423e1e162c499b31a98b1a34d",
+      "prompt": "Art style: Japanese anime. wide shot in The Ashen Circle Haven (night). Subjects: Caedon Vale, wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear., pose: vows; Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord., pose: vows. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "c9207d8aa48e9c7d986407e69789d535364796907625ad8b127d9a3110a578cf",
+        "2539415100a19baab81804594905c50310943871222c230cdca9ca04dea7ddb0",
+        "07276f859c6a4f7988df13091a21533334e8c7fe7055483a53237f9b5fe4946e"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_ending",
+          "shotId": "wr_ending__s5"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "3c35d3fe7d824c1bfa45b0d5033d6eea824e04024fde62658af42dcaa0ada4ee",
       "ext": "png",
       "kind": "shot_image",
@@ -920,6 +1036,25 @@
         {
           "sceneId": "wr_final_boss",
           "shotId": "wr_final_boss__s2"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "3c63015761477a9b0f4536a91f88b185e721a0bdb41d3ee3c1183d0e31644e48",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "68606213bab047f738ab78a8664a700949f06afba76c0b8fca983866ac644dc8",
+      "prompt": "Art style: Japanese anime. medium shot in The College Woods (day). Subjects: Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord., pose: gesturing, expression: sly. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "2a7a549c627b80c7c69f2958e34b7bbb578672b7ce29a4e1796a8a4aa44c7491",
+        "07276f859c6a4f7988df13091a21533334e8c7fe7055483a53237f9b5fe4946e"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c09_wr",
+          "shotId": "c09_wr__s3"
         }
       ],
       "accepted": true
@@ -1086,6 +1221,44 @@
         }
       ],
       "accepted": true
+    },
+    {
+      "hash": "45ef37930faab2f6f8cfb8878d8016bbaa7af9f283cd18bdf157f89bdce6228e",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "cf471fad56215ff365b13c11bf30f2e0fb05638157bafa3be23d548a9db37ecb",
+      "prompt": "Art style: Japanese anime. medium shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: catching breath, expression: weary. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "1482f706008b0f613e27d9fbe3fc1e76966c8e052a1862e15709330e0e7248e1",
+        "5b27e5e7f0e4350d5ba4269deafcac622a3510ed8027498e18f63bc0b487304a"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c07_is",
+          "shotId": "c07_is__s4"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "462cc9e1ef63e13de0feda426863be59640855b13c1806fa03af6c893e8eb957",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "c939aff1a0ed87e2e643c859c8bddfc3c01f0f6f3db18dfb99453ae07f4df576",
+      "prompt": "Art style: Japanese anime. medium shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: defensive, expression: alarmed. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "1482f706008b0f613e27d9fbe3fc1e76966c8e052a1862e15709330e0e7248e1",
+        "5b27e5e7f0e4350d5ba4269deafcac622a3510ed8027498e18f63bc0b487304a"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c07_is",
+          "shotId": "c07_is__s2"
+        }
+      ],
+      "accepted": false
     },
     {
       "hash": "465ee58b207c4a7bfe3860299a4431adbbb6523cf894aaa3ef2a6e1be2f37bb4",
@@ -1269,6 +1442,25 @@
       "accepted": true
     },
     {
+      "hash": "49791dab4f19d07987ce794699a94a3067c3365bf450193da2f5e6459a2db9a0",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "d5e7c2534ecca19dbb4a336d459aaabc81fe0decfdb76a8e67322055c358040a",
+      "prompt": "Art style: Japanese anime. establishing shot in The College Woods (day). Subjects: Ember Kellan, wearing Ash-grey forge leathers scorched at the cuffs, sleeves rolled to bare her rust-scarred forearm, ember-orange sash of the Kiln-Sworn knotted at the hip., pose: walking ahead, expression: beckoning. Camera: wide canopy light. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "2a7a549c627b80c7c69f2958e34b7bbb578672b7ce29a4e1796a8a4aa44c7491",
+        "490599dbb80bb328ef37778ab184a855ec6529a2622f6a2956c480616ebf43dc"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c09_em",
+          "shotId": "c09_em__s1"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "49962544a73613b93bc735ff19def2c8cace4b3c4af50798442842f9aec41c9a",
       "ext": "png",
       "kind": "shot_image",
@@ -1419,6 +1611,25 @@
       "accepted": true
     },
     {
+      "hash": "5150bcbbb6e4a909841edd62c1ec9756c53f0523fa070c679f016850736ca228",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "8bd134f9d42f91961cab35a800a5f6b4ec2571efecdbd13b19367079c3f3868f",
+      "prompt": "Art style: Japanese anime. close shot in The Ashen Circle Haven (night). Subjects: Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord., expression: trusting. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "c9207d8aa48e9c7d986407e69789d535364796907625ad8b127d9a3110a578cf",
+        "07276f859c6a4f7988df13091a21533334e8c7fe7055483a53237f9b5fe4946e"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_ending",
+          "shotId": "wr_ending__s4"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "515920fbff7be789c8cf94f38470d4e05f07fe2cdcaee4058adb9f61e0a1b153",
       "ext": "png",
       "kind": "shot_image",
@@ -1526,6 +1737,25 @@
         }
       ],
       "accepted": false
+    },
+    {
+      "hash": "577bdf9ec6d733d1d2986d7549ce41b883b235424d5d5e1bbb44ddfe3cd7887a",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "e473a9ff61d41c03ed3e8895da125511ddaf71235ceaf44e0ab6699d113fea41",
+      "prompt": "Art style: Japanese anime. close shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: defensive, expression: alarmed. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "1482f706008b0f613e27d9fbe3fc1e76966c8e052a1862e15709330e0e7248e1",
+        "5b27e5e7f0e4350d5ba4269deafcac622a3510ed8027498e18f63bc0b487304a"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c07_em",
+          "shotId": "c07_em__s2"
+        }
+      ],
+      "accepted": true
     },
     {
       "hash": "582bf7126d2aea3ec55d811f583bb557b2337d99c650d653e6c65fad9c20227a",
@@ -2003,6 +2233,25 @@
       "accepted": true
     },
     {
+      "hash": "6cf857a65e24241767c7f418ec47eca2d03824db21597df792004c28dc065e98",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "499c8fc7771e43ee28138e0612927bb719df5e8d71fc9b75f8d33fc57be78d23",
+      "prompt": "Art style: Japanese anime. close shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: weapon drawn, expression: alarmed. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "1482f706008b0f613e27d9fbe3fc1e76966c8e052a1862e15709330e0e7248e1",
+        "5b27e5e7f0e4350d5ba4269deafcac622a3510ed8027498e18f63bc0b487304a"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c07_ud",
+          "shotId": "c07_ud__s2"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "6d381e3693b74585e4e10a9059a4abc6296cfe9d1ebc0ec0f502b75b436ce2b3",
       "ext": "png",
       "kind": "shot_image",
@@ -2052,6 +2301,44 @@
         {
           "sceneId": "ud_break",
           "shotId": "ud_break__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "6e691c382848c07571231883e7d6fd26f91af56ffa0c5c85afa282d45c0d7ab1",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "bbdc13e99470850768d1153cafafdb50362be1e7fa89fadb85c66d25ffba0973",
+      "prompt": "Art style: Japanese anime. close shot in The Ashen Circle Haven (night). Subjects: Caedon Vale, wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear., expression: tender. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "c9207d8aa48e9c7d986407e69789d535364796907625ad8b127d9a3110a578cf",
+        "2539415100a19baab81804594905c50310943871222c230cdca9ca04dea7ddb0"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_ending",
+          "shotId": "wr_ending__s3"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "6fdfe25ed32779dcf758781abfb15ea828d2bc30e54166911af877e7dfcd10d6",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "fb58c06f095a9c0a7d19c9520ade5a50f01b905d5fc31f4403765b8ce1496b35",
+      "prompt": "Art style: Japanese anime. medium shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: emerging, breathing hard, expression: relieved but shaken. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "1482f706008b0f613e27d9fbe3fc1e76966c8e052a1862e15709330e0e7248e1",
+        "5b27e5e7f0e4350d5ba4269deafcac622a3510ed8027498e18f63bc0b487304a"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c07_wr",
+          "shotId": "c07_wr__s4"
         }
       ],
       "accepted": true
@@ -2199,6 +2486,25 @@
         {
           "sceneId": "c07_em",
           "shotId": "c07_em__s1"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "765aa35303f94d3ba0278fbd25d429b9d0e9a70e88f2e0deca139c96424f668d",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "c939aff1a0ed87e2e643c859c8bddfc3c01f0f6f3db18dfb99453ae07f4df576",
+      "prompt": "Art style: Japanese anime. medium shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: defensive, expression: alarmed. Render as a single illustrated frame, no UI text. Corrections: Remove the shadowy figure from the background.; Adjust the lighting to reflect a 'day' setting, perhaps by increasing overall illumination or introducing more prominent light sources consistent with daylight filtering in, while maintaining the atmospheric mood.; Reframe to a medium shot (roughly waist-up) focusing on Gideon.; Intensify the alarmed expression—wider eyes, more startled brows..",
+      "refs": [
+        "1482f706008b0f613e27d9fbe3fc1e76966c8e052a1862e15709330e0e7248e1",
+        "5b27e5e7f0e4350d5ba4269deafcac622a3510ed8027498e18f63bc0b487304a"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c07_is",
+          "shotId": "c07_is__s2"
         }
       ],
       "accepted": true
@@ -2516,6 +2822,25 @@
       "accepted": false
     },
     {
+      "hash": "8dbeee2389f6555e418627616b3b5a974d83fa69e199c984b799bdcd37ece381",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "74f487754ec1f07fc0463e419c999a1edfea85cde4a2013512d1563ee954ac57",
+      "prompt": "Art style: Japanese anime. medium shot in The Organization — Outer Works (night). Subjects: Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord., pose: advancing fiercely, expression: fierce resolve. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "cd896526928fb42d9d0c26f60b36afdb4caadc70b7cc076e19d1e38b08f36268",
+        "07276f859c6a4f7988df13091a21533334e8c7fe7055483a53237f9b5fe4946e"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_infiltration",
+          "shotId": "wr_infiltration__s2"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "92acfe4abc6939b6379836f203377bbde36cbaf8ccce713c5eed942f4a317dbd",
       "ext": "png",
       "kind": "shot_image",
@@ -2529,6 +2854,25 @@
         {
           "sceneId": "se_alliances",
           "shotId": "se_alliances__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "93a67cfa6f49008a25f15e9da1ffff8f8d05d6e0ba1eb7f3ed0e7b107544b4f9",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "9d362f21693e15a9de981a2a20f2e5508b79e8c2a72d90804b5b57c6541ed72a",
+      "prompt": "Art style: Japanese anime. medium shot in The College Woods (day). Subjects: Ember Kellan, wearing Ash-grey forge leathers scorched at the cuffs, sleeves rolled to bare her rust-scarred forearm, ember-orange sash of the Kiln-Sworn knotted at the hip., pose: turning to face, expression: intense. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "2a7a549c627b80c7c69f2958e34b7bbb578672b7ce29a4e1796a8a4aa44c7491",
+        "490599dbb80bb328ef37778ab184a855ec6529a2622f6a2956c480616ebf43dc"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c09_em",
+          "shotId": "c09_em__s2"
         }
       ],
       "accepted": true
@@ -2752,6 +3096,44 @@
       "accepted": false
     },
     {
+      "hash": "a3bde59fca2b1e29803ce6302cc94549316a1b58d39e8ef27769b1e9508e62c8",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "91197acd25f0065c9f82f0686730b9eba403a1f7b3818167d275470375577cdb",
+      "prompt": "Art style: Japanese anime. wide shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: combat. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "1482f706008b0f613e27d9fbe3fc1e76966c8e052a1862e15709330e0e7248e1",
+        "5b27e5e7f0e4350d5ba4269deafcac622a3510ed8027498e18f63bc0b487304a"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c07_se",
+          "shotId": "c07_se__s3"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "a3ca944f55dff70e47bb9a5273a5d3eae6acd989d5d4404f49b9ba855e879b53",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "2d6fa641810d5219666433780c2348b51c44ba8add616778cac3b735eb6b9c8f",
+      "prompt": "Art style: Japanese anime. wide shot in The College Woods (day). Subjects: Isolde Vorn, wearing A high-collared grey habit of Vorn cut, iron clasps, and a single iron key-pendant at the throat — austere, devout, unmarked by any Order's livery., pose: walking, expression: serene. Camera: following through mossed standing stones. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "2a7a549c627b80c7c69f2958e34b7bbb578672b7ce29a4e1796a8a4aa44c7491",
+        "094ee8c9815dd963a963618ab4191990d7db868186cc7bf7a7541d8e9253f229"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c09_is",
+          "shotId": "c09_is__s2"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "a515555053cfef23af626a286db2fd82d0802b280ab80cce58b9cf5b3c6cab2e",
       "ext": "png",
       "kind": "shot_image",
@@ -2883,6 +3265,25 @@
       "accepted": false
     },
     {
+      "hash": "aca625a60efc7f76147dbad75c0b01d0617fd546d75662e5b1d6d0ad07da00c8",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "c009710361e96b24630524701b2e2b7e5eceddd925c24bc3215c99630df124df",
+      "prompt": "Art style: Japanese anime. establishing shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, expression: alert. Render as a single illustrated frame, no UI text. Corrections: Ensure 'gideon_marsh' is clearly recognizable in the shot, potentially by adjusting the camera angle, character pose, or level of detail on the character to match the provided reference image for Gideon Marsh.; Adjust the character's pose and visibility to allow for the 'alert' expression to be discernible, consistent with 'gideon_marsh' being recognizable.; Ensure the character's outfit is visible and matches the 'everyday' attire specified for 'gideon_marsh', while also addressing the character recognition issue.; Add some light/rim lighting on the character or turn him partially toward camera so his features and outfit are identifiable.; Reposition the character so the alert expression is readable.; Illuminate the character to show the outfit details..",
+      "refs": [
+        "1482f706008b0f613e27d9fbe3fc1e76966c8e052a1862e15709330e0e7248e1",
+        "5b27e5e7f0e4350d5ba4269deafcac622a3510ed8027498e18f63bc0b487304a"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c07_se",
+          "shotId": "c07_se__s1"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "acaf8041c5ef3abc67028fc5998f8d1685f1438b7a20ab0648d364ded0137d63",
       "ext": "png",
       "kind": "shot_image",
@@ -2932,6 +3333,25 @@
         {
           "sceneId": "c01_arrival",
           "shotId": "c01_arrival__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "aeb1359de3cb136d84e941db81d441a5409643c2a23feaa68a2ee82480705d8a",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "bbdc13e99470850768d1153cafafdb50362be1e7fa89fadb85c66d25ffba0973",
+      "prompt": "Art style: Japanese anime. close shot in The Ashen Circle Haven (night). Subjects: Caedon Vale, wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear., expression: tender. Render as a single illustrated frame, no UI text. Corrections: Adjust the framing to be 'close', focusing on the character's upper body (head and shoulders or waist up) as per the specification.; Revise the character's expression to clearly display tenderness, aligning with the specification.; Reframe to a close-up on the face/upper body.; Render a soft, tender expression matching the narrative tone.; Match the college_uniform emblem and keep it clean..",
+      "refs": [
+        "c9207d8aa48e9c7d986407e69789d535364796907625ad8b127d9a3110a578cf",
+        "2539415100a19baab81804594905c50310943871222c230cdca9ca04dea7ddb0"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_ending",
+          "shotId": "wr_ending__s3"
         }
       ],
       "accepted": true
@@ -2993,6 +3413,25 @@
       "accepted": true
     },
     {
+      "hash": "b0615cfec1f9633462994c0bae02c3368e7d9fe1313899c008022d4ad2b1ee50",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "2e3096d8f106544b2c44f118bf28384211822953b1a60f678ae8735f3052b6cb",
+      "prompt": "Art style: Japanese anime. wide shot in The Organization — Outer Works (night). Subjects: Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord., pose: commanding, arm raised, expression: steadfast. Camera: sweeping across battle line. Render as a single illustrated frame, no UI text. Corrections: Remove all characters from the frame except Wren Ashfield.; Adjust Wren Ashfield's outfit to precisely match the 'warrens' outfit shown in the reference image, specifically the hooded cape over a tunic/dress rather than a heavy coat.; Align coat/cloak silhouette closer to the reference design if strict outfit fidelity is required..",
+      "refs": [
+        "cd896526928fb42d9d0c26f60b36afdb4caadc70b7cc076e19d1e38b08f36268",
+        "07276f859c6a4f7988df13091a21533334e8c7fe7055483a53237f9b5fe4946e"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_infiltration",
+          "shotId": "wr_infiltration__s4"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "b14415d87a9aedf1e1375940d335f578a052c0c1e0ae30df1d8445d5a0af8fed",
       "ext": "png",
       "kind": "shot_image",
@@ -3009,6 +3448,25 @@
         }
       ],
       "accepted": false
+    },
+    {
+      "hash": "b23606bc0b982dee165a69b3918868d1759aa59ec3fedccae3da841f7c63efb5",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "fb2a41654316cd71dce838497b5f0afb28c552b9124a7420c9222a8f91c43e09",
+      "prompt": "Art style: Japanese anime. close shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: defensive, expression: shocked. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "1482f706008b0f613e27d9fbe3fc1e76966c8e052a1862e15709330e0e7248e1",
+        "5b27e5e7f0e4350d5ba4269deafcac622a3510ed8027498e18f63bc0b487304a"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c07_se",
+          "shotId": "c07_se__s2"
+        }
+      ],
+      "accepted": true
     },
     {
       "hash": "b311597c20aace90c2f1596998ff35462f486256ddad73bec78033380253d7b3",
@@ -3285,6 +3743,25 @@
       "accepted": false
     },
     {
+      "hash": "c0a6f12c4631f9e20b8e7a11dbf014aea7611f94d2dc8b8045722a1cf038da4f",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "f70fde7bf3a5ec2c1a906b4bc4786862aa78c66452ed7b4f17181a97faf7e140",
+      "prompt": "Art style: Japanese anime. medium shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: weapon drawn, turning, expression: alarmed. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "1482f706008b0f613e27d9fbe3fc1e76966c8e052a1862e15709330e0e7248e1",
+        "5b27e5e7f0e4350d5ba4269deafcac622a3510ed8027498e18f63bc0b487304a"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c07_wr",
+          "shotId": "c07_wr__s2"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "c0f501946bad273140ee0d4da7f0edb786d4e94932690b202295cd328c63860e",
       "ext": "png",
       "kind": "shot_image",
@@ -3318,6 +3795,25 @@
         {
           "sceneId": "wr_ending",
           "shotId": "wr_ending__s2"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "c38169f07ce882eb00a4798599cdd91260e07d613b3979d7a89dd88ac61595d6",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "8de5c80ac6a2d34cdc108877aff039b96a631025fadffb2812a17fb8b0d235d1",
+      "prompt": "Art style: Japanese anime. close shot in The College Woods (day). Subjects: Isolde Vorn, wearing A high-collared grey habit of Vorn cut, iron clasps, and a single iron key-pendant at the throat — austere, devout, unmarked by any Order's livery., pose: turning to speak, expression: thoughtful. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "2a7a549c627b80c7c69f2958e34b7bbb578672b7ce29a4e1796a8a4aa44c7491",
+        "094ee8c9815dd963a963618ab4191990d7db868186cc7bf7a7541d8e9253f229"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c09_is",
+          "shotId": "c09_is__s3"
         }
       ],
       "accepted": true
@@ -3398,6 +3894,25 @@
       "accepted": true
     },
     {
+      "hash": "c515c6ba9cd9b4482c3a1b75853db6e70e7b944b30969543c0793fcccc8ca872",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "c54eefbfc1e730e2666cd8a9cf3f571faa5765f8643912a6e38d3b149e76d9a7",
+      "prompt": "Art style: Japanese anime. medium shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: catching breath, expression: battered but resolute. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "1482f706008b0f613e27d9fbe3fc1e76966c8e052a1862e15709330e0e7248e1",
+        "5b27e5e7f0e4350d5ba4269deafcac622a3510ed8027498e18f63bc0b487304a"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c07_ud",
+          "shotId": "c07_ud__s4"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "c5f63f0281a2b98dec93275a1efa404ed2226cd50d40fa779eec17fd9950e84e",
       "ext": "png",
       "kind": "shot_image",
@@ -3412,6 +3927,25 @@
         {
           "sceneId": "c07_se",
           "shotId": "c07_se__s1"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "c6b2975063fd084b90161878f9823cfef623c0a0437700102ffb54d46c2ae08f",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "888fd9571c036f2b83b6c32e2833188ef4b2b9e894f43caaa804729b46e44cc4",
+      "prompt": "Art style: Japanese anime. close shot in The Organization — Outer Works (night). Subjects: Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord., pose: speaking sharply, expression: defiant. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "cd896526928fb42d9d0c26f60b36afdb4caadc70b7cc076e19d1e38b08f36268",
+        "07276f859c6a4f7988df13091a21533334e8c7fe7055483a53237f9b5fe4946e"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_infiltration",
+          "shotId": "wr_infiltration__s3"
         }
       ],
       "accepted": true
@@ -3503,6 +4037,25 @@
         {
           "sceneId": "c03_the_friend_group",
           "shotId": "c03_the_friend_group__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "cc49071e408738f312f496baffaa1ddeb5c0b705e3fba7198f97d1d9819f551a",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "44fdd8b4a0badbd00db86124702fe0bc83b27ed5c71840a6eb969966c788059c",
+      "prompt": "Art style: Japanese anime. medium shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: battered, expression: weary. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "1482f706008b0f613e27d9fbe3fc1e76966c8e052a1862e15709330e0e7248e1",
+        "5b27e5e7f0e4350d5ba4269deafcac622a3510ed8027498e18f63bc0b487304a"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c07_se",
+          "shotId": "c07_se__s4"
         }
       ],
       "accepted": true
@@ -3631,6 +4184,25 @@
         {
           "sceneId": "c09_is",
           "shotId": "c09_is__s2"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "d2b8846a41fe62ff42688b795ac6d1953dc8a93ef09ef9a4c79f04ad9ccbb723",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "a86c1ca377a2d9267a2832ecfd9617f38f46e0a6b72c219e4ca0477f471a9539",
+      "prompt": "Art style: Japanese anime. wide shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: bracing. Camera: dynamic action. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "1482f706008b0f613e27d9fbe3fc1e76966c8e052a1862e15709330e0e7248e1",
+        "5b27e5e7f0e4350d5ba4269deafcac622a3510ed8027498e18f63bc0b487304a"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c07_em",
+          "shotId": "c07_em__s3"
         }
       ],
       "accepted": true
@@ -3798,6 +4370,26 @@
       "accepted": false
     },
     {
+      "hash": "ddca8f1bae537754a99f1e2f18d4ebb82a1a4ed5c54c93fb56fd8edd38d8ddc5",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "108ddf4d8d0edc230a6aed878e0e122963ab81da4877c26b9ef3c786c4c9eaeb",
+      "prompt": "Art style: Japanese anime. establishing shot in The Ashen Circle Haven (night). Subjects: Caedon Vale, wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear.; Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord.. Camera: wide hearth glow. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "c9207d8aa48e9c7d986407e69789d535364796907625ad8b127d9a3110a578cf",
+        "2539415100a19baab81804594905c50310943871222c230cdca9ca04dea7ddb0",
+        "07276f859c6a4f7988df13091a21533334e8c7fe7055483a53237f9b5fe4946e"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_ending",
+          "shotId": "wr_ending__s1"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "de2cf03259dbff43a216014ffb299976b8d8c7d989f08a1aa17ced2c3fe17fe6",
       "ext": "png",
       "kind": "shot_image",
@@ -3871,6 +4463,25 @@
         }
       ],
       "accepted": true
+    },
+    {
+      "hash": "e3b882092680f719e86f2fd5e2a9c79c5903902c21a70c5c213157cbdb4d9c96",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "7f54f37db4fddc8100f404564b889557ecfcec607be3561f95560a69be226d44",
+      "prompt": "Art style: Japanese anime. wide shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: mid-combat. Camera: dynamic. Render as a single illustrated frame, no UI text. Corrections: Ensure Gideon Marsh's forearm scars, as depicted in the character reference, are present in the generated image.; Re-generate the character to accurately depict Gideon Marsh's 'everyday' outfit, including the specific tunic design, straps, badge, and ensuring no un-specified elements like glowing tech are present.; Optional: reduce emphasis on weapon if not intended..",
+      "refs": [
+        "1482f706008b0f613e27d9fbe3fc1e76966c8e052a1862e15709330e0e7248e1",
+        "5b27e5e7f0e4350d5ba4269deafcac622a3510ed8027498e18f63bc0b487304a"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c07_ud",
+          "shotId": "c07_ud__s3"
+        }
+      ],
+      "accepted": false
     },
     {
       "hash": "e44a43d81c1014e178b237c46ecc3099b9b332459f54b1eab4fe6aa58a4e1a55",
@@ -3982,6 +4593,25 @@
       "accepted": false
     },
     {
+      "hash": "ecab944851c8773895752ae43b2fc51c951a8b98dafe22921b8c933d30eb72e3",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "c30cb96c1fa0a618618a344dea7ceb26d1e7ef0710a11aa5fc4c914ad4739a0c",
+      "prompt": "Art style: Japanese anime. wide shot in The College Woods (day). Subjects: Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord., pose: leading, expression: focused. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "2a7a549c627b80c7c69f2958e34b7bbb578672b7ce29a4e1796a8a4aa44c7491",
+        "07276f859c6a4f7988df13091a21533334e8c7fe7055483a53237f9b5fe4946e"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c09_wr",
+          "shotId": "c09_wr__s2"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "eed0a9cbd9102ab181672b975b9affa3b4938d6c0734c5ddc6521dc62fc3893d",
       "ext": "png",
       "kind": "shot_image",
@@ -4018,6 +4648,25 @@
       "accepted": false
     },
     {
+      "hash": "f00fa6f2f4c1d2fbfe0313c10ea159885fb3522b735c4255038d90d47a6972b7",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "2e3096d8f106544b2c44f118bf28384211822953b1a60f678ae8735f3052b6cb",
+      "prompt": "Art style: Japanese anime. wide shot in The Organization — Outer Works (night). Subjects: Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord., pose: commanding, arm raised, expression: steadfast. Camera: sweeping across battle line. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "cd896526928fb42d9d0c26f60b36afdb4caadc70b7cc076e19d1e38b08f36268",
+        "07276f859c6a4f7988df13091a21533334e8c7fe7055483a53237f9b5fe4946e"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_infiltration",
+          "shotId": "wr_infiltration__s4"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "f1bb3c05bcb08a95588c1c0ee256354901d47ad3c5fa1206a820f15140353028",
       "ext": "png",
       "kind": "shot_image",
@@ -4031,6 +4680,25 @@
         {
           "sceneId": "wr_alliances",
           "shotId": "wr_alliances__s1"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "f30ca1d1a55ffdbb1eef35514e00fd745068ecdd886a795353ecb9ac15fe32cf",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "b215d15c92d3d9cb1d5df99ecda438e7ae9ecde63fe5fca4908816e7571baf9c",
+      "prompt": "Art style: Japanese anime. wide shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: fighting, expression: focused. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "1482f706008b0f613e27d9fbe3fc1e76966c8e052a1862e15709330e0e7248e1",
+        "5b27e5e7f0e4350d5ba4269deafcac622a3510ed8027498e18f63bc0b487304a"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c07_is",
+          "shotId": "c07_is__s3"
         }
       ],
       "accepted": true
@@ -4177,6 +4845,44 @@
         {
           "sceneId": "opening",
           "shotId": "opening__s1"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "fe78d289326cbf5489a6e1f5a704761dcfcb67426fcf77c147081d94686be168",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "c009710361e96b24630524701b2e2b7e5eceddd925c24bc3215c99630df124df",
+      "prompt": "Art style: Japanese anime. establishing shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, expression: alert. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "1482f706008b0f613e27d9fbe3fc1e76966c8e052a1862e15709330e0e7248e1",
+        "5b27e5e7f0e4350d5ba4269deafcac622a3510ed8027498e18f63bc0b487304a"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c07_se",
+          "shotId": "c07_se__s1"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "ff583d0bcae5977acbaa04364c109a0b3698ababaacab7141741c889de854b08",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "7f54f37db4fddc8100f404564b889557ecfcec607be3561f95560a69be226d44",
+      "prompt": "Art style: Japanese anime. wide shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: mid-combat. Camera: dynamic. Render as a single illustrated frame, no UI text. Corrections: Remove the additional character from the scene, ensuring only 'gideon_marsh' is present as specified.; Remove the second figure on the right so only Gideon Marsh is in frame.; Give the single subject a clear, complete pose and eliminate the ambiguous secondary figure..",
+      "refs": [
+        "1482f706008b0f613e27d9fbe3fc1e76966c8e052a1862e15709330e0e7248e1",
+        "5b27e5e7f0e4350d5ba4269deafcac622a3510ed8027498e18f63bc0b487304a"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c07_ud",
+          "shotId": "c07_ud__s3"
         }
       ],
       "accepted": true

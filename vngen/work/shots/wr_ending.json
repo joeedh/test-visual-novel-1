@@ -21,9 +21,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in The Ashen Circle Haven (night). Subjects: Caedon Vale, wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear.; Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord.. Camera: wide hearth glow. Render as a single illustrated frame, no UI text.",
-        "image": "aa67d3253ab9658fcecd5b39095e55aff583677c177f211eec42c2eb50247057",
+        "image": "ddca8f1bae537754a99f1e2f18d4ebb82a1a4ed5c54c93fb56fd8edd38d8ddc5",
         "proseHash": "c694aaa61fd7a2edeb25d364d53ee5f5032c313c4e576106e5ada0742a383701",
-        "status": "needs_human"
+        "status": "accepted"
       }
     },
     {
@@ -47,7 +47,7 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. medium shot in The Ashen Circle Haven (night). Subjects: Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord., pose: holding hands, expression: softened; Caedon Vale, wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear., pose: holding hands. Render as a single illustrated frame, no UI text.",
-        "image": "c4dae87c8e710f292948d048835acbe97175def1a8469909a9b58696313e1d72",
+        "image": "0fa0e1a94da385b91820434d1b41c27363f6071b444dccfa32f84cf1955cb597",
         "proseHash": "420fec9f70fdd31eb642c108d06f431d1586d190f020fe88733774fd5c6c6f3a",
         "status": "accepted"
       }
@@ -68,7 +68,7 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. close shot in The Ashen Circle Haven (night). Subjects: Caedon Vale, wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear., expression: tender. Render as a single illustrated frame, no UI text.",
-        "image": "0ee10042ec03bdc3ab2e08da904a82bdc76472a729717b45fc4645e78f2a1434",
+        "image": "aeb1359de3cb136d84e941db81d441a5409643c2a23feaa68a2ee82480705d8a",
         "proseHash": "f871bf8e11de37a9451e854ed05bc329411123ec508216fdb06284e4e1419656",
         "status": "accepted"
       }
@@ -89,7 +89,7 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. close shot in The Ashen Circle Haven (night). Subjects: Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord., expression: trusting. Render as a single illustrated frame, no UI text.",
-        "image": "11b39ef2cc2e15e464c8990688e3a5fde9e6e237144e19d116cae2faa4b81a03",
+        "image": "5150bcbbb6e4a909841edd62c1ec9756c53f0523fa070c679f016850736ca228",
         "proseHash": "c3108901eef603e110c6bda812062cdf9941c137aec99f0680e43b83961c56b4",
         "status": "accepted"
       }
@@ -114,7 +114,7 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. wide shot in The Ashen Circle Haven (night). Subjects: Caedon Vale, wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear., pose: vows; Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord., pose: vows. Render as a single illustrated frame, no UI text.",
-        "image": "afe7384841a2c96083629ce11a5c56ee9480533626c44ddf3fcbb4032a93aad6",
+        "image": "3bce1445215beed45e88b6aecb9d9c48127d48852c5338fd2687ea611bcf711c",
         "proseHash": "546ba5cd47712b5bde6907063a330fa7c095cfafeeebcf50c66fa373b339bd2b",
         "status": "accepted"
       }

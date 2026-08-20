@@ -18,6 +18,24 @@
       "accepted": true
     },
     {
+      "hash": "023027f6b7a7c4900a8427dc6ec22b062bb79d2eb4586a21f7167412bf57ce15",
+      "ext": "png",
+      "kind": "model_sheet",
+      "sourceTask": "bb0bef2141b22f93a97e4d82c064e914bc20a343b7f4d7c46117390146902c4f",
+      "prompt": "Art style: Japanese anime. Full-body side view of Silas Thorn wearing A slate-grey Cog-College master's gown over a high-collared brass-buttoned waistcoat, a licensed Governor gauntlet locked to his left forearm, acid-stained gloves tucked at his belt.. Preserve the exact face and look from the reference image. A gaunt, severe man in his late fifties, Professor Silas Thorn teaches the theory and discipline of Governors at the Cog-College — the brass-and-crystal regulators that meter a channeler's flow. Ferran to the bone and a devoted man of the Regulen Concord, he believes utterly that only measured power is safe power, and he drills that creed into every student who passes through his laboratory. His long fingers are stained with crystal-etching acid and his forearm bears a licensed Governor he has never once removed in public. Thorn is exacting, cold, and quietly brilliant; he has forgotten more about the mechanics of the Weave than most channelers ever learn. Beneath the rigor is an old grief — a former student who burned out under his instruction — that he has sealed away behind procedure. He distrusts the Kiln-Sworn as heretics and the Ashen Circle as criminals, and he watches any student who leans toward raw Vash with the wariness of a man who has seen where it ends. Palette: #8a8f98, #b5a642, #2b2f36, #e8e6df. Art direction: gaunt severe older man, deep-set eyes, close-cropped grey hair, austere Ferran bearing Neutral background, consistent lighting, turnaround model-sheet style.",
+      "refs": [
+        "b31220dbaa7ebcffcf526624d35cde494d6532822d652efbd9d8cd5b19cae867"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "professor_silas_thorn",
+          "outfit": "college_gown"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "0472f47cb312b250a63bb90cd1f3bddc13e68b07e0b2c86b4fde4c5db518dfaf",
       "ext": "png",
       "kind": "location_ref",
@@ -32,6 +50,24 @@
         }
       ],
       "accepted": true
+    },
+    {
+      "hash": "053246f90cc9e2b1379cace4e9c822025a57d0974e888eaa4889d9084cb61f67",
+      "ext": "png",
+      "kind": "model_sheet",
+      "sourceTask": "444008bc9ecff8c8ce2c1814a27ca6adb77c79c173e47edc08a73d31b05c9810",
+      "prompt": "Art style: Japanese anime. Full-body back view of Gideon Marsh wearing what they wear in most scenes — silhouette, colour, one detail that is theirs. Preserve the exact face and look from the reference image. Gideon Marsh is a broad-shouldered, steady-handed Cog-College student from the Saltbound Crownland, the son of a harbor-city shipwright. Where others chase power, Gideon chases competence: he is the group's anchor, slow to anger and impossible to rattle. Sela-strong in the Stone Thread, he favors structural weaves — bracing, binding, mending — and dreams of building airship keels rather than fighting. He wears his Governor without complaint and thinks the Concord's rules are mostly sensible, which puts him at odds with the hotter heads around him. Loyal to a fault, he is the friend who carries the wounded and pays the tab. Broad face, sun-weathered from a childhood on the docks, close-cropped brown hair, and forearms scarred from foundry work. Palette: #2e5266, #6e8898, #c9a227, #e8e6df. Neutral background, consistent lighting, turnaround model-sheet style.",
+      "refs": [
+        "5b27e5e7f0e4350d5ba4269deafcac622a3510ed8027498e18f63bc0b487304a"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "gideon_marsh",
+          "outfit": "everyday"
+        }
+      ],
+      "accepted": false
     },
     {
       "hash": "068eb4f76f453fc55447085e8946bdf88ab67cad889cff0bedd796eec3a18981",
@@ -96,6 +132,24 @@
         }
       ],
       "accepted": true
+    },
+    {
+      "hash": "0c04113fcf8ae725f6f420ed1bc71fb6d4b136a9c195da8281a7dc05a76cc6ab",
+      "ext": "png",
+      "kind": "model_sheet",
+      "sourceTask": "e7d5f1df5b231b8f39ccd839a9be32e8ed760f3cca526dd19a80c254b49180bf",
+      "prompt": "Art style: Japanese anime. Full-body side view of Professor Mirabel Quist wearing A practical leather apron over a slate-grey work dress, sleeves rolled and buckled back, a bandolier of fine tools across the chest, brass Governor-gauntlet on one forearm, jeweler's loupe pushed up on the forehead.. Preserve the exact face and look from the reference image. Professor Mirabel Quist is the Cog-College's mistress of Governors — the artificer-scholar who teaches the theory and craft of the brass-and-crystal regulators that meter a channeler's flow. A wiry woman in her fifties with cropped iron-grey hair, ink-stained fingers, and a jeweler's loupe forever pushed up on her forehead, she moves through her workshop amid a clutter of half-built gauntlets, crystal blanks, and pressure gauges. Sela-strong and Concord-trained, she believes fervently that measured power is the only safe power, yet she is no dogmatist: she quietly studies the failures of Governors, including the ones the Concord would rather bury. Warm, blunt, and endlessly curious, she treats students as apprentices and machines as puzzles. She is the professor most likely to notice when a student's talent outruns their Governor — and the one who understands exactly how dangerous that is. Palette: #b08d57, #d8d8d8, #3a4a5a, #7a6a55. Neutral background, consistent lighting, turnaround model-sheet style.",
+      "refs": [
+        "63db430f3b664d4cea56f08ef6454d9329f0b68854ab8d84b316873bac549ab1"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "professor_mirabel_quist",
+          "outfit": "workshop"
+        }
+      ],
+      "accepted": false
     },
     {
       "hash": "0c12f20626a1be8315913e7d4b89cc226b4dca8ca790225e21888a519e9e83bc",
@@ -489,6 +543,24 @@
       "accepted": true
     },
     {
+      "hash": "2b00f57074beeaab89bed58fa5daf14f07d862d313a40d0ea45931d92bf62675",
+      "ext": "png",
+      "kind": "model_sheet",
+      "sourceTask": "db3f00fccb18200ece2453ef6b5071c416256abef9e49cc7e14a323ea846abc0",
+      "prompt": "Art style: Japanese anime. Full-body front view of Ember Kellan wearing Ash-grey forge leathers scorched at the cuffs, sleeves rolled to bare her rust-scarred forearm, ember-orange sash of the Kiln-Sworn knotted at the hip.. Preserve the exact face and look from the reference image. A Kiln-Sworn forge-prodigy from the Vashan Dominion, Ember is Vash-strong and channels raw, ungoverned current with a reckless brilliance that terrifies her instructors. Broad-shouldered and sun-dark, with close-cropped copper hair and the first faint rust-scarring already tracing her right forearm — a mark she wears like a dare. She grew up in Cinderhold's forge-quarters, tending engine-fires before she could read, and came to the Cog-College half as a prodigy and half as a Dominion test of whether their heresy could be tamed by Ferran licensing. It cannot. Hot-tempered, loyal, and allergic to caution, she believes power is meant to be spent, not metered — and privately fears how little time the Rust will leave her. Beneath the swagger is someone who loves fiercely because she does not expect to love long. Palette: #c8531b, #e8912d, #3a2418, #8a8175. Neutral background, consistent lighting, turnaround model-sheet style.",
+      "refs": [
+        "490599dbb80bb328ef37778ab184a855ec6529a2622f6a2956c480616ebf43dc"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "ember_kellan",
+          "outfit": "college_leathers"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "2e9be6bdaafa1b1818b28e4f1c87585f5426d1f32ed3b3362f2ae768435d47a8",
       "ext": "png",
       "kind": "location_ref",
@@ -647,6 +719,24 @@
         }
       ],
       "accepted": true
+    },
+    {
+      "hash": "3cbc009df312086dbd360a3e2cdc2117e6386a474c5fdd3e646e6a2cb783a866",
+      "ext": "png",
+      "kind": "model_sheet",
+      "sourceTask": "9f691eec2dd9e66fe8371a3a1c91325da897fe63c38c8f8dc19734f7443f622d",
+      "prompt": "Art style: Japanese anime. Full-body side view of Wren Ashfield wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord.. Preserve the exact face and look from the reference image. Wren Ashfield is a wiry, quick-eyed young woman of the Ashen Circle underground — a burned-out talent who channels anyway, without a Governor, and pays for it. Raised in the soot-warrens beneath Cograuncy, she is a fugitive by birth: her mother was severed by the Assayers, and Wren has spent her life one filed-smooth cog-token ahead of the Grey Hands. She smuggles the hunted through the cloudlanes and trades in forbidden weaves. Sharp, wary, and fiercely loyal to the discarded, she hides a raw Vash strength she can no longer safely hold. Her hands bear the first faint bloom of Rust-scarring, which she keeps gloved. Beneath the guardedness is a starved hunger to be trusted by someone who won't sell her. Palette: #3a3f44, #6b7280, #b45309, #d97706, #1f2937. Neutral background, consistent lighting, turnaround model-sheet style.",
+      "refs": [
+        "07276f859c6a4f7988df13091a21533334e8c7fe7055483a53237f9b5fe4946e"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "wren_ashfield",
+          "outfit": "warrens"
+        }
+      ],
+      "accepted": false
     },
     {
       "hash": "3d0c1bc64b4d1f7d38bb360a82dc8d84c39caedeae803aede3bbf39df1b46547",
@@ -877,6 +967,24 @@
       "accepted": true
     },
     {
+      "hash": "4837515d78073ab22eb1248ee3dfe07b954cfc61e97ad5fb4bb292cac8de3d51",
+      "ext": "png",
+      "kind": "model_sheet",
+      "sourceTask": "8eaa4314b36d4fbba39effea2370f790827d8fdce0d12f47e7bea1f9f449dba7",
+      "prompt": "Art style: Japanese anime. Full-body side view of Gideon Marsh wearing what they wear in most scenes — silhouette, colour, one detail that is theirs. Preserve the exact face and look from the reference image. Gideon Marsh is a broad-shouldered, steady-handed Cog-College student from the Saltbound Crownland, the son of a harbor-city shipwright. Where others chase power, Gideon chases competence: he is the group's anchor, slow to anger and impossible to rattle. Sela-strong in the Stone Thread, he favors structural weaves — bracing, binding, mending — and dreams of building airship keels rather than fighting. He wears his Governor without complaint and thinks the Concord's rules are mostly sensible, which puts him at odds with the hotter heads around him. Loyal to a fault, he is the friend who carries the wounded and pays the tab. Broad face, sun-weathered from a childhood on the docks, close-cropped brown hair, and forearms scarred from foundry work. Palette: #2e5266, #6e8898, #c9a227, #e8e6df. Neutral background, consistent lighting, turnaround model-sheet style.",
+      "refs": [
+        "5b27e5e7f0e4350d5ba4269deafcac622a3510ed8027498e18f63bc0b487304a"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "gideon_marsh",
+          "outfit": "everyday"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "490599dbb80bb328ef37778ab184a855ec6529a2622f6a2956c480616ebf43dc",
       "ext": "png",
       "kind": "portrait",
@@ -890,6 +998,24 @@
         }
       ],
       "accepted": true
+    },
+    {
+      "hash": "4920e2fe67a2b786d84c8bd5b838d5a021337609df9fb2233141e6fbcfae33e6",
+      "ext": "png",
+      "kind": "model_sheet",
+      "sourceTask": "e7b98e27bd6cc10f0679dfad10f2c0afb507d28308f34c2846a916e86aae7b0b",
+      "prompt": "Art style: Japanese anime. Full-body back view of Professor Mirabel Quist wearing A practical leather apron over a slate-grey work dress, sleeves rolled and buckled back, a bandolier of fine tools across the chest, brass Governor-gauntlet on one forearm, jeweler's loupe pushed up on the forehead.. Preserve the exact face and look from the reference image. Professor Mirabel Quist is the Cog-College's mistress of Governors — the artificer-scholar who teaches the theory and craft of the brass-and-crystal regulators that meter a channeler's flow. A wiry woman in her fifties with cropped iron-grey hair, ink-stained fingers, and a jeweler's loupe forever pushed up on her forehead, she moves through her workshop amid a clutter of half-built gauntlets, crystal blanks, and pressure gauges. Sela-strong and Concord-trained, she believes fervently that measured power is the only safe power, yet she is no dogmatist: she quietly studies the failures of Governors, including the ones the Concord would rather bury. Warm, blunt, and endlessly curious, she treats students as apprentices and machines as puzzles. She is the professor most likely to notice when a student's talent outruns their Governor — and the one who understands exactly how dangerous that is. Palette: #b08d57, #d8d8d8, #3a4a5a, #7a6a55. Neutral background, consistent lighting, turnaround model-sheet style.",
+      "refs": [
+        "63db430f3b664d4cea56f08ef6454d9329f0b68854ab8d84b316873bac549ab1"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "professor_mirabel_quist",
+          "outfit": "workshop"
+        }
+      ],
+      "accepted": false
     },
     {
       "hash": "4a56bcd697336b8854d022cb1bc8de23ea3b25361a24845a11b28e420947e12b",
@@ -992,6 +1118,24 @@
       "accepted": true
     },
     {
+      "hash": "525d8b337aa9b0e1757621abeefc495d39bd35f0701183fcf45aac65e53413ee",
+      "ext": "png",
+      "kind": "model_sheet",
+      "sourceTask": "ee47441267100c8d7b5f2ea599446774da5971844b2208099c21aedff364eee0",
+      "prompt": "Art style: Japanese anime. Full-body side view of Tobias Renn wearing Regulen Concord student's work clothes: a brass-and-slate canvas apron over a rolled-sleeve linen shirt, heavy leather gloves tucked in the belt, and a licensed brass Governor gauntlet on the right forearm.. Preserve the exact face and look from the reference image. Tobias Renn is a broad-shouldered, good-natured Cog-College student in his late teens, the protagonist's steadiest friend. Ferran-born to a family of furnace-engineers, he is Sela-strong and Concord-trained, more comfortable with a Governor bolted to his forearm than without it. Practical, loyal, and slow to anger, he is the anchor of the friend group — the one who reads the manual, checks the pressure gauges, and hauls everyone out of trouble. He has close-cropped sandy hair, a square honest face often smudged with engine grease, and forearms scarred from workshop burns. He dreams of designing a new class of aether furnace rather than fighting anyone's war. Palette: #b5893f, #5a5f66, #2f333a, #d8c9a8. Neutral background, consistent lighting, turnaround model-sheet style.",
+      "refs": [
+        "1a2bdf64fde2faa8a165bb4fd788e53186ca537ccbbae38b5ce85cb6177729e3"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "tobias_renn",
+          "outfit": "college_workshop"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "52b03a948745bde30c4d776674f30d68f8b1884bb4a98da71a246d88aa5ca05a",
       "ext": "png",
       "kind": "portrait",
@@ -1085,6 +1229,42 @@
         }
       ],
       "accepted": true
+    },
+    {
+      "hash": "5959732432e7049d76a050d4453fb10f1a5f7a3c03cd0850ae2f09bf27ffc377",
+      "ext": "png",
+      "kind": "model_sheet",
+      "sourceTask": "24e6d6e863abdf5bc9f6cbfa7dac3a2ddb62361f6ea99f9e1df2c9cc43529632",
+      "prompt": "Art style: Japanese anime. Full-body side view of Auria Coyle wearing High-collared slate-and-white coat of office over a charcoal waistcoat, brass circlet on coiled silver hair, a ceremonial Governor gauntlet on the left forearm, iron College keys at the belt.. Preserve the exact face and look from the reference image. Headmistress of the Cog-College, a woman in her late fifties who wears authority like a well-oiled mechanism. Auria rose through the Regulen Concord as a Sela-strong administrator rather than a battle-channeler, and she runs the College the way the Ferran Ascendancy likes its institutions run: metered, licensed, and accountable. Silver hair coiled tight beneath a brass circlet, a high slate-and-white coat of office, and a Governor gauntlet she rarely needs but always wears as a symbol. She is shrewd, fair, and quietly political — she must keep Concord inspectors, Dominion recruiters, and half a dozen monarchies' heirs all under one roof without the place burning down. Beneath the protocol is genuine care for her students and an old, private doubt about what the Assayers do with those the College severs. Palette: #5a6472, #f2f0ea, #b08d55, #2b2f36. Neutral background, consistent lighting, turnaround model-sheet style.",
+      "refs": [
+        "43c226e96b96be027bd11f711a16061e78bf1f663659fd1a0da6f80c04da4e7f"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "headmistress_auria_coyle",
+          "outfit": "office"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "5a406fdf960b8ab6548ff95d336f7eccb58fe9bc17dc0aca94fb279370d341d9",
+      "ext": "png",
+      "kind": "model_sheet",
+      "sourceTask": "ab3995942895a29204861511b655f43ce307c863e49f06e51811f34486798cc4",
+      "prompt": "Art style: Japanese anime. Full-body side view of Ember Kellan wearing Ash-grey forge leathers scorched at the cuffs, sleeves rolled to bare her rust-scarred forearm, ember-orange sash of the Kiln-Sworn knotted at the hip.. Preserve the exact face and look from the reference image. A Kiln-Sworn forge-prodigy from the Vashan Dominion, Ember is Vash-strong and channels raw, ungoverned current with a reckless brilliance that terrifies her instructors. Broad-shouldered and sun-dark, with close-cropped copper hair and the first faint rust-scarring already tracing her right forearm — a mark she wears like a dare. She grew up in Cinderhold's forge-quarters, tending engine-fires before she could read, and came to the Cog-College half as a prodigy and half as a Dominion test of whether their heresy could be tamed by Ferran licensing. It cannot. Hot-tempered, loyal, and allergic to caution, she believes power is meant to be spent, not metered — and privately fears how little time the Rust will leave her. Beneath the swagger is someone who loves fiercely because she does not expect to love long. Palette: #c8531b, #e8912d, #3a2418, #8a8175. Neutral background, consistent lighting, turnaround model-sheet style.",
+      "refs": [
+        "490599dbb80bb328ef37778ab184a855ec6529a2622f6a2956c480616ebf43dc"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "ember_kellan",
+          "outfit": "college_leathers"
+        }
+      ],
+      "accepted": false
     },
     {
       "hash": "5b27e5e7f0e4350d5ba4269deafcac622a3510ed8027498e18f63bc0b487304a",
@@ -1196,6 +1376,24 @@
         {
           "characterId": "seraphine_halcyon",
           "outfit": "college_indigo"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "636e04bea7a8e0a25884237105838f141c434156f2af5a9cd07f52373440f9d3",
+      "ext": "png",
+      "kind": "model_sheet",
+      "sourceTask": "54a04639157579dcde080ddcad933aa58a2af61f800888cd87cd4c484a167b46",
+      "prompt": "Art style: Japanese anime. Full-body front view of Pip Calloway wearing Patched Cog-College undergraduate coat two sizes too big, sleeves rolled, pockets bulging with tools and stolen odds; scuffed boots, a leather tool-roll slung across the chest, amber-and-white Amberline kerchief at the throat.. Preserve the exact face and look from the reference image. The youngest and smallest of the friend-circle, Pip Calloway is a wiry Amberline street-orphan turned Cog-College scholarship prodigy. Where others channel, Pip tinkers — a gearsmith and Governor-hacker whose nimble fingers can coax a regulator into doing things its makers never licensed. He talks fast, filches faster, and has an informant in every workshop and kitchen from the boiler-decks to the deans' tower. Barely a channeler at all — a flicker of Sela, no more — he compensates with cleverness and cheek, and a loyalty to his friends fiercer than his slight frame suggests. Amberline taught him that knowing everyone's secrets is the only reliable currency, and he collects them like a magpie collects brass. Palette: #e0a53c, #f5efe0, #6b5638, #3a3a3a. Neutral background, consistent lighting, turnaround model-sheet style.",
+      "refs": [
+        "27498ab9c36cd39376e8ebb0fa6a8cb61dff55623616578bed1303cb8ba95b70"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "pip_calloway",
+          "outfit": "scholar_scruffs"
         }
       ],
       "accepted": false
@@ -1330,6 +1528,24 @@
       "accepted": true
     },
     {
+      "hash": "6cd70f3d232ca3505c1abb1b68b2f3be39a35982bad25beee65067132eb08edd",
+      "ext": "png",
+      "kind": "model_sheet",
+      "sourceTask": "4d073abf8e6d4c72899e226fc74f5dc7b4cae057d5ee2d6092d3c744e7d018bb",
+      "prompt": "Art style: Japanese anime. Full-body back view of Pip Calloway wearing Patched Cog-College undergraduate coat two sizes too big, sleeves rolled, pockets bulging with tools and stolen odds; scuffed boots, a leather tool-roll slung across the chest, amber-and-white Amberline kerchief at the throat.. Preserve the exact face and look from the reference image. The youngest and smallest of the friend-circle, Pip Calloway is a wiry Amberline street-orphan turned Cog-College scholarship prodigy. Where others channel, Pip tinkers — a gearsmith and Governor-hacker whose nimble fingers can coax a regulator into doing things its makers never licensed. He talks fast, filches faster, and has an informant in every workshop and kitchen from the boiler-decks to the deans' tower. Barely a channeler at all — a flicker of Sela, no more — he compensates with cleverness and cheek, and a loyalty to his friends fiercer than his slight frame suggests. Amberline taught him that knowing everyone's secrets is the only reliable currency, and he collects them like a magpie collects brass. Palette: #e0a53c, #f5efe0, #6b5638, #3a3a3a. Neutral background, consistent lighting, turnaround model-sheet style.",
+      "refs": [
+        "27498ab9c36cd39376e8ebb0fa6a8cb61dff55623616578bed1303cb8ba95b70"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "pip_calloway",
+          "outfit": "scholar_scruffs"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "6cf250d3ee91ce5ca0c6fea3cfe8464943912678be23be76fb4c086f95433c43",
       "ext": "png",
       "kind": "model_sheet",
@@ -1378,6 +1594,24 @@
         }
       ],
       "accepted": true
+    },
+    {
+      "hash": "711852f0a260ab0ca925683641bd72cd5b7526b706150dfcda644ee1116ef585",
+      "ext": "png",
+      "kind": "model_sheet",
+      "sourceTask": "cb7142a4b93cfaa25824b22d1d78d33de42ee390fda419a5d0aa81733b1116fb",
+      "prompt": "Art style: Japanese anime. Full-body back view of Wren Ashfield wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord.. Preserve the exact face and look from the reference image. Wren Ashfield is a wiry, quick-eyed young woman of the Ashen Circle underground — a burned-out talent who channels anyway, without a Governor, and pays for it. Raised in the soot-warrens beneath Cograuncy, she is a fugitive by birth: her mother was severed by the Assayers, and Wren has spent her life one filed-smooth cog-token ahead of the Grey Hands. She smuggles the hunted through the cloudlanes and trades in forbidden weaves. Sharp, wary, and fiercely loyal to the discarded, she hides a raw Vash strength she can no longer safely hold. Her hands bear the first faint bloom of Rust-scarring, which she keeps gloved. Beneath the guardedness is a starved hunger to be trusted by someone who won't sell her. Palette: #3a3f44, #6b7280, #b45309, #d97706, #1f2937. Neutral background, consistent lighting, turnaround model-sheet style.",
+      "refs": [
+        "07276f859c6a4f7988df13091a21533334e8c7fe7055483a53237f9b5fe4946e"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "wren_ashfield",
+          "outfit": "warrens"
+        }
+      ],
+      "accepted": false
     },
     {
       "hash": "7275ff4b78dc981dd75491e009aa7306d7677fe5cea1d6edf82da6dbea59c14b",
@@ -1539,6 +1773,24 @@
       "accepted": true
     },
     {
+      "hash": "7e3e02727c815cb4de68bc60fc180e3063ac5bcb7df4184000d0826acaffc0be",
+      "ext": "png",
+      "kind": "model_sheet",
+      "sourceTask": "a3a01ac751f4a2885a3e11da2ec5de316f5eaa8408440de724dcee17bf3e26a3",
+      "prompt": "Art style: Japanese anime. Full-body side view of Isolde Vorn wearing A high-collared grey habit of Vorn cut, iron clasps, and a single iron key-pendant at the throat — austere, devout, unmarked by any Order's livery.. Preserve the exact face and look from the reference image. A daughter of the Grey Principality of Vorn, sent south to the Cog-Colleges as much to watch as to learn. Isolde is pale and composed, with an aristocrat's stillness and a devout's certainty. Raised where the Assayers hold sway and channeling is tightly leashed, she was taught to distrust the Weave even as it woke strong in her — Sela-strong, precise and cold as her homeland. She wears her piety like armor and her doubt like a hidden knife: the more she sees of ungoverned power, the harder her convictions are tested. Grey silk, iron clasps, a single key-shaped pendant. Beneath the frost is a young woman aching to be more than her province's leash. Palette: #6b7078, #c9ccd1, #2b2f36, #9a8f7a, #e8e6e2. Neutral background, consistent lighting, turnaround model-sheet style.",
+      "refs": [
+        "094ee8c9815dd963a963618ab4191990d7db868186cc7bf7a7541d8e9253f229"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "isolde_vorn",
+          "outfit": "grey_habit"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "7f882a19d6e90a54ba9f907281960dd3a56a57fded5e2fcdc075199f637f8c2d",
       "ext": "png",
       "kind": "location_ref",
@@ -1653,6 +1905,24 @@
       "accepted": false
     },
     {
+      "hash": "84329af81a7171240d4e837fb9fc7933ebe12272b63df98645bb5c01c2a67c28",
+      "ext": "png",
+      "kind": "model_sheet",
+      "sourceTask": "7b4ed998c45504a6b0ea5bb51302ee57d09bfbbc4b5e9a027f67c2c2da36c987",
+      "prompt": "Art style: Japanese anime. Full-body front view of Caedon Vale wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear.. Preserve the exact face and look from the reference image. A nineteen-year-old scholarship student at the Cog-College of Cograuncy, born to a Ferran furnace-town family of modest means. Caedon is lean and wiry from years hauling coke on the furnace floors, with dark tousled hair, storm-grey eyes, and a smear of engine soot that never quite washes out from under his nails. He carries himself with a watchful, self-taught steadiness — the wariness of someone who has always been the outsider in a room of guild-born peers. Unusually, Caedon draws on both Currents — a faint pull of ordered Sela and wild Vash alike — a rarity the College has not yet decided whether to prize or fear. He channels without a Governor by instinct, which terrifies his professors and thrills the Kiln-Sworn recruiters. Earnest, stubborn, and quick to defend those the guild-state overlooks, he is the still point around whom the other students orbit. Palette: #2b2f36, #8a6a4f, #b8b0a4, #6d7681, #c9772f. Neutral background, consistent lighting, turnaround model-sheet style.",
+      "refs": [
+        "2539415100a19baab81804594905c50310943871222c230cdca9ca04dea7ddb0"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "caedon_vale",
+          "outfit": "college_uniform"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "8717460492414308d261a9ba99c1e417c7b1dab58bf927bc45f8abb43c4f4a6e",
       "ext": "png",
       "kind": "location_ref",
@@ -1736,6 +2006,24 @@
       "accepted": false
     },
     {
+      "hash": "8de481eabddc7793b7ffd98f69e0ea71be669a17d7059ea0f521a93b1f713efa",
+      "ext": "png",
+      "kind": "model_sheet",
+      "sourceTask": "bba91539d2f126a8ac4a705a06c42058f7b612b7eadd2f96f4bef25715d96d0a",
+      "prompt": "Art style: Japanese anime. Full-body front view of Professor Mirabel Quist wearing A practical leather apron over a slate-grey work dress, sleeves rolled and buckled back, a bandolier of fine tools across the chest, brass Governor-gauntlet on one forearm, jeweler's loupe pushed up on the forehead.. Preserve the exact face and look from the reference image. Professor Mirabel Quist is the Cog-College's mistress of Governors — the artificer-scholar who teaches the theory and craft of the brass-and-crystal regulators that meter a channeler's flow. A wiry woman in her fifties with cropped iron-grey hair, ink-stained fingers, and a jeweler's loupe forever pushed up on her forehead, she moves through her workshop amid a clutter of half-built gauntlets, crystal blanks, and pressure gauges. Sela-strong and Concord-trained, she believes fervently that measured power is the only safe power, yet she is no dogmatist: she quietly studies the failures of Governors, including the ones the Concord would rather bury. Warm, blunt, and endlessly curious, she treats students as apprentices and machines as puzzles. She is the professor most likely to notice when a student's talent outruns their Governor — and the one who understands exactly how dangerous that is. Palette: #b08d57, #d8d8d8, #3a4a5a, #7a6a55. Neutral background, consistent lighting, turnaround model-sheet style.",
+      "refs": [
+        "63db430f3b664d4cea56f08ef6454d9329f0b68854ab8d84b316873bac549ab1"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "professor_mirabel_quist",
+          "outfit": "workshop"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "911643aed4303a4c97cd4f6345431014e7995ba502050641514ad9d98c66eb83",
       "ext": "png",
       "kind": "portrait",
@@ -1749,6 +2037,24 @@
         }
       ],
       "accepted": true
+    },
+    {
+      "hash": "9140aa308422e77408fb49de42b7745cc4779809304abf7e2911e4cc26d7f93f",
+      "ext": "png",
+      "kind": "model_sheet",
+      "sourceTask": "48580560911235e23e03e75f1566da979ed2d7cb0b942a6ed99baf04cc8b77ad",
+      "prompt": "Art style: Japanese anime. Full-body front view of Wren Ashfield wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord.. Preserve the exact face and look from the reference image. Wren Ashfield is a wiry, quick-eyed young woman of the Ashen Circle underground — a burned-out talent who channels anyway, without a Governor, and pays for it. Raised in the soot-warrens beneath Cograuncy, she is a fugitive by birth: her mother was severed by the Assayers, and Wren has spent her life one filed-smooth cog-token ahead of the Grey Hands. She smuggles the hunted through the cloudlanes and trades in forbidden weaves. Sharp, wary, and fiercely loyal to the discarded, she hides a raw Vash strength she can no longer safely hold. Her hands bear the first faint bloom of Rust-scarring, which she keeps gloved. Beneath the guardedness is a starved hunger to be trusted by someone who won't sell her. Palette: #3a3f44, #6b7280, #b45309, #d97706, #1f2937. Neutral background, consistent lighting, turnaround model-sheet style.",
+      "refs": [
+        "07276f859c6a4f7988df13091a21533334e8c7fe7055483a53237f9b5fe4946e"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "wren_ashfield",
+          "outfit": "warrens"
+        }
+      ],
+      "accepted": false
     },
     {
       "hash": "939eba1416ccb7b70d5b4eb01f9c9b0168b9062e18912c6729b5270a77a9aa5b",
@@ -1765,6 +2071,42 @@
         }
       ],
       "accepted": true
+    },
+    {
+      "hash": "94e16568737cdf31ab8b5056ed83f71c5d580b2067f05841882a01cb7d18ec2d",
+      "ext": "png",
+      "kind": "model_sheet",
+      "sourceTask": "bd5a51a426ddfc853fb76b692b627535432c4c5bd4e3354be56db76a0842c74c",
+      "prompt": "Art style: Japanese anime. Full-body side view of Caedon Vale wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear.. Preserve the exact face and look from the reference image. A nineteen-year-old scholarship student at the Cog-College of Cograuncy, born to a Ferran furnace-town family of modest means. Caedon is lean and wiry from years hauling coke on the furnace floors, with dark tousled hair, storm-grey eyes, and a smear of engine soot that never quite washes out from under his nails. He carries himself with a watchful, self-taught steadiness — the wariness of someone who has always been the outsider in a room of guild-born peers. Unusually, Caedon draws on both Currents — a faint pull of ordered Sela and wild Vash alike — a rarity the College has not yet decided whether to prize or fear. He channels without a Governor by instinct, which terrifies his professors and thrills the Kiln-Sworn recruiters. Earnest, stubborn, and quick to defend those the guild-state overlooks, he is the still point around whom the other students orbit. Palette: #2b2f36, #8a6a4f, #b8b0a4, #6d7681, #c9772f. Neutral background, consistent lighting, turnaround model-sheet style.",
+      "refs": [
+        "2539415100a19baab81804594905c50310943871222c230cdca9ca04dea7ddb0"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "caedon_vale",
+          "outfit": "college_uniform"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "99edfaa71c5861c5f52a7c9b7d540684548e71cf073a10e4e3d7d492df37b635",
+      "ext": "png",
+      "kind": "model_sheet",
+      "sourceTask": "af941dbb3ec2a36dee21f125e85ae4badc3f366f9be821a4e56a721b63919806",
+      "prompt": "Art style: Japanese anime. Full-body back view of Tobias Renn wearing Regulen Concord student's work clothes: a brass-and-slate canvas apron over a rolled-sleeve linen shirt, heavy leather gloves tucked in the belt, and a licensed brass Governor gauntlet on the right forearm.. Preserve the exact face and look from the reference image. Tobias Renn is a broad-shouldered, good-natured Cog-College student in his late teens, the protagonist's steadiest friend. Ferran-born to a family of furnace-engineers, he is Sela-strong and Concord-trained, more comfortable with a Governor bolted to his forearm than without it. Practical, loyal, and slow to anger, he is the anchor of the friend group — the one who reads the manual, checks the pressure gauges, and hauls everyone out of trouble. He has close-cropped sandy hair, a square honest face often smudged with engine grease, and forearms scarred from workshop burns. He dreams of designing a new class of aether furnace rather than fighting anyone's war. Palette: #b5893f, #5a5f66, #2f333a, #d8c9a8. Neutral background, consistent lighting, turnaround model-sheet style.",
+      "refs": [
+        "1a2bdf64fde2faa8a165bb4fd788e53186ca537ccbbae38b5ce85cb6177729e3"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "tobias_renn",
+          "outfit": "college_workshop"
+        }
+      ],
+      "accepted": false
     },
     {
       "hash": "9a31917e15582d9e78e856aed51192d30904d38b589efb44bf7602ce9faf0bcb",
@@ -1851,6 +2193,24 @@
       "accepted": false
     },
     {
+      "hash": "9e584f5796e704804b26ea7e4daaa0a2e7eeb3585e1c093b2bef40be49bb9ca0",
+      "ext": "png",
+      "kind": "model_sheet",
+      "sourceTask": "f9059deac32025299dcd7d50c9804e06229b9fcfa29468a707930fe35d97dfd6",
+      "prompt": "Art style: Japanese anime. Full-body back view of Silas Thorn wearing A slate-grey Cog-College master's gown over a high-collared brass-buttoned waistcoat, a licensed Governor gauntlet locked to his left forearm, acid-stained gloves tucked at his belt.. Preserve the exact face and look from the reference image. A gaunt, severe man in his late fifties, Professor Silas Thorn teaches the theory and discipline of Governors at the Cog-College — the brass-and-crystal regulators that meter a channeler's flow. Ferran to the bone and a devoted man of the Regulen Concord, he believes utterly that only measured power is safe power, and he drills that creed into every student who passes through his laboratory. His long fingers are stained with crystal-etching acid and his forearm bears a licensed Governor he has never once removed in public. Thorn is exacting, cold, and quietly brilliant; he has forgotten more about the mechanics of the Weave than most channelers ever learn. Beneath the rigor is an old grief — a former student who burned out under his instruction — that he has sealed away behind procedure. He distrusts the Kiln-Sworn as heretics and the Ashen Circle as criminals, and he watches any student who leans toward raw Vash with the wariness of a man who has seen where it ends. Palette: #8a8f98, #b5a642, #2b2f36, #e8e6df. Art direction: gaunt severe older man, deep-set eyes, close-cropped grey hair, austere Ferran bearing Neutral background, consistent lighting, turnaround model-sheet style.",
+      "refs": [
+        "b31220dbaa7ebcffcf526624d35cde494d6532822d652efbd9d8cd5b19cae867"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "professor_silas_thorn",
+          "outfit": "college_gown"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "a047f5185f047ecdb40a3734343ed28c1e9b5ed2209e2ffbe10c44d63acca07c",
       "ext": "png",
       "kind": "location_ref",
@@ -1865,6 +2225,60 @@
         }
       ],
       "accepted": true
+    },
+    {
+      "hash": "a46420f1dbb6ad7b3cef7931e5747891f435dc9adf22513e14904cfe32ae8494",
+      "ext": "png",
+      "kind": "model_sheet",
+      "sourceTask": "2c5bc6b4bd0edf004f710710adcabb2a11f970beba146e05d5a7ec547e97c24f",
+      "prompt": "Art style: Japanese anime. Full-body front view of Auria Coyle wearing High-collared slate-and-white coat of office over a charcoal waistcoat, brass circlet on coiled silver hair, a ceremonial Governor gauntlet on the left forearm, iron College keys at the belt.. Preserve the exact face and look from the reference image. Headmistress of the Cog-College, a woman in her late fifties who wears authority like a well-oiled mechanism. Auria rose through the Regulen Concord as a Sela-strong administrator rather than a battle-channeler, and she runs the College the way the Ferran Ascendancy likes its institutions run: metered, licensed, and accountable. Silver hair coiled tight beneath a brass circlet, a high slate-and-white coat of office, and a Governor gauntlet she rarely needs but always wears as a symbol. She is shrewd, fair, and quietly political — she must keep Concord inspectors, Dominion recruiters, and half a dozen monarchies' heirs all under one roof without the place burning down. Beneath the protocol is genuine care for her students and an old, private doubt about what the Assayers do with those the College severs. Palette: #5a6472, #f2f0ea, #b08d55, #2b2f36. Neutral background, consistent lighting, turnaround model-sheet style.",
+      "refs": [
+        "43c226e96b96be027bd11f711a16061e78bf1f663659fd1a0da6f80c04da4e7f"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "headmistress_auria_coyle",
+          "outfit": "office"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "a51789061fce7c17b3dd521647d45cd0fb20d477179cd90de211c5628142d767",
+      "ext": "png",
+      "kind": "model_sheet",
+      "sourceTask": "a740f29d9d085e61c9cd9f672130c465e81ee292910032e3d19918a121759805",
+      "prompt": "Art style: Japanese anime. Full-body front view of Silas Thorn wearing A slate-grey Cog-College master's gown over a high-collared brass-buttoned waistcoat, a licensed Governor gauntlet locked to his left forearm, acid-stained gloves tucked at his belt.. Preserve the exact face and look from the reference image. A gaunt, severe man in his late fifties, Professor Silas Thorn teaches the theory and discipline of Governors at the Cog-College — the brass-and-crystal regulators that meter a channeler's flow. Ferran to the bone and a devoted man of the Regulen Concord, he believes utterly that only measured power is safe power, and he drills that creed into every student who passes through his laboratory. His long fingers are stained with crystal-etching acid and his forearm bears a licensed Governor he has never once removed in public. Thorn is exacting, cold, and quietly brilliant; he has forgotten more about the mechanics of the Weave than most channelers ever learn. Beneath the rigor is an old grief — a former student who burned out under his instruction — that he has sealed away behind procedure. He distrusts the Kiln-Sworn as heretics and the Ashen Circle as criminals, and he watches any student who leans toward raw Vash with the wariness of a man who has seen where it ends. Palette: #8a8f98, #b5a642, #2b2f36, #e8e6df. Art direction: gaunt severe older man, deep-set eyes, close-cropped grey hair, austere Ferran bearing Neutral background, consistent lighting, turnaround model-sheet style.",
+      "refs": [
+        "b31220dbaa7ebcffcf526624d35cde494d6532822d652efbd9d8cd5b19cae867"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "professor_silas_thorn",
+          "outfit": "college_gown"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "a59df5478123f86ab4647289534c0d7b4659f763eae17a2ed04d18dfbc5e9f70",
+      "ext": "png",
+      "kind": "model_sheet",
+      "sourceTask": "e1ec439d571762f566007a5f78298ef76fad8d25b6890a0de28a079f98cb11ac",
+      "prompt": "Art style: Japanese anime. Full-body front view of Isolde Vorn wearing A high-collared grey habit of Vorn cut, iron clasps, and a single iron key-pendant at the throat — austere, devout, unmarked by any Order's livery.. Preserve the exact face and look from the reference image. A daughter of the Grey Principality of Vorn, sent south to the Cog-Colleges as much to watch as to learn. Isolde is pale and composed, with an aristocrat's stillness and a devout's certainty. Raised where the Assayers hold sway and channeling is tightly leashed, she was taught to distrust the Weave even as it woke strong in her — Sela-strong, precise and cold as her homeland. She wears her piety like armor and her doubt like a hidden knife: the more she sees of ungoverned power, the harder her convictions are tested. Grey silk, iron clasps, a single key-shaped pendant. Beneath the frost is a young woman aching to be more than her province's leash. Palette: #6b7078, #c9ccd1, #2b2f36, #9a8f7a, #e8e6e2. Neutral background, consistent lighting, turnaround model-sheet style.",
+      "refs": [
+        "094ee8c9815dd963a963618ab4191990d7db868186cc7bf7a7541d8e9253f229"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "isolde_vorn",
+          "outfit": "grey_habit"
+        }
+      ],
+      "accepted": false
     },
     {
       "hash": "a5bc386b7eaeedee62693b9632e3ab07054efa6f31e845e3730afa960ef1ce87",
@@ -2240,6 +2654,24 @@
       "accepted": false
     },
     {
+      "hash": "c7b13dd3f59316c42609d675c5b0f55fe8f3acbc8331eeb3ddc53b8819b1ae22",
+      "ext": "png",
+      "kind": "model_sheet",
+      "sourceTask": "efc72f9bbf8907ae56d3db1f284855818f348ba67c04b177f839474dbf980396",
+      "prompt": "Art style: Japanese anime. Full-body back view of Auria Coyle wearing High-collared slate-and-white coat of office over a charcoal waistcoat, brass circlet on coiled silver hair, a ceremonial Governor gauntlet on the left forearm, iron College keys at the belt.. Preserve the exact face and look from the reference image. Headmistress of the Cog-College, a woman in her late fifties who wears authority like a well-oiled mechanism. Auria rose through the Regulen Concord as a Sela-strong administrator rather than a battle-channeler, and she runs the College the way the Ferran Ascendancy likes its institutions run: metered, licensed, and accountable. Silver hair coiled tight beneath a brass circlet, a high slate-and-white coat of office, and a Governor gauntlet she rarely needs but always wears as a symbol. She is shrewd, fair, and quietly political — she must keep Concord inspectors, Dominion recruiters, and half a dozen monarchies' heirs all under one roof without the place burning down. Beneath the protocol is genuine care for her students and an old, private doubt about what the Assayers do with those the College severs. Palette: #5a6472, #f2f0ea, #b08d55, #2b2f36. Neutral background, consistent lighting, turnaround model-sheet style.",
+      "refs": [
+        "43c226e96b96be027bd11f711a16061e78bf1f663659fd1a0da6f80c04da4e7f"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "headmistress_auria_coyle",
+          "outfit": "office"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "c80cb572b7ac708344471a22782c7fd13cc7446c4b780c1161318b9c963fb913",
       "ext": "png",
       "kind": "model_sheet",
@@ -2410,6 +2842,24 @@
       "accepted": false
     },
     {
+      "hash": "d18c30d9b560350f26183574411067ada17a3cdc0981ecb5bbf314e9e5ec9ad2",
+      "ext": "png",
+      "kind": "model_sheet",
+      "sourceTask": "d02a0774ab8d77945257c8fb04ac9c69a0b669a009ad2db504bc235bcb09582d",
+      "prompt": "Art style: Japanese anime. Full-body front view of Tobias Renn wearing Regulen Concord student's work clothes: a brass-and-slate canvas apron over a rolled-sleeve linen shirt, heavy leather gloves tucked in the belt, and a licensed brass Governor gauntlet on the right forearm.. Preserve the exact face and look from the reference image. Tobias Renn is a broad-shouldered, good-natured Cog-College student in his late teens, the protagonist's steadiest friend. Ferran-born to a family of furnace-engineers, he is Sela-strong and Concord-trained, more comfortable with a Governor bolted to his forearm than without it. Practical, loyal, and slow to anger, he is the anchor of the friend group — the one who reads the manual, checks the pressure gauges, and hauls everyone out of trouble. He has close-cropped sandy hair, a square honest face often smudged with engine grease, and forearms scarred from workshop burns. He dreams of designing a new class of aether furnace rather than fighting anyone's war. Palette: #b5893f, #5a5f66, #2f333a, #d8c9a8. Neutral background, consistent lighting, turnaround model-sheet style.",
+      "refs": [
+        "1a2bdf64fde2faa8a165bb4fd788e53186ca537ccbbae38b5ce85cb6177729e3"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "tobias_renn",
+          "outfit": "college_workshop"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "d19c2271d9d4280d8a52fec33d6029deed42e39ba940fae76883a9a23e37954e",
       "ext": "png",
       "kind": "location_ref",
@@ -2553,6 +3003,24 @@
       "accepted": true
     },
     {
+      "hash": "dde474efd9686f4783672bf79b8501384ba294e42094df9a613d8b5676b3bfbf",
+      "ext": "png",
+      "kind": "model_sheet",
+      "sourceTask": "9c172261ddc080216b3e64fb8fd8cd173ea3c24db05fdfc173b85d271ed77aed",
+      "prompt": "Art style: Japanese anime. Full-body side view of Pip Calloway wearing Patched Cog-College undergraduate coat two sizes too big, sleeves rolled, pockets bulging with tools and stolen odds; scuffed boots, a leather tool-roll slung across the chest, amber-and-white Amberline kerchief at the throat.. Preserve the exact face and look from the reference image. The youngest and smallest of the friend-circle, Pip Calloway is a wiry Amberline street-orphan turned Cog-College scholarship prodigy. Where others channel, Pip tinkers — a gearsmith and Governor-hacker whose nimble fingers can coax a regulator into doing things its makers never licensed. He talks fast, filches faster, and has an informant in every workshop and kitchen from the boiler-decks to the deans' tower. Barely a channeler at all — a flicker of Sela, no more — he compensates with cleverness and cheek, and a loyalty to his friends fiercer than his slight frame suggests. Amberline taught him that knowing everyone's secrets is the only reliable currency, and he collects them like a magpie collects brass. Palette: #e0a53c, #f5efe0, #6b5638, #3a3a3a. Neutral background, consistent lighting, turnaround model-sheet style.",
+      "refs": [
+        "27498ab9c36cd39376e8ebb0fa6a8cb61dff55623616578bed1303cb8ba95b70"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "pip_calloway",
+          "outfit": "scholar_scruffs"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "de8ceaebc83f2367ab83cb5c58e63517a823f15ad7e43ccbe9c924248cc52bea",
       "ext": "png",
       "kind": "location_ref",
@@ -2582,6 +3050,24 @@
         {
           "characterId": "tobias_renn",
           "outfit": "college_workshop"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "df024828020bdf47041e0441d54ccf3c3d0b16245192c21832562310b43067c0",
+      "ext": "png",
+      "kind": "model_sheet",
+      "sourceTask": "5a0a7cb3ad5249d923da2857fed17a0e554d5de73415ef476df7947b225e8452",
+      "prompt": "Art style: Japanese anime. Full-body back view of Ember Kellan wearing Ash-grey forge leathers scorched at the cuffs, sleeves rolled to bare her rust-scarred forearm, ember-orange sash of the Kiln-Sworn knotted at the hip.. Preserve the exact face and look from the reference image. A Kiln-Sworn forge-prodigy from the Vashan Dominion, Ember is Vash-strong and channels raw, ungoverned current with a reckless brilliance that terrifies her instructors. Broad-shouldered and sun-dark, with close-cropped copper hair and the first faint rust-scarring already tracing her right forearm — a mark she wears like a dare. She grew up in Cinderhold's forge-quarters, tending engine-fires before she could read, and came to the Cog-College half as a prodigy and half as a Dominion test of whether their heresy could be tamed by Ferran licensing. It cannot. Hot-tempered, loyal, and allergic to caution, she believes power is meant to be spent, not metered — and privately fears how little time the Rust will leave her. Beneath the swagger is someone who loves fiercely because she does not expect to love long. Palette: #c8531b, #e8912d, #3a2418, #8a8175. Neutral background, consistent lighting, turnaround model-sheet style.",
+      "refs": [
+        "490599dbb80bb328ef37778ab184a855ec6529a2622f6a2956c480616ebf43dc"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "ember_kellan",
+          "outfit": "college_leathers"
         }
       ],
       "accepted": false
@@ -2783,6 +3269,24 @@
       "accepted": true
     },
     {
+      "hash": "e94c72731416bfbfbcedd6903c666c866dc83bc797eea08c5258463ff256cf1a",
+      "ext": "png",
+      "kind": "model_sheet",
+      "sourceTask": "8c799b4d78d9a0b237ae1a0980592a4bb6f2c4b6092dcf8243ec34c7daf3321c",
+      "prompt": "Art style: Japanese anime. Full-body front view of Gideon Marsh wearing what they wear in most scenes — silhouette, colour, one detail that is theirs. Preserve the exact face and look from the reference image. Gideon Marsh is a broad-shouldered, steady-handed Cog-College student from the Saltbound Crownland, the son of a harbor-city shipwright. Where others chase power, Gideon chases competence: he is the group's anchor, slow to anger and impossible to rattle. Sela-strong in the Stone Thread, he favors structural weaves — bracing, binding, mending — and dreams of building airship keels rather than fighting. He wears his Governor without complaint and thinks the Concord's rules are mostly sensible, which puts him at odds with the hotter heads around him. Loyal to a fault, he is the friend who carries the wounded and pays the tab. Broad face, sun-weathered from a childhood on the docks, close-cropped brown hair, and forearms scarred from foundry work. Palette: #2e5266, #6e8898, #c9a227, #e8e6df. Neutral background, consistent lighting, turnaround model-sheet style.",
+      "refs": [
+        "5b27e5e7f0e4350d5ba4269deafcac622a3510ed8027498e18f63bc0b487304a"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "gideon_marsh",
+          "outfit": "everyday"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "e9c96b852924a75adc6a8d332c6c6f8e8ee24cd622d1bd0bc075db44c91db950",
       "ext": "png",
       "kind": "portrait",
@@ -2812,6 +3316,42 @@
         }
       ],
       "accepted": true
+    },
+    {
+      "hash": "ebff55314c4ceeae94a78b69c6d2f4b21b6c5b4a9bd4d94103b7c9ceae3e03a2",
+      "ext": "png",
+      "kind": "model_sheet",
+      "sourceTask": "76e2af4b2a522022c782b520e1f8cb38d1afe8acf188ed978ad19c417ba3bddd",
+      "prompt": "Art style: Japanese anime. Full-body back view of Isolde Vorn wearing A high-collared grey habit of Vorn cut, iron clasps, and a single iron key-pendant at the throat — austere, devout, unmarked by any Order's livery.. Preserve the exact face and look from the reference image. A daughter of the Grey Principality of Vorn, sent south to the Cog-Colleges as much to watch as to learn. Isolde is pale and composed, with an aristocrat's stillness and a devout's certainty. Raised where the Assayers hold sway and channeling is tightly leashed, she was taught to distrust the Weave even as it woke strong in her — Sela-strong, precise and cold as her homeland. She wears her piety like armor and her doubt like a hidden knife: the more she sees of ungoverned power, the harder her convictions are tested. Grey silk, iron clasps, a single key-shaped pendant. Beneath the frost is a young woman aching to be more than her province's leash. Palette: #6b7078, #c9ccd1, #2b2f36, #9a8f7a, #e8e6e2. Neutral background, consistent lighting, turnaround model-sheet style.",
+      "refs": [
+        "094ee8c9815dd963a963618ab4191990d7db868186cc7bf7a7541d8e9253f229"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "isolde_vorn",
+          "outfit": "grey_habit"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "f1301586db3c79ac29af042cd7b8962477b7613942dc30b8b284e8d1d0c633b0",
+      "ext": "png",
+      "kind": "model_sheet",
+      "sourceTask": "f57bd2113a3355cdfe83f021a2cc168640f65ca34b7b47a10cb470493c18dbec",
+      "prompt": "Art style: Japanese anime. Full-body back view of Caedon Vale wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear.. Preserve the exact face and look from the reference image. A nineteen-year-old scholarship student at the Cog-College of Cograuncy, born to a Ferran furnace-town family of modest means. Caedon is lean and wiry from years hauling coke on the furnace floors, with dark tousled hair, storm-grey eyes, and a smear of engine soot that never quite washes out from under his nails. He carries himself with a watchful, self-taught steadiness — the wariness of someone who has always been the outsider in a room of guild-born peers. Unusually, Caedon draws on both Currents — a faint pull of ordered Sela and wild Vash alike — a rarity the College has not yet decided whether to prize or fear. He channels without a Governor by instinct, which terrifies his professors and thrills the Kiln-Sworn recruiters. Earnest, stubborn, and quick to defend those the guild-state overlooks, he is the still point around whom the other students orbit. Palette: #2b2f36, #8a6a4f, #b8b0a4, #6d7681, #c9772f. Neutral background, consistent lighting, turnaround model-sheet style.",
+      "refs": [
+        "2539415100a19baab81804594905c50310943871222c230cdca9ca04dea7ddb0"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "characterId": "caedon_vale",
+          "outfit": "college_uniform"
+        }
+      ],
+      "accepted": false
     },
     {
       "hash": "f22edf18c501f298c500f3c2aaba36aff62ee298be8fa498d2196836394fe099",
