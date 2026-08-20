@@ -22,7 +22,7 @@ palette:
   - "#e8e6df"
 art_notes: gaunt severe older man, deep-set eyes, close-cropped grey hair,
   austere Ferran bearing
-approved_portrait: e7fb9a14eab5f2ad4743772e9a10796537136140daa03032c6ebd088c9724f66
+approved_portrait: b31220dbaa7ebcffcf526624d35cde494d6532822d652efbd9d8cd5b19cae867
 ---
 
 A gaunt, severe man in his late fifties, Professor Silas Thorn teaches the theory and discipline of Governors at the Cog-College — the brass-and-crystal regulators that meter a channeler's flow. Ferran to the bone and a devoted man of the Regulen Concord, he believes utterly that only measured power is safe power, and he drills that creed into every student who passes through his laboratory. His long fingers are stained with crystal-etching acid and his forearm bears a licensed Governor he has never once removed in public. Thorn is exacting, cold, and quietly brilliant; he has forgotten more about the mechanics of the Weave than most channelers ever learn. Beneath the rigor is an old grief — a former student who burned out under his instruction — that he has sealed away behind procedure. He distrusts the Kiln-Sworn as heretics and the Ashen Circle as criminals, and he watches any student who leans toward raw Vash with the wariness of a man who has seen where it ends.

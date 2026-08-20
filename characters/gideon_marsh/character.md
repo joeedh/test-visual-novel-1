@@ -17,7 +17,7 @@ traits:
   - practical
   - even-tempered
   - protective
-approved_portrait: ac1899dd20cb392780cd66be6e1079be3981e09c32c8fca502815ab1aadd89d7
+approved_portrait: 5b27e5e7f0e4350d5ba4269deafcac622a3510ed8027498e18f63bc0b487304a
 ---
 
 Gideon Marsh is a broad-shouldered, steady-handed Cog-College student from the Saltbound Crownland, the son of a harbor-city shipwright. Where others chase power, Gideon chases competence: he is the group's anchor, slow to anger and impossible to rattle. Sela-strong in the Stone Thread, he favors structural weaves — bracing, binding, mending — and dreams of building airship keels rather than fighting. He wears his Governor without complaint and thinks the Concord's rules are mostly sensible, which puts him at odds with the hotter heads around him. Loyal to a fault, he is the friend who carries the wounded and pays the tab. Broad face, sun-weathered from a childhood on the docks, close-cropped brown hair, and forearms scarred from foundry work.

@@ -80,7 +80,7 @@
           "characterId": "wren_ashfield"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "094ee8c9815dd963a963618ab4191990d7db868186cc7bf7a7541d8e9253f229",
@@ -95,7 +95,7 @@
           "characterId": "isolde_vorn"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "0c12f20626a1be8315913e7d4b89cc226b4dca8ca790225e21888a519e9e83bc",
@@ -276,7 +276,7 @@
           "characterId": "tobias_renn"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "1a5236fbc22bbe8cba800cc704af694097287105741ace45224385a2102dd37f",
@@ -405,7 +405,7 @@
           "characterId": "caedon_vale"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "273636bf9290fd6881388bdb4ead254f420e3d5e5f5fbad77a42d1466c937d0a",
@@ -454,7 +454,7 @@
           "characterId": "pip_calloway"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "28fcc1b4e8eef32767afeef6a78cc17d0320a75867029d468ea1b591c0e59a36",
@@ -793,7 +793,7 @@
           "characterId": "headmistress_auria_coyle"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "43d3b6c210924bed47e49192f32dc6caea3fdccac56f50a8dbe484a6e4e9eb22",
@@ -889,7 +889,7 @@
           "characterId": "ember_kellan"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "4a56bcd697336b8854d022cb1bc8de23ea3b25361a24845a11b28e420947e12b",
@@ -1099,7 +1099,7 @@
           "characterId": "gideon_marsh"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "5b2fce78de73e7c83a2f03fb3b4600a7d499204b31ec423a7f1984cf75d8a79a",
@@ -1213,7 +1213,7 @@
           "characterId": "professor_mirabel_quist"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "6428bba579e729de53e6fefd7d20f735fc03c8ca9a592025552f8bfb8fde6eaf",
@@ -2023,7 +2023,7 @@
           "characterId": "professor_silas_thorn"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "b4a66311a8b488a0ac5cf759fb9ee26a2601d65751b44bdbbab9cb6c539d4b14",

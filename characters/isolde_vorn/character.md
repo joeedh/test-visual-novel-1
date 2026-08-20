@@ -21,7 +21,7 @@ palette:
   - "#2b2f36"
   - "#9a8f7a"
   - "#e8e6e2"
-approved_portrait: 52b03a948745bde30c4d776674f30d68f8b1884bb4a98da71a246d88aa5ca05a
+approved_portrait: 094ee8c9815dd963a963618ab4191990d7db868186cc7bf7a7541d8e9253f229
 ---
 
 A daughter of the Grey Principality of Vorn, sent south to the Cog-Colleges as much to watch as to learn. Isolde is pale and composed, with an aristocrat's stillness and a devout's certainty. Raised where the Assayers hold sway and channeling is tightly leashed, she was taught to distrust the Weave even as it woke strong in her — Sela-strong, precise and cold as her homeland. She wears her piety like armor and her doubt like a hidden knife: the more she sees of ungoverned power, the harder her convictions are tested. Grey silk, iron clasps, a single key-shaped pendant. Beneath the frost is a young woman aching to be more than her province's leash.

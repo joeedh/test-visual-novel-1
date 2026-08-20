@@ -19,7 +19,7 @@ palette:
   - "#b45309"
   - "#d97706"
   - "#1f2937"
-approved_portrait: 8a843719657f5845cea392baba7f5d34b935c6543d870d81278a720fdc33d79c
+approved_portrait: 07276f859c6a4f7988df13091a21533334e8c7fe7055483a53237f9b5fe4946e
 ---
 
 Wren Ashfield is a wiry, quick-eyed young woman of the Ashen Circle underground — a burned-out talent who channels anyway, without a Governor, and pays for it. Raised in the soot-warrens beneath Cograuncy, she is a fugitive by birth: her mother was severed by the Assayers, and Wren has spent her life one filed-smooth cog-token ahead of the Grey Hands. She smuggles the hunted through the cloudlanes and trades in forbidden weaves. Sharp, wary, and fiercely loyal to the discarded, she hides a raw Vash strength she can no longer safely hold. Her hands bear the first faint bloom of Rust-scarring, which she keeps gloved. Beneath the guardedness is a starved hunger to be trusted by someone who won't sell her.
