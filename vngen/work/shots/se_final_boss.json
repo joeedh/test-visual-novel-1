@@ -1,6 +1,7 @@
 {
   "version": 1,
   "scene": "se_final_boss",
+  "nextShot": 4,
   "shots": [
     {
       "id": "se_final_boss__establishing",
@@ -9,10 +10,7 @@
       "location": "day",
       "subjects": [],
       "coversLines": [
-        "se_final_boss:L5",
-        "se_final_boss:L6",
-        "se_final_boss:L7",
-        "se_final_boss:L8"
+        "se_final_boss:L5"
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in The Organization — Inner Sanctum (day). No characters in frame. Render as a single illustrated frame, no UI text.",
@@ -20,6 +18,36 @@
         "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
         "status": "accepted"
       }
+    },
+    {
+      "id": "se_final_boss__shot1",
+      "sceneId": "se_final_boss",
+      "framing": "close",
+      "location": "night",
+      "subjects": [],
+      "coversLines": [
+        "se_final_boss:L6"
+      ]
+    },
+    {
+      "id": "se_final_boss__shot2",
+      "sceneId": "se_final_boss",
+      "framing": "wide",
+      "location": "night",
+      "subjects": [],
+      "coversLines": [
+        "se_final_boss:L7"
+      ]
+    },
+    {
+      "id": "se_final_boss__shot3",
+      "sceneId": "se_final_boss",
+      "framing": "medium",
+      "location": "night",
+      "subjects": [],
+      "coversLines": [
+        "se_final_boss:L8"
+      ]
     }
   ]
 }
