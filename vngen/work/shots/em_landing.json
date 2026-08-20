@@ -8,7 +8,12 @@
       "framing": "establishing",
       "location": "day",
       "subjects": [],
-      "coversLines": [],
+      "coversLines": [
+        "em_landing:L4",
+        "em_landing:L5",
+        "em_landing:L6",
+        "em_landing:L7"
+      ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in Vashan Borderland (day). No characters in frame. Render as a single illustrated frame, no UI text.",
         "image": "5c08e430e8b7f89f62d8a1e13c3ed5961cebe389458be4a57bc7fc54907458bf",

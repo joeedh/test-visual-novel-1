@@ -8,7 +8,12 @@
       "framing": "establishing",
       "location": "day",
       "subjects": [],
-      "coversLines": [],
+      "coversLines": [
+        "se_landing:L5",
+        "se_landing:L6",
+        "se_landing:L7",
+        "se_landing:L8"
+      ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in The Foreign Court (day). No characters in frame. Render as a single illustrated frame, no UI text.",
         "image": "075930f3889ab41e1eaa1229f8c74018c814acc0569dc3f123e2655534fb8b82",

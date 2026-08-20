@@ -8,7 +8,13 @@
       "framing": "establishing",
       "location": "day",
       "subjects": [],
-      "coversLines": [],
+      "coversLines": [
+        "ud_break:L1",
+        "ud_break:L2",
+        "ud_break:L3",
+        "ud_break:L4",
+        "ud_break:L5"
+      ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in Execution Square (day). No characters in frame. Render as a single illustrated frame, no UI text.",
         "image": "6e5e3c1ed56bd588af27d2b74d93492b312c98c6a9c1d37d3377eb396dd59968",

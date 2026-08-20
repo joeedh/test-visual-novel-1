@@ -8,7 +8,13 @@
       "framing": "establishing",
       "location": "day",
       "subjects": [],
-      "coversLines": [],
+      "coversLines": [
+        "wr_truth:L6",
+        "wr_truth:L7",
+        "wr_truth:L8",
+        "wr_truth:L9",
+        "wr_truth:L10"
+      ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in Cloudlane Bolt-Hole (day). No characters in frame. Render as a single illustrated frame, no UI text.",
         "image": "a515555053cfef23af626a286db2fd82d0802b280ab80cce58b9cf5b3c6cab2e",

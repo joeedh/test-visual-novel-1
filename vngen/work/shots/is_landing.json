@@ -8,7 +8,12 @@
       "framing": "establishing",
       "location": "day",
       "subjects": [],
-      "coversLines": [],
+      "coversLines": [
+        "is_landing:L5",
+        "is_landing:L6",
+        "is_landing:L7",
+        "is_landing:L8"
+      ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in The Grey Principality of Vorn (day). No characters in frame. Render as a single illustrated frame, no UI text.",
         "image": "79b8ed810831a5ba846e7fd0059ed7f4fbf0e35e896deb4b5a285149bdd0dc26",

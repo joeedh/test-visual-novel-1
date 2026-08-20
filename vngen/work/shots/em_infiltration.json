@@ -1,6 +1,7 @@
 {
   "version": 1,
   "scene": "em_infiltration",
+  "nextShot": 3,
   "shots": [
     {
       "id": "em_infiltration__establishing",
@@ -8,13 +9,45 @@
       "framing": "establishing",
       "location": "day",
       "subjects": [],
-      "coversLines": [],
+      "coversLines": [
+        "em_infiltration:L7",
+        "em_infiltration:L8",
+        "em_infiltration:L9"
+      ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in The Organization — Outer Works (day). No characters in frame. Render as a single illustrated frame, no UI text.",
         "image": "680b3b09cc7ce3477c3502dac9eb2f2582e582eb5a3fa7b61706a7a1c8103908",
         "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
         "status": "accepted"
       }
+    },
+    {
+      "id": "em_infiltration__shot1",
+      "sceneId": "em_infiltration",
+      "framing": "medium",
+      "location": "night",
+      "subjects": [
+        {
+          "characterId": "caedon_vale"
+        }
+      ],
+      "coversLines": [
+        "em_infiltration:L10"
+      ]
+    },
+    {
+      "id": "em_infiltration__shot2",
+      "sceneId": "em_infiltration",
+      "framing": "close",
+      "location": "night",
+      "subjects": [
+        {
+          "characterId": "ember_kellan"
+        }
+      ],
+      "coversLines": [
+        "em_infiltration:L11"
+      ]
     }
   ]
 }

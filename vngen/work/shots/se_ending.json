@@ -1,6 +1,7 @@
 {
   "version": 1,
   "scene": "se_ending",
+  "nextShot": 3,
   "shots": [
     {
       "id": "se_ending__establishing",
@@ -8,13 +9,45 @@
       "framing": "establishing",
       "location": "day",
       "subjects": [],
-      "coversLines": [],
+      "coversLines": [
+        "se_ending:L6",
+        "se_ending:L7",
+        "se_ending:L10"
+      ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in Halcyon Reach (day). No characters in frame. Render as a single illustrated frame, no UI text.",
         "image": "320bb5e4c3cd1a7376104919acaa05a65b63af4cffb7f2b01de0783824af6736",
         "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
         "status": "accepted"
       }
+    },
+    {
+      "id": "se_ending__shot1",
+      "sceneId": "se_ending",
+      "framing": "medium",
+      "location": "day",
+      "subjects": [
+        {
+          "characterId": "caedon_vale"
+        }
+      ],
+      "coversLines": [
+        "se_ending:L8"
+      ]
+    },
+    {
+      "id": "se_ending__shot2",
+      "sceneId": "se_ending",
+      "framing": "close",
+      "location": "day",
+      "subjects": [
+        {
+          "characterId": "seraphine_halcyon"
+        }
+      ],
+      "coversLines": [
+        "se_ending:L9"
+      ]
     }
   ]
 }

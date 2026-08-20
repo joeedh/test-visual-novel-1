@@ -8,7 +8,12 @@
       "framing": "establishing",
       "location": "day",
       "subjects": [],
-      "coversLines": [],
+      "coversLines": [
+        "c06_the_ruins:L6",
+        "c06_the_ruins:L7",
+        "c06_the_ruins:L8",
+        "c06_the_ruins:L9"
+      ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in The Ruins (Exterior) (day). No characters in frame. Render as a single illustrated frame, no UI text.",
         "image": "c43f7de3836621c4dc3e4b3ce000ee0db36bcb784fd6057cabe1046b9aec7c95",

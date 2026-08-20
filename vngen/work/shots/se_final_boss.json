@@ -8,7 +8,12 @@
       "framing": "establishing",
       "location": "day",
       "subjects": [],
-      "coversLines": [],
+      "coversLines": [
+        "se_final_boss:L5",
+        "se_final_boss:L6",
+        "se_final_boss:L7",
+        "se_final_boss:L8"
+      ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in The Organization — Inner Sanctum (day). No characters in frame. Render as a single illustrated frame, no UI text.",
         "image": "b3d2ae0d96889e2ed8553ebbfd8f1b4ddeea748f9549d0e21dedf89936a55b08",

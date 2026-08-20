@@ -8,7 +8,12 @@
       "framing": "establishing",
       "location": "day",
       "subjects": [],
-      "coversLines": [],
+      "coversLines": [
+        "c11_execution:L5",
+        "c11_execution:L6",
+        "c11_execution:L7",
+        "c11_execution:L8"
+      ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in Scattered Wilds (day). No characters in frame. Render as a single illustrated frame, no UI text.",
         "image": "1254767148a55d567957734ec03e339f8b4c91cc2a6f1402b10adc5783a03561",

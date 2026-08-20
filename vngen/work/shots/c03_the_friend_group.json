@@ -1,6 +1,7 @@
 {
   "version": 1,
   "scene": "c03_the_friend_group",
+  "nextShot": 5,
   "shots": [
     {
       "id": "c03_the_friend_group__establishing",
@@ -8,13 +9,72 @@
       "framing": "establishing",
       "location": "day",
       "subjects": [],
-      "coversLines": [],
+      "coversLines": [
+        "c03_the_friend_group:L7",
+        "c03_the_friend_group:L12"
+      ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in Dormitory Commons (day). No characters in frame. Render as a single illustrated frame, no UI text.",
         "image": "66d03703ab4794c287238e36b33503a407c4fc8d156ddfab8669db856c2ea504",
         "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
         "status": "accepted"
       }
+    },
+    {
+      "id": "c03_the_friend_group__shot1",
+      "sceneId": "c03_the_friend_group",
+      "framing": "medium",
+      "location": "night",
+      "subjects": [
+        {
+          "characterId": "gideon_marsh"
+        }
+      ],
+      "coversLines": [
+        "c03_the_friend_group:L8"
+      ]
+    },
+    {
+      "id": "c03_the_friend_group__shot2",
+      "sceneId": "c03_the_friend_group",
+      "framing": "medium",
+      "location": "night",
+      "subjects": [
+        {
+          "characterId": "pip_calloway"
+        }
+      ],
+      "coversLines": [
+        "c03_the_friend_group:L9"
+      ]
+    },
+    {
+      "id": "c03_the_friend_group__shot3",
+      "sceneId": "c03_the_friend_group",
+      "framing": "medium",
+      "location": "night",
+      "subjects": [
+        {
+          "characterId": "tobias_renn"
+        }
+      ],
+      "coversLines": [
+        "c03_the_friend_group:L10"
+      ]
+    },
+    {
+      "id": "c03_the_friend_group__shot4",
+      "sceneId": "c03_the_friend_group",
+      "framing": "medium",
+      "location": "night",
+      "subjects": [
+        {
+          "characterId": "caedon_vale"
+        }
+      ],
+      "coversLines": [
+        "c03_the_friend_group:L11"
+      ]
     }
   ]
 }

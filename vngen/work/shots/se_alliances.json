@@ -8,7 +8,12 @@
       "framing": "establishing",
       "location": "day",
       "subjects": [],
-      "coversLines": [],
+      "coversLines": [
+        "se_alliances:L5",
+        "se_alliances:L6",
+        "se_alliances:L7",
+        "se_alliances:L8"
+      ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in Halcyon Reach (day). No characters in frame. Render as a single illustrated frame, no UI text.",
         "image": "46ff99b21ed1704c452b65fef896550e142790db463fce5d1315a294025865e1",

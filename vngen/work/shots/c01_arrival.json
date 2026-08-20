@@ -1,6 +1,7 @@
 {
   "version": 1,
   "scene": "c01_arrival",
+  "nextShot": 3,
   "shots": [
     {
       "id": "c01_arrival__establishing",
@@ -8,13 +9,45 @@
       "framing": "establishing",
       "location": "day",
       "subjects": [],
-      "coversLines": [],
+      "coversLines": [
+        "c01_arrival:L7",
+        "c01_arrival:L10"
+      ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in Cog-College — Approach (day). No characters in frame. Render as a single illustrated frame, no UI text.",
         "image": "64a2d6d8868c038b58dde3a2782e3010a3e91efdf18168b59daf859f03acf8b2",
         "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
         "status": "accepted"
       }
+    },
+    {
+      "id": "c01_arrival__shot1",
+      "sceneId": "c01_arrival",
+      "framing": "medium",
+      "location": "dusk",
+      "subjects": [
+        {
+          "characterId": "headmistress_auria_coyle"
+        }
+      ],
+      "coversLines": [
+        "c01_arrival:L8",
+        "c01_arrival:L9"
+      ]
+    },
+    {
+      "id": "c01_arrival__shot2",
+      "sceneId": "c01_arrival",
+      "framing": "medium",
+      "location": "dusk",
+      "subjects": [
+        {
+          "characterId": "caedon_vale"
+        }
+      ],
+      "coversLines": [
+        "c01_arrival:L11"
+      ]
     }
   ]
 }

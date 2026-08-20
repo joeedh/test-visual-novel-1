@@ -1,6 +1,7 @@
 {
   "version": 1,
   "scene": "is_infiltration",
+  "nextShot": 2,
   "shots": [
     {
       "id": "is_infiltration__establishing",
@@ -8,13 +9,31 @@
       "framing": "establishing",
       "location": "day",
       "subjects": [],
-      "coversLines": [],
+      "coversLines": [
+        "is_infiltration:L6",
+        "is_infiltration:L7",
+        "is_infiltration:L9"
+      ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in The Organization — Outer Works (day). No characters in frame. Render as a single illustrated frame, no UI text.",
         "image": "cd831ca8af5267df3cda50f7d114a804a342790b503e2ae561ed10dfe930ec4f",
         "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
         "status": "accepted"
       }
+    },
+    {
+      "id": "is_infiltration__shot1",
+      "sceneId": "is_infiltration",
+      "framing": "close",
+      "location": "night",
+      "subjects": [
+        {
+          "characterId": "isolde_vorn"
+        }
+      ],
+      "coversLines": [
+        "is_infiltration:L8"
+      ]
     }
   ]
 }

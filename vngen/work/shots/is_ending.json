@@ -1,6 +1,7 @@
 {
   "version": 1,
   "scene": "is_ending",
+  "nextShot": 3,
   "shots": [
     {
       "id": "is_ending__establishing",
@@ -8,13 +9,45 @@
       "framing": "establishing",
       "location": "day",
       "subjects": [],
-      "coversLines": [],
+      "coversLines": [
+        "is_ending:L6",
+        "is_ending:L7",
+        "is_ending:L10"
+      ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in The Grey Principality of Vorn (day). No characters in frame. Render as a single illustrated frame, no UI text.",
         "image": "c858c33fafc120f03d64140852468245a7ab6a7aa8e0e05fd6cd5ef5e88c3dee",
         "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
         "status": "accepted"
       }
+    },
+    {
+      "id": "is_ending__shot1",
+      "sceneId": "is_ending",
+      "framing": "medium",
+      "location": "day",
+      "subjects": [
+        {
+          "characterId": "caedon_vale"
+        }
+      ],
+      "coversLines": [
+        "is_ending:L8"
+      ]
+    },
+    {
+      "id": "is_ending__shot2",
+      "sceneId": "is_ending",
+      "framing": "close",
+      "location": "day",
+      "subjects": [
+        {
+          "characterId": "isolde_vorn"
+        }
+      ],
+      "coversLines": [
+        "is_ending:L9"
+      ]
     }
   ]
 }

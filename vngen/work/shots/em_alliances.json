@@ -8,7 +8,12 @@
       "framing": "establishing",
       "location": "day",
       "subjects": [],
-      "coversLines": [],
+      "coversLines": [
+        "em_alliances:L5",
+        "em_alliances:L6",
+        "em_alliances:L7",
+        "em_alliances:L8"
+      ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in Cinderhold — Vashan Forge-City (day). No characters in frame. Render as a single illustrated frame, no UI text.",
         "image": "bf0ce462e46663854edca6bef67981a237724de07b932537d3fe98509dbd1212",

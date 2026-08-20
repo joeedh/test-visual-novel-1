@@ -10,7 +10,9 @@
       "subjects": [],
       "coversLines": [
         "opening:L1",
-        "opening:L2"
+        "opening:L3",
+        "opening:L2",
+        "opening:L4"
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in Cog-College — Approach (dusk). No characters in frame. Render as a single illustrated frame, no UI text.",

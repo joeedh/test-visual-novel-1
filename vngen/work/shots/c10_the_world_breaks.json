@@ -1,6 +1,7 @@
 {
   "version": 1,
   "scene": "c10_the_world_breaks",
+  "nextShot": 3,
   "shots": [
     {
       "id": "c10_the_world_breaks__establishing",
@@ -8,13 +9,44 @@
       "framing": "establishing",
       "location": "day",
       "subjects": [],
-      "coversLines": [],
+      "coversLines": [
+        "c10_the_world_breaks:L6",
+        "c10_the_world_breaks:L9"
+      ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in Great Assembly Hall (day). No characters in frame. Render as a single illustrated frame, no UI text.",
         "image": "faab4819b4057d1c17ffbc4093c7011aa3efc5c8ab32fd4ff7f13ed3da3597d2",
         "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
         "status": "accepted"
       }
+    },
+    {
+      "id": "c10_the_world_breaks__shot1",
+      "sceneId": "c10_the_world_breaks",
+      "framing": "medium",
+      "location": "night",
+      "subjects": [
+        {
+          "characterId": "headmistress_auria_coyle"
+        }
+      ],
+      "coversLines": [
+        "c10_the_world_breaks:L7"
+      ]
+    },
+    {
+      "id": "c10_the_world_breaks__shot2",
+      "sceneId": "c10_the_world_breaks",
+      "framing": "medium",
+      "location": "night",
+      "subjects": [
+        {
+          "characterId": "professor_mirabel_quist"
+        }
+      ],
+      "coversLines": [
+        "c10_the_world_breaks:L8"
+      ]
     }
   ]
 }

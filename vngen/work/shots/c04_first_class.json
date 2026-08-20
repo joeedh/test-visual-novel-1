@@ -1,6 +1,7 @@
 {
   "version": 1,
   "scene": "c04_first_class",
+  "nextShot": 3,
   "shots": [
     {
       "id": "c04_first_class__establishing",
@@ -8,13 +9,44 @@
       "framing": "establishing",
       "location": "day",
       "subjects": [],
-      "coversLines": [],
+      "coversLines": [
+        "c04_first_class:L8",
+        "c04_first_class:L9"
+      ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in Channeling Lecture Hall (day). No characters in frame. Render as a single illustrated frame, no UI text.",
         "image": "ad453d02591c95b831b524ecd17efbe700c614138b1945233783a46777646802",
         "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
         "status": "accepted"
       }
+    },
+    {
+      "id": "c04_first_class__shot1",
+      "sceneId": "c04_first_class",
+      "framing": "medium",
+      "location": "day",
+      "subjects": [
+        {
+          "characterId": "professor_mirabel_quist"
+        }
+      ],
+      "coversLines": [
+        "c04_first_class:L6"
+      ]
+    },
+    {
+      "id": "c04_first_class__shot2",
+      "sceneId": "c04_first_class",
+      "framing": "medium",
+      "location": "day",
+      "subjects": [
+        {
+          "characterId": "professor_silas_thorn"
+        }
+      ],
+      "coversLines": [
+        "c04_first_class:L7"
+      ]
     }
   ]
 }

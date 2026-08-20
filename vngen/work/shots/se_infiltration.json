@@ -1,6 +1,7 @@
 {
   "version": 1,
   "scene": "se_infiltration",
+  "nextShot": 2,
   "shots": [
     {
       "id": "se_infiltration__establishing",
@@ -8,13 +9,31 @@
       "framing": "establishing",
       "location": "day",
       "subjects": [],
-      "coversLines": [],
+      "coversLines": [
+        "se_infiltration:L6",
+        "se_infiltration:L7",
+        "se_infiltration:L9"
+      ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in The Organization — Outer Works (day). No characters in frame. Render as a single illustrated frame, no UI text.",
         "image": "582bf7126d2aea3ec55d811f583bb557b2337d99c650d653e6c65fad9c20227a",
         "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
         "status": "accepted"
       }
+    },
+    {
+      "id": "se_infiltration__shot1",
+      "sceneId": "se_infiltration",
+      "framing": "close",
+      "location": "night",
+      "subjects": [
+        {
+          "characterId": "seraphine_halcyon"
+        }
+      ],
+      "coversLines": [
+        "se_infiltration:L8"
+      ]
     }
   ]
 }

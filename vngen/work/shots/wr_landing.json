@@ -8,7 +8,11 @@
       "framing": "establishing",
       "location": "day",
       "subjects": [],
-      "coversLines": [],
+      "coversLines": [
+        "wr_landing:L4",
+        "wr_landing:L5",
+        "wr_landing:L6"
+      ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in Hostile Border Territory (day). No characters in frame. Render as a single illustrated frame, no UI text.",
         "image": "1bf2e73f08b53637fb324b37092da5e46686c8ab78143d870c335abf54602f2e",

@@ -8,7 +8,12 @@
       "framing": "establishing",
       "location": "day",
       "subjects": [],
-      "coversLines": [],
+      "coversLines": [
+        "is_alliances:L5",
+        "is_alliances:L6",
+        "is_alliances:L7",
+        "is_alliances:L8"
+      ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in The Grey Hands' Assay-Hold (day). No characters in frame. Render as a single illustrated frame, no UI text.",
         "image": "784142b9b92b56a1f015c70fd140206abe8db4102fda6b4e5f5f4c927679b983",
