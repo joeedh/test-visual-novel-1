@@ -8,7 +8,7 @@ palette:
   - "#b3762f"
   - "#1a1614"
   - "#6d7a80"
-art_notes: do not use a fisheye view.
+art_notes: do not use a fisheye view.  make it a bit brighter.
 variants:
   - id: day
     art_notes: do not use a fisheye view.
