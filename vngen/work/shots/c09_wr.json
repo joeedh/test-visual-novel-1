@@ -13,7 +13,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in The College Woods (day). No characters in frame. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "520676bfc0e963067e91e741b602694a3b38f0c7b5f9f103e595ff2ba8b63296",
+        "proseHash": "7b6774a59373e825981a9a11dfa3376ac5f719a8165b832c388156acd3cf73e0",
+        "status": "accepted"
       }
     },
     {
@@ -33,7 +35,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. wide shot in The College Woods (day). Subjects: Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord., pose: leading, expression: focused. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "49962544a73613b93bc735ff19def2c8cace4b3c4af50798442842f9aec41c9a",
+        "proseHash": "9a38742a1dc592f9e9d30f7db6afd5a145f9fe4927150f2f3af208962b364912",
+        "status": "accepted"
       }
     },
     {
@@ -53,7 +57,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. medium shot in The College Woods (day). Subjects: Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord., pose: gesturing, expression: sly. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "947653be378bb749bcba8d29ddc31c5f67443e620a4e6ded0ae9a8bc2843884d",
+        "proseHash": "951580c34a41a10334dcecf22339a090c7f74ab71302d2234c042d2114c51ac1",
+        "status": "accepted"
       }
     }
   ]

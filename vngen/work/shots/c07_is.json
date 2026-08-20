@@ -13,7 +13,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in The Ruins (Interior) (day). No characters in frame. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "4c592dd519a7759da2d5634312c8123aca53ed03a39a7c85f258bb66e9540985",
+        "proseHash": "dc053c8ed4e3a12e42765d2bceb6b56c4f7dc41e77764cdee2a29ee2ad118a2c",
+        "status": "accepted"
       }
     },
     {
@@ -34,7 +36,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. medium shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: defensive, expression: alarmed. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "e1f5108ae5a9946a7649fae9395149921bfc2537370ac3e4a857edfc00d7d5dd",
+        "proseHash": "480524b3c3417050cc8668b28d96df47caccfce5d0d4ccdf19f866330deb276b",
+        "status": "accepted"
       }
     },
     {
@@ -54,7 +58,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. wide shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: fighting, expression: focused. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "0a48fe121638590f022e7771e7f2f38d35e417c0f4f38ccbf14321e6af23d9ae",
+        "proseHash": "98ac6cd9c71c7f8a71335962b933a8d09450a9acb2e487f79f4133529745ed6c",
+        "status": "accepted"
       }
     },
     {
@@ -74,7 +80,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. medium shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: catching breath, expression: weary. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "cc72940d425b6a52fef090ae76c4f5cf0e100c50a5000141965b93260c21c8c6",
+        "proseHash": "86c21e8867cd8b0f0ecf234bcadb71b2bb7f77a271f537903fd2a98cf6d3a338",
+        "status": "accepted"
       }
     }
   ]

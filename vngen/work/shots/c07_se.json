@@ -18,7 +18,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, expression: alert. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "c5f63f0281a2b98dec93275a1efa404ed2226cd50d40fa779eec17fd9950e84e",
+        "proseHash": "dc053c8ed4e3a12e42765d2bceb6b56c4f7dc41e77764cdee2a29ee2ad118a2c",
+        "status": "accepted"
       }
     },
     {
@@ -39,7 +41,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. close shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: defensive, expression: shocked. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "b6d49e7cb3984c033a307c996337dd60ca084626eb494c606a80dec9e2e65cc5",
+        "proseHash": "480524b3c3417050cc8668b28d96df47caccfce5d0d4ccdf19f866330deb276b",
+        "status": "accepted"
       }
     },
     {
@@ -58,7 +62,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. wide shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: combat. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "066ae9eaf4fecfbae597703d254e9e4747d9af716d3a6eb5c2b51ea4ede51bf5",
+        "proseHash": "21448c8eac604118316dece77cfacce853fd231fe01f83bd49f4b8151a4e3548",
+        "status": "accepted"
       }
     },
     {
@@ -78,7 +84,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. medium shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: battered, expression: weary. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "78c7cdccff190ac25a2ac1048f691a2173ab5ae1a5ba83902042e57a70ac2374",
+        "proseHash": "86c21e8867cd8b0f0ecf234bcadb71b2bb7f77a271f537903fd2a98cf6d3a338",
+        "status": "accepted"
       }
     }
   ]

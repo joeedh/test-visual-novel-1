@@ -14,7 +14,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in The Ruins (Interior) (day). No characters in frame. Camera: slow push through tunnels. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "b680bf68a49e814f6a6ed1e4bde59fc198df42c26b61657e8fdc3794ae4c6233",
+        "proseHash": "dc053c8ed4e3a12e42765d2bceb6b56c4f7dc41e77764cdee2a29ee2ad118a2c",
+        "status": "accepted"
       }
     },
     {
@@ -35,7 +37,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. close shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: weapon drawn, expression: alarmed. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "c46789a2630dbe62e7f1e435e5d103800cccf73e3c435c0777ba7f1ac458b581",
+        "proseHash": "480524b3c3417050cc8668b28d96df47caccfce5d0d4ccdf19f866330deb276b",
+        "status": "accepted"
       }
     },
     {
@@ -55,7 +59,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. wide shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: mid-combat. Camera: dynamic. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "0c79d2581949e6bed584a5fa5c0d552e2a31cba940cb79c225abae03e9a4648b",
+        "proseHash": "14a16b17614afa32f0d99260c4bc75263caf03b20662a53e2b8b49436a3ae8fb",
+        "status": "accepted"
       }
     },
     {
@@ -75,7 +81,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. medium shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: catching breath, expression: battered but resolute. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "583659ca9146ebf181d8a0834ffd8d0c6528e864a7c948e08fffbe123a065482",
+        "proseHash": "86c21e8867cd8b0f0ecf234bcadb71b2bb7f77a271f537903fd2a98cf6d3a338",
+        "status": "accepted"
       }
     }
   ]

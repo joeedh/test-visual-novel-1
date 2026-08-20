@@ -13,7 +13,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in College Infirmary (day). No characters in frame. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "297ebe5d6d77d641912e0d2a0e5b7e021dc77c3dc0bbe4773b3a710531bafe81",
+        "proseHash": "0d47c21bd3d4e4c92db3c8db9492217c3d63556cd4f2c027a2ecb02e584f1e65",
+        "status": "accepted"
       }
     },
     {
@@ -42,7 +44,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. wide shot in College Infirmary (day). No characters in frame. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "35228e251756af5d38e64c3eb9115d8247636592fde17839ad82a6168431ab93",
+        "proseHash": "4800bf2e2e1c9976912be0a18fa9c8cd009493a0692267e23f48ebae660fe5e8",
+        "status": "accepted"
       }
     }
   ]

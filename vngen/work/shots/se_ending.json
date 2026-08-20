@@ -11,7 +11,9 @@
       "coversLines": [],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in Halcyon Reach (day). No characters in frame. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "320bb5e4c3cd1a7376104919acaa05a65b63af4cffb7f2b01de0783824af6736",
+        "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+        "status": "accepted"
       }
     }
   ]

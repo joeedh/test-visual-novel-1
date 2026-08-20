@@ -11,7 +11,9 @@
       "coversLines": [],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in Great Assembly Hall (day). No characters in frame. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "6863e4900ba125e267cca9aa669f06af978abc1adf293a74ed13cbeb3c0d7a0c",
+        "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+        "status": "accepted"
       }
     }
   ]

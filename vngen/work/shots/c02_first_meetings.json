@@ -11,7 +11,9 @@
       "coversLines": [],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in Cog-College — Great Courtyard (day). No characters in frame. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "1550b89ebe1ea53536a65e707c74c502b44632a6f865e99dc2039596aa5a64be",
+        "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+        "status": "accepted"
       }
     }
   ]

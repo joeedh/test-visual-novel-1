@@ -11,7 +11,9 @@
       "coversLines": [],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in Channeling Lecture Hall (day). No characters in frame. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "ad453d02591c95b831b524ecd17efbe700c614138b1945233783a46777646802",
+        "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+        "status": "accepted"
       }
     }
   ]

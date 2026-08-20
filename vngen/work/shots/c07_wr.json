@@ -14,7 +14,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in The Ruins (Interior) (day). No characters in frame. Camera: slow push through tunnels. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "0089de1a5cb4c613ea31928cf0c9ebc0c967c786c156effe19a5a016d3a9a486",
+        "proseHash": "dc053c8ed4e3a12e42765d2bceb6b56c4f7dc41e77764cdee2a29ee2ad118a2c",
+        "status": "accepted"
       }
     },
     {
@@ -35,7 +37,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. medium shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: weapon drawn, turning, expression: alarmed. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "4f14152e13892dc3bea51a8f5062cca515421a8760388fb692d21e743f0b0ba0",
+        "proseHash": "480524b3c3417050cc8668b28d96df47caccfce5d0d4ccdf19f866330deb276b",
+        "status": "accepted"
       }
     },
     {
@@ -55,7 +59,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. wide shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: following through hidden passage, expression: tense. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "c8cf27dc4d4413f03ae81051ed6d43cdeec2f33afef8a5895f0959f942361afa",
+        "proseHash": "9e1372611b2913ba0625cc12939f7b6f1661024465f02120964c0e8776921173",
+        "status": "accepted"
       }
     },
     {
@@ -75,7 +81,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. medium shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: emerging, breathing hard, expression: relieved but shaken. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "12b2a126ff6ca577fce68b9bce3f980a5fd543a0cf9cf1297242bb6da50dfb47",
+        "proseHash": "86c21e8867cd8b0f0ecf234bcadb71b2bb7f77a271f537903fd2a98cf6d3a338",
+        "status": "accepted"
       }
     }
   ]

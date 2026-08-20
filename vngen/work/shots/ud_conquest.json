@@ -14,7 +14,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in The Conquered Empire (day). No characters in frame. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "140610b0ace34e726cf092e96caad2a96bd9b5d0186d05a1688fddb5f03c4d82",
+        "proseHash": "02d0368657e231d73e8615806dcf0a699933ce68d6c03a37ed77d8338a0a8787",
+        "status": "accepted"
       }
     },
     {
@@ -30,7 +32,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. wide shot in The Conquered Empire (day). No characters in frame. Camera: slow pan over burning banners. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "6d87729647d75b19e3c0e1aec2eccf521563e6bc32ea24af25b6cc5ef735f6b2",
+        "proseHash": "14d1f7a818761f17a1d853da928829d26046f41f69ee798840be83d1b74233ca",
+        "status": "accepted"
       }
     }
   ]

@@ -13,7 +13,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in The College Woods (day). No characters in frame. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "1aa8e9cc093be1ac418c802f2362770246538488e9aaf561a214690e4d6a344c",
+        "proseHash": "7b6774a59373e825981a9a11dfa3376ac5f719a8165b832c388156acd3cf73e0",
+        "status": "accepted"
       }
     },
     {
@@ -33,7 +35,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. wide shot in The College Woods (day). Subjects: Seraphine Halcyon, wearing Loomwright student's indigo coat with silver thread trim over a high-collared cream blouse, fitted trousers, and soft leather boots; a silver Loomwright pin at the throat., pose: weaving magic, expression: focused. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "a657afe5ed27237deacf088c9a44f4992e034a3b2d52f44d16166d8155f78970",
+        "proseHash": "8a6d846c38d17a9d88ebe6c9806f2e61349c65e585fa47a44a7dca0d37511347",
+        "status": "accepted"
       }
     },
     {
@@ -53,7 +57,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. close shot in The College Woods (day). Subjects: Seraphine Halcyon, wearing Loomwright student's indigo coat with silver thread trim over a high-collared cream blouse, fitted trousers, and soft leather boots; a silver Loomwright pin at the throat., pose: turning to speak, expression: knowing. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "01668969fbb0619428508150ea569517abf44922bf524879f3f136ce0e5b464b",
+        "proseHash": "cc15e9b2e30086e2e5df009e1d3d50b948d470248d22489ebedd232782885158",
+        "status": "accepted"
       }
     }
   ]

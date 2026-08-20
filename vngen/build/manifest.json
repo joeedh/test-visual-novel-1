@@ -386,7 +386,7 @@
           "shotId": "wr_ending__s5"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "18dbdfc14406c972678f4372b09570c91cc03bfaeabba0829ad85a4e7fdf46c8",
@@ -479,6 +479,24 @@
       "accepted": true
     },
     {
+      "hash": "1bf2e73f08b53637fb324b37092da5e46686c8ab78143d870c335abf54602f2e",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "fb96ae18cdbc68a2c17a7b9be3c9c824bcc5d86f061550d29048ad2d011b3f3a",
+      "prompt": "Art style: Japanese anime. establishing shot in Hostile Border Territory (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "a966cdc68500a286e5a25d0e10e0c96ab2534480a63b364b6ae115efaf7a5425"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_landing",
+          "shotId": "wr_landing__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "1f65f9d18f94668768e84aad6ba2cf47f54c85df161beb7270cc46220b0825e4",
       "ext": "png",
       "kind": "shot_image",
@@ -514,6 +532,26 @@
         }
       ],
       "accepted": false
+    },
+    {
+      "hash": "2448f772fd6c96f1e10b22447023b17c2c2e27f1aef36d7b4cdaf63f56eab0a7",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "e5d48f15c820d7c2bea2c8d5e884f5f86244470bd0f989b0d76142d15fd09cff",
+      "prompt": "Art style: Japanese anime. establishing shot in The Ashen Circle Haven (night). Subjects: Caedon Vale, wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear.; Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord.. Camera: wide hearth glow. Render as a single illustrated frame, no UI text. Corrections: Render 'caedon_vale' and 'wren_ashfield' with their specific outfits, including all accessories and details as depicted in their character reference images.; Consider a slight three-quarter angle so at least partial faces read.; Show her scarf/pendant to better match her reference outfit..",
+      "refs": [
+        "456e7624ea1dfce28b29191e8f1cfcbe6e4d8f282e566367994a76e66a778d70",
+        "e13b85bb9f4aeebb2f0839715d3a40fce20d10145cef340f13e0e72f0412e815",
+        "8a843719657f5845cea392baba7f5d34b935c6543d870d81278a720fdc33d79c"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_ending",
+          "shotId": "wr_ending__s1"
+        }
+      ],
+      "accepted": true
     },
     {
       "hash": "297b740e27201f1f6ceaba1a485ee3858a523f747509627e70ab9bbf1f6b6e16",
@@ -680,6 +718,24 @@
       "accepted": true
     },
     {
+      "hash": "3c35d3fe7d824c1bfa45b0d5033d6eea824e04024fde62658af42dcaa0ada4ee",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "0a523f5c88a6912d44a99aa2a6d804162b4f110f7f78bc7891961c648bdc854a",
+      "prompt": "Art style: Japanese anime. medium shot in The Organization — Inner Sanctum (night). No characters in frame. Camera: tight on machinery and shadowed motion. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "c390b1918be0e1e3751c6620433152a5e2d5615e1049dcbd6c68686a597ec40b"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_final_boss",
+          "shotId": "wr_final_boss__s2"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "403cf435e84d8b8d01b3bbc37b54902768b732db075dd41a0a0fba01e01b1751",
       "ext": "png",
       "kind": "shot_image",
@@ -788,6 +844,25 @@
       "accepted": true
     },
     {
+      "hash": "4571ff3d7d25037ea5a84fd53ac40723c8c8d399693104a7495591069aa7c3ad",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "cda02346099ac1357300118819a02ac57d858982fd6feb63f9d50d9a1e298693",
+      "prompt": "Art style: Japanese anime. wide shot in The Organization — Outer Works (night). Subjects: Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord., pose: commanding, arm raised, expression: steadfast. Camera: sweeping across battle line. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "cd896526928fb42d9d0c26f60b36afdb4caadc70b7cc076e19d1e38b08f36268",
+        "8a843719657f5845cea392baba7f5d34b935c6543d870d81278a720fdc33d79c"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_infiltration",
+          "shotId": "wr_infiltration__s4"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "4592a7845e6af988feedf14fd0d342d2009b5b625c093cf7105332b463f4a295",
       "ext": "png",
       "kind": "shot_image",
@@ -891,6 +966,25 @@
         {
           "sceneId": "c06_the_ruins",
           "shotId": "c06_the_ruins__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "478a45b0e453fe9605d87a3350ccfbb2118d8fe30354d73df51176765d44cf4a",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "5a7ed99fa21a4e5eed55c306e14efd396b3b50b7daaa9b15abf6aa9bdcc6d6b7",
+      "prompt": "Art style: Japanese anime. medium shot in The Organization — Outer Works (night). Subjects: Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord., pose: advancing fiercely, expression: fierce resolve. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "cd896526928fb42d9d0c26f60b36afdb4caadc70b7cc076e19d1e38b08f36268",
+        "8a843719657f5845cea392baba7f5d34b935c6543d870d81278a720fdc33d79c"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_infiltration",
+          "shotId": "wr_infiltration__s2"
         }
       ],
       "accepted": true
@@ -1516,6 +1610,25 @@
       "accepted": true
     },
     {
+      "hash": "67a987946ca40035f414ac57688f7cdb20058955f504eef7d6db0d400a1baf78",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "c84cba38b5c2254356a895b22c09e72fcf1fb38d373e828d57f745cc187523dc",
+      "prompt": "Art style: Japanese anime. close shot in The Ashen Circle Haven (night). Subjects: Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord., expression: trusting. Render as a single illustrated frame, no UI text. Corrections: Update Wren Ashfield's outfit to match the 'warrens' specification as shown in the reference image.; Crop tighter to head and shoulders for a true close shot..",
+      "refs": [
+        "456e7624ea1dfce28b29191e8f1cfcbe6e4d8f282e566367994a76e66a778d70",
+        "8a843719657f5845cea392baba7f5d34b935c6543d870d81278a720fdc33d79c"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_ending",
+          "shotId": "wr_ending__s4"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "680b3b09cc7ce3477c3502dac9eb2f2582e582eb5a3fa7b61706a7a1c8103908",
       "ext": "png",
       "kind": "shot_image",
@@ -1565,6 +1678,24 @@
         {
           "sceneId": "c05_ruins_briefing",
           "shotId": "c05_ruins_briefing__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "6a147dd40b0aa75543315c0c4825280a81309140828f96decc6e6e54ae5b9f55",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "a823a0892131d299607349358b1f7d3f06c65f72071b2a36723bd7ec082bda53",
+      "prompt": "Art style: Japanese anime. wide shot in The Organization — Inner Sanctum (night). No characters in frame. Camera: crumbling throne amid battle. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "c390b1918be0e1e3751c6620433152a5e2d5615e1049dcbd6c68686a597ec40b"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_final_boss",
+          "shotId": "wr_final_boss__s3"
         }
       ],
       "accepted": true
@@ -1730,6 +1861,25 @@
         {
           "sceneId": "wr_ending",
           "shotId": "wr_ending__s3"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "74f8e2c0774c0f26ddb0165f181122b54e993908b5b66911b489bcf74bbd5d30",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "5d80c4c027a4fa4060d1b6555588d8429e2a3b62dd36f9be7e90d7247741a756",
+      "prompt": "Art style: Japanese anime. establishing shot in The Organization — Outer Works (night). Subjects: Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord., pose: leading forward, expression: determined. Camera: wide low angle on looming outer works. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "cd896526928fb42d9d0c26f60b36afdb4caadc70b7cc076e19d1e38b08f36268",
+        "8a843719657f5845cea392baba7f5d34b935c6543d870d81278a720fdc33d79c"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_infiltration",
+          "shotId": "wr_infiltration__s1"
         }
       ],
       "accepted": true
@@ -2022,7 +2172,7 @@
           "shotId": "wr_final_boss__s1"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "8d1694b70f694b5ff44f54fe81334acdcb15cd99ad4b7f0b2669a47a2294efff",
@@ -2111,6 +2261,25 @@
         {
           "sceneId": "c11_execution",
           "shotId": "c11_execution__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "97c67ccd866e45772a257a7b81ece6f0e10feecf6fbbf2746aa679b39978878d",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "51698326e5d7538559732c7461e991ca0b87b772b58033bfaa5ebd8ba2f8b1c5",
+      "prompt": "Art style: Japanese anime. close shot in The Organization — Outer Works (night). Subjects: Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord., pose: speaking sharply, expression: defiant. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "cd896526928fb42d9d0c26f60b36afdb4caadc70b7cc076e19d1e38b08f36268",
+        "8a843719657f5845cea392baba7f5d34b935c6543d870d81278a720fdc33d79c"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_infiltration",
+          "shotId": "wr_infiltration__s3"
         }
       ],
       "accepted": true
@@ -2240,6 +2409,24 @@
         }
       ],
       "accepted": false
+    },
+    {
+      "hash": "a515555053cfef23af626a286db2fd82d0802b280ab80cce58b9cf5b3c6cab2e",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "15bd6dc4a6189a15b4831326bce05e3eb05056ad5ecd52c6ab65c209c256a4cf",
+      "prompt": "Art style: Japanese anime. establishing shot in Cloudlane Bolt-Hole (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "7275ff4b78dc981dd75491e009aa7306d7677fe5cea1d6edf82da6dbea59c14b"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_truth",
+          "shotId": "wr_truth__establishing"
+        }
+      ],
+      "accepted": true
     },
     {
       "hash": "a5282ff290faaf9df3fb3242863af6e2df1c9c63a9ac14a38b48c6677e3b5542",
@@ -3038,6 +3225,24 @@
         {
           "sceneId": "is_final_boss",
           "shotId": "is_final_boss__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "dbf4191ae2154000bdada5d0739d3b415ad9691c8c62ecbeee294a50e6fcb6e6",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "75896f42f05e5d084ba6e7aaba17c1801523c47212cf97d48ce705c51f5bb30d",
+      "prompt": "Art style: Japanese anime. wide shot in The Organization — Inner Sanctum (night). No characters in frame. Camera: the coalition standing over the fallen system. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "c390b1918be0e1e3751c6620433152a5e2d5615e1049dcbd6c68686a597ec40b"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_final_boss",
+          "shotId": "wr_final_boss__s4"
         }
       ],
       "accepted": true

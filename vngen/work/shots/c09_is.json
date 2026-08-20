@@ -13,7 +13,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in The College Woods (day). No characters in frame. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "c4390cb77fd75bb901955267d560eb79d80b754afbc1466fde2fe4d42c2c3a26",
+        "proseHash": "7b6774a59373e825981a9a11dfa3376ac5f719a8165b832c388156acd3cf73e0",
+        "status": "accepted"
       }
     },
     {
@@ -34,7 +36,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. wide shot in The College Woods (day). Subjects: Isolde Vorn, wearing A high-collared grey habit of Vorn cut, iron clasps, and a single iron key-pendant at the throat — austere, devout, unmarked by any Order's livery., pose: walking, expression: serene. Camera: following through mossed standing stones. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "d25c975425555f89dfb0c5a4fe9be2d7620a3e69392429b1159d43b1f39425d9",
+        "proseHash": "a1ebd35828429a24df7a1778106c96c3cb95795a61e6cf7fce376d64a62ea84d",
+        "status": "accepted"
       }
     },
     {
@@ -54,7 +58,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. close shot in The College Woods (day). Subjects: Isolde Vorn, wearing A high-collared grey habit of Vorn cut, iron clasps, and a single iron key-pendant at the throat — austere, devout, unmarked by any Order's livery., pose: turning to speak, expression: thoughtful. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "0c3286acbe539a935f78f761f60a985fac3cee09c9e7e9520fe31447dfc17802",
+        "proseHash": "931037bb8d1948545dda20a3a232cb7e0b6abb94ad11d0118a0cca76ac60deda",
+        "status": "accepted"
       }
     }
   ]

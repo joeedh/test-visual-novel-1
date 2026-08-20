@@ -14,7 +14,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in The Ruined Cities (Timeskip) (day). No characters in frame. Camera: slow aerial push over shattered skyline. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "dfe730d8421665cc6197ea12720e134cc2e8e78d23f4c266fecb555a538f81b8",
+        "proseHash": "8c63df732a3dcfc53bc910dc8bd36cb8ce5347c935d17633038f013cb3d2e177",
+        "status": "accepted"
       }
     },
     {
@@ -30,7 +32,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. wide shot in The Ruined Cities (Timeskip) (day). No characters in frame. Camera: pan across gutted ruins. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "5125eb50eb035cd707fb26a140b7c5c7b82e780a6b3b2f51672aba5d389e29ee",
+        "proseHash": "d989aa07ec021f94349a08a99a00705d7248fb11bfa2bf03b8336cbc23884688",
+        "status": "accepted"
       }
     },
     {
@@ -46,7 +50,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. medium shot in The Ruined Cities (Timeskip) (day). No characters in frame. Camera: static on drifting ash. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "5a7a9eaa33a94bdf5c17a2561f0324f7128dc527efc198b3254906ab33846552",
+        "proseHash": "644fc2cd843b06bcee7f4b31631bd0159856ed62c0e0393780e2721e075ae2cb",
+        "status": "accepted"
       }
     }
   ]

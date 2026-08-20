@@ -14,7 +14,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in The College Woods (day). No characters in frame. Camera: slow push through dappled canopy. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "9b7c997aab32acd478e1548a00da021edf571ffcd0026450447e39835545dce2",
+        "proseHash": "7b6774a59373e825981a9a11dfa3376ac5f719a8165b832c388156acd3cf73e0",
+        "status": "accepted"
       }
     },
     {
@@ -29,7 +31,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. wide shot in The College Woods (day). No characters in frame. Camera: lone path deeper into woods. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "440cff0e227b675c4a85993fefcf73ea327b4131160495205cc66fe87e2923e4",
+        "proseHash": "9f87cb3c47dd0b71558684646524e0e4f035e469952ee8e93aea15be5f77a475",
+        "status": "accepted"
       }
     }
   ]

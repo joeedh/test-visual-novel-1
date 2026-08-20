@@ -14,7 +14,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in The Organization — Inner Sanctum (night). No characters in frame. Camera: slow push into the sanctum. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "8baa7e8726c0dadb192e1e4d71f6049d44de95b9beeb32f5ccabc8fc2d273591",
+        "proseHash": "c0551fbce256b6ceac6034c5faa309c16fa69fef32be7893e780a236ec30f382",
+        "status": "accepted"
       }
     },
     {
@@ -30,7 +32,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. wide shot in The Organization — Inner Sanctum (night). No characters in frame. Camera: sweeping across the hall. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "b0048d28914a27bcfd8af431dbd90e10d1070e5cde0a3f0b43df33fe4a9f5ff4",
+        "proseHash": "6f1bb3f2dfdb87b90d711c75dc4e9d1f4a38fe410b51a1539c927383cbd797fd",
+        "status": "accepted"
       }
     },
     {
@@ -46,7 +50,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. medium shot in The Organization — Inner Sanctum (night). No characters in frame. Camera: static on the throne, aftermath. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "a8e678439e675bedeb6a61126d6ad9f447cb5ac3104eb8c4446a686c57d4a370",
+        "proseHash": "65739015820824027b95f506042cb55f156bb2d8726b2b33f834f93a16365a64",
+        "status": "accepted"
       }
     }
   ]

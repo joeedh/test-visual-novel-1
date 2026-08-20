@@ -13,7 +13,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in Cloudlane Bolt-Hole (night). No characters in frame. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "49559e30ca1572a611af11a377553b9ff098fa2d0ffec677787e98bd85cde12e",
+        "proseHash": "9e756d520700929a001d2be258603398ef98042737aa72cff37cb0ca1e9fb526",
+        "status": "accepted"
       }
     },
     {
@@ -27,7 +29,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. wide shot in Cloudlane Bolt-Hole (night). No characters in frame. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "bef999cbf715325b64eac01154b1a0572a9dc172c27ed652259e54fe4152ffd7",
+        "proseHash": "ea31fd953176c14474e8165e271864ca408c1e515fd0592fe249e0aeb0d73b61",
+        "status": "accepted"
       }
     },
     {
@@ -41,7 +45,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. medium shot in Cloudlane Bolt-Hole (night). No characters in frame. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "5a7b3c0ab3b9f5648ea8280fc910ce73c0c1b4fda5c5c4c7397e172d1c3f7fd5",
+        "proseHash": "7aa99a5dd0a904c969ad31fefc022788dc8370c5e5dcc86ba9a829e5f827ad6b",
+        "status": "accepted"
       }
     }
   ]

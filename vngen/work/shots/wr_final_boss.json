@@ -14,7 +14,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in The Organization — Inner Sanctum (night). No characters in frame. Camera: slow push into the monstrous core. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "8cc3a4f51fa1db3733635af89f694b0edd848892d370d794f129dd7003a979ec",
+        "proseHash": "a105c56d469e50d779ceafc358f8d3e00d2d8dd6570f6ff35fe8e51197c3da80",
+        "status": "accepted"
       }
     },
     {
@@ -29,7 +31,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. medium shot in The Organization — Inner Sanctum (night). No characters in frame. Camera: tight on machinery and shadowed motion. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "3c35d3fe7d824c1bfa45b0d5033d6eea824e04024fde62658af42dcaa0ada4ee",
+        "proseHash": "8ff3da7498739e784d9d2877aa7657bbbba3f1e83ead7c606ef2f90d51c96613",
+        "status": "accepted"
       }
     },
     {
@@ -44,7 +48,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. wide shot in The Organization — Inner Sanctum (night). No characters in frame. Camera: crumbling throne amid battle. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "6a147dd40b0aa75543315c0c4825280a81309140828f96decc6e6e54ae5b9f55",
+        "proseHash": "306bde1ef93c92ca1f0ce5534df603de388b7a866ea594c5810d09c47ad59d3e",
+        "status": "accepted"
       }
     },
     {
@@ -59,7 +65,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. wide shot in The Organization — Inner Sanctum (night). No characters in frame. Camera: the coalition standing over the fallen system. Render as a single illustrated frame, no UI text.",
-        "status": "prompted"
+        "image": "dbf4191ae2154000bdada5d0739d3b415ad9691c8c62ecbeee294a50e6fcb6e6",
+        "proseHash": "717e4119bf906cde6ec7841309cd80bcf0102d6a734ba339d11ef9dc473c9450",
+        "status": "accepted"
       }
     }
   ]
