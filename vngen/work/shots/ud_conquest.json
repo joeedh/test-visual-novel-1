@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "scene": "ud_conquest",
+  "shots": [
+    {
+      "id": "ud_conquest__s1",
+      "sceneId": "ud_conquest",
+      "framing": "establishing",
+      "location": "day",
+      "subjects": [],
+      "coversLines": [
+        "ud_conquest:L1",
+        "ud_conquest:L2"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. establishing shot in The Conquered Empire (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    },
+    {
+      "id": "ud_conquest__s2",
+      "sceneId": "ud_conquest",
+      "framing": "wide",
+      "location": "day",
+      "subjects": [],
+      "camera": "slow pan over burning banners",
+      "coversLines": [
+        "ud_conquest:L3",
+        "ud_conquest:L4"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. wide shot in The Conquered Empire (day). No characters in frame. Camera: slow pan over burning banners. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    }
+  ]
+}

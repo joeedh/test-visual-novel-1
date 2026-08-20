@@ -11,9 +11,7 @@
       "coversLines": [],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in Cloudlane Bolt-Hole (day). No characters in frame. Render as a single illustrated frame, no UI text.",
-        "image": "b311597c20aace90c2f1596998ff35462f486256ddad73bec78033380253d7b3",
-        "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
-        "status": "accepted"
+        "status": "prompted"
       }
     }
   ]

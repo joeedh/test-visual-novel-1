@@ -11,9 +11,7 @@
       "coversLines": [],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in The Organization — Outer Works (day). No characters in frame. Render as a single illustrated frame, no UI text.",
-        "image": "e6d7dc217441131e32d70d33bcba22292fd2b92c03e5dd0477f51890dd81c9dc",
-        "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
-        "status": "accepted"
+        "status": "prompted"
       }
     }
   ]

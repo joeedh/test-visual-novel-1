@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "scene": "c09_se",
+  "shots": [
+    {
+      "id": "c09_se__s1",
+      "sceneId": "c09_se",
+      "framing": "establishing",
+      "location": "day",
+      "subjects": [],
+      "coversLines": [
+        "c09_se:L1"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. establishing shot in The College Woods (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    },
+    {
+      "id": "c09_se__s2",
+      "sceneId": "c09_se",
+      "framing": "wide",
+      "location": "day",
+      "subjects": [
+        {
+          "characterId": "seraphine_halcyon",
+          "pose": "weaving magic",
+          "expression": "focused"
+        }
+      ],
+      "coversLines": [
+        "c09_se:L2"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. wide shot in The College Woods (day). Subjects: Seraphine Halcyon, wearing Loomwright student's indigo coat with silver thread trim over a high-collared cream blouse, fitted trousers, and soft leather boots; a silver Loomwright pin at the throat., pose: weaving magic, expression: focused. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    },
+    {
+      "id": "c09_se__s3",
+      "sceneId": "c09_se",
+      "framing": "close",
+      "location": "day",
+      "subjects": [
+        {
+          "characterId": "seraphine_halcyon",
+          "pose": "turning to speak",
+          "expression": "knowing"
+        }
+      ],
+      "coversLines": [
+        "c09_se:L3"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. close shot in The College Woods (day). Subjects: Seraphine Halcyon, wearing Loomwright student's indigo coat with silver thread trim over a high-collared cream blouse, fitted trousers, and soft leather boots; a silver Loomwright pin at the throat., pose: turning to speak, expression: knowing. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    }
+  ]
+}

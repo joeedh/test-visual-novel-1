@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "scene": "wr_alliances",
+  "shots": [
+    {
+      "id": "wr_alliances__s1",
+      "sceneId": "wr_alliances",
+      "framing": "establishing",
+      "location": "night",
+      "subjects": [],
+      "coversLines": [
+        "wr_alliances:L5",
+        "wr_alliances:L6"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. establishing shot in The Ashen Circle Haven (night). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    },
+    {
+      "id": "wr_alliances__s2",
+      "sceneId": "wr_alliances",
+      "framing": "wide",
+      "location": "night",
+      "subjects": [],
+      "camera": "slow pan across the haven",
+      "coversLines": [
+        "wr_alliances:L7",
+        "wr_alliances:L8"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. wide shot in The Ashen Circle Haven (night). No characters in frame. Camera: slow pan across the haven. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    },
+    {
+      "id": "wr_alliances__s3",
+      "sceneId": "wr_alliances",
+      "framing": "medium",
+      "location": "night",
+      "subjects": [],
+      "coversLines": [
+        "wr_alliances:L9"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. medium shot in The Ashen Circle Haven (night). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    }
+  ]
+}

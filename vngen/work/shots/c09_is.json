@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "scene": "c09_is",
+  "shots": [
+    {
+      "id": "c09_is__s1",
+      "sceneId": "c09_is",
+      "framing": "establishing",
+      "location": "day",
+      "subjects": [],
+      "coversLines": [
+        "c09_is:L1"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. establishing shot in The College Woods (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    },
+    {
+      "id": "c09_is__s2",
+      "sceneId": "c09_is",
+      "framing": "wide",
+      "location": "day",
+      "subjects": [
+        {
+          "characterId": "isolde_vorn",
+          "pose": "walking",
+          "expression": "serene"
+        }
+      ],
+      "camera": "following through mossed standing stones",
+      "coversLines": [
+        "c09_is:L2"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. wide shot in The College Woods (day). Subjects: Isolde Vorn, wearing A high-collared grey habit of Vorn cut, iron clasps, and a single iron key-pendant at the throat — austere, devout, unmarked by any Order's livery., pose: walking, expression: serene. Camera: following through mossed standing stones. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    },
+    {
+      "id": "c09_is__s3",
+      "sceneId": "c09_is",
+      "framing": "close",
+      "location": "day",
+      "subjects": [
+        {
+          "characterId": "isolde_vorn",
+          "pose": "turning to speak",
+          "expression": "thoughtful"
+        }
+      ],
+      "coversLines": [
+        "c09_is:L3"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. close shot in The College Woods (day). Subjects: Isolde Vorn, wearing A high-collared grey habit of Vorn cut, iron clasps, and a single iron key-pendant at the throat — austere, devout, unmarked by any Order's livery., pose: turning to speak, expression: thoughtful. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    }
+  ]
+}

@@ -14,9 +14,7 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in Cog-College — Approach (dusk). No characters in frame. Render as a single illustrated frame, no UI text.",
-        "image": "5d4f884c7236e4813188af6904b2f89ebadbbf908c2ac1abe35d510179de8af9",
-        "proseHash": "67061cca3dab4576372b0efc0fe3f73b2ab0bce4d4f6178814e4a5f13d8f3483",
-        "status": "accepted"
+        "status": "prompted"
       }
     }
   ]

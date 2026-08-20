@@ -11,9 +11,7 @@
       "coversLines": [],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in The Foreign Court (day). No characters in frame. Render as a single illustrated frame, no UI text.",
-        "image": "7e52d9270fb2a3f58883214266caa883b7c96c77742bf37a92fe3918c0a3135c",
-        "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
-        "status": "accepted"
+        "status": "prompted"
       }
     }
   ]

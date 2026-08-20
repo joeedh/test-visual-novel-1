@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "scene": "wr_final_boss",
+  "shots": [
+    {
+      "id": "wr_final_boss__s1",
+      "sceneId": "wr_final_boss",
+      "framing": "establishing",
+      "location": "night",
+      "subjects": [],
+      "camera": "slow push into the monstrous core",
+      "coversLines": [
+        "wr_final_boss:L1"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. establishing shot in The Organization — Inner Sanctum (night). No characters in frame. Camera: slow push into the monstrous core. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    },
+    {
+      "id": "wr_final_boss__s2",
+      "sceneId": "wr_final_boss",
+      "framing": "medium",
+      "location": "night",
+      "subjects": [],
+      "camera": "tight on machinery and shadowed motion",
+      "coversLines": [
+        "wr_final_boss:L2"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. medium shot in The Organization — Inner Sanctum (night). No characters in frame. Camera: tight on machinery and shadowed motion. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    },
+    {
+      "id": "wr_final_boss__s3",
+      "sceneId": "wr_final_boss",
+      "framing": "wide",
+      "location": "night",
+      "subjects": [],
+      "camera": "crumbling throne amid battle",
+      "coversLines": [
+        "wr_final_boss:L3"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. wide shot in The Organization — Inner Sanctum (night). No characters in frame. Camera: crumbling throne amid battle. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    },
+    {
+      "id": "wr_final_boss__s4",
+      "sceneId": "wr_final_boss",
+      "framing": "wide",
+      "location": "night",
+      "subjects": [],
+      "camera": "the coalition standing over the fallen system",
+      "coversLines": [
+        "wr_final_boss:L4"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. wide shot in The Organization — Inner Sanctum (night). No characters in frame. Camera: the coalition standing over the fallen system. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    }
+  ]
+}

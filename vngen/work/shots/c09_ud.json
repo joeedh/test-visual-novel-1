@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "scene": "c09_ud",
+  "shots": [
+    {
+      "id": "c09_ud__s1",
+      "sceneId": "c09_ud",
+      "framing": "establishing",
+      "location": "day",
+      "subjects": [],
+      "camera": "slow push through dappled canopy",
+      "coversLines": [
+        "c09_ud:L1"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. establishing shot in The College Woods (day). No characters in frame. Camera: slow push through dappled canopy. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    },
+    {
+      "id": "c09_ud__s2",
+      "sceneId": "c09_ud",
+      "framing": "wide",
+      "location": "day",
+      "subjects": [],
+      "camera": "lone path deeper into woods",
+      "coversLines": [
+        "c09_ud:L2"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. wide shot in The College Woods (day). No characters in frame. Camera: lone path deeper into woods. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    }
+  ]
+}

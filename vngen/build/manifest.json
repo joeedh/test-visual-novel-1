@@ -56,6 +56,25 @@
       "accepted": true
     },
     {
+      "hash": "0a48fe121638590f022e7771e7f2f38d35e417c0f4f38ccbf14321e6af23d9ae",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "8014404fbb64918f1cf281d228fe9f631ecca7766558ead78d83063be05d05bc",
+      "prompt": "Art style: Japanese anime. wide shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: fighting, expression: focused. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "1482f706008b0f613e27d9fbe3fc1e76966c8e052a1862e15709330e0e7248e1",
+        "ac1899dd20cb392780cd66be6e1079be3981e09c32c8fca502815ab1aadd89d7"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c07_is",
+          "shotId": "c07_is__s3"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "0de58dc911f031d8e5b580520f80f42f112cbb513f8fbe6d3e62648c1894714f",
       "ext": "png",
       "kind": "shot_image",
@@ -90,6 +109,24 @@
         }
       ],
       "accepted": false
+    },
+    {
+      "hash": "1550b89ebe1ea53536a65e707c74c502b44632a6f865e99dc2039596aa5a64be",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "9ad95c04a47f9038645583f1e351811cb83659c024444479332b8decb61cfde8",
+      "prompt": "Art style: Japanese anime. establishing shot in Cog-College — Great Courtyard (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "acf163f2bd1643b10ef80a21a3c90e7cb7e29893992aff7c0f023486ad80ec0f"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c02_first_meetings",
+          "shotId": "c02_first_meetings__establishing"
+        }
+      ],
+      "accepted": true
     },
     {
       "hash": "18dbdfc14406c972678f4372b09570c91cc03bfaeabba0829ad85a4e7fdf46c8",
@@ -180,6 +217,25 @@
         }
       ],
       "accepted": false
+    },
+    {
+      "hash": "2ba9220785c71eec76fae8676a5ff28c5e04ec15769ebb2edfffdda21b255948",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "65b2d4068f66b6de903ed8343ac169cdbe00f4ea166aa8aafe3aa3b683bc03d3",
+      "prompt": "Art style: Japanese anime. close shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: defensive, expression: alarmed. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "1482f706008b0f613e27d9fbe3fc1e76966c8e052a1862e15709330e0e7248e1",
+        "ac1899dd20cb392780cd66be6e1079be3981e09c32c8fca502815ab1aadd89d7"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c07_em",
+          "shotId": "c07_em__s2"
+        }
+      ],
+      "accepted": true
     },
     {
       "hash": "2c4906ad52825d2dcc59c0f6aa83646325bef26b90663bc9928de31c39d75131",
@@ -380,6 +436,25 @@
       "accepted": false
     },
     {
+      "hash": "499d098ec56b343cabb0673b3d189354d1759f64533be603d250a532525b204b",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "485c74c105b1753ad4e16296fd60b4fb05bf3e2e3082bda7494322dfeb32e9aa",
+      "prompt": "Art style: Japanese anime. wide shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: bracing. Camera: dynamic action. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "1482f706008b0f613e27d9fbe3fc1e76966c8e052a1862e15709330e0e7248e1",
+        "ac1899dd20cb392780cd66be6e1079be3981e09c32c8fca502815ab1aadd89d7"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c07_em",
+          "shotId": "c07_em__s3"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "4a38698cb2867aca64ddc391a3907ee0b4f35311d5b4e497aefad0ffcf93c08b",
       "ext": "png",
       "kind": "shot_image",
@@ -393,6 +468,24 @@
         {
           "sceneId": "c11b_on_the_run",
           "shotId": "c11b_on_the_run__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "4c592dd519a7759da2d5634312c8123aca53ed03a39a7c85f258bb66e9540985",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "d42ca97cfb011df1645cc66165201498cbf97989109653fe11f49bac2a895655",
+      "prompt": "Art style: Japanese anime. establishing shot in The Ruins (Interior) (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "1482f706008b0f613e27d9fbe3fc1e76966c8e052a1862e15709330e0e7248e1"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c07_is",
+          "shotId": "c07_is__s1"
         }
       ],
       "accepted": true
@@ -542,6 +635,61 @@
       "accepted": true
     },
     {
+      "hash": "64a2d6d8868c038b58dde3a2782e3010a3e91efdf18168b59daf859f03acf8b2",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "7202d0e063e716ba7b1ae05e6c0fe11b1f67d51468d88f4d5f2aeb06b5429e5c",
+      "prompt": "Art style: Japanese anime. establishing shot in Cog-College — Approach (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "e1bf48eab6fe443c2bdfe0a9fd6ea9ac879054bdd666d15545e255d8f5f66527"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c01_arrival",
+          "shotId": "c01_arrival__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "66d03703ab4794c287238e36b33503a407c4fc8d156ddfab8669db856c2ea504",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "836c8ec9554cbf0b29df3bed62336f19d8b16587d209b76417bfd3bb604d4ae4",
+      "prompt": "Art style: Japanese anime. establishing shot in Dormitory Commons (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "43d3b6c210924bed47e49192f32dc6caea3fdccac56f50a8dbe484a6e4e9eb22"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c03_the_friend_group",
+          "shotId": "c03_the_friend_group__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "6725cd6a15083a570738bbdffc1ecccf3e623c1baef43c7f9511e140f1badbce",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "485c74c105b1753ad4e16296fd60b4fb05bf3e2e3082bda7494322dfeb32e9aa",
+      "prompt": "Art style: Japanese anime. wide shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: bracing. Camera: dynamic action. Render as a single illustrated frame, no UI text. Corrections: Integrate the character 'gideon_marsh' into the scene, ensuring he is recognizable and matches his reference image and 'everyday' outfit.; Render Gideon fully with correct facial features and everyday outfit from reference..",
+      "refs": [
+        "1482f706008b0f613e27d9fbe3fc1e76966c8e052a1862e15709330e0e7248e1",
+        "ac1899dd20cb392780cd66be6e1079be3981e09c32c8fca502815ab1aadd89d7"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c07_em",
+          "shotId": "c07_em__s3"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "6817ca50a9ce4f1a1e9d3af50553e41eb66209cd47cf37c86cc35732550a2764",
       "ext": "png",
       "kind": "shot_image",
@@ -549,6 +697,24 @@
       "prompt": "Art style: Japanese anime. establishing shot in Great Assembly Hall (day). No characters in frame. Render as a single illustrated frame, no UI text.",
       "refs": [
         "ad12d4d7cd36490a36096363d344af76d8a1d7383d3bfe585607bb25fd6b5a08"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c05_ruins_briefing",
+          "shotId": "c05_ruins_briefing__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "6863e4900ba125e267cca9aa669f06af978abc1adf293a74ed13cbeb3c0d7a0c",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "df50a750bec6ada433e21efa9c94fb1be13248a0d1d45728a88b33ac1ec3c5de",
+      "prompt": "Art style: Japanese anime. establishing shot in Great Assembly Hall (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "7c32805d7b38201ed81649e5f38ba76ef8b6401348ebebd72bbcb190bdda7bce"
       ],
       "modelId": "gemini-2.5-flash-image",
       "satisfies": [
@@ -573,6 +739,25 @@
         {
           "sceneId": "wr_truth",
           "shotId": "wr_truth__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "73800ac3c1f87dff9d3a885abcef0575f1339e6a2640ce9d3cdc6c5bf4ba9db2",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "f276f177e97dfe1dbd8e5bad073899fb5c05f4d5b1be045977fefd7eec7a0ab0",
+      "prompt": "Art style: Japanese anime. medium shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, expression: exhausted. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "1482f706008b0f613e27d9fbe3fc1e76966c8e052a1862e15709330e0e7248e1",
+        "ac1899dd20cb392780cd66be6e1079be3981e09c32c8fca502815ab1aadd89d7"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c07_em",
+          "shotId": "c07_em__s4"
         }
       ],
       "accepted": true
@@ -630,6 +815,24 @@
         }
       ],
       "accepted": false
+    },
+    {
+      "hash": "75aa230e441333ab5af79b85dae394cb153ef0b6c7c6474aa12299e672c6490e",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "f1692877e3e743f1108426a617efdc75319dffe9c4ef8061033c491c88a1913d",
+      "prompt": "Art style: Japanese anime. establishing shot in The Ruins (Interior) (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "1482f706008b0f613e27d9fbe3fc1e76966c8e052a1862e15709330e0e7248e1"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c07_em",
+          "shotId": "c07_em__s1"
+        }
+      ],
+      "accepted": true
     },
     {
       "hash": "792fea0483559a3a98b8c39a0e64907bb8ac80b3f44f1cca84ef49843eb7c325",
@@ -956,6 +1159,24 @@
       "accepted": true
     },
     {
+      "hash": "ad453d02591c95b831b524ecd17efbe700c614138b1945233783a46777646802",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "d366c55d998ac0b837637fd8388c79e47b43e0d6227cdbf2b3eec1faabdca25c",
+      "prompt": "Art style: Japanese anime. establishing shot in Channeling Lecture Hall (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "80ba7d38a2f3a2ccc4c454729b5b2da1bf78232565bc9c0ddd74cc662986b2d4"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c04_first_class",
+          "shotId": "c04_first_class__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "ae6e0461f1df4f3ef12642dbecf9c8d044f6dfd4ec668eb4a2b455cdb19eeb69",
       "ext": "png",
       "kind": "shot_image",
@@ -1154,6 +1375,24 @@
       "accepted": true
     },
     {
+      "hash": "c43f7de3836621c4dc3e4b3ce000ee0db36bcb784fd6057cabe1046b9aec7c95",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "afc0e94bfba43ee4956de4c45f51f8804b75d2ea7034bebde6b20a22617c8f7c",
+      "prompt": "Art style: Japanese anime. establishing shot in The Ruins (Exterior) (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "00cf46a805d3efa0ece8d053efba4b3033835269096702b2774d54748f1ea5db"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c06_the_ruins",
+          "shotId": "c06_the_ruins__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "c6fd7b6ef79eca74c0363833883f749b0949fa5893f3424bfdd1e602d480c6e4",
       "ext": "png",
       "kind": "shot_image",
@@ -1208,6 +1447,25 @@
       "accepted": true
     },
     {
+      "hash": "cc72940d425b6a52fef090ae76c4f5cf0e100c50a5000141965b93260c21c8c6",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "bb5729f51f6cce1ab7bd9990434f5720974b51bd53de6be8996e37669349186f",
+      "prompt": "Art style: Japanese anime. medium shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: catching breath, expression: weary. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "1482f706008b0f613e27d9fbe3fc1e76966c8e052a1862e15709330e0e7248e1",
+        "ac1899dd20cb392780cd66be6e1079be3981e09c32c8fca502815ab1aadd89d7"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c07_is",
+          "shotId": "c07_is__s4"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "ce65a993811736621293b436348f45293793fa3ce52efebba2af9a63d3814d1f",
       "ext": "png",
       "kind": "shot_image",
@@ -1257,6 +1515,25 @@
         {
           "sceneId": "is_ending",
           "shotId": "is_ending__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "e1f5108ae5a9946a7649fae9395149921bfc2537370ac3e4a857edfc00d7d5dd",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "51d862a94da4e99952a2366b2daa39d22a7eb3788477303906a49e6fef7bb14d",
+      "prompt": "Art style: Japanese anime. medium shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: defensive, expression: alarmed. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "1482f706008b0f613e27d9fbe3fc1e76966c8e052a1862e15709330e0e7248e1",
+        "ac1899dd20cb392780cd66be6e1079be3981e09c32c8fca502815ab1aadd89d7"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c07_is",
+          "shotId": "c07_is__s2"
         }
       ],
       "accepted": true

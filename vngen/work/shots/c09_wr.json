@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "scene": "c09_wr",
+  "shots": [
+    {
+      "id": "c09_wr__s1",
+      "sceneId": "c09_wr",
+      "framing": "establishing",
+      "location": "day",
+      "subjects": [],
+      "coversLines": [
+        "c09_wr:L1"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. establishing shot in The College Woods (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    },
+    {
+      "id": "c09_wr__s2",
+      "sceneId": "c09_wr",
+      "framing": "wide",
+      "location": "day",
+      "subjects": [
+        {
+          "characterId": "wren_ashfield",
+          "pose": "leading",
+          "expression": "focused"
+        }
+      ],
+      "coversLines": [
+        "c09_wr:L2"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. wide shot in The College Woods (day). Subjects: Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord., pose: leading, expression: focused. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    },
+    {
+      "id": "c09_wr__s3",
+      "sceneId": "c09_wr",
+      "framing": "medium",
+      "location": "day",
+      "subjects": [
+        {
+          "characterId": "wren_ashfield",
+          "pose": "gesturing",
+          "expression": "sly"
+        }
+      ],
+      "coversLines": [
+        "c09_wr:L3"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. medium shot in The College Woods (day). Subjects: Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord., pose: gesturing, expression: sly. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    }
+  ]
+}

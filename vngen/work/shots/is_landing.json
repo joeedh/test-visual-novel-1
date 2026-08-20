@@ -11,9 +11,7 @@
       "coversLines": [],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in The Grey Principality of Vorn (day). No characters in frame. Render as a single illustrated frame, no UI text.",
-        "image": "465ee58b207c4a7bfe3860299a4431adbbb6523cf894aaa3ef2a6e1be2f37bb4",
-        "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
-        "status": "accepted"
+        "status": "prompted"
       }
     }
   ]

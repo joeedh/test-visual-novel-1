@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "scene": "ud_epilogue",
+  "shots": [
+    {
+      "id": "ud_epilogue__s1",
+      "sceneId": "ud_epilogue",
+      "framing": "establishing",
+      "location": "day",
+      "subjects": [],
+      "camera": "slow aerial push over shattered skyline",
+      "coversLines": [
+        "ud_epilogue:L1"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. establishing shot in The Ruined Cities (Timeskip) (day). No characters in frame. Camera: slow aerial push over shattered skyline. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    },
+    {
+      "id": "ud_epilogue__s2",
+      "sceneId": "ud_epilogue",
+      "framing": "wide",
+      "location": "day",
+      "subjects": [],
+      "camera": "pan across gutted ruins",
+      "coversLines": [
+        "ud_epilogue:L2",
+        "ud_epilogue:L3"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. wide shot in The Ruined Cities (Timeskip) (day). No characters in frame. Camera: pan across gutted ruins. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    },
+    {
+      "id": "ud_epilogue__s3",
+      "sceneId": "ud_epilogue",
+      "framing": "medium",
+      "location": "day",
+      "subjects": [],
+      "camera": "static on drifting ash",
+      "coversLines": [
+        "ud_epilogue:L4",
+        "ud_epilogue:L5"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. medium shot in The Ruined Cities (Timeskip) (day). No characters in frame. Camera: static on drifting ash. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    }
+  ]
+}

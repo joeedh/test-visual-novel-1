@@ -11,9 +11,7 @@
       "coversLines": [],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in The Ruins (Exterior) (day). No characters in frame. Render as a single illustrated frame, no UI text.",
-        "image": "477e1cab8f1d072c7e815ada5afac72d1a48cd01ee8702ccbe884cd83154f05b",
-        "proseHash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
-        "status": "accepted"
+        "status": "prompted"
       }
     }
   ]

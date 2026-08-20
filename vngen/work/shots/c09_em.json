@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "scene": "c09_em",
+  "shots": [
+    {
+      "id": "c09_em__s1",
+      "sceneId": "c09_em",
+      "framing": "establishing",
+      "location": "day",
+      "subjects": [
+        {
+          "characterId": "ember_kellan",
+          "pose": "walking ahead",
+          "expression": "beckoning"
+        }
+      ],
+      "camera": "wide canopy light",
+      "coversLines": [
+        "c09_em:L1",
+        "c09_em:L2"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. establishing shot in The College Woods (day). Subjects: Ember Kellan, wearing Ash-grey forge leathers scorched at the cuffs, sleeves rolled to bare her rust-scarred forearm, ember-orange sash of the Kiln-Sworn knotted at the hip., pose: walking ahead, expression: beckoning. Camera: wide canopy light. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    },
+    {
+      "id": "c09_em__s2",
+      "sceneId": "c09_em",
+      "framing": "medium",
+      "location": "day",
+      "subjects": [
+        {
+          "characterId": "ember_kellan",
+          "pose": "turning to face",
+          "expression": "intense"
+        }
+      ],
+      "coversLines": [
+        "c09_em:L3"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. medium shot in The College Woods (day). Subjects: Ember Kellan, wearing Ash-grey forge leathers scorched at the cuffs, sleeves rolled to bare her rust-scarred forearm, ember-orange sash of the Kiln-Sworn knotted at the hip., pose: turning to face, expression: intense. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    }
+  ]
+}

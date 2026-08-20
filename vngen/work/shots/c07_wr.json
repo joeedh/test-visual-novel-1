@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "scene": "c07_wr",
+  "shots": [
+    {
+      "id": "c07_wr__s1",
+      "sceneId": "c07_wr",
+      "framing": "establishing",
+      "location": "day",
+      "subjects": [],
+      "camera": "slow push through tunnels",
+      "coversLines": [
+        "c07_wr:L1"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. establishing shot in The Ruins (Interior) (day). No characters in frame. Camera: slow push through tunnels. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    },
+    {
+      "id": "c07_wr__s2",
+      "sceneId": "c07_wr",
+      "framing": "medium",
+      "location": "day",
+      "subjects": [
+        {
+          "characterId": "gideon_marsh",
+          "pose": "weapon drawn, turning",
+          "expression": "alarmed"
+        }
+      ],
+      "coversLines": [
+        "c07_wr:L2",
+        "c07_wr:L3"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. medium shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: weapon drawn, turning, expression: alarmed. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    },
+    {
+      "id": "c07_wr__s3",
+      "sceneId": "c07_wr",
+      "framing": "wide",
+      "location": "day",
+      "subjects": [
+        {
+          "characterId": "gideon_marsh",
+          "pose": "following through hidden passage",
+          "expression": "tense"
+        }
+      ],
+      "coversLines": [
+        "c07_wr:L4"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. wide shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: following through hidden passage, expression: tense. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    },
+    {
+      "id": "c07_wr__s4",
+      "sceneId": "c07_wr",
+      "framing": "medium",
+      "location": "day",
+      "subjects": [
+        {
+          "characterId": "gideon_marsh",
+          "pose": "emerging, breathing hard",
+          "expression": "relieved but shaken"
+        }
+      ],
+      "coversLines": [
+        "c07_wr:L5"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. medium shot in The Ruins (Interior) (day). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs, pose: emerging, breathing hard, expression: relieved but shaken. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    }
+  ]
+}

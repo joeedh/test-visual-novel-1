@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "scene": "ud_final_boss",
+  "shots": [
+    {
+      "id": "ud_final_boss__s1",
+      "sceneId": "ud_final_boss",
+      "framing": "establishing",
+      "location": "night",
+      "subjects": [],
+      "camera": "slow push into the sanctum",
+      "coversLines": [
+        "ud_final_boss:L1"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. establishing shot in The Organization — Inner Sanctum (night). No characters in frame. Camera: slow push into the sanctum. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    },
+    {
+      "id": "ud_final_boss__s2",
+      "sceneId": "ud_final_boss",
+      "framing": "wide",
+      "location": "night",
+      "subjects": [],
+      "camera": "sweeping across the hall",
+      "coversLines": [
+        "ud_final_boss:L2",
+        "ud_final_boss:L3"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. wide shot in The Organization — Inner Sanctum (night). No characters in frame. Camera: sweeping across the hall. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    },
+    {
+      "id": "ud_final_boss__s3",
+      "sceneId": "ud_final_boss",
+      "framing": "medium",
+      "location": "night",
+      "subjects": [],
+      "camera": "static on the throne, aftermath",
+      "coversLines": [
+        "ud_final_boss:L4",
+        "ud_final_boss:L5"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. medium shot in The Organization — Inner Sanctum (night). No characters in frame. Camera: static on the throne, aftermath. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    }
+  ]
+}

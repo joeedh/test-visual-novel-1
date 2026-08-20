@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "scene": "c08_wr",
+  "shots": [
+    {
+      "id": "c08_wr__s1",
+      "sceneId": "c08_wr",
+      "framing": "establishing",
+      "location": "day",
+      "subjects": [],
+      "coversLines": [
+        "c08_wr:L1"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. establishing shot in College Infirmary (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    },
+    {
+      "id": "c08_wr__s2",
+      "sceneId": "c08_wr",
+      "framing": "medium",
+      "location": "day",
+      "subjects": [],
+      "coversLines": [
+        "c08_wr:L2"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. medium shot in College Infirmary (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    },
+    {
+      "id": "c08_wr__s3",
+      "sceneId": "c08_wr",
+      "framing": "wide",
+      "location": "day",
+      "subjects": [],
+      "camera": "slow pull-back",
+      "coversLines": [
+        "c08_wr:L3"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. wide shot in College Infirmary (day). No characters in frame. Camera: slow pull-back. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    }
+  ]
+}

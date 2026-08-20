@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "scene": "ud_binding",
+  "shots": [
+    {
+      "id": "ud_binding__s1",
+      "sceneId": "ud_binding",
+      "framing": "establishing",
+      "location": "night",
+      "subjects": [],
+      "coversLines": [
+        "ud_binding:L1"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. establishing shot in Cloudlane Bolt-Hole (night). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    },
+    {
+      "id": "ud_binding__s2",
+      "sceneId": "ud_binding",
+      "framing": "wide",
+      "location": "night",
+      "subjects": [],
+      "coversLines": [
+        "ud_binding:L2"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. wide shot in Cloudlane Bolt-Hole (night). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    },
+    {
+      "id": "ud_binding__s3",
+      "sceneId": "ud_binding",
+      "framing": "medium",
+      "location": "night",
+      "subjects": [],
+      "coversLines": [
+        "ud_binding:L3"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. medium shot in Cloudlane Bolt-Hole (night). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "scene": "wr_infiltration",
+  "shots": [
+    {
+      "id": "wr_infiltration__s1",
+      "sceneId": "wr_infiltration",
+      "framing": "establishing",
+      "location": "night",
+      "subjects": [
+        {
+          "characterId": "wren_ashfield",
+          "pose": "leading forward",
+          "expression": "determined"
+        }
+      ],
+      "camera": "wide low angle on looming outer works",
+      "coversLines": [
+        "wr_infiltration:L6"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. establishing shot in The Organization — Outer Works (night). Subjects: Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord., pose: leading forward, expression: determined. Camera: wide low angle on looming outer works. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    },
+    {
+      "id": "wr_infiltration__s2",
+      "sceneId": "wr_infiltration",
+      "framing": "medium",
+      "location": "night",
+      "subjects": [
+        {
+          "characterId": "wren_ashfield",
+          "pose": "advancing fiercely",
+          "expression": "fierce resolve"
+        }
+      ],
+      "coversLines": [
+        "wr_infiltration:L7"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. medium shot in The Organization — Outer Works (night). Subjects: Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord., pose: advancing fiercely, expression: fierce resolve. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    },
+    {
+      "id": "wr_infiltration__s3",
+      "sceneId": "wr_infiltration",
+      "framing": "close",
+      "location": "night",
+      "subjects": [
+        {
+          "characterId": "wren_ashfield",
+          "pose": "speaking sharply",
+          "expression": "defiant"
+        }
+      ],
+      "coversLines": [
+        "wr_infiltration:L8"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. close shot in The Organization — Outer Works (night). Subjects: Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord., pose: speaking sharply, expression: defiant. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    },
+    {
+      "id": "wr_infiltration__s4",
+      "sceneId": "wr_infiltration",
+      "framing": "wide",
+      "location": "night",
+      "subjects": [
+        {
+          "characterId": "wren_ashfield",
+          "pose": "commanding, arm raised",
+          "expression": "steadfast"
+        }
+      ],
+      "camera": "sweeping across battle line",
+      "coversLines": [
+        "wr_infiltration:L9",
+        "wr_infiltration:L5"
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. wide shot in The Organization — Outer Works (night). Subjects: Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord., pose: commanding, arm raised, expression: steadfast. Camera: sweeping across battle line. Render as a single illustrated frame, no UI text.",
+        "status": "prompted"
+      }
+    }
+  ]
+}
