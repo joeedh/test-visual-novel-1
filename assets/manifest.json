@@ -358,7 +358,7 @@
           "variant": "day"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "224e128d302936f6930aeec7a892e9137d75f7e8fe9fec3f858e9bac4bbc9c08",
@@ -614,7 +614,7 @@
           "variant": "day"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "3bed1162f146fa3b33f894e6bc3e181757a4e852e7b23399a9711f7b3386a486",
@@ -1036,7 +1036,7 @@
           "variant": "night"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "56b37f57c9e5b4d5eb4e8eb10fe43152e77b3227209f7e90089b04baed181302",
@@ -1263,7 +1263,7 @@
           "variant": "dusk"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "68ef396781e32deb3b6eb51a5b64543c75589dc15d7130bfbab88cc9068d2bef",
@@ -2271,7 +2271,7 @@
           "variant": "night"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "c95cb3a5285618fc5c847d3308485d44471cdb694cc226e0100aab80575aa8c0",
@@ -2423,7 +2423,7 @@
           "variant": "day"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "d2d64c0eae341efb808944a5bebe1bc86b7a790709cbd9a357277158b160de4b",
