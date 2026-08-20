@@ -33,7 +33,13 @@
       ],
       "coversLines": [
         "se_infiltration:L8"
-      ]
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. close shot in The Organization — Outer Works (night). Subjects: Seraphine Halcyon, wearing Loomwright student's indigo coat with silver thread trim over a high-collared cream blouse, fitted trousers, and soft leather boots; a silver Loomwright pin at the throat.. Render as a single illustrated frame, no UI text.",
+        "image": "3b5e3f42aa57dcb3f090b50bb164c5044ad2ee98097e30e9a09f8d4ef0da0e2c",
+        "proseHash": "0e69ed64d68b0dc607d73a7e85a19d3295ee2978e7e0d8bda107e0722f2b3d95",
+        "status": "accepted"
+      }
     }
   ]
 }

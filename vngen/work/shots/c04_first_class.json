@@ -32,7 +32,13 @@
       ],
       "coversLines": [
         "c04_first_class:L6"
-      ]
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. medium shot in Channeling Lecture Hall (day). Subjects: Professor Mirabel Quist, wearing A practical leather apron over a slate-grey work dress, sleeves rolled and buckled back, a bandolier of fine tools across the chest, brass Governor-gauntlet on one forearm, jeweler's loupe pushed up on the forehead.. Render as a single illustrated frame, no UI text.",
+        "image": "deb8bcbfc4177e3117376468921c75654b34e45ed6b32f54034d4a00a2ee826e",
+        "proseHash": "1dda5063bc9b145c46583dfaf1b90c1e242bd6631967300e9a30a845b5e025dc",
+        "status": "accepted"
+      }
     },
     {
       "id": "c04_first_class__shot2",
@@ -46,7 +52,13 @@
       ],
       "coversLines": [
         "c04_first_class:L7"
-      ]
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. medium shot in Channeling Lecture Hall (day). Subjects: Silas Thorn, wearing A slate-grey Cog-College master's gown over a high-collared brass-buttoned waistcoat, a licensed Governor gauntlet locked to his left forearm, acid-stained gloves tucked at his belt.. Render as a single illustrated frame, no UI text.",
+        "image": "6bbf09f5830706f8f2a7f7702bbb8a1ff9a22ab35892cfb5426358402faeab65",
+        "proseHash": "73af11f7fa5cb067e59f842301ea6092b26b86ede408a28230650bbe4843a553",
+        "status": "accepted"
+      }
     }
   ]
 }

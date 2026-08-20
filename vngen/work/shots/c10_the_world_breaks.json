@@ -32,7 +32,13 @@
       ],
       "coversLines": [
         "c10_the_world_breaks:L7"
-      ]
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. medium shot in Great Assembly Hall (night). Subjects: Auria Coyle, wearing High-collared slate-and-white coat of office over a charcoal waistcoat, brass circlet on coiled silver hair, a ceremonial Governor gauntlet on the left forearm, iron College keys at the belt.. Render as a single illustrated frame, no UI text.",
+        "image": "b969834916c8c57ea05d92e777b3d101308c9c670c84879b1d829eea3bca036c",
+        "proseHash": "96440b997ba7f57193aa77fb79460a2312967749e2e0aaa2fdd3096f0e3c84cd",
+        "status": "accepted"
+      }
     },
     {
       "id": "c10_the_world_breaks__shot2",
@@ -46,7 +52,13 @@
       ],
       "coversLines": [
         "c10_the_world_breaks:L8"
-      ]
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. medium shot in Great Assembly Hall (night). Subjects: Professor Mirabel Quist, wearing A practical leather apron over a slate-grey work dress, sleeves rolled and buckled back, a bandolier of fine tools across the chest, brass Governor-gauntlet on one forearm, jeweler's loupe pushed up on the forehead.. Render as a single illustrated frame, no UI text.",
+        "image": "a320c6b35712ab72509bebcdace87ea267dda5b5f0ee72f958bd0e6c6857bfeb",
+        "proseHash": "da2b35b343d1fb1a47532781aeb5586d504f0fdd3cca9d0d76523833e6c0563a",
+        "status": "accepted"
+      }
     }
   ]
 }

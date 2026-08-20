@@ -33,7 +33,13 @@
       ],
       "coversLines": [
         "em_ending:L8"
-      ]
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. medium shot in Cinderhold — Vashan Forge-City (day). Subjects: Caedon Vale, wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear.. Render as a single illustrated frame, no UI text.",
+        "image": "392ed5e5fbfa753a823d13a4ede2d28569d9b7e81862b3fbb2debec52a3aa4aa",
+        "proseHash": "a5fdeeb827e7e147150fe17d2ca685df9ed50b2d4898fb2d1e64c195dd14003e",
+        "status": "accepted"
+      }
     },
     {
       "id": "em_ending__shot2",
@@ -47,7 +53,13 @@
       ],
       "coversLines": [
         "em_ending:L9"
-      ]
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. close shot in Cinderhold — Vashan Forge-City (day). Subjects: Ember Kellan, wearing Ash-grey forge leathers scorched at the cuffs, sleeves rolled to bare her rust-scarred forearm, ember-orange sash of the Kiln-Sworn knotted at the hip.. Render as a single illustrated frame, no UI text.",
+        "image": "8a6245744bea623b1b7d48c36428a3fc0bbbcfea5ba463f4d8f1640993452ca7",
+        "proseHash": "9315d39f682ceb21f2c1caab740750b222e8ad70b35e3be3fef90801b1b7b9d3",
+        "status": "accepted"
+      }
     }
   ]
 }

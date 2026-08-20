@@ -33,7 +33,13 @@
       "coversLines": [
         "c01_arrival:L8",
         "c01_arrival:L9"
-      ]
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. medium shot in Cog-College — Approach (dusk). Subjects: Auria Coyle, wearing High-collared slate-and-white coat of office over a charcoal waistcoat, brass circlet on coiled silver hair, a ceremonial Governor gauntlet on the left forearm, iron College keys at the belt.. Render as a single illustrated frame, no UI text.",
+        "image": "6afe370302411d5fda20073f78d5cbd6e1ba5aa88962f17a71d368a6482ba42e",
+        "proseHash": "4808afe724b7cbd506e3b7fee73802d7cdd5533b86a4e159020d47dd3492b4ca",
+        "status": "accepted"
+      }
     },
     {
       "id": "c01_arrival__shot2",
@@ -47,7 +53,13 @@
       ],
       "coversLines": [
         "c01_arrival:L11"
-      ]
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. medium shot in Cog-College — Approach (dusk). Subjects: Caedon Vale, wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear.. Render as a single illustrated frame, no UI text.",
+        "image": "f57749b444dadf21053f6e1bbb9b672517e7a658d61a4ddfc1d3ab300a6247b0",
+        "proseHash": "daa0297ace156db4c0dbc9a9703e3d17d905ef00117b9b2ac8d7f72fd9c10074",
+        "status": "accepted"
+      }
     }
   ]
 }

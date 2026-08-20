@@ -33,7 +33,13 @@
       ],
       "coversLines": [
         "is_infiltration:L8"
-      ]
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. close shot in The Organization — Outer Works (night). Subjects: Isolde Vorn, wearing A high-collared grey habit of Vorn cut, iron clasps, and a single iron key-pendant at the throat — austere, devout, unmarked by any Order's livery.. Render as a single illustrated frame, no UI text.",
+        "image": "1176b171594be39c65dade24ec12e470a8ea3c80273acd620e87c19613d5d08d",
+        "proseHash": "7cf49647693e331f49037ac9dabef3246fca32e828fc733fb674724e56a00a0f",
+        "status": "accepted"
+      }
     }
   ]
 }

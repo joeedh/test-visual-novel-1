@@ -33,7 +33,13 @@
       "coversLines": [
         "c05_ruins_briefing:L6",
         "c05_ruins_briefing:L7"
-      ]
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. medium shot in Great Assembly Hall (day). Subjects: Auria Coyle, wearing High-collared slate-and-white coat of office over a charcoal waistcoat, brass circlet on coiled silver hair, a ceremonial Governor gauntlet on the left forearm, iron College keys at the belt.. Render as a single illustrated frame, no UI text.",
+        "image": "febe31e192617de9fc0437392bc68403035a37c2f7df4274938140d11f1d06ab",
+        "proseHash": "ff5d937cb377a82e939f6e815cc2f391fbc0d79537715f80ddbaab003d92e3dd",
+        "status": "accepted"
+      }
     }
   ]
 }

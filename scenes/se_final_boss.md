@@ -5,16 +5,21 @@ scene: se_final_boss
 INT. ENEMY ORGANIZATION CORE - NIGHT
 
 [[next: se_ending]]
-[[nextline: 9]]
+[[nextline: 10]]
 
 [[line: L5]]
 The Inner Sanctum: a cavernous engine-cathedral, blinding aether-core glare, and the monstrous machinery that engineered the world's ruin. This is the final fight.
 
+SERAPHINE HALCYON
+[[line: L9]]
+(weaving, subtle and lethal)
 [[line: L6]]
-Seraphine moves with a lethal grace, her Sela-strong weaves braiding subtle energies that disorient and dismantle the enemy's defenses from within.
+Every lie you built into this engine — I unpick. Hold still.
 
+CAEDON VALE
 [[line: L7]]
-Our allies—the courts she turned, the surviving pairs she rallied—fight with ferocious loyalty. The enemy boss is exposed, its intricate schemes unraveled by Seraphine's relentless truth.
+The courts she turned hold the line. Your defenses are open — now!
 
+SERAPHINE HALCYON
 [[line: L8]]
-Finally, the boss falls. The monstrous core falters, then collapses into silence. The peace-broker's daughter has become the leader the world needed.
+It's done. The core is quiet.

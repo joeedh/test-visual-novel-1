@@ -33,7 +33,13 @@
       ],
       "coversLines": [
         "is_ending:L8"
-      ]
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. medium shot in The Grey Principality of Vorn (day). Subjects: Caedon Vale, wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear.. Render as a single illustrated frame, no UI text.",
+        "image": "5dbf9ff7fc43df01d43ca3fb2f16bb88dc5fed4b0249e921c20bebaeeba16265",
+        "proseHash": "abf58ee8120d2eccb3a02a6b723e23809be91bb7def03882214c18ac0a122eee",
+        "status": "accepted"
+      }
     },
     {
       "id": "is_ending__shot2",
@@ -47,7 +53,13 @@
       ],
       "coversLines": [
         "is_ending:L9"
-      ]
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. close shot in The Grey Principality of Vorn (day). Subjects: Isolde Vorn, wearing A high-collared grey habit of Vorn cut, iron clasps, and a single iron key-pendant at the throat — austere, devout, unmarked by any Order's livery.. Render as a single illustrated frame, no UI text.",
+        "image": "972e302bf6cfa4d1e4cf6ea195cc23043eb394dc96c08bc924c2992f92ce024e",
+        "proseHash": "20e4a743eda6c13b64a6ad8bab9a14cade98aea6dfc351235e643d37c6b7c716",
+        "status": "accepted"
+      }
     }
   ]
 }

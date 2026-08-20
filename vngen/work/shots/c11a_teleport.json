@@ -32,7 +32,13 @@
       ],
       "coversLines": [
         "c11a_teleport:L6"
-      ]
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. medium shot in The Translocation Hall (night). Subjects: Auria Coyle, wearing High-collared slate-and-white coat of office over a charcoal waistcoat, brass circlet on coiled silver hair, a ceremonial Governor gauntlet on the left forearm, iron College keys at the belt.. Render as a single illustrated frame, no UI text.",
+        "image": "3f1e2cbce32f1cad7b493b304a40600662cf62e87e941fb481268a440b744d26",
+        "proseHash": "81e42311f1c267a043ad3954fc08b141b1abe07ef64716da3709e31875e68715",
+        "status": "accepted"
+      }
     }
   ]
 }

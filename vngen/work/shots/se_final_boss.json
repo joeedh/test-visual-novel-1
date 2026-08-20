@@ -27,7 +27,13 @@
       "subjects": [],
       "coversLines": [
         "se_final_boss:L6"
-      ]
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. close shot in The Organization — Inner Sanctum (night). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "image": "018438b9a3b92942ddcd1b7c428b2b50ac1094bbc2cb1c2ff01e663d08f28007",
+        "proseHash": "627a93c67f8cb3187fae4d1bfbf6bce7818f087d376837234ff00b55f1c0a6f5",
+        "status": "accepted"
+      }
     },
     {
       "id": "se_final_boss__shot2",
@@ -37,7 +43,13 @@
       "subjects": [],
       "coversLines": [
         "se_final_boss:L7"
-      ]
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. wide shot in The Organization — Inner Sanctum (night). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "image": "cac116d789ba1cc86d0fad1270f70fd22e5ea2231cf000825c22a6ba574148f9",
+        "proseHash": "058a14d1f98a9bd8a600fbac3377a0d586159e94876bce13f6adc5d7cf79735a",
+        "status": "accepted"
+      }
     },
     {
       "id": "se_final_boss__shot3",
@@ -47,7 +59,13 @@
       "subjects": [],
       "coversLines": [
         "se_final_boss:L8"
-      ]
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. medium shot in The Organization — Inner Sanctum (night). No characters in frame. Render as a single illustrated frame, no UI text.",
+        "image": "a7f4ef0e8f1f1f76938117e967b4706b150c58be21b9083f79ec23df76dd03e9",
+        "proseHash": "c42bf55b628673398dc88ee2cb2c506e3b3236291eefecba42ac9882bd1b6db8",
+        "status": "accepted"
+      }
     }
   ]
 }

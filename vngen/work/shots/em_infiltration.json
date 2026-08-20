@@ -33,7 +33,13 @@
       ],
       "coversLines": [
         "em_infiltration:L10"
-      ]
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. medium shot in The Organization — Outer Works (night). Subjects: Caedon Vale, wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear.. Render as a single illustrated frame, no UI text.",
+        "image": "97d935f206ec853e8649a10313b5dc7fb053c26366e15529eb86a1da98a97bf9",
+        "proseHash": "85712a6da23037b55de51d1290a02b98f6b54bfe79a037b5f94b01deaaef52bb",
+        "status": "accepted"
+      }
     },
     {
       "id": "em_infiltration__shot2",
@@ -47,7 +53,13 @@
       ],
       "coversLines": [
         "em_infiltration:L11"
-      ]
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. close shot in The Organization — Outer Works (night). Subjects: Ember Kellan, wearing Ash-grey forge leathers scorched at the cuffs, sleeves rolled to bare her rust-scarred forearm, ember-orange sash of the Kiln-Sworn knotted at the hip.. Render as a single illustrated frame, no UI text.",
+        "image": "2b6644541f598546907e7984e3537e4cf7b97f29bedf87cab62e61bf8f123617",
+        "proseHash": "edebf02b090385ad60dda733b7119db1767d28043150f8fab18454cf582710c6",
+        "status": "accepted"
+      }
     }
   ]
 }

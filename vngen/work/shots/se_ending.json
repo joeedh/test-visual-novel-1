@@ -33,7 +33,13 @@
       ],
       "coversLines": [
         "se_ending:L8"
-      ]
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. medium shot in Halcyon Reach (day). Subjects: Caedon Vale, wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear.. Render as a single illustrated frame, no UI text.",
+        "image": "17a86984fc51fd7aff2547054bbb549f1aef14bde20a79d0c030028a409bc88c",
+        "proseHash": "e91766d930d20898d5e78de352faa809bc941b815d5ec97462e24fc2834e3c11",
+        "status": "accepted"
+      }
     },
     {
       "id": "se_ending__shot2",
@@ -47,7 +53,13 @@
       ],
       "coversLines": [
         "se_ending:L9"
-      ]
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. close shot in Halcyon Reach (day). Subjects: Seraphine Halcyon, wearing Loomwright student's indigo coat with silver thread trim over a high-collared cream blouse, fitted trousers, and soft leather boots; a silver Loomwright pin at the throat.. Render as a single illustrated frame, no UI text.",
+        "image": "e123d9163509935905faa451484559fb26fbca6395160753674090ccca7e9f90",
+        "proseHash": "4b043078749f5d5041d7af1ec2d34766cc7fa08c44475431499e103518ff2077",
+        "status": "accepted"
+      }
     }
   ]
 }

@@ -34,7 +34,13 @@
       ],
       "coversLines": [
         "c02_first_meetings:L11"
-      ]
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. medium shot in Cog-College — Great Courtyard (day). Subjects: Caedon Vale, wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear.. Render as a single illustrated frame, no UI text.",
+        "image": "22590bb9508596f30025356a6fd2e80bb41d960c04ae465b9e16080cd34cf1f3",
+        "proseHash": "58c6a9e6a33e47191b81dcd4e311d65598e467729e241adcb5ff195eb2fe1a74",
+        "status": "accepted"
+      }
     }
   ]
 }

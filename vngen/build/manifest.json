@@ -75,6 +75,24 @@
       "accepted": true
     },
     {
+      "hash": "018438b9a3b92942ddcd1b7c428b2b50ac1094bbc2cb1c2ff01e663d08f28007",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "52cb5a20f16240ab98d0c7e331330161d665699196c331e1e334e6acb764c758",
+      "prompt": "Art style: Japanese anime. close shot in The Organization — Inner Sanctum (night). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "c390b1918be0e1e3751c6620433152a5e2d5615e1049dcbd6c68686a597ec40b"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "se_final_boss",
+          "shotId": "se_final_boss__shot1"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "01d83964ad0a450ecf0cb88f59379872ced8474248751866ada4c87f2355724a",
       "ext": "png",
       "kind": "shot_image",
@@ -165,6 +183,25 @@
         }
       ],
       "accepted": false
+    },
+    {
+      "hash": "0a1962633a83e813e397871aa23143f131c1bb36b290ff02ac55f15fa1d89bf0",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "90ff995c3e4d5dc7f78b62f844665bef22cdc8bf1c536e318e88ad18298fcc41",
+      "prompt": "Art style: Japanese anime. medium shot in Dormitory Commons (night). Subjects: Caedon Vale, wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear.. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "db980e9032511fae2596cf41bd46e9e745927e9119e6d8b923cf6e8515f24d80",
+        "2539415100a19baab81804594905c50310943871222c230cdca9ca04dea7ddb0"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c03_the_friend_group",
+          "shotId": "c03_the_friend_group__shot4"
+        }
+      ],
+      "accepted": true
     },
     {
       "hash": "0a48fe121638590f022e7771e7f2f38d35e417c0f4f38ccbf14321e6af23d9ae",
@@ -428,6 +465,25 @@
       "accepted": true
     },
     {
+      "hash": "1176b171594be39c65dade24ec12e470a8ea3c80273acd620e87c19613d5d08d",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "813a9d4c340f9d0127f54ac037820b0c926ff0b577e1107f9d5d804d5727bf47",
+      "prompt": "Art style: Japanese anime. close shot in The Organization — Outer Works (night). Subjects: Isolde Vorn, wearing A high-collared grey habit of Vorn cut, iron clasps, and a single iron key-pendant at the throat — austere, devout, unmarked by any Order's livery.. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "cd896526928fb42d9d0c26f60b36afdb4caadc70b7cc076e19d1e38b08f36268",
+        "094ee8c9815dd963a963618ab4191990d7db868186cc7bf7a7541d8e9253f229"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "is_infiltration",
+          "shotId": "is_infiltration__shot1"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "11b39ef2cc2e15e464c8990688e3a5fde9e6e237144e19d116cae2faa4b81a03",
       "ext": "png",
       "kind": "shot_image",
@@ -554,6 +610,25 @@
         {
           "sceneId": "wr_ending",
           "shotId": "wr_ending__s1"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "17a86984fc51fd7aff2547054bbb549f1aef14bde20a79d0c030028a409bc88c",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "b24d56464d16830c956093967eefbd83888fa12ccc95b92d6890e079e44b7c0b",
+      "prompt": "Art style: Japanese anime. medium shot in Halcyon Reach (day). Subjects: Caedon Vale, wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear.. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "ade745380a93a2854c609012dfc928a21bd2dcdbd94087bf285c8defbbd101d3",
+        "2539415100a19baab81804594905c50310943871222c230cdca9ca04dea7ddb0"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "se_ending",
+          "shotId": "se_ending__shot1"
         }
       ],
       "accepted": true
@@ -762,6 +837,25 @@
       "accepted": true
     },
     {
+      "hash": "22590bb9508596f30025356a6fd2e80bb41d960c04ae465b9e16080cd34cf1f3",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "e2712e970dc1a9e9c36da7a48bd8305a1b32b6644ac3e63d8d6afc90fb999f6c",
+      "prompt": "Art style: Japanese anime. medium shot in Cog-College — Great Courtyard (day). Subjects: Caedon Vale, wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear.. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "acf163f2bd1643b10ef80a21a3c90e7cb7e29893992aff7c0f023486ad80ec0f",
+        "2539415100a19baab81804594905c50310943871222c230cdca9ca04dea7ddb0"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c02_first_meetings",
+          "shotId": "c02_first_meetings__shot1"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "2448f772fd6c96f1e10b22447023b17c2c2e27f1aef36d7b4cdaf63f56eab0a7",
       "ext": "png",
       "kind": "shot_image",
@@ -831,6 +925,25 @@
         {
           "sceneId": "c08_ud",
           "shotId": "c08_ud__s1"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "2b6644541f598546907e7984e3537e4cf7b97f29bedf87cab62e61bf8f123617",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "7421d48918163f7cfcf6fd78bff927d18bea1c2b7d290807edbbc25495543f6f",
+      "prompt": "Art style: Japanese anime. close shot in The Organization — Outer Works (night). Subjects: Ember Kellan, wearing Ash-grey forge leathers scorched at the cuffs, sleeves rolled to bare her rust-scarred forearm, ember-orange sash of the Kiln-Sworn knotted at the hip.. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "cd896526928fb42d9d0c26f60b36afdb4caadc70b7cc076e19d1e38b08f36268",
+        "490599dbb80bb328ef37778ab184a855ec6529a2622f6a2956c480616ebf43dc"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "em_infiltration",
+          "shotId": "em_infiltration__shot2"
         }
       ],
       "accepted": true
@@ -1003,6 +1116,44 @@
       "accepted": true
     },
     {
+      "hash": "392ed5e5fbfa753a823d13a4ede2d28569d9b7e81862b3fbb2debec52a3aa4aa",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "b6b26c914766f920190d2480762f3f9e1d94ab20fccb47968ec355096d00f29f",
+      "prompt": "Art style: Japanese anime. medium shot in Cinderhold — Vashan Forge-City (day). Subjects: Caedon Vale, wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear.. Render as a single illustrated frame, no UI text. Corrections: Adjust the camera zoom or character placement to achieve a medium shot framing.; Adjust the lighting and atmosphere to better represent a 'day' setting, or clarify if 'day' refers to a specific named location rather than the time of day, and if so, what the intended time of day for that location is.; Crop/recompose to a medium shot framing the character from waist up..",
+      "refs": [
+        "c55289c45fc58632d5c9283f84ae9e42c3aced337a99deca5f74a79c3255baab",
+        "2539415100a19baab81804594905c50310943871222c230cdca9ca04dea7ddb0"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "em_ending",
+          "shotId": "em_ending__shot1"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "3b5e3f42aa57dcb3f090b50bb164c5044ad2ee98097e30e9a09f8d4ef0da0e2c",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "3cadde2795635055ddbfe7ed5da61852b19b6da50ecb3ec527c8f71379ffcadc",
+      "prompt": "Art style: Japanese anime. close shot in The Organization — Outer Works (night). Subjects: Seraphine Halcyon, wearing Loomwright student's indigo coat with silver thread trim over a high-collared cream blouse, fitted trousers, and soft leather boots; a silver Loomwright pin at the throat.. Render as a single illustrated frame, no UI text. Corrections: Adjust Seraphine Halcyon's hairstyle to match the crown braid shown in her character reference image to maintain character consistency.; Adjust the character's expression to convey more determination, resolve, or righteous anger to better match the narrative context.; Reframe to a close-up focusing on the character's face and upper chest..",
+      "refs": [
+        "cd896526928fb42d9d0c26f60b36afdb4caadc70b7cc076e19d1e38b08f36268",
+        "911643aed4303a4c97cd4f6345431014e7995ba502050641514ad9d98c66eb83"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "se_infiltration",
+          "shotId": "se_infiltration__shot1"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "3bce1445215beed45e88b6aecb9d9c48127d48852c5338fd2687ea611bcf711c",
       "ext": "png",
       "kind": "shot_image",
@@ -1055,6 +1206,25 @@
         {
           "sceneId": "c09_wr",
           "shotId": "c09_wr__s3"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "3f1e2cbce32f1cad7b493b304a40600662cf62e87e941fb481268a440b744d26",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "0fadb2e171202aa931a5047ab080d89c92648c3c1c530efd2f67011059635ebb",
+      "prompt": "Art style: Japanese anime. medium shot in The Translocation Hall (night). Subjects: Auria Coyle, wearing High-collared slate-and-white coat of office over a charcoal waistcoat, brass circlet on coiled silver hair, a ceremonial Governor gauntlet on the left forearm, iron College keys at the belt.. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "fbc5ce3ba264c1a27727ad187b427c0699daee94a3af1ae5936ba4ba6fc68da9",
+        "43c226e96b96be027bd11f711a16061e78bf1f663659fd1a0da6f80c04da4e7f"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c11a_teleport",
+          "shotId": "c11a_teleport__shot1"
         }
       ],
       "accepted": true
@@ -1921,6 +2091,25 @@
       "accepted": true
     },
     {
+      "hash": "5dbf9ff7fc43df01d43ca3fb2f16bb88dc5fed4b0249e921c20bebaeeba16265",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "faaeb62af3993c67c858432a7b0aa2897877a36a033fa9ee1049fef27594e9a0",
+      "prompt": "Art style: Japanese anime. medium shot in The Grey Principality of Vorn (day). Subjects: Caedon Vale, wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear.. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "4fc232cd134113fe3fe1726f1385b378f9eeb0dda290191a8323b4a85d151c5f",
+        "2539415100a19baab81804594905c50310943871222c230cdca9ca04dea7ddb0"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "is_ending",
+          "shotId": "is_ending__shot1"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "5e74bf2ba23338b72a41c1a6bb55006f947b1a67a76609eb6950b5ae2833b7e0",
       "ext": "png",
       "kind": "shot_image",
@@ -2196,6 +2385,25 @@
       "accepted": true
     },
     {
+      "hash": "6afe370302411d5fda20073f78d5cbd6e1ba5aa88962f17a71d368a6482ba42e",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "e2cf205f0e90a0518ccd318a85efaba02c8efe167a89f95c25a655f7b636f37f",
+      "prompt": "Art style: Japanese anime. medium shot in Cog-College — Approach (dusk). Subjects: Auria Coyle, wearing High-collared slate-and-white coat of office over a charcoal waistcoat, brass circlet on coiled silver hair, a ceremonial Governor gauntlet on the left forearm, iron College keys at the belt.. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "34cef9c93eefd1d683c0e8ca3daa14365e9e15cdf15692854e71efac8bef4d67",
+        "43c226e96b96be027bd11f711a16061e78bf1f663659fd1a0da6f80c04da4e7f"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c01_arrival",
+          "shotId": "c01_arrival__shot1"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "6b2160de4038548cb7812784a2a4b5a8bcd75694acea24534bd89eb34ca18dfa",
       "ext": "png",
       "kind": "shot_image",
@@ -2228,6 +2436,25 @@
         {
           "sceneId": "wr_truth",
           "shotId": "wr_truth__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "6bbf09f5830706f8f2a7f7702bbb8a1ff9a22ab35892cfb5426358402faeab65",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "41638a7a619b873ee850cd8c64dbfc2a1458670591642eb17ab7c32957952df5",
+      "prompt": "Art style: Japanese anime. medium shot in Channeling Lecture Hall (day). Subjects: Silas Thorn, wearing A slate-grey Cog-College master's gown over a high-collared brass-buttoned waistcoat, a licensed Governor gauntlet locked to his left forearm, acid-stained gloves tucked at his belt.. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "80ba7d38a2f3a2ccc4c454729b5b2da1bf78232565bc9c0ddd74cc662986b2d4",
+        "b31220dbaa7ebcffcf526624d35cde494d6532822d652efbd9d8cd5b19cae867"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c04_first_class",
+          "shotId": "c04_first_class__shot2"
         }
       ],
       "accepted": true
@@ -2749,6 +2976,44 @@
       "accepted": true
     },
     {
+      "hash": "895a4fa49afed83b6c863f6b40674e9211401d86b1dfdebb7b13b42375f3758a",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "3cadde2795635055ddbfe7ed5da61852b19b6da50ecb3ec527c8f71379ffcadc",
+      "prompt": "Art style: Japanese anime. close shot in The Organization — Outer Works (night). Subjects: Seraphine Halcyon, wearing Loomwright student's indigo coat with silver thread trim over a high-collared cream blouse, fitted trousers, and soft leather boots; a silver Loomwright pin at the throat.. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "cd896526928fb42d9d0c26f60b36afdb4caadc70b7cc076e19d1e38b08f36268",
+        "911643aed4303a4c97cd4f6345431014e7995ba502050641514ad9d98c66eb83"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "se_infiltration",
+          "shotId": "se_infiltration__shot1"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "8a6245744bea623b1b7d48c36428a3fc0bbbcfea5ba463f4d8f1640993452ca7",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "b0ed6e72f4893b7c5b7ace825bdd9ef7d2267892b64ca91eb42e8e0123134bbb",
+      "prompt": "Art style: Japanese anime. close shot in Cinderhold — Vashan Forge-City (day). Subjects: Ember Kellan, wearing Ash-grey forge leathers scorched at the cuffs, sleeves rolled to bare her rust-scarred forearm, ember-orange sash of the Kiln-Sworn knotted at the hip.. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "c55289c45fc58632d5c9283f84ae9e42c3aced337a99deca5f74a79c3255baab",
+        "490599dbb80bb328ef37778ab184a855ec6529a2622f6a2956c480616ebf43dc"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "em_ending",
+          "shotId": "em_ending__shot2"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "8baa7e8726c0dadb192e1e4d71f6049d44de95b9beeb32f5ccabc8fc2d273591",
       "ext": "png",
       "kind": "shot_image",
@@ -2951,6 +3216,25 @@
       "accepted": true
     },
     {
+      "hash": "972e302bf6cfa4d1e4cf6ea195cc23043eb394dc96c08bc924c2992f92ce024e",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "96a07ce35de08e3d6f5c48ea7cdc0812ff072f02a21b06ef59fc199aafbb03f8",
+      "prompt": "Art style: Japanese anime. close shot in The Grey Principality of Vorn (day). Subjects: Isolde Vorn, wearing A high-collared grey habit of Vorn cut, iron clasps, and a single iron key-pendant at the throat — austere, devout, unmarked by any Order's livery.. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "4fc232cd134113fe3fe1726f1385b378f9eeb0dda290191a8323b4a85d151c5f",
+        "094ee8c9815dd963a963618ab4191990d7db868186cc7bf7a7541d8e9253f229"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "is_ending",
+          "shotId": "is_ending__shot2"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "97c67ccd866e45772a257a7b81ece6f0e10feecf6fbbf2746aa679b39978878d",
       "ext": "png",
       "kind": "shot_image",
@@ -2970,6 +3254,25 @@
       "accepted": true
     },
     {
+      "hash": "97d935f206ec853e8649a10313b5dc7fb053c26366e15529eb86a1da98a97bf9",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "25f05923b3703f46fb71c172b02ab40e80a300e99e27a5b09c74e483c87bd598",
+      "prompt": "Art style: Japanese anime. medium shot in The Organization — Outer Works (night). Subjects: Caedon Vale, wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear.. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "cd896526928fb42d9d0c26f60b36afdb4caadc70b7cc076e19d1e38b08f36268",
+        "2539415100a19baab81804594905c50310943871222c230cdca9ca04dea7ddb0"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "em_infiltration",
+          "shotId": "em_infiltration__shot1"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "999022063fed6cc19df73ea317029155af8e8c974dc3efe3a8052d48949eb6a6",
       "ext": "png",
       "kind": "shot_image",
@@ -2983,6 +3286,25 @@
         {
           "sceneId": "opening",
           "shotId": "opening__s1"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "9ae9976ef1f232739dc936f6d8442d908f0bd6938b8b3f909a77b9634e72b9ac",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "e4fbbdef14e078201ed8bf825197eb8d3fda0b6d21a8eabd21fd3dfcabdfe5f2",
+      "prompt": "Art style: Japanese anime. medium shot in Dormitory Commons (night). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "db980e9032511fae2596cf41bd46e9e745927e9119e6d8b923cf6e8515f24d80",
+        "5b27e5e7f0e4350d5ba4269deafcac622a3510ed8027498e18f63bc0b487304a"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c03_the_friend_group",
+          "shotId": "c03_the_friend_group__shot1"
         }
       ],
       "accepted": true
@@ -3073,6 +3395,25 @@
         {
           "sceneId": "c09_woods_training",
           "shotId": "c09_woods_training__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "a320c6b35712ab72509bebcdace87ea267dda5b5f0ee72f958bd0e6c6857bfeb",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "54ca2beb5630edee0aa16a2a4f59a64bede51320119f5080478db3e50f69b0fb",
+      "prompt": "Art style: Japanese anime. medium shot in Great Assembly Hall (night). Subjects: Professor Mirabel Quist, wearing A practical leather apron over a slate-grey work dress, sleeves rolled and buckled back, a bandolier of fine tools across the chest, brass Governor-gauntlet on one forearm, jeweler's loupe pushed up on the forehead.. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "57132fd085c5c59b732d86a666a391ebf6d7e898cfda745b13b420b063d9ae67",
+        "63db430f3b664d4cea56f08ef6454d9329f0b68854ab8d84b316873bac549ab1"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c10_the_world_breaks",
+          "shotId": "c10_the_world_breaks__shot2"
         }
       ],
       "accepted": true
@@ -3222,6 +3563,24 @@
         {
           "sceneId": "c09_se",
           "shotId": "c09_se__s2"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "a7f4ef0e8f1f1f76938117e967b4706b150c58be21b9083f79ec23df76dd03e9",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "38a0f26c998683870505dd2fd06548b034b58551269c1a21df39452f281c9739",
+      "prompt": "Art style: Japanese anime. medium shot in The Organization — Inner Sanctum (night). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "c390b1918be0e1e3751c6620433152a5e2d5615e1049dcbd6c68686a597ec40b"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "se_final_boss",
+          "shotId": "se_final_boss__shot3"
         }
       ],
       "accepted": true
@@ -3650,6 +4009,25 @@
       "accepted": true
     },
     {
+      "hash": "b969834916c8c57ea05d92e777b3d101308c9c670c84879b1d829eea3bca036c",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "70f88c3da659db7ac2430206d38ce3fd676427e7462a1d12ff7a3a26784a5153",
+      "prompt": "Art style: Japanese anime. medium shot in Great Assembly Hall (night). Subjects: Auria Coyle, wearing High-collared slate-and-white coat of office over a charcoal waistcoat, brass circlet on coiled silver hair, a ceremonial Governor gauntlet on the left forearm, iron College keys at the belt.. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "57132fd085c5c59b732d86a666a391ebf6d7e898cfda745b13b420b063d9ae67",
+        "43c226e96b96be027bd11f711a16061e78bf1f663659fd1a0da6f80c04da4e7f"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c10_the_world_breaks",
+          "shotId": "c10_the_world_breaks__shot1"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "b96e6f43f8f2bfb0978eeb348adbd9be593742a3765d6bd447f0f43025bb5d1b",
       "ext": "png",
       "kind": "shot_image",
@@ -4024,6 +4402,25 @@
       "accepted": true
     },
     {
+      "hash": "c98f822905f15ee49fa762b5af6c0d490582588b22f1248b4b99e561378ea18b",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "3f1a3be8556ffcd73b47694a507db519d6c578d3badf65ea15d3a079966a052d",
+      "prompt": "Art style: Japanese anime. medium shot in Dormitory Commons (night). Subjects: Tobias Renn, wearing Regulen Concord student's work clothes: a brass-and-slate canvas apron over a rolled-sleeve linen shirt, heavy leather gloves tucked in the belt, and a licensed brass Governor gauntlet on the right forearm.. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "db980e9032511fae2596cf41bd46e9e745927e9119e6d8b923cf6e8515f24d80",
+        "1a2bdf64fde2faa8a165bb4fd788e53186ca537ccbbae38b5ce85cb6177729e3"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c03_the_friend_group",
+          "shotId": "c03_the_friend_group__shot3"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "ca188643265e4275aa5d061b0a5263697cbe9bb6ab3af24353fd88bda96261ab",
       "ext": "png",
       "kind": "shot_image",
@@ -4037,6 +4434,24 @@
         {
           "sceneId": "c03_the_friend_group",
           "shotId": "c03_the_friend_group__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "cac116d789ba1cc86d0fad1270f70fd22e5ea2231cf000825c22a6ba574148f9",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "1f00f9a8d81a58e8b6a17ef4101c102762fa2606eba55777baa82f370a344c68",
+      "prompt": "Art style: Japanese anime. wide shot in The Organization — Inner Sanctum (night). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "c390b1918be0e1e3751c6620433152a5e2d5615e1049dcbd6c68686a597ec40b"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "se_final_boss",
+          "shotId": "se_final_boss__shot2"
         }
       ],
       "accepted": true
@@ -4410,6 +4825,25 @@
       "accepted": false
     },
     {
+      "hash": "deb8bcbfc4177e3117376468921c75654b34e45ed6b32f54034d4a00a2ee826e",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "0e2be6123f213e606a24dbd3272982c839d0c213f4cfdf3a05e24daff7d37f42",
+      "prompt": "Art style: Japanese anime. medium shot in Channeling Lecture Hall (day). Subjects: Professor Mirabel Quist, wearing A practical leather apron over a slate-grey work dress, sleeves rolled and buckled back, a bandolier of fine tools across the chest, brass Governor-gauntlet on one forearm, jeweler's loupe pushed up on the forehead.. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "80ba7d38a2f3a2ccc4c454729b5b2da1bf78232565bc9c0ddd74cc662986b2d4",
+        "63db430f3b664d4cea56f08ef6454d9329f0b68854ab8d84b316873bac549ab1"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c04_first_class",
+          "shotId": "c04_first_class__shot1"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "df5c000b6cb9535cadc406da0b04b1e7adeb28195ae2cb03e06ba96bbcf918a5",
       "ext": "png",
       "kind": "shot_image",
@@ -4441,6 +4875,25 @@
         {
           "sceneId": "ud_epilogue",
           "shotId": "ud_epilogue__s1"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "e123d9163509935905faa451484559fb26fbca6395160753674090ccca7e9f90",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "6d73a3a846d7ebfc204e686b5e7fd0456d559d76975a4aca6d473047bb83d3b7",
+      "prompt": "Art style: Japanese anime. close shot in Halcyon Reach (day). Subjects: Seraphine Halcyon, wearing Loomwright student's indigo coat with silver thread trim over a high-collared cream blouse, fitted trousers, and soft leather boots; a silver Loomwright pin at the throat.. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "ade745380a93a2854c609012dfc928a21bd2dcdbd94087bf285c8defbbd101d3",
+        "911643aed4303a4c97cd4f6345431014e7995ba502050641514ad9d98c66eb83"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "se_ending",
+          "shotId": "se_ending__shot2"
         }
       ],
       "accepted": true
@@ -4573,6 +5026,25 @@
         }
       ],
       "accepted": true
+    },
+    {
+      "hash": "ec373ff70010dd0ede781c32b1863b8d332ce8598f89f7a6255925188842c0fd",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "b6b26c914766f920190d2480762f3f9e1d94ab20fccb47968ec355096d00f29f",
+      "prompt": "Art style: Japanese anime. medium shot in Cinderhold — Vashan Forge-City (day). Subjects: Caedon Vale, wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear.. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "c55289c45fc58632d5c9283f84ae9e42c3aced337a99deca5f74a79c3255baab",
+        "2539415100a19baab81804594905c50310943871222c230cdca9ca04dea7ddb0"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "em_ending",
+          "shotId": "em_ending__shot1"
+        }
+      ],
+      "accepted": false
     },
     {
       "hash": "ec6e7c1eda630a24894c7643a092a8fdb7880f81bea2bf4225c9d7ca60615be4",
@@ -4760,6 +5232,44 @@
       "accepted": false
     },
     {
+      "hash": "f57749b444dadf21053f6e1bbb9b672517e7a658d61a4ddfc1d3ab300a6247b0",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "6737274a05cfa9250d1a4fd61940f073a9983ca037c43e6b634ab4f98fc16125",
+      "prompt": "Art style: Japanese anime. medium shot in Cog-College — Approach (dusk). Subjects: Caedon Vale, wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear.. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "34cef9c93eefd1d683c0e8ca3daa14365e9e15cdf15692854e71efac8bef4d67",
+        "2539415100a19baab81804594905c50310943871222c230cdca9ca04dea7ddb0"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c01_arrival",
+          "shotId": "c01_arrival__shot2"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "f67843cc63f0c0961bf2eff848a565d80dee9cb7c4f5809968d962a1472df27f",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "28f7cd457ffc3477b033e4d024ab5a48e44c063ebaf9f30f0f6c5d052852d0d5",
+      "prompt": "Art style: Japanese anime. medium shot in Dormitory Commons (night). Subjects: Pip Calloway, wearing Patched Cog-College undergraduate coat two sizes too big, sleeves rolled, pockets bulging with tools and stolen odds; scuffed boots, a leather tool-roll slung across the chest, amber-and-white Amberline kerchief at the throat.. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "db980e9032511fae2596cf41bd46e9e745927e9119e6d8b923cf6e8515f24d80",
+        "27498ab9c36cd39376e8ebb0fa6a8cb61dff55623616578bed1303cb8ba95b70"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c03_the_friend_group",
+          "shotId": "c03_the_friend_group__shot2"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "f8c112820097079974018f7ae7ee5b362143f784ff5cf0cad4fcdae4d90cadaa",
       "ext": "png",
       "kind": "shot_image",
@@ -4864,6 +5374,25 @@
         {
           "sceneId": "c07_se",
           "shotId": "c07_se__s1"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "febe31e192617de9fc0437392bc68403035a37c2f7df4274938140d11f1d06ab",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "d3b2637c6259b2eb7ede24c691cd7b2cd0fd8181c9af0a35536d3ccf0104f398",
+      "prompt": "Art style: Japanese anime. medium shot in Great Assembly Hall (day). Subjects: Auria Coyle, wearing High-collared slate-and-white coat of office over a charcoal waistcoat, brass circlet on coiled silver hair, a ceremonial Governor gauntlet on the left forearm, iron College keys at the belt.. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "7c32805d7b38201ed81649e5f38ba76ef8b6401348ebebd72bbcb190bdda7bce",
+        "43c226e96b96be027bd11f711a16061e78bf1f663659fd1a0da6f80c04da4e7f"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c05_ruins_briefing",
+          "shotId": "c05_ruins_briefing__shot1"
         }
       ],
       "accepted": true

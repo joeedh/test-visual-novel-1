@@ -32,7 +32,13 @@
       ],
       "coversLines": [
         "c03_the_friend_group:L8"
-      ]
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. medium shot in Dormitory Commons (night). Subjects: Gideon Marsh, wearing what they wear in most scenes — silhouette, colour, one detail that is theirs. Render as a single illustrated frame, no UI text.",
+        "image": "9ae9976ef1f232739dc936f6d8442d908f0bd6938b8b3f909a77b9634e72b9ac",
+        "proseHash": "1a8bca788ae707290bcb3aad399eb691797c17760ca545bce106a3894814a504",
+        "status": "accepted"
+      }
     },
     {
       "id": "c03_the_friend_group__shot2",
@@ -46,7 +52,13 @@
       ],
       "coversLines": [
         "c03_the_friend_group:L9"
-      ]
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. medium shot in Dormitory Commons (night). Subjects: Pip Calloway, wearing Patched Cog-College undergraduate coat two sizes too big, sleeves rolled, pockets bulging with tools and stolen odds; scuffed boots, a leather tool-roll slung across the chest, amber-and-white Amberline kerchief at the throat.. Render as a single illustrated frame, no UI text.",
+        "image": "f67843cc63f0c0961bf2eff848a565d80dee9cb7c4f5809968d962a1472df27f",
+        "proseHash": "8b7f7787906ba9e0330522119ba943f30e0cf4ec7de8cd8b5d8b13dedefabd49",
+        "status": "accepted"
+      }
     },
     {
       "id": "c03_the_friend_group__shot3",
@@ -60,7 +72,13 @@
       ],
       "coversLines": [
         "c03_the_friend_group:L10"
-      ]
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. medium shot in Dormitory Commons (night). Subjects: Tobias Renn, wearing Regulen Concord student's work clothes: a brass-and-slate canvas apron over a rolled-sleeve linen shirt, heavy leather gloves tucked in the belt, and a licensed brass Governor gauntlet on the right forearm.. Render as a single illustrated frame, no UI text.",
+        "image": "c98f822905f15ee49fa762b5af6c0d490582588b22f1248b4b99e561378ea18b",
+        "proseHash": "40510853c1edf5f2e375e05be4e75497fa2f96fea6eeda7231abc5e5c1eb1115",
+        "status": "accepted"
+      }
     },
     {
       "id": "c03_the_friend_group__shot4",
@@ -74,7 +92,13 @@
       ],
       "coversLines": [
         "c03_the_friend_group:L11"
-      ]
+      ],
+      "shotData": {
+        "prompt": "Art style: Japanese anime. medium shot in Dormitory Commons (night). Subjects: Caedon Vale, wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear.. Render as a single illustrated frame, no UI text.",
+        "image": "0a1962633a83e813e397871aa23143f131c1bb36b290ff02ac55f15fa1d89bf0",
+        "proseHash": "2cddb17bc9a7b3744af9ec66e1de3f4f0d671b9fc2f7ff4bea8e97c9d0323eb8",
+        "status": "accepted"
+      }
     }
   ]
 }
