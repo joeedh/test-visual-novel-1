@@ -4,7 +4,11 @@ scene: c06_the_ruins
 
 EXT. THE RUINS - DAY
 
-[[next: c07_the_ambush]]
+[[choice: "Stay at Ember's shoulder" -> c07_em]]
+[[choice: "Fall in with Isolde" -> c07_is]]
+[[choice: "Keep pace with Seraphine" -> c07_se]]
+[[choice: "Shadow Wren" -> c07_wr]]
+[[choice: "Hold the whole team together" -> c07_ud]]
 [[nextline: 11]]
 
 [[line: L6]]
@@ -18,6 +22,3 @@ Ember's team is ahead, her raw power a contained flicker. Isolde's group moves w
 
 [[line: L9]]
 The silence feels heavy, pregnant with danger.
-
-[[line: L10]]
-(Wren path) I spot movement ahead. Not students. The precise, methodical hunt of Grey Hand Assayers. The test has just become a real escape.

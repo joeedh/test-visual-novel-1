@@ -21,7 +21,4 @@ Another stranded pair, caught fleeing. Interrogated. Publicly executed.
 Their faces, once familiar from the college halls, are now stark on a scrying-plate. The world's brutality is undeniable.
 
 [[line: L8]]
-(Romance path) Grief, then resolve. We are no longer merely surviving. We are acting.
-
-[[line: L9]]
-(Undivided path) I witness the full brutality of it, in detail the other routes spare me. It breaks something in me. The refusal to choose becomes a refusal to lose. The world that killed them will answer.
+Grief settles into something colder and clearer. Whatever we do next, we are no longer only surviving — and the choice of who to become can no longer be put off.
