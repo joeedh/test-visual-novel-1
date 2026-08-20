@@ -15,7 +15,7 @@
           "variant": "day"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "0472f47cb312b250a63bb90cd1f3bddc13e68b07e0b2c86b4fde4c5db518dfaf",
@@ -175,7 +175,7 @@
           "variant": "day"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "16d7ae698442fa8aa25b544b367af713beac10cb0d807ca68b478857c16ae0a5",
@@ -324,7 +324,7 @@
           "variant": "day"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "212fe5053f035e644dec4bffc46902f7aafc06b7ffa0021cd71dd715a6cf2793",
@@ -403,7 +403,7 @@
           "variant": "day"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "274188d0ebb4c610f02bd2c13ba9bcfd9afd9f539fcf7436bf8ea72ccff63f9c",
@@ -452,7 +452,7 @@
           "variant": "night"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "2a7a549c627b80c7c69f2958e34b7bbb578672b7ce29a4e1796a8a4aa44c7491",
@@ -468,7 +468,7 @@
           "variant": "day"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "2e9be6bdaafa1b1818b28e4f1c87585f5426d1f32ed3b3362f2ae768435d47a8",
@@ -500,7 +500,7 @@
           "variant": "night"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "31fa66cdcfc7012c9f9e471b26c0d21a527738d2dacf472c275fcd07026e2de2",
@@ -548,7 +548,7 @@
           "variant": "day"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "346b3c4abb18fb28369f53d6fdbad65b8cb38c9de99a32ee487ed040449c926c",
@@ -612,7 +612,7 @@
           "variant": "day"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "3d0c1bc64b4d1f7d38bb360a82dc8d84c39caedeae803aede3bbf39df1b46547",
@@ -692,7 +692,7 @@
           "variant": "day"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "41009ba63d82c63cd5cf6cd0b4ba27d29183598208e91372d1cd2f713d04ae99",
@@ -775,7 +775,7 @@
           "variant": "day"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "456e7624ea1dfce28b29191e8f1cfcbe6e4d8f282e566367994a76e66a778d70",
@@ -791,7 +791,7 @@
           "variant": "night"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "45d314b45e5fe29f3da3b0cc7fe4e073633d1e146c35d5bd1ff23414465631ab",
@@ -871,7 +871,7 @@
           "variant": "day"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "4c78f684132b7701215cafa332b5a80c6083854ca61de874a066204fdc5ae90e",
@@ -887,7 +887,7 @@
           "variant": "night"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "4d6dd492896b4263daeb4fdec2b4a66eaf5141a700db40a959a1ae149ac23d9d",
@@ -937,7 +937,7 @@
           "variant": "day"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "52b03a948745bde30c4d776674f30d68f8b1884bb4a98da71a246d88aa5ca05a",
@@ -968,7 +968,7 @@
           "variant": "day"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "56b37f57c9e5b4d5eb4e8eb10fe43152e77b3227209f7e90089b04baed181302",
@@ -1211,7 +1211,7 @@
           "variant": "day"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "6a3c39162da0e73f937db44842abd5054326e145e01baf05b42eccc48453175f",
@@ -1243,7 +1243,7 @@
           "variant": "day"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "6c93999c215fae84695075e0aa93fbf3ca4853cf1bf45ce2cee4d72d2257ad38",
@@ -1309,7 +1309,7 @@
           "variant": "day"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "7275ff4b78dc981dd75491e009aa7306d7677fe5cea1d6edf82da6dbea59c14b",
@@ -1532,7 +1532,7 @@
           "variant": "day"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "81af9781e029ebeb508ec47a63bf4b4fc7dd75aaae0797e5cafccb53647bdd5f",
@@ -1696,7 +1696,7 @@
           "variant": "night"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "9a31917e15582d9e78e856aed51192d30904d38b589efb44bf7602ce9faf0bcb",
@@ -1861,7 +1861,7 @@
           "variant": "day"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "ac1899dd20cb392780cd66be6e1079be3981e09c32c8fca502815ab1aadd89d7",
@@ -1924,7 +1924,7 @@
           "variant": "day"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "b293145033e2e8e5a2b4b72ce012e28c4bb2a107e2b14ee5ca34934dd9efe649",
@@ -2037,7 +2037,7 @@
           "variant": "day"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "bf0a9c0ebd976c95bb9434be1fff5386874d6cd3181ac50333dfd51b299b1055",
@@ -2069,7 +2069,7 @@
           "variant": "day"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "c0a92a28796d9f1090fee629309613eb0d5c7983d9a432980890431e5bffbe15",
@@ -2101,7 +2101,7 @@
           "variant": "night"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "c3e3fbd0e2b4d58baaa6e479f29281f2355f5483706d78fd3c02d65985a04c41",
@@ -2135,7 +2135,7 @@
           "variant": "day"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "c62d7c3b988cb6a24abe5009832b84069c91ec83f0c99fdfab3e6db0ec561b1d",
@@ -2235,7 +2235,7 @@
           "variant": "night"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "ce0f882c2bee1aecafe26eaaa70d407c89c971b8ee4c9c7b02c3f58cdbf56859",
@@ -2400,7 +2400,7 @@
           "variant": "night"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "dc9c30c41da01ba74709126d2403853d89ee737445398d4bddd6cdaf4dc0d3a2",
@@ -2416,7 +2416,7 @@
           "variant": "night"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "dd5bd882de58ab98f6fc8b25d39048fb01489a6c8f15a41122475aea21573593",
@@ -2581,7 +2581,7 @@
           "variant": "day"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "e5531f40212e1f586e38730f702c92e341e99f204b38409b0fb816b800826269",
@@ -2662,7 +2662,7 @@
           "variant": "night"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "e9c96b852924a75adc6a8d332c6c6f8e8ee24cd622d1bd0bc075db44c91db950",
@@ -2709,7 +2709,7 @@
           "variant": "day"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "f35c299a66a02be3f2275cec075e9f2a0744315c3286e42991afd580716f0c6d",
@@ -2857,7 +2857,7 @@
           "variant": "night"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "fc74de8d1ac18ca20417b5ab7849e3a82e559fde5989585a60dafbc22518f761",
