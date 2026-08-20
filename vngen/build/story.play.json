@@ -1,0 +1,2447 @@
+{
+  "version": 1,
+  "title": "test4",
+  "start": "opening",
+  "portraitOverlay": false,
+  "characters": {
+    "caedon_vale": {
+      "name": "Caedon Vale",
+      "portrait": {
+        "hash": "2539415100a19baab81804594905c50310943871222c230cdca9ca04dea7ddb0",
+        "ext": "png"
+      }
+    },
+    "ember_kellan": {
+      "name": "Ember Kellan",
+      "portrait": {
+        "hash": "490599dbb80bb328ef37778ab184a855ec6529a2622f6a2956c480616ebf43dc",
+        "ext": "png"
+      }
+    },
+    "gideon_marsh": {
+      "name": "Gideon Marsh",
+      "portrait": {
+        "hash": "5b27e5e7f0e4350d5ba4269deafcac622a3510ed8027498e18f63bc0b487304a",
+        "ext": "png"
+      }
+    },
+    "headmistress_auria_coyle": {
+      "name": "Auria Coyle",
+      "portrait": {
+        "hash": "43c226e96b96be027bd11f711a16061e78bf1f663659fd1a0da6f80c04da4e7f",
+        "ext": "png"
+      }
+    },
+    "isolde_vorn": {
+      "name": "Isolde Vorn",
+      "portrait": {
+        "hash": "094ee8c9815dd963a963618ab4191990d7db868186cc7bf7a7541d8e9253f229",
+        "ext": "png"
+      }
+    },
+    "pip_calloway": {
+      "name": "Pip Calloway",
+      "portrait": {
+        "hash": "27498ab9c36cd39376e8ebb0fa6a8cb61dff55623616578bed1303cb8ba95b70",
+        "ext": "png"
+      }
+    },
+    "professor_mirabel_quist": {
+      "name": "Professor Mirabel Quist",
+      "portrait": {
+        "hash": "63db430f3b664d4cea56f08ef6454d9329f0b68854ab8d84b316873bac549ab1",
+        "ext": "png"
+      }
+    },
+    "professor_silas_thorn": {
+      "name": "Silas Thorn",
+      "portrait": {
+        "hash": "b31220dbaa7ebcffcf526624d35cde494d6532822d652efbd9d8cd5b19cae867",
+        "ext": "png"
+      }
+    },
+    "seraphine_halcyon": {
+      "name": "Seraphine Halcyon",
+      "portrait": {
+        "hash": "911643aed4303a4c97cd4f6345431014e7995ba502050641514ad9d98c66eb83",
+        "ext": "png"
+      }
+    },
+    "tobias_renn": {
+      "name": "Tobias Renn",
+      "portrait": {
+        "hash": "1a2bdf64fde2faa8a165bb4fd788e53186ca537ccbbae38b5ce85cb6177729e3",
+        "ext": "png"
+      }
+    },
+    "wren_ashfield": {
+      "name": "Wren Ashfield",
+      "portrait": {
+        "hash": "07276f859c6a4f7988df13091a21533334e8c7fe7055483a53237f9b5fe4946e",
+        "ext": "png"
+      }
+    }
+  },
+  "scenes": {
+    "c01_arrival": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "c01_arrival__establishing",
+          "image": {
+            "hash": "64a2d6d8868c038b58dde3a2782e3010a3e91efdf18168b59daf859f03acf8b2",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The gates of the Cog-College. Steam vents hiss beneath a viaduct of soot-dark iron, and the new intake files in under geared sigils that hum with the Weave."
+        },
+        {
+          "type": "show",
+          "shot": "c01_arrival__shot1",
+          "image": {
+            "hash": "6afe370302411d5fda20073f78d5cbd6e1ba5aa88962f17a71d368a6482ba42e",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "headmistress_auria_coyle",
+          "text": "Welcome, intake. You are the metered and the licensed — the talents this college has judged worth the leash."
+        },
+        {
+          "type": "say",
+          "who": "headmistress_auria_coyle",
+          "text": "Understand what the leash is for. Ungoverned channeling is a crime, and the Rust is its sentence. We train you to wield the Weave — and to police those who will not."
+        },
+        {
+          "type": "show",
+          "shot": "c01_arrival__establishing",
+          "image": {
+            "hash": "64a2d6d8868c038b58dde3a2782e3010a3e91efdf18168b59daf859f03acf8b2",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "Across the crowd, four students stand out without trying to. Ember Kellan, a rust-bloom already on her bare forearm. Isolde Vorn, still as stone, a key-pendant at her throat. Seraphine Halcyon, ringed by envoys. Wren Ashfield, watching from the edge."
+        },
+        {
+          "type": "show",
+          "shot": "c01_arrival__shot2",
+          "image": {
+            "hash": "f57749b444dadf21053f6e1bbb9b672517e7a658d61a4ddfc1d3ab300a6247b0",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "caedon_vale",
+          "text": "Four of them. And I haven't even unpacked."
+        }
+      ],
+      "choices": [],
+      "next": "c02_first_meetings"
+    },
+    "c02_first_meetings": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "c02_first_meetings__establishing",
+          "image": {
+            "hash": "1550b89ebe1ea53536a65e707c74c502b44632a6f865e99dc2039596aa5a64be",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The Great Courtyard, mid-morning. The metered fountain folds water into impossible arcs while students in Regulen livery cross between the lecture wings."
+        },
+        {
+          "type": "narrate",
+          "text": "In the practice yards, Ember Kellan pours raw current into a target until the cautious around her step back; the rust on her forearm darkens with the effort."
+        },
+        {
+          "type": "narrate",
+          "text": "Isolde Vorn keeps to the colonnade, unmoving, one hand at her key-pendant — ungoverned talent held at arm's length."
+        },
+        {
+          "type": "narrate",
+          "text": "Seraphine Halcyon stands at the centre of a knot of envoys without seeming to have sought it. Wren Ashfield watches from the margin, and slips away before anyone thinks to ask her name."
+        },
+        {
+          "type": "show",
+          "shot": "c02_first_meetings__shot1",
+          "image": {
+            "hash": "22590bb9508596f30025356a6fd2e80bb41d960c04ae465b9e16080cd34cf1f3",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "caedon_vale",
+          "text": "Four directions to look. Somehow I keep looking in all of them."
+        }
+      ],
+      "choices": [],
+      "next": "c03_the_friend_group"
+    },
+    "c03_the_friend_group": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "c03_the_friend_group__establishing",
+          "image": {
+            "hash": "00c0e47e0d3e2950ae09a29d42cd135ce6ddfbe41bbc6ba8d55c15a6503e86d9",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The dormitory commons after dark: mismatched armchairs, a coal hearth, a table buried in study-cogs and half-drunk tea. The one unpoliced corner of the college."
+        },
+        {
+          "type": "show",
+          "shot": "c03_the_friend_group__shot1",
+          "image": {
+            "hash": "9ae9976ef1f232739dc936f6d8442d908f0bd6938b8b3f909a77b9634e72b9ac",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "gideon_marsh",
+          "text": "Another lecture, another hour untangling Thorn's riddles. At least we drown together."
+        },
+        {
+          "type": "show",
+          "shot": "c03_the_friend_group__shot2",
+          "image": {
+            "hash": "f67843cc63f0c0961bf2eff848a565d80dee9cb7c4f5809968d962a1472df27f",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "pip_calloway",
+          "text": "Speak for yourself. I still can't tell if 'aetheric resonance' is a weave or just what my stomach does before an exam."
+        },
+        {
+          "type": "show",
+          "shot": "c03_the_friend_group__shot3",
+          "image": {
+            "hash": "c98f822905f15ee49fa762b5af6c0d490582588b22f1248b4b99e561378ea18b",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "tobias_renn",
+          "text": "It's both, Pip. Ask Quist."
+        },
+        {
+          "type": "show",
+          "shot": "c03_the_friend_group__shot4",
+          "image": {
+            "hash": "0a1962633a83e813e397871aa23143f131c1bb36b290ff02ac55f15fa1d89bf0",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "caedon_vale",
+          "text": "Remind me to sit next to Tobias, then."
+        },
+        {
+          "type": "show",
+          "shot": "c03_the_friend_group__establishing",
+          "image": {
+            "hash": "00c0e47e0d3e2950ae09a29d42cd135ce6ddfbe41bbc6ba8d55c15a6503e86d9",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The laughter comes easy. It is the last easy thing — though none of them know that yet."
+        }
+      ],
+      "choices": [],
+      "next": "c04_first_class"
+    },
+    "c04_first_class": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "c04_first_class__shot1",
+          "image": {
+            "hash": "deb8bcbfc4177e3117376468921c75654b34e45ed6b32f54034d4a00a2ee826e",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "professor_mirabel_quist",
+          "text": "Today, we delve into the doctrine of the Weave. Metered power is safe power. Ungoverned channeling, as you know, is a crime the College itself trains you to police."
+        },
+        {
+          "type": "show",
+          "shot": "c04_first_class__shot2",
+          "image": {
+            "hash": "6bbf09f5830706f8f2a7f7702bbb8a1ff9a22ab35892cfb5426358402faeab65",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "professor_silas_thorn",
+          "text": "Observe. The difference between Vash-strong raw current and Sela-strong precision is not merely technique, but philosophy. Which do you choose to master?"
+        },
+        {
+          "type": "show",
+          "shot": "c04_first_class__establishing",
+          "image": {
+            "hash": "540f7b62e849777611579510c6afd548622874508f242bb02455a109bcf2b1f0",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "I watch the love interests, observing their signature styles. Ember Kellan, refusing to meter, her Vash-strong current barely contained. Isolde Vorn, leashing herself tight, Sela-strong precision almost painfully restrained."
+        },
+        {
+          "type": "narrate",
+          "text": "Seraphine Halcyon braids Spirit and Air with an unnerving, delicate control. Wren Ashfield answers nothing she isn't forced to, her guarded strength simmering beneath the surface."
+        }
+      ],
+      "choices": [],
+      "next": "c05_ruins_briefing"
+    },
+    "c05_ruins_briefing": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "c05_ruins_briefing__shot1",
+          "image": {
+            "hash": "febe31e192617de9fc0437392bc68403035a37c2f7df4274938140d11f1d06ab",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "headmistress_auria_coyle",
+          "text": "Students, you have proven yourselves capable in theory. Now, we test your application. You will be assigned to investigate a set of ancient ruins beyond the wards."
+        },
+        {
+          "type": "say",
+          "who": "headmistress_auria_coyle",
+          "text": "This is not merely a practical exercise. The Weave within those ruins is unstable. You will work in teams, and your objective is to assess and report, not to engage. The stakes are real."
+        },
+        {
+          "type": "show",
+          "shot": "c05_ruins_briefing__establishing",
+          "image": {
+            "hash": "6817ca50a9ce4f1a1e9d3af50553e41eb66209cd47cf37c86cc35732550a2764",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The Great Assembly Hall is filled with the entire cohort, the banners of the Orders hanging silently overhead. A low murmur runs through the students."
+        },
+        {
+          "type": "narrate",
+          "text": "Teams are announced. I'm with Gideon, Pip, and Tobias. The four women who have caught my eye are distributed across other teams. A cold knot tightens in my stomach. The dangers to come are no longer theoretical."
+        }
+      ],
+      "choices": [],
+      "next": "c06_the_ruins"
+    },
+    "c06_the_ruins": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "c06_the_ruins__establishing",
+          "image": {
+            "hash": "477e1cab8f1d072c7e815ada5afac72d1a48cd01ee8702ccbe884cd83154f05b",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The wind-scoured moor is desolate. Toppled clocktower drums and a fallen furnace-spine loom against the grey sky, silent monuments to a failed weaving."
+        },
+        {
+          "type": "narrate",
+          "text": "My team moves cautiously. A faint, unsettling hum emanates from cracked conduits."
+        },
+        {
+          "type": "narrate",
+          "text": "Ember's team is ahead, her raw power a contained flicker. Isolde's group moves with precise, military discipline. Seraphine's navigates the terrain with serene grace. Wren's skirts the edges, a ghost among the broken arches."
+        },
+        {
+          "type": "narrate",
+          "text": "The silence feels heavy, pregnant with danger."
+        }
+      ],
+      "choices": [
+        {
+          "label": "Stay at Ember's shoulder",
+          "goto": "c07_em"
+        },
+        {
+          "label": "Fall in with Isolde",
+          "goto": "c07_is"
+        },
+        {
+          "label": "Keep pace with Seraphine",
+          "goto": "c07_se"
+        },
+        {
+          "label": "Shadow Wren",
+          "goto": "c07_wr"
+        },
+        {
+          "label": "Hold the whole team together",
+          "goto": "c07_ud"
+        }
+      ]
+    },
+    "c07_em": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "c07_em__s2",
+          "image": {
+            "hash": "2ba9220785c71eec76fae8676a5ff28c5e04ec15769ebb2edfffdda21b255948",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "gideon_marsh",
+          "text": "Assayers! How did they—?"
+        },
+        {
+          "type": "narrate",
+          "text": "The test has turned deadly."
+        },
+        {
+          "type": "show",
+          "shot": "c07_em__s1",
+          "image": {
+            "hash": "75aa230e441333ab5af79b85dae394cb153ef0b6c7c6474aa12299e672c6490e",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The ruins interior is a maze of buckled service tunnels. The hum of the failed weave is unnervingly present. Then the silence breaks — shouts, the clash of metal on stone. We are ambushed."
+        },
+        {
+          "type": "show",
+          "shot": "c07_em__s3",
+          "image": {
+            "hash": "6725cd6a15083a570738bbdffc1ecccf3e623c1baef43c7f9511e140f1badbce",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "At my shoulder, Ember becomes a shield of raw current, her power lashing out. She saves us from a collapsing archway — but a fresh bloom of rust darkens her arm."
+        },
+        {
+          "type": "show",
+          "shot": "c07_em__s4",
+          "image": {
+            "hash": "31485c1dcf36cf4e876f8bb812b2aa4f45ac2167406caf635e4c2f9cd2ae6d56",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "We emerge, battered but victorious. The air tastes of ozone and fear."
+        }
+      ],
+      "choices": [],
+      "next": "c08_em"
+    },
+    "c07_is": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "c07_is__s1",
+          "image": {
+            "hash": "4c592dd519a7759da2d5634312c8123aca53ed03a39a7c85f258bb66e9540985",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The ruins interior is a maze of buckled service tunnels. The hum of the failed weave is unnervingly present. Then the silence breaks — shouts, the clash of metal on stone. We are ambushed."
+        },
+        {
+          "type": "show",
+          "shot": "c07_is__s2",
+          "image": {
+            "hash": "462cc9e1ef63e13de0feda426863be59640855b13c1806fa03af6c893e8eb957",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "gideon_marsh",
+          "text": "Assayers! How did they—?"
+        },
+        {
+          "type": "narrate",
+          "text": "The test has turned deadly."
+        },
+        {
+          "type": "show",
+          "shot": "c07_is__s3",
+          "image": {
+            "hash": "0a48fe121638590f022e7771e7f2f38d35e417c0f4f38ccbf14321e6af23d9ae",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "I keep to Isolde. Her precision wins where recklessness would fail — her Sela-strong weave finds the weak seams in their assault and opens a way through. I catch a flicker of distress on her face; she has broken some unspoken rule of her own."
+        },
+        {
+          "type": "show",
+          "shot": "c07_is__s4",
+          "image": {
+            "hash": "45ef37930faab2f6f8cfb8878d8016bbaa7af9f283cd18bdf157f89bdce6228e",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "We emerge, battered but victorious. The air tastes of ozone and fear."
+        }
+      ],
+      "choices": [],
+      "next": "c08_is"
+    },
+    "c07_se": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "c07_se__s1",
+          "image": {
+            "hash": "aca625a60efc7f76147dbad75c0b01d0617fd546d75662e5b1d6d0ad07da00c8",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The ruins interior is a maze of buckled service tunnels. The hum of the failed weave is unnervingly present. Then the silence breaks — shouts, the clash of metal on stone. We are ambushed."
+        },
+        {
+          "type": "show",
+          "shot": "c07_se__s2",
+          "image": {
+            "hash": "b23606bc0b982dee165a69b3918868d1759aa59ec3fedccae3da841f7c63efb5",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "gideon_marsh",
+          "text": "Assayers! How did they—?"
+        },
+        {
+          "type": "narrate",
+          "text": "The test has turned deadly."
+        },
+        {
+          "type": "show",
+          "shot": "c07_se__s3",
+          "image": {
+            "hash": "066ae9eaf4fecfbae597703d254e9e4747d9af716d3a6eb5c2b51ea4ede51bf5",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "I stay with Seraphine, who reads the flow of the ambush like a text. She misdirects an entire squad, weaving a losing fight into a win — and she alone seems to grasp that this was no accident. It was arranged."
+        },
+        {
+          "type": "show",
+          "shot": "c07_se__s4",
+          "image": {
+            "hash": "78c7cdccff190ac25a2ac1048f691a2173ab5ae1a5ba83902042e57a70ac2374",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "We emerge, battered but victorious. The air tastes of ozone and fear."
+        }
+      ],
+      "choices": [],
+      "next": "c08_se"
+    },
+    "c07_ud": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "c07_ud__s1",
+          "image": {
+            "hash": "b680bf68a49e814f6a6ed1e4bde59fc198df42c26b61657e8fdc3794ae4c6233",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The ruins interior is a maze of buckled service tunnels. The hum of the failed weave is unnervingly present. Then the silence breaks — shouts, the clash of metal on stone. We are ambushed."
+        },
+        {
+          "type": "show",
+          "shot": "c07_ud__s2",
+          "image": {
+            "hash": "6cf857a65e24241767c7f418ec47eca2d03824db21597df792004c28dc065e98",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "gideon_marsh",
+          "text": "Assayers! How did they—?"
+        },
+        {
+          "type": "narrate",
+          "text": "The test has turned deadly."
+        },
+        {
+          "type": "show",
+          "shot": "c07_ud__s3",
+          "image": {
+            "hash": "0c79d2581949e6bed584a5fa5c0d552e2a31cba940cb79c225abae03e9a4648b",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "I hold to no one and so to all of them, moving between them and knitting their strengths together until each covers the others' weaknesses. We win with an efficiency that unnerves even us."
+        },
+        {
+          "type": "show",
+          "shot": "c07_ud__s4",
+          "image": {
+            "hash": "583659ca9146ebf181d8a0834ffd8d0c6528e864a7c948e08fffbe123a065482",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "We emerge, battered but victorious. The air tastes of ozone and fear."
+        }
+      ],
+      "choices": [],
+      "next": "c08_ud"
+    },
+    "c07_wr": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "c07_wr__s1",
+          "image": {
+            "hash": "0089de1a5cb4c613ea31928cf0c9ebc0c967c786c156effe19a5a016d3a9a486",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The ruins interior is a maze of buckled service tunnels. The hum of the failed weave is unnervingly present. Then the silence breaks — shouts, the clash of metal on stone. We are ambushed."
+        },
+        {
+          "type": "show",
+          "shot": "c07_wr__s2",
+          "image": {
+            "hash": "4f14152e13892dc3bea51a8f5062cca515421a8760388fb692d21e743f0b0ba0",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "gideon_marsh",
+          "text": "Assayers! How did they—?"
+        },
+        {
+          "type": "narrate",
+          "text": "The test has turned deadly."
+        },
+        {
+          "type": "show",
+          "shot": "c07_wr__s3",
+          "image": {
+            "hash": "220c7516b81c7de5a9a2af82fd22d278dcebd133f5af1b8b39c738adf395b23d",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "I shadow Wren, who saw them before anyone — not students, but the precise, methodical hunt of Grey Hand Assayers. She knows these ruins better than any map, and a smugglers' bolt-hole stands open where there should be only stone. Without her, none of us get out."
+        },
+        {
+          "type": "show",
+          "shot": "c07_wr__s4",
+          "image": {
+            "hash": "12b2a126ff6ca577fce68b9bce3f980a5fd543a0cf9cf1297242bb6da50dfb47",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "We emerge, battered but victorious. The air tastes of ozone and fear."
+        }
+      ],
+      "choices": [],
+      "next": "c08_wr"
+    },
+    "c08_em": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "c08_em__s1",
+          "image": {
+            "hash": "86e300c480eae098367c770eac2a0dfd7159d0b3ebd5aeabda847f00338365d7",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The college infirmary is hushed and sterile. The soft, clean aether-lamp light does little to soothe the sting of our injuries."
+        },
+        {
+          "type": "show",
+          "shot": "c08_em__s2",
+          "image": {
+            "hash": "d7d834361c202d80bcc36b8f57b2b09c0dba1fd2e1f585305be9c1a0801cc44a",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "Ember is here, her arm being treated for a deeper bloom of Rust. I overhear the Healers whispering — the Dominion's proprietary claim on her Vash strength, the Ferran distrust of ungoverned power."
+        },
+        {
+          "type": "show",
+          "shot": "c08_em__s3",
+          "image": {
+            "hash": "5247ebf425f8106f223cd0472add766818f7598cd25055805540462c66adefb7",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The ambush has pulled me into a conflict far larger than a college test. The world has irrevocably shifted."
+        }
+      ],
+      "choices": [],
+      "next": "c09_em"
+    },
+    "c08_is": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "c08_is__s1",
+          "image": {
+            "hash": "d31959f3386019deb5aa8076cdcf8e83f8fcf496c5edd6b758dc1d6e4f114577",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The college infirmary is hushed and sterile. The soft, clean aether-lamp light does little to soothe the sting of our injuries."
+        },
+        {
+          "type": "show",
+          "shot": "c08_is__s2",
+          "image": {
+            "hash": "477dfc79c5eac9917666f4f365341a1e8b1483d1995df019d4b97cba4ac55131",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "Isolde quietly studies the infirmary's careful records, her key-pendant clutched tight. Vorn's watchers are never far, and the Assayers' reach feels palpable around her."
+        },
+        {
+          "type": "show",
+          "shot": "c08_is__s3",
+          "image": {
+            "hash": "515920fbff7be789c8cf94f38470d4e05f07fe2cdcaee4058adb9f61e0a1b153",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The ambush has pulled me into a conflict far larger than a college test. The world has irrevocably shifted."
+        }
+      ],
+      "choices": [],
+      "next": "c09_is"
+    },
+    "c08_se": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "c08_se__s1",
+          "image": {
+            "hash": "0c7266545d2505f4b5281acd2d23662c24a073e5dcb65b080ed813f2e8f82e7e",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The college infirmary is hushed and sterile. The soft, clean aether-lamp light does little to soothe the sting of our injuries."
+        },
+        {
+          "type": "show",
+          "shot": "c08_se__s2",
+          "image": {
+            "hash": "003fcf65047a6b9ef2653d3d93dce237c3b87105ab87774ed5e22c4f32072ccb",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "Seraphine speaks in low tones with a college dignitary, her poise unwavering. I catch only fragments — rival houses, treaty intrigue, old pacts and new betrayals."
+        },
+        {
+          "type": "show",
+          "shot": "c08_se__s3",
+          "image": {
+            "hash": "10cf36b6801e0efa7cf28a81aa8b007f962f51325ce10e1e4fd07c84bd6fe8cf",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The ambush has pulled me into a conflict far larger than a college test. The world has irrevocably shifted."
+        }
+      ],
+      "choices": [],
+      "next": "c09_se"
+    },
+    "c08_ud": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "c08_ud__s1",
+          "image": {
+            "hash": "297ebe5d6d77d641912e0d2a0e5b7e021dc77c3dc0bbe4773b3a710531bafe81",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The college infirmary is hushed and sterile. The soft, clean aether-lamp light does little to soothe the sting of our injuries."
+        },
+        {
+          "type": "show",
+          "shot": "c08_ud__s2",
+          "image": {
+            "hash": "959c345f86f2c0c1f0e48b1b2c4d0673ecb6fefed9eba4cc87b74c8754c7069d",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "I feel the pull of all four conflicts at once: Ember's sentence, Isolde's faith, Seraphine's courts, Wren's fugitive life. I am drawn into all of them and pledged to none."
+        },
+        {
+          "type": "show",
+          "shot": "c08_ud__s3",
+          "image": {
+            "hash": "35228e251756af5d38e64c3eb9115d8247636592fde17839ad82a6168431ab93",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The ambush has pulled me into a conflict far larger than a college test. The world has irrevocably shifted."
+        }
+      ],
+      "choices": [],
+      "next": "c09_ud"
+    },
+    "c08_wr": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "c08_wr__s1",
+          "image": {
+            "hash": "cd0ff2c1b322b4dc4ba7c35c60c13f697e608a9d6c287962f197f3aa7bb0afb7",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The college infirmary is hushed and sterile. The soft, clean aether-lamp light does little to soothe the sting of our injuries."
+        },
+        {
+          "type": "show",
+          "shot": "c08_wr__s2",
+          "image": {
+            "hash": "37c536e97cb14d8c8f1fdcc2691dc576761ab3790f0d366edb4fc5344866adb8",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "Wren sits apart, vigilant, her gloved hands still. The Assayer hunt for the unlicensed — for the Ashen Circle — feels closer now, a tangible threat."
+        },
+        {
+          "type": "show",
+          "shot": "c08_wr__s3",
+          "image": {
+            "hash": "45100f934bc2f6de191ca53a588560b4628b39890c0bc1ec3c265a09d035198d",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The ambush has pulled me into a conflict far larger than a college test. The world has irrevocably shifted."
+        }
+      ],
+      "choices": [],
+      "next": "c09_wr"
+    },
+    "c09_em": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "c09_em__s1",
+          "image": {
+            "hash": "33b333d0013be9c3b64c4ec710d7bd89674b44f80a91c94184f2646ad32ed2ec",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The College Woods, beyond the wards, offer a wild, unpoliced sanctuary. Dappled light filters through the canopy, and the Weave feels closer to the surface here, untamed."
+        },
+        {
+          "type": "narrate",
+          "text": "Ember leads me to a mist-pooled clearing."
+        },
+        {
+          "type": "show",
+          "shot": "c09_em__s2",
+          "image": {
+            "hash": "6b2160de4038548cb7812784a2a4b5a8bcd75694acea24534bd89eb34ca18dfa",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "ember_kellan",
+          "text": "The College teaches metering. I will teach you to spend. To burn. To live without counting the cost."
+        }
+      ],
+      "choices": [],
+      "next": "c10_the_world_breaks"
+    },
+    "c09_is": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "c09_is__s1",
+          "image": {
+            "hash": "c4390cb77fd75bb901955267d560eb79d80b754afbc1466fde2fe4d42c2c3a26",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The College Woods, beyond the wards, offer a wild, unpoliced sanctuary. Dappled light filters through the canopy, and the Weave feels closer to the surface here, untamed."
+        },
+        {
+          "type": "show",
+          "shot": "c09_is__s2",
+          "image": {
+            "hash": "a3ca944f55dff70e47bb9a5273a5d3eae6acd989d5d4404f49b9ba855e879b53",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "Isolde brings me to a ring of mossed standing stones, ancient and serene."
+        },
+        {
+          "type": "show",
+          "shot": "c09_is__s3",
+          "image": {
+            "hash": "0c3286acbe539a935f78f761f60a985fac3cee09c9e7e9520fe31447dfc17802",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "isolde_vorn",
+          "text": "They teach devotion, Caedon. But beneath it... there is doubt."
+        }
+      ],
+      "choices": [],
+      "next": "c10_the_world_breaks"
+    },
+    "c09_se": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "c09_se__s1",
+          "image": {
+            "hash": "1aa8e9cc093be1ac418c802f2362770246538488e9aaf561a214690e4d6a344c",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The College Woods, beyond the wards, offer a wild, unpoliced sanctuary. Dappled light filters through the canopy, and the Weave feels closer to the surface here, untamed."
+        },
+        {
+          "type": "show",
+          "shot": "c09_se__s2",
+          "image": {
+            "hash": "4f0c200b04bad51e39e0dc6454605d51b1636ada2c6550910a5d3ec13a52758a",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "Seraphine brings me to a hidden glade, where she braids Spirit and Air with unnerving delicacy."
+        },
+        {
+          "type": "show",
+          "shot": "c09_se__s3",
+          "image": {
+            "hash": "01668969fbb0619428508150ea569517abf44922bf524879f3f136ce0e5b464b",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "seraphine_halcyon",
+          "text": "The courts weave threads of obligation. Here, we learn to read each other's."
+        }
+      ],
+      "choices": [],
+      "next": "c10_the_world_breaks"
+    },
+    "c09_ud": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "c09_ud__s1",
+          "image": {
+            "hash": "9b7c997aab32acd478e1548a00da021edf571ffcd0026450447e39835545dce2",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The College Woods, beyond the wards, offer a wild, unpoliced sanctuary. Dappled light filters through the canopy, and the Weave feels closer to the surface here, untamed."
+        },
+        {
+          "type": "show",
+          "shot": "c09_ud__s2",
+          "image": {
+            "hash": "440cff0e227b675c4a85993fefcf73ea327b4131160495205cc66fe87e2923e4",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "I go alone, honing my senses and hardening my resolve. What I build out here is a self, not a bond."
+        }
+      ],
+      "choices": [],
+      "next": "c10_the_world_breaks"
+    },
+    "c09_wr": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "c09_wr__s1",
+          "image": {
+            "hash": "520676bfc0e963067e91e741b602694a3b38f0c7b5f9f103e595ff2ba8b63296",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The College Woods, beyond the wards, offer a wild, unpoliced sanctuary. Dappled light filters through the canopy, and the Weave feels closer to the surface here, untamed."
+        },
+        {
+          "type": "show",
+          "shot": "c09_wr__s2",
+          "image": {
+            "hash": "49962544a73613b93bc735ff19def2c8cace4b3c4af50798442842f9aec41c9a",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "Wren leads me to a camouflaged bolt-hole, a small shelter buried deep in the woods."
+        },
+        {
+          "type": "show",
+          "shot": "c09_wr__s3",
+          "image": {
+            "hash": "3c63015761477a9b0f4536a91f88b185e721a0bdb41d3ee3c1183d0e31644e48",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "wren_ashfield",
+          "text": "Cloudlane craft. The College will never teach you how to disappear."
+        }
+      ],
+      "choices": [],
+      "next": "c10_the_world_breaks"
+    },
+    "c10_the_world_breaks": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "c10_the_world_breaks__establishing",
+          "image": {
+            "hash": "10fc803d43fad5407d5d69e5399be3c48b46cec9d1ffa694df72e01f46b340fa",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The Great Assembly Hall is grim and hushed. Headmistress Coyle stands at the rostrum, flanked by the professors, their faces etched with a terrible urgency."
+        },
+        {
+          "type": "show",
+          "shot": "c10_the_world_breaks__shot1",
+          "image": {
+            "hash": "b969834916c8c57ea05d92e777b3d101308c9c670c84879b1d829eea3bca036c",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "headmistress_auria_coyle",
+          "text": "Students, the geopolitical situation has deteriorated catastrophically. The Governors have fallen silent. Strategic weaves, once thought impossible, are being deployed."
+        },
+        {
+          "type": "show",
+          "shot": "c10_the_world_breaks__shot2",
+          "image": {
+            "hash": "a320c6b35712ab72509bebcdace87ea267dda5b5f0ee72f958bd0e6c6857bfeb",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "professor_mirabel_quist",
+          "text": "Training will intensify. You are no longer merely students; you are the last line. Every skill you have acquired will now be tested in ways we had hoped you would never know."
+        },
+        {
+          "type": "show",
+          "shot": "c10_the_world_breaks__establishing",
+          "image": {
+            "hash": "10fc803d43fad5407d5d69e5399be3c48b46cec9d1ffa694df72e01f46b340fa",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "Panic ripples through the cohort. The carefree days of the college are over, shattered by the weight of a world breaking apart."
+        }
+      ],
+      "choices": [],
+      "next": "c11a_teleport"
+    },
+    "c11_execution": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "c11_execution__establishing",
+          "image": {
+            "hash": "1254767148a55d567957734ec03e339f8b4c91cc2a6f1402b10adc5783a03561",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "A stolen broadcast-horn crackles with static. Or perhaps we witness it ourselves, hidden in the shadows of an unfamiliar public square."
+        },
+        {
+          "type": "narrate",
+          "text": "Another stranded pair, caught fleeing. Interrogated. Publicly executed."
+        },
+        {
+          "type": "narrate",
+          "text": "Their faces, once familiar from the college halls, are now stark on a scrying-plate. The world's brutality is undeniable."
+        },
+        {
+          "type": "narrate",
+          "text": "Grief settles into something colder and clearer. Whatever we do next, we are no longer only surviving — and the choice of who to become can no longer be put off."
+        }
+      ],
+      "choices": [
+        {
+          "label": "Reach for Ember — burn while there's time",
+          "goto": "em_landing"
+        },
+        {
+          "label": "Trust Isolde — help her unclasp the armour",
+          "goto": "is_landing"
+        },
+        {
+          "label": "Choose Seraphine — a thread she picks herself",
+          "goto": "se_landing"
+        },
+        {
+          "label": "Hold to Wren — be the one who never sells her",
+          "goto": "wr_landing"
+        },
+        {
+          "label": "Refuse to choose — and vow to lose none of them",
+          "goto": "ud_break"
+        }
+      ]
+    },
+    "c11a_teleport": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "c11a_teleport__establishing",
+          "image": {
+            "hash": "70932a8ac5d9c0b055d27f6c9d69180785ec666b9b1011c175a09d8f63d95f3a",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The Translocation Hall is a scene of controlled chaos, strobing with the searing teal aether-flare of the massive array. Students are hustled onto the brass rings in pairs."
+        },
+        {
+          "type": "show",
+          "shot": "c11a_teleport__shot1",
+          "image": {
+            "hash": "3f1e2cbce32f1cad7b493b304a40600662cf62e87e941fb481268a440b744d26",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "headmistress_auria_coyle",
+          "text": "Scatter! Beyond reach! Survive!"
+        },
+        {
+          "type": "show",
+          "shot": "c11a_teleport__establishing",
+          "image": {
+            "hash": "70932a8ac5d9c0b055d27f6c9d69180785ec666b9b1011c175a09d8f63d95f3a",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The bone-deep thrum of the array pulses through me. I'm pushed onto the plate. The world dissolves into a flash of light."
+        }
+      ],
+      "choices": [],
+      "next": "c11b_on_the_run"
+    },
+    "c11b_on_the_run": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "c11b_on_the_run__establishing",
+          "image": {
+            "hash": "403cf435e84d8b8d01b3bbc37b54902768b732db075dd41a0a0fba01e01b1751",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "We land in a nowhere-country of wind-scoured heath and broken drystone walls. The College's panic-teleport has flung us into a blank margin between nations. Hostile security services are already on our trail."
+        },
+        {
+          "type": "narrate",
+          "text": "Each of them turns what they know to keeping us alive — Ember's raw power a shield and a beacon at once, Isolde reading Assayer methods and Vorn's devotional networks, Seraphine's court fluency opening doors it should not, and Wren working the smuggler underground for bolt-holes and forged tokens."
+        },
+        {
+          "type": "narrate",
+          "text": "Between narrow escapes, we piece together fragments of information. The world's collapse is no accident. It's a coordinated design."
+        }
+      ],
+      "choices": [],
+      "next": "c11_execution"
+    },
+    "em_alliances": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "em_alliances__establishing",
+          "image": {
+            "hash": "0de58dc911f031d8e5b580520f80f42f112cbb513f8fbe6d3e62648c1894714f",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "Cinderhold, the Vashan Forge-City, glows with molten-orange light through a permanent haze of ember and soot. Great ungoverned aether-kilns roar, a testament to the Kiln-Sworn's defiance."
+        },
+        {
+          "type": "narrate",
+          "text": "Ember's name opens doors no licensed talent could. Her forge-craft begins to arm our growing coalition."
+        },
+        {
+          "type": "narrate",
+          "text": "While Ember builds her army, I expose corruption at the highest levels of the Dominion. We hear reports of other stranded pairs—some murdering the monarchs of their landing-nations; others building communications back to us."
+        },
+        {
+          "type": "narrate",
+          "text": "Our coalition grows, fueled by a shared hunger for vengeance."
+        }
+      ],
+      "choices": [],
+      "next": "em_infiltration"
+    },
+    "em_ending": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "em_ending__establishing",
+          "image": {
+            "hash": "1f65f9d18f94668768e84aad6ba2cf47f54c85df161beb7270cc46220b0825e4",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "Cinderhold is bathed in the warm, defiant glow of a new day. Today, there are no raging kilns of war, but the vibrant, joyful roar of celebration. Our wedding day."
+        },
+        {
+          "type": "narrate",
+          "text": "Ember stands before me, her smile radiant. The Rust on her arm is a scar of survival, not a mark of impending doom."
+        },
+        {
+          "type": "show",
+          "shot": "em_ending__shot1",
+          "image": {
+            "hash": "392ed5e5fbfa753a823d13a4ede2d28569d9b7e81862b3fbb2debec52a3aa4aa",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "caedon_vale",
+          "text": "You loved fiercely because you never expected to love long. I am here, Ember. We are here. Long is possible."
+        },
+        {
+          "type": "show",
+          "shot": "em_ending__shot2",
+          "image": {
+            "hash": "8a6245744bea623b1b7d48c36428a3fc0bbbcfea5ba463f4d8f1640993452ca7",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "ember_kellan",
+          "text": "Long... with you. I believe it."
+        },
+        {
+          "type": "show",
+          "shot": "em_ending__establishing",
+          "image": {
+            "hash": "1f65f9d18f94668768e84aad6ba2cf47f54c85df161beb7270cc46220b0825e4",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "Among the Kiln-Sworn, among those who understand the true cost of defiance, we exchange our vows. A promise that love can endure. The end."
+        }
+      ],
+      "choices": []
+    },
+    "em_final_boss": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "em_final_boss__establishing",
+          "image": {
+            "hash": "062713ff0aad8cb828665b988c372eb334a249e109b452e3e4a90b78d591cd24",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The Inner Sanctum. A cavernous engine-cathedral, blinding aether-core glare, and deep shadows dancing on catwalks. This is the final assault."
+        },
+        {
+          "type": "narrate",
+          "text": "Ember unleashes a torrent of Vash-strong current, raw and unmetered, a living storm. The Rust on her arm glows, then spreads, but she pushes through the pain, fueled by defiance."
+        },
+        {
+          "type": "narrate",
+          "text": "The battle is a maelstrom of weaves and steel. The enemy boss, a figure cloaked in shadow and twisted aether, falls beneath the combined might of our coalition."
+        },
+        {
+          "type": "narrate",
+          "text": "The monstrous machinery grinds to a halt. The sickly green glow fades. Silence."
+        },
+        {
+          "type": "narrate",
+          "text": "Ember is alive. We won."
+        }
+      ],
+      "choices": [],
+      "next": "em_ending"
+    },
+    "em_infiltration": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "em_infiltration__establishing",
+          "image": {
+            "hash": "680b3b09cc7ce3477c3502dac9eb2f2582e582eb5a3fa7b61706a7a1c8103908",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The fortified outer works of the Enemy Organization loom, black-iron curtain walls bleeding a sickly green glow into the industrial dusk. Nullifier pylons clamp down on any errant weave."
+        },
+        {
+          "type": "narrate",
+          "text": "Ember is at the forefront, a furious, burning core of raw power. She unleashes devastating weaves, tearing through defenses."
+        },
+        {
+          "type": "narrate",
+          "text": "With every victory, the Rust climbs further up her arm, a dark, creeping stain against her skin. The cost of every life she saves is written on her body."
+        },
+        {
+          "type": "show",
+          "shot": "em_infiltration__shot1",
+          "image": {
+            "hash": "97d935f206ec853e8649a10313b5dc7fb053c26366e15529eb86a1da98a97bf9",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "caedon_vale",
+          "text": "Ember, conserve your strength! We need you at the core."
+        },
+        {
+          "type": "show",
+          "shot": "em_infiltration__shot2",
+          "image": {
+            "hash": "2b6644541f598546907e7984e3537e4cf7b97f29bedf87cab62e61bf8f123617",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "ember_kellan",
+          "text": "There's no conserving left, Caedon. Only spending. Only winning. This is what I was made for."
+        }
+      ],
+      "choices": [],
+      "next": "em_final_boss"
+    },
+    "em_landing": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "em_landing__establishing",
+          "image": {
+            "hash": "5c08e430e8b7f89f62d8a1e13c3ed5961cebe389458be4a57bc7fc54907458bf",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The Vashan Borderland is a harsh, scrubbed-open country of red dust and wind-carved rock. No forge for a hundred miles to shelter a Kiln-Sworn."
+        },
+        {
+          "type": "narrate",
+          "text": "Ember's raw power, typically a shield, here becomes a beacon, drawing unwanted attention across the vast, exposed horizon. We are hunted."
+        },
+        {
+          "type": "narrate",
+          "text": "Between escapes, as we huddle in the sparse shelter of dead telegraph lines, she lets slip, never as complaint, how little time she believes the Rust will leave her."
+        },
+        {
+          "type": "narrate",
+          "text": "The memory of the executed pair lands on me like a warning. A cold premonition."
+        }
+      ],
+      "choices": [],
+      "next": "em_alliances"
+    },
+    "is_alliances": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "is_alliances__establishing",
+          "image": {
+            "hash": "48bc88f03145294e0242274613c6fc9cd89d64f226f8e71cc6634f947b475bca",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The Grey Hands' Assay-Hold is a fortress of grey basalt and cold iron. Its vaults hold Nullifier Governors and the grim ledgers of the severed. The air is a strange mix of incense and machine-oil."
+        },
+        {
+          "type": "narrate",
+          "text": "Isolde's faith, once a shield, now becomes a weapon. She meticulously exposes corruption at the highest levels of the devout governments and the Assayer hierarchy."
+        },
+        {
+          "type": "narrate",
+          "text": "While Isolde navigates the labyrinthine politics of her homeland, I work to expose corruption more broadly, feeding information to surviving stranded pairs."
+        },
+        {
+          "type": "narrate",
+          "text": "Her precise, Sela-strong weave, once leashed by doctrine, is now unburdened. It is a terrifying and exhilarating thing to watch her wield her intellect and power to dismantle the system that created her."
+        }
+      ],
+      "choices": [],
+      "next": "is_infiltration"
+    },
+    "is_ending": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "is_ending__establishing",
+          "image": {
+            "hash": "7ea1d72db99b5d3e6fec20246bbb47f0c75722c9e25696773a262d644a0f0d9f",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The cold northern principality of Vorn is transformed, not by a softening of its iron will, but by a new, chosen purpose. Today, the grey stone devotional houses bear witness to our wedding."
+        },
+        {
+          "type": "narrate",
+          "text": "Isolde stands beside me. She has unclasped her armor, both literal and metaphorical, choosing her own thread, not the one spun for her by a rigid doctrine."
+        },
+        {
+          "type": "show",
+          "shot": "is_ending__shot1",
+          "image": {
+            "hash": "5dbf9ff7fc43df01d43ca3fb2f16bb88dc5fed4b0249e921c20bebaeeba16265",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "caedon_vale",
+          "text": "You chose this, Isolde. Your own truth."
+        },
+        {
+          "type": "show",
+          "shot": "is_ending__shot2",
+          "image": {
+            "hash": "972e302bf6cfa4d1e4cf6ea195cc23043eb394dc96c08bc924c2992f92ce024e",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "isolde_vorn",
+          "text": "And in choosing, I found a faith I can truly uphold. With you, Caedon. Forever."
+        },
+        {
+          "type": "show",
+          "shot": "is_ending__establishing",
+          "image": {
+            "hash": "7ea1d72db99b5d3e6fec20246bbb47f0c75722c9e25696773a262d644a0f0d9f",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "Among the people she has liberated from corruption, we exchange our vows. A new path for Vorn, built on doubt turned to conviction. The end."
+        }
+      ],
+      "choices": []
+    },
+    "is_final_boss": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "is_final_boss__establishing",
+          "image": {
+            "hash": "297b740e27201f1f6ceaba1a485ee3858a523f747509627e70ab9bbf1f6b6e16",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The Inner Sanctum throbs with monstrous energy, the blinding aether-core glare casting stark shadows across the engine-cathedral. This is the final battleground."
+        },
+        {
+          "type": "narrate",
+          "text": "Isolde unleashes her Sela-strong weaves with devastating precision, each strike a testament to her chosen path. Her doubt is finally a weapon, not a burden."
+        },
+        {
+          "type": "narrate",
+          "text": "The battle is a symphony of coordinated power. The enemy boss, a figure of twisted aether and dark ambition, is overwhelmed by the relentless assault. It falls, its power disintegrating into cold ash."
+        },
+        {
+          "type": "narrate",
+          "text": "The thrum of the Governor-core dies down, leaving a ringing silence. We have won."
+        }
+      ],
+      "choices": [],
+      "next": "is_ending"
+    },
+    "is_infiltration": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "is_infiltration__establishing",
+          "image": {
+            "hash": "1a7e062538e3f2273f9fd1deb9947c33877413e2646af736ed12693a8ec7460f",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The outer works of the Enemy Organization are a grim fortress of black iron and sickly green light. Here, our coalition begins its infiltration, fighting across several desperate battlefronts."
+        },
+        {
+          "type": "narrate",
+          "text": "Isolde is no longer the restrained channeler from the college. Here, she draws her hidden knife of doubt in the open, wielding her Sela-strong precision with a newfound, terrifying freedom."
+        },
+        {
+          "type": "show",
+          "shot": "is_infiltration__shot1",
+          "image": {
+            "hash": "1176b171594be39c65dade24ec12e470a8ea3c80273acd620e87c19613d5d08d",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "isolde_vorn",
+          "text": "This is my thread, Caedon. Not the one spun for me. This is what I choose."
+        },
+        {
+          "type": "show",
+          "shot": "is_infiltration__establishing",
+          "image": {
+            "hash": "1a7e062538e3f2273f9fd1deb9947c33877413e2646af736ed12693a8ec7460f",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "Her words are a declaration. We fight as one, a dance of precise power and unwavering conviction. With every enemy downed, every defense breached, Isolde solidifies her own path."
+        }
+      ],
+      "choices": [],
+      "next": "is_final_boss"
+    },
+    "is_landing": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "is_landing__establishing",
+          "image": {
+            "hash": "1989816bbe5edce247a49aa6c541b77bd7e41318118dd170742a445bdc209a57",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The Grey Principality of Vorn. A cold northern land of grey stone and iron, where the Assayers' writ runs absolute and channeling is leashed to piety."
+        },
+        {
+          "type": "narrate",
+          "text": "We land in Isolde's homeland. Her grasp of Assayer methods and Vorn devotional networks keeps us alive, evading patrols and navigating the treacherous terrain."
+        },
+        {
+          "type": "narrate",
+          "text": "As we delve deeper, we uncover a terrifying truth: the very order Isolde was raised to serve is implicated in the world's collapse."
+        },
+        {
+          "type": "narrate",
+          "text": "The news of the executed pair lands on her like a verdict on her own faith. Her disciplined facade cracks, revealing a simmering doubt."
+        }
+      ],
+      "choices": [],
+      "next": "is_alliances"
+    },
+    "opening": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "opening__s1",
+          "image": {
+            "hash": "5d4f884c7236e4813188af6904b2f89ebadbbf908c2ac1abe35d510179de8af9",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "Cinderhold's forge-fires. The grey keeps of Vorn. The cloud-terraces of Halcyon Reach. The soot-warrens beneath Cograuncy. Four corners of one world, stitched together by the Weave — and by the licences that leash it."
+        },
+        {
+          "type": "narrate",
+          "text": "THE UNGOVERNED"
+        },
+        {
+          "type": "narrate",
+          "text": "This is the story of Caedon Vale — a furnace-town boy who could hold both Currents at once — and of the four he was never meant to have to choose between."
+        },
+        {
+          "type": "narrate",
+          "text": "It begins, as these things do, at a set of gates — with a boy, a battered trunk, and a choice he does not yet know he is making."
+        }
+      ],
+      "choices": [],
+      "next": "c01_arrival"
+    },
+    "se_alliances": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "se_alliances__establishing",
+          "image": {
+            "hash": "2e5afce02a1df7034c3126432105ccc3e7c0e3b50e990e45f274f7ff9af74afc",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "Halcyon Reach, the family seat, is a place of pale terraces and glass conservatories where wars are settled with words. Seraphine returns here not to mediate, but to act."
+        },
+        {
+          "type": "narrate",
+          "text": "Her blood and bearing open doors closed to everyone else, turning scandal into leverage, and leverage into a burgeoning coalition."
+        },
+        {
+          "type": "narrate",
+          "text": "While she moves through court chambers, exposing corruption with surgical precision, I work to gather intelligence, feeding her the evidence she needs."
+        },
+        {
+          "type": "narrate",
+          "text": "We receive communications from other stranded pairs. Some have assassinated their landing-nations' monarchs. Others build comms back to us. Seraphine braids them into one formidable front."
+        }
+      ],
+      "choices": [],
+      "next": "se_infiltration"
+    },
+    "se_ending": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "se_ending__establishing",
+          "image": {
+            "hash": "19f0c3a663c75d9eab952057065992a4fb8ee4016c93897e1c91cd6a2707352d",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "Halcyon Reach is bathed in soft, cloud-diffused silver light. The pale terraces and glass conservatories, once a place of tense diplomacy, now host a joyous celebration: our wedding."
+        },
+        {
+          "type": "narrate",
+          "text": "Seraphine stands beside me, radiant. She has chosen her own thread, a path forged in conviction and action, not the one spun for her by treaties and court expectations."
+        },
+        {
+          "type": "show",
+          "shot": "se_ending__shot1",
+          "image": {
+            "hash": "17a86984fc51fd7aff2547054bbb549f1aef14bde20a79d0c030028a409bc88c",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "caedon_vale",
+          "text": "You chose this, Seraphine. Your own truth. Not the peace they brokered, but the peace you fought for."
+        },
+        {
+          "type": "show",
+          "shot": "se_ending__shot2",
+          "image": {
+            "hash": "e123d9163509935905faa451484559fb26fbca6395160753674090ccca7e9f90",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "seraphine_halcyon",
+          "text": "And in choosing, I found the only thread worth weaving. With you, Caedon. A chosen future."
+        },
+        {
+          "type": "show",
+          "shot": "se_ending__establishing",
+          "image": {
+            "hash": "19f0c3a663c75d9eab952057065992a4fb8ee4016c93897e1c91cd6a2707352d",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "Among the allies she brokered, among the surviving pairs whose loyalty she earned, we exchange our vows. The end."
+        }
+      ],
+      "choices": []
+    },
+    "se_final_boss": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "se_final_boss__establishing",
+          "image": {
+            "hash": "41e2fcc9d31a577177bf9005ce6c31290f77d1a4a2ca68c88e4ccf0f0b44a0c3",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The Inner Sanctum: a cavernous engine-cathedral, blinding aether-core glare, and the monstrous machinery that engineered the world's ruin. This is the final fight."
+        },
+        {
+          "type": "say",
+          "who": "seraphine_halcyon",
+          "text": "weaving, subtle and lethal"
+        },
+        {
+          "type": "show",
+          "shot": "se_final_boss__shot1",
+          "image": {
+            "hash": "018438b9a3b92942ddcd1b7c428b2b50ac1094bbc2cb1c2ff01e663d08f28007",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "seraphine_halcyon",
+          "text": "Every lie you built into this engine — I unpick. Hold still."
+        },
+        {
+          "type": "show",
+          "shot": "se_final_boss__shot2",
+          "image": {
+            "hash": "cac116d789ba1cc86d0fad1270f70fd22e5ea2231cf000825c22a6ba574148f9",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "caedon_vale",
+          "text": "The courts she turned hold the line. Your defenses are open — now!"
+        },
+        {
+          "type": "show",
+          "shot": "se_final_boss__shot3",
+          "image": {
+            "hash": "a7f4ef0e8f1f1f76938117e967b4706b150c58be21b9083f79ec23df76dd03e9",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "seraphine_halcyon",
+          "text": "It's done. The core is quiet."
+        }
+      ],
+      "choices": [],
+      "next": "se_ending"
+    },
+    "se_infiltration": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "se_infiltration__establishing",
+          "image": {
+            "hash": "582bf7126d2aea3ec55d811f583bb557b2337d99c650d653e6c65fad9c20227a",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The Enemy Organization's outer works are a menacing fortress of black iron and sickly green aether-glow. Our coalition begins its infiltration, fighting through several intense skirmishes."
+        },
+        {
+          "type": "narrate",
+          "text": "Seraphine leads not with raw force, but with a brilliant, calculated turn of the enemy's own courts against itself. She exploits their intricate protocols, manipulates their ciphers, and sows chaos within their ranks."
+        },
+        {
+          "type": "show",
+          "shot": "se_infiltration__shot1",
+          "image": {
+            "hash": "3b5e3f42aa57dcb3f090b50bb164c5044ad2ee98097e30e9a09f8d4ef0da0e2c",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "seraphine_halcyon",
+          "text": "They built this empire on rules and treaties. It is time they learned the true cost of their own game."
+        },
+        {
+          "type": "show",
+          "shot": "se_infiltration__establishing",
+          "image": {
+            "hash": "582bf7126d2aea3ec55d811f583bb557b2337d99c650d653e6c65fad9c20227a",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "Her weaves are delicate, precise, unraveling enemy defenses from within while our allies press the attack. The peace-broker's daughter has become a formidable warlord in her own right."
+        }
+      ],
+      "choices": [],
+      "next": "se_final_boss"
+    },
+    "se_landing": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "se_landing__establishing",
+          "image": {
+            "hash": "075930f3889ab41e1eaa1229f8c74018c814acc0569dc3f123e2655534fb8b82",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The Foreign Court is a glittering, treacherous labyrinth of mirrored galleries and clockwork chandeliers. Every pleasantry is a move on a board. We are constantly on the run from security services."
+        },
+        {
+          "type": "narrate",
+          "text": "Seraphine navigates this world with breathtaking fluency. Her knowledge of court protocol and cipher is our only salvation. She opens sealed doors with a subtle phrase, reads a room's true allegiances at a glance."
+        },
+        {
+          "type": "narrate",
+          "text": "Together, we uncover a chilling truth: the world's collapse is a coordinated design. Treaties, ostensibly for peace, were written to concentrate control of the Weave."
+        },
+        {
+          "type": "narrate",
+          "text": "The news of the executed pair hardens her. I see it in her eyes; the diplomat's gentle belief in negotiation is shattered. She stops believing she can broker her way out."
+        }
+      ],
+      "choices": [],
+      "next": "se_alliances"
+    },
+    "ud_binding": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "ud_binding__s1",
+          "image": {
+            "hash": "49559e30ca1572a611af11a377553b9ff098fa2d0ffec677787e98bd85cde12e",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "Vengeance is a powerful magnet. I find them one by one, scattered across the broken world. Wren, in the smuggler-nets. Isolde, turning her Assayer knowledge inward. Seraphine, reading the courts for weakness. Ember, arming the desperate."
+        },
+        {
+          "type": "show",
+          "shot": "ud_binding__s2",
+          "image": {
+            "hash": "bef999cbf715325b64eac01154b1a0572a9dc172c27ed652259e54fe4152ffd7",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "I bind each to me. Not with lies, but with a terrible, genuine promise: I can keep them all alive where the world could not. Shared vengeance becomes a foundation."
+        },
+        {
+          "type": "show",
+          "shot": "ud_binding__s3",
+          "image": {
+            "hash": "5a7b3c0ab3b9f5648ea8280fc910ce73c0c1b4fda5c5c4c7397e172d1c3f7fd5",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "All four come to love me. And for the first time, I let myself love all four. It is genuine, which is what makes it so dangerous. My love is total. So my vengeance will be total."
+        }
+      ],
+      "choices": [],
+      "next": "ud_conquest"
+    },
+    "ud_break": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "ud_break__establishing",
+          "image": {
+            "hash": "486b60d375c2ad44fcedcb719a5cd3bc3de42533f0e4b2d027cb987363086739",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The execution square. I witness it all. Not through a crackling broadcast, but in person, from the shadows. The cold efficiency. The public spectacle of terror. The faces of our friends, our cohort, contorted in a final, silent scream."
+        },
+        {
+          "type": "narrate",
+          "text": "It breaks something in me. Something fundamental."
+        },
+        {
+          "type": "narrate",
+          "text": "I gave my heart to no one. Kept all four at a careful distance. And for what? So the world could pick them off, one by one?"
+        },
+        {
+          "type": "narrate",
+          "text": "No. I will lose *none* of them."
+        },
+        {
+          "type": "narrate",
+          "text": "The refusal to choose becomes a refusal to lose. And the world that killed them will answer. I no longer hunt the truth to survive. I hunt it to punish."
+        }
+      ],
+      "choices": [],
+      "next": "ud_binding"
+    },
+    "ud_conquest": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "ud_conquest__s1",
+          "image": {
+            "hash": "140610b0ace34e726cf092e96caad2a96bd9b5d0186d05a1688fddb5f03c4d82",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "Alliances are instruments. Nations are pieces on a board. I expose corruption not to reform, but to destabilize. To seize."
+        },
+        {
+          "type": "narrate",
+          "text": "Where the romance paths saw desperate pairs murder monarchs, I kill them as conquest. I absorb their forces into my growing host. Coalition-building becomes empire-building."
+        },
+        {
+          "type": "show",
+          "shot": "ud_conquest__s2",
+          "image": {
+            "hash": "6d87729647d75b19e3c0e1aec2eccf521563e6bc32ea24af25b6cc5ef735f6b2",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "We stand in a throne-hall of black stone and looted brass, raised over the ashes of a city I bloodily conquered. Banners of the old ruler burn. New ones—mine—go up in their place."
+        },
+        {
+          "type": "narrate",
+          "text": "I crown myself and my four consorts over the ashes. They stand by my side: Ember, my fire; Isolde, my precision; Seraphine, my word; Wren, my shadow. My love for them is absolute. The world will learn to fear it."
+        }
+      ],
+      "choices": [],
+      "next": "ud_final_boss"
+    },
+    "ud_epilogue": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "ud_epilogue__s1",
+          "image": {
+            "hash": "dfe730d8421665cc6197ea12720e134cc2e8e78d23f4c266fecb555a538f81b8",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "Years later. Cities cracked open by the strategic-class weaves I pioneered. Viaducts snapped, clocktowers toppled, cloudlanes empty of everything but drifting ash."
+        },
+        {
+          "type": "show",
+          "shot": "ud_epilogue__s2",
+          "image": {
+            "hash": "5125eb50eb035cd707fb26a140b7c5c7b82e780a6b3b2f51672aba5d389e29ee",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The world I conquered to protect the people I loved lies gutted by the civil war of my own many children, fighting over my inheritance."
+        },
+        {
+          "type": "narrate",
+          "text": "They were born to all four consorts, a testament to my total love. And they have turned my own weapons on the world, and on each other."
+        },
+        {
+          "type": "show",
+          "shot": "ud_epilogue__s3",
+          "image": {
+            "hash": "5a7a9eaa33a94bdf5c17a2561f0324f7128dc527efc198b3254906ab33846552",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The harem fantasy, followed to its logical, catastrophic end."
+        },
+        {
+          "type": "narrate",
+          "text": "The end."
+        }
+      ],
+      "choices": []
+    },
+    "ud_final_boss": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "ud_final_boss__s1",
+          "image": {
+            "hash": "8baa7e8726c0dadb192e1e4d71f6049d44de95b9beeb32f5ccabc8fc2d273591",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The Inner Sanctum. The heart of the enemy. They expect a hero. They get a warlord."
+        },
+        {
+          "type": "show",
+          "shot": "ud_final_boss__s2",
+          "image": {
+            "hash": "b0048d28914a27bcfd8af431dbd90e10d1070e5cde0a3f0b43df33fe4a9f5ff4",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "I have developed strategic-class weaves. Weapons on the order of nukes. Isolde's precision aims them. Ember's raw current powers them. Seraphine's braided subtlety hides them. Wren's forbidden craft smuggles them into place."
+        },
+        {
+          "type": "narrate",
+          "text": "The four assets I catalogued in Act One, now turned to one monstrous working."
+        },
+        {
+          "type": "show",
+          "shot": "ud_final_boss__s3",
+          "image": {
+            "hash": "a8e678439e675bedeb6a61126d6ad9f447cb5ac3104eb8c4446a686c57d4a370",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The boss falls. Not to a coalition, but to a single, overwhelming act of force. There is no negotiation. No mercy."
+        },
+        {
+          "type": "narrate",
+          "text": "There is no wedding. There is a dynasty, forged in fire and vengeance."
+        }
+      ],
+      "choices": [],
+      "next": "ud_epilogue"
+    },
+    "wr_alliances": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "wr_alliances__s1",
+          "image": {
+            "hash": "0ae60bb6c378ccb70c815cd9a9d719ba630e24c4fb755e58ba4a26251134f872",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "Deep beneath a dead furnace-works lies the Ashen Circle Haven, the beating heart of the underground. Here, the burned-out, the fugitive strong, and the Rust-touched shelter together, ungoverned and unbowed."
+        },
+        {
+          "type": "narrate",
+          "text": "Filed-smooth cogs hang everywhere as tokens of defiance. This is Wren's true home."
+        },
+        {
+          "type": "show",
+          "shot": "wr_alliances__s2",
+          "image": {
+            "hash": "104f5ba49c1c91fe33da16c742d7bdf2be5b5ed94ab978253398613444e64b1c",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "With Wren's guidance, we build a coalition among the discarded. She opens doors in the smuggler-nets and among the dispossessed that no licensed official could ever access. Her value here is singular."
+        },
+        {
+          "type": "narrate",
+          "text": "I expose corruption at the highest levels, feeding evidence into the networks Wren threads. Word from other stranded pairs reaches us, drawn by the promise of the Ashen Circle's defiance."
+        },
+        {
+          "type": "show",
+          "shot": "wr_alliances__s3",
+          "image": {
+            "hash": "28ffb490b6e7b6cb156f3504afd4318b990bb90c064b71a917b99f4b81f39d55",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "Our alliance grows, a mosaic of the world's forgotten and betrayed. Wren, usually so guarded, finds her voice here, leading with a quiet authority that inspires fierce loyalty."
+        }
+      ],
+      "choices": [],
+      "next": "wr_infiltration"
+    },
+    "wr_ending": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "wr_ending__s1",
+          "image": {
+            "hash": "16bebc00072e45d7a30dbb6dd24aaf978916cb0725aca70570f39e825e4204c2",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The Ashen Circle Haven is lit not by forge-fire, but by the warm, steady glow of a communal hearth. The air is filled with the quiet murmur of the discarded, the survivors, the people who were never meant to win."
+        },
+        {
+          "type": "show",
+          "shot": "wr_ending__s2",
+          "image": {
+            "hash": "0fa0e1a94da385b91820434d1b41c27363f6071b444dccfa32f84cf1955cb597",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "This is our wedding. Wren stands beside me, her usual guarded expression softened, her gloved hands holding mine. For the first time, she is trusted, wholly, by someone who never sold her."
+        },
+        {
+          "type": "show",
+          "shot": "wr_ending__s3",
+          "image": {
+            "hash": "0ee10042ec03bdc3ab2e08da904a82bdc76472a729717b45fc4645e78f2a1434",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "caedon_vale",
+          "text": "I see you, Wren. All of you. And I'm not going anywhere."
+        },
+        {
+          "type": "show",
+          "shot": "wr_ending__s4",
+          "image": {
+            "hash": "11b39ef2cc2e15e464c8990688e3a5fde9e6e237144e19d116cae2faa4b81a03",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "wren_ashfield",
+          "text": "I know."
+        },
+        {
+          "type": "show",
+          "shot": "wr_ending__s5",
+          "image": {
+            "hash": "18d50d5e26a8eea730cb9be059648d760e45f4300f162b6c9e7f6f30fc287066",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "Among the people who took us in, who fought alongside us, we exchange our vows. A promise not of grandeur, but of quiet, fierce loyalty. A future built not on power, but on trust. The end."
+        }
+      ],
+      "choices": []
+    },
+    "wr_final_boss": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "wr_final_boss__s1",
+          "image": {
+            "hash": "8cc3a4f51fa1db3733635af89f694b0edd848892d370d794f129dd7003a979ec",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The Inner Sanctum. The monstrous heart of the enemy's operation. Our coalition—the discarded, the people the world threw away—converges for the final assault."
+        },
+        {
+          "type": "show",
+          "shot": "wr_final_boss__s2",
+          "image": {
+            "hash": "3c35d3fe7d824c1bfa45b0d5033d6eea824e04024fde62658af42dcaa0ada4ee",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "Wren is a shadow, a whisper, moving through the chaos with deadly purpose. She disables their core systems not with a grand weave, but with a smuggler's sabotage, a filed-smooth cog dropped into a critical gear."
+        },
+        {
+          "type": "show",
+          "shot": "wr_final_boss__s3",
+          "image": {
+            "hash": "6a147dd40b0aa75543315c0c4825280a81309140828f96decc6e6e54ae5b9f55",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The boss, a figure of immense power, finds its greatest weapon nullified, its throne of lies crumbling. The battle is fierce, but the tide has turned."
+        },
+        {
+          "type": "show",
+          "shot": "wr_final_boss__s4",
+          "image": {
+            "hash": "dbf4191ae2154000bdada5d0739d3b415ad9691c8c62ecbeee294a50e6fcb6e6",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "It is not a grand, heroic victory. It is a quiet, methodical dismantling of a corrupt system by the very people it was designed to crush. The discarded rise, and they bring the enemy down."
+        }
+      ],
+      "choices": [],
+      "next": "wr_ending"
+    },
+    "wr_infiltration": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "wr_infiltration__s1",
+          "image": {
+            "hash": "102e4c7708ed0032e2217ccf3160864da08d018a496ea95ef56a08e6de9d48d5",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The Enemy Organization's outer works loom before us. With the Ashen Circle at our backs and Wren leading the way, we infiltrate the heart of the chaos, fighting through several set-piece battles."
+        },
+        {
+          "type": "show",
+          "shot": "wr_infiltration__s2",
+          "image": {
+            "hash": "478a45b0e453fe9605d87a3350ccfbb2118d8fe30354d73df51176765d44cf4a",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "Wren, usually so cautious, moves with a fierce determination. Her knowledge of clandestine paths and pressure points is invaluable. Her forbidden craft, once a means of survival, is now a weapon of liberation."
+        },
+        {
+          "type": "show",
+          "shot": "wr_infiltration__s3",
+          "image": {
+            "hash": "97c67ccd866e45772a257a7b81ece6f0e10feecf6fbbf2746aa679b39978878d",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "say",
+          "who": "wren_ashfield",
+          "text": "They thought they could discard us. They thought we were broken. They were wrong."
+        },
+        {
+          "type": "show",
+          "shot": "wr_infiltration__s4",
+          "image": {
+            "hash": "4571ff3d7d25037ea5a84fd53ac40723c8c8d399693104a7495591069aa7c3ad",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "Our recruited allies—the scattered, the Rust-touched, the surviving pairs—all fight with a ferocity born of their own suffering. Wren, the fugitive, is now a general."
+        },
+        {
+          "type": "narrate",
+          "text": "The infiltration is brutal, but every step forward is a victory for the unseen, the uncounted. We are a tide of the unwanted, rising to reclaim our world."
+        }
+      ],
+      "choices": [],
+      "next": "wr_final_boss"
+    },
+    "wr_landing": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "wr_landing__establishing",
+          "image": {
+            "hash": "01d83964ad0a450ecf0cb88f59379872ced8474248751866ada4c87f2355724a",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "The Hostile Border is a grim, militarized frontier of checkpoint towers and razor-cog wire. Wren's scars mark her instantly here. The roles invert: my college schooling is useless; only Wren's knowledge of the underground keeps us alive."
+        },
+        {
+          "type": "narrate",
+          "text": "Her bolt-holes, her forged tokens, her carefully recalled smuggler debts—these are our currency, our shield. We move through the harsh landscape, evading Assayer patrols with Nullifier cuffs, guided by her quiet expertise."
+        },
+        {
+          "type": "narrate",
+          "text": "This is her world. I am merely a guest in it."
+        }
+      ],
+      "choices": [],
+      "next": "wr_truth"
+    },
+    "wr_truth": {
+      "beats": [
+        {
+          "type": "show",
+          "shot": "wr_truth__establishing",
+          "image": {
+            "hash": "6b4e5dc8ea6676716ca2115cca6d6d3bf1e043ae952716c8b7a7be221535d305",
+            "ext": "png"
+          }
+        },
+        {
+          "type": "narrate",
+          "text": "High in a disused mooring-mast is one of Wren's bolt-holes. It's cramped, filled with crates of contraband weaves and forged transit-tokens. Wind moans through the girders."
+        },
+        {
+          "type": "narrate",
+          "text": "Threading the fugitive networks, Wren and I piece together the terrifying truth: the Assayers' program of mass severing isn't about policing. It's a harvest."
+        },
+        {
+          "type": "narrate",
+          "text": "The revelation hits hard. The College, the Governors, the entire system—all built on exploitation."
+        },
+        {
+          "type": "narrate",
+          "text": "Then, the news of the executed pair. For Wren, it's a stark, personal terror. Exactly the fate she has fought to avoid, now a brutal reality for someone we knew."
+        },
+        {
+          "type": "narrate",
+          "text": "The air in the bolt-hole feels heavy with unspoken vows. We are no longer just surviving."
+        }
+      ],
+      "choices": [],
+      "next": "wr_alliances"
+    }
+  }
+}
