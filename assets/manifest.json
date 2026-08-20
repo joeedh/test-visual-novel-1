@@ -601,6 +601,22 @@
       "accepted": true
     },
     {
+      "hash": "3a34f1d241ff9506e00ac27afbd88f3da7f151c37188e7ac1407a122b6f612cb",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "7bb9a5a153b7c88be415e08a52b63488305f6c5730898b4cfbc4e722f832ba94",
+      "prompt": "Art style: Japanese anime. Establishing shot of The Ashen Circle Haven. The underground's beating heart: a hidden warren beneath a dead furnace-works where the burned-out, the fugitive strong, and the Rust-touched shelter together, ungoverned and unbowed. This is a haven for the discarded, where filed-smooth cogs hang everywhere as tokens of defiance, and salvaged Governors are stripped for forbidden work. A communal fire keeps the ungoverned warm. No monarch commands the doors Wren opens here; it is where the coalition of the thrown-away is built, and where her wedding, among people who never sold her, is finally held. Mood: defiant, communal, hidden. Time of day / condition: day. Palette: #4a4038, #b3762f, #1a1614, #6d7a80. Art direction: do not use a fisheye view. make it a bit brighter. do not use a fisheye view. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "ashen_circle_haven",
+          "variant": "day"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "3bed1162f146fa3b33f894e6bc3e181757a4e852e7b23399a9711f7b3386a486",
       "ext": "png",
       "kind": "location_ref",
@@ -2237,6 +2253,22 @@
         {
           "characterId": "seraphine_halcyon",
           "outfit": "college_indigo"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "c9207d8aa48e9c7d986407e69789d535364796907625ad8b127d9a3110a578cf",
+      "ext": "png",
+      "kind": "location_ref",
+      "sourceTask": "98f3470dec52a350a5a3d7536ca55f81ef372426396a47c9aa15a88746dd8d69",
+      "prompt": "Art style: Japanese anime. Establishing shot of The Ashen Circle Haven. The underground's beating heart: a hidden warren beneath a dead furnace-works where the burned-out, the fugitive strong, and the Rust-touched shelter together, ungoverned and unbowed. This is a haven for the discarded, where filed-smooth cogs hang everywhere as tokens of defiance, and salvaged Governors are stripped for forbidden work. A communal fire keeps the ungoverned warm. No monarch commands the doors Wren opens here; it is where the coalition of the thrown-away is built, and where her wedding, among people who never sold her, is finally held. Mood: defiant, communal, hidden. Time of day / condition: night. Palette: #4a4038, #b3762f, #1a1614, #6d7a80. Art direction: do not use a fisheye view. make it a bit brighter. No characters, no text.",
+      "refs": [],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "locationId": "ashen_circle_haven",
+          "variant": "night"
         }
       ],
       "accepted": false

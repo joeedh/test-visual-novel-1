@@ -148,6 +148,25 @@
       "accepted": false
     },
     {
+      "hash": "08e89888202cd9b0bc82a7d198dff7584588b7c181fa374e130a7a9d262138ff",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "e44448942ff89cff2aaa70d026b1f5d42ec501748be03892cfb05559069538ba",
+      "prompt": "Art style: Japanese anime. close shot in The Ashen Circle Haven (night). Subjects: Caedon Vale, wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear., expression: tender. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "c9207d8aa48e9c7d986407e69789d535364796907625ad8b127d9a3110a578cf",
+        "e13b85bb9f4aeebb2f0839715d3a40fce20d10145cef340f13e0e72f0412e815"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_ending",
+          "shotId": "wr_ending__s3"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "0a48fe121638590f022e7771e7f2f38d35e417c0f4f38ccbf14321e6af23d9ae",
       "ext": "png",
       "kind": "shot_image",
@@ -259,6 +278,25 @@
       "accepted": true
     },
     {
+      "hash": "0ee10042ec03bdc3ab2e08da904a82bdc76472a729717b45fc4645e78f2a1434",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "e44448942ff89cff2aaa70d026b1f5d42ec501748be03892cfb05559069538ba",
+      "prompt": "Art style: Japanese anime. close shot in The Ashen Circle Haven (night). Subjects: Caedon Vale, wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear., expression: tender. Render as a single illustrated frame, no UI text. Corrections: Adjust the character's facial expression to convey a more tender and gentle emotion.; Replace the current background with the specific background image provided as Reference 1.; Soften the eyes and mouth to convey warmth and tenderness..",
+      "refs": [
+        "c9207d8aa48e9c7d986407e69789d535364796907625ad8b127d9a3110a578cf",
+        "e13b85bb9f4aeebb2f0839715d3a40fce20d10145cef340f13e0e72f0412e815"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_ending",
+          "shotId": "wr_ending__s3"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "104f5ba49c1c91fe33da16c742d7bdf2be5b5ed94ab978253398613444e64b1c",
       "ext": "png",
       "kind": "shot_image",
@@ -330,6 +368,25 @@
         }
       ],
       "accepted": false
+    },
+    {
+      "hash": "11b39ef2cc2e15e464c8990688e3a5fde9e6e237144e19d116cae2faa4b81a03",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "67d37ec6791095f192530d1eb5f055fe367938a24e1c291b4ff11bf46f901af4",
+      "prompt": "Art style: Japanese anime. close shot in The Ashen Circle Haven (night). Subjects: Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord., expression: trusting. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "c9207d8aa48e9c7d986407e69789d535364796907625ad8b127d9a3110a578cf",
+        "8a843719657f5845cea392baba7f5d34b935c6543d870d81278a720fdc33d79c"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_ending",
+          "shotId": "wr_ending__s4"
+        }
+      ],
+      "accepted": true
     },
     {
       "hash": "1254767148a55d567957734ec03e339f8b4c91cc2a6f1402b10adc5783a03561",
@@ -648,6 +705,24 @@
       "accepted": true
     },
     {
+      "hash": "28ffb490b6e7b6cb156f3504afd4318b990bb90c064b71a917b99f4b81f39d55",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "c7bd2f77db3424cf92fc9fa7e607dba0ae4213ae332ab2773f4ef6a40dfc4e0c",
+      "prompt": "Art style: Japanese anime. medium shot in The Ashen Circle Haven (night). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "c9207d8aa48e9c7d986407e69789d535364796907625ad8b127d9a3110a578cf"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_alliances",
+          "shotId": "wr_alliances__s3"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "297b740e27201f1f6ceaba1a485ee3858a523f747509627e70ab9bbf1f6b6e16",
       "ext": "png",
       "kind": "shot_image",
@@ -682,6 +757,26 @@
         }
       ],
       "accepted": true
+    },
+    {
+      "hash": "2b99adb52ca8e210a58cab99b069add508af239f17adfbaa8906983868b6ae14",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "12c87021291a10754d850bf2fc3aea5314495aadfe4ea1b441f8b6de49b2f46a",
+      "prompt": "Art style: Japanese anime. establishing shot in The Ashen Circle Haven (night). Subjects: Caedon Vale, wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear.; Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord.. Camera: wide hearth glow. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "c9207d8aa48e9c7d986407e69789d535364796907625ad8b127d9a3110a578cf",
+        "e13b85bb9f4aeebb2f0839715d3a40fce20d10145cef340f13e0e72f0412e815",
+        "8a843719657f5845cea392baba7f5d34b935c6543d870d81278a720fdc33d79c"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_ending",
+          "shotId": "wr_ending__s1"
+        }
+      ],
+      "accepted": false
     },
     {
       "hash": "2ba9220785c71eec76fae8676a5ff28c5e04ec15769ebb2edfffdda21b255948",
@@ -1687,6 +1782,26 @@
       "accepted": true
     },
     {
+      "hash": "62e48d909afbeb33de70a0bca7b146eca8776b01c03664e414bc8e8d705bb5f1",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "12c87021291a10754d850bf2fc3aea5314495aadfe4ea1b441f8b6de49b2f46a",
+      "prompt": "Art style: Japanese anime. establishing shot in The Ashen Circle Haven (night). Subjects: Caedon Vale, wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear.; Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord.. Camera: wide hearth glow. Render as a single illustrated frame, no UI text. Corrections: Update both caedon_vale and wren_ashfield to wear outfits consistent with a 'college_uniform' as exemplified by caedon_vale's reference image (polo shirt style) or a clearly defined uniform that applies to both characters.; Align outfit with reference or confirm college_uniform interpretation..",
+      "refs": [
+        "c9207d8aa48e9c7d986407e69789d535364796907625ad8b127d9a3110a578cf",
+        "e13b85bb9f4aeebb2f0839715d3a40fce20d10145cef340f13e0e72f0412e815",
+        "8a843719657f5845cea392baba7f5d34b935c6543d870d81278a720fdc33d79c"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_ending",
+          "shotId": "wr_ending__s1"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "6497620e8085c4428cf45bfac031ac989a3602afa6dfd7626c4b5d696944bc5c",
       "ext": "png",
       "kind": "shot_image",
@@ -2144,6 +2259,26 @@
         }
       ],
       "accepted": true
+    },
+    {
+      "hash": "78d5abcbc0e81dbd71f47980013da54f628f976106bb04928c25d01b2b5181b7",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "12c87021291a10754d850bf2fc3aea5314495aadfe4ea1b441f8b6de49b2f46a",
+      "prompt": "Art style: Japanese anime. establishing shot in The Ashen Circle Haven (night). Subjects: Caedon Vale, wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear.; Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord.. Camera: wide hearth glow. Render as a single illustrated frame, no UI text. Corrections: Update Caedon Vale's outfit to match his 'college_uniform' reference.; Update Wren Ashfield's outfit to match her 'college_uniform' reference.; Adjust Caedon to wear the college uniform shirt matching reference.; Ensure Wren's arm tattoos and fingerless glove details are visible..",
+      "refs": [
+        "c9207d8aa48e9c7d986407e69789d535364796907625ad8b127d9a3110a578cf",
+        "e13b85bb9f4aeebb2f0839715d3a40fce20d10145cef340f13e0e72f0412e815",
+        "8a843719657f5845cea392baba7f5d34b935c6543d870d81278a720fdc33d79c"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_ending",
+          "shotId": "wr_ending__s1"
+        }
+      ],
+      "accepted": false
     },
     {
       "hash": "792fea0483559a3a98b8c39a0e64907bb8ac80b3f44f1cca84ef49843eb7c325",
@@ -2728,6 +2863,26 @@
       "accepted": true
     },
     {
+      "hash": "aa67d3253ab9658fcecd5b39095e55aff583677c177f211eec42c2eb50247057",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "12c87021291a10754d850bf2fc3aea5314495aadfe4ea1b441f8b6de49b2f46a",
+      "prompt": "Art style: Japanese anime. establishing shot in The Ashen Circle Haven (night). Subjects: Caedon Vale, wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear.; Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord.. Camera: wide hearth glow. Render as a single illustrated frame, no UI text. Corrections: Add 'wren_ashfield' to the scene, ensuring she is recognizable and distinct from 'caedon_vale'.; Remove the duplicate instance of 'caedon_vale', ensuring only one 'caedon_vale' and one 'wren_ashfield' are present.; Update the outfits of both 'caedon_vale' and 'wren_ashfield' to match their respective 'college_uniform' designs as shown in the reference images.; Regenerate with one Caedon (male) and one Wren (female, matching reference 4) in frame.; Depict characters in the specified college_uniform outfit..",
+      "refs": [
+        "c9207d8aa48e9c7d986407e69789d535364796907625ad8b127d9a3110a578cf",
+        "e13b85bb9f4aeebb2f0839715d3a40fce20d10145cef340f13e0e72f0412e815",
+        "8a843719657f5845cea392baba7f5d34b935c6543d870d81278a720fdc33d79c"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_ending",
+          "shotId": "wr_ending__s1"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "acaf8041c5ef3abc67028fc5998f8d1685f1438b7a20ab0648d364ded0137d63",
       "ext": "png",
       "kind": "shot_image",
@@ -2795,6 +2950,26 @@
         {
           "sceneId": "c10_the_world_breaks",
           "shotId": "c10_the_world_breaks__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "afe7384841a2c96083629ce11a5c56ee9480533626c44ddf3fcbb4032a93aad6",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "74fecdaa68714e82c51520120e21a45c65b4dbc8753d513bcc3ba8e742714968",
+      "prompt": "Art style: Japanese anime. wide shot in The Ashen Circle Haven (night). Subjects: Caedon Vale, wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear., pose: vows; Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord., pose: vows. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "c9207d8aa48e9c7d986407e69789d535364796907625ad8b127d9a3110a578cf",
+        "e13b85bb9f4aeebb2f0839715d3a40fce20d10145cef340f13e0e72f0412e815",
+        "8a843719657f5845cea392baba7f5d34b935c6543d870d81278a720fdc33d79c"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_ending",
+          "shotId": "wr_ending__s5"
         }
       ],
       "accepted": true
@@ -3203,6 +3378,26 @@
       "accepted": true
     },
     {
+      "hash": "c4dae87c8e710f292948d048835acbe97175def1a8469909a9b58696313e1d72",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "64f591f7a553a4c024ed05be153a11ddb53018e307d466de831bbb38e58e75f9",
+      "prompt": "Art style: Japanese anime. medium shot in The Ashen Circle Haven (night). Subjects: Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord., pose: holding hands, expression: softened; Caedon Vale, wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear., pose: holding hands. Render as a single illustrated frame, no UI text. Corrections: Recast Wren Ashfield and Caedon Vale with their 'warrens' outfits as shown in the reference images.; Reframe closer to a medium shot (roughly waist-up) focusing on the two characters.; Depict Caedon in his patched gray shirt outfit consistent with reference.; Warm her expression slightly more for the softened wedding mood..",
+      "refs": [
+        "c9207d8aa48e9c7d986407e69789d535364796907625ad8b127d9a3110a578cf",
+        "8a843719657f5845cea392baba7f5d34b935c6543d870d81278a720fdc33d79c",
+        "e13b85bb9f4aeebb2f0839715d3a40fce20d10145cef340f13e0e72f0412e815"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_ending",
+          "shotId": "wr_ending__s2"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "c5f63f0281a2b98dec93275a1efa404ed2226cd50d40fa779eec17fd9950e84e",
       "ext": "png",
       "kind": "shot_image",
@@ -3603,6 +3798,26 @@
       "accepted": false
     },
     {
+      "hash": "de2cf03259dbff43a216014ffb299976b8d8c7d989f08a1aa17ced2c3fe17fe6",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "64f591f7a553a4c024ed05be153a11ddb53018e307d466de831bbb38e58e75f9",
+      "prompt": "Art style: Japanese anime. medium shot in The Ashen Circle Haven (night). Subjects: Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord., pose: holding hands, expression: softened; Caedon Vale, wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear., pose: holding hands. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "c9207d8aa48e9c7d986407e69789d535364796907625ad8b127d9a3110a578cf",
+        "8a843719657f5845cea392baba7f5d34b935c6543d870d81278a720fdc33d79c",
+        "e13b85bb9f4aeebb2f0839715d3a40fce20d10145cef340f13e0e72f0412e815"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_ending",
+          "shotId": "wr_ending__s2"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "df5c000b6cb9535cadc406da0b04b1e7adeb28195ae2cb03e06ba96bbcf918a5",
       "ext": "png",
       "kind": "shot_image",
@@ -3908,6 +4123,42 @@
         {
           "sceneId": "c10_the_world_breaks",
           "shotId": "c10_the_world_breaks__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "fbdf00926304cb35ce4b03473eb6486f960f90223d53605910f7ba17338d61b9",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "845b1c18814da6e19e2890324fa1be6c2000db88bb0e25ae7ab6686afd521da9",
+      "prompt": "Art style: Japanese anime. establishing shot in The Ashen Circle Haven (night). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "c9207d8aa48e9c7d986407e69789d535364796907625ad8b127d9a3110a578cf"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_alliances",
+          "shotId": "wr_alliances__s1"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "fc5ae00d8a583d6c6c2871cd5f0ffa042af46871ffdd42934d51504a73c29eef",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "95b0ba2dcecea740c608791e047322ea1c126e0e3e1ab3beb710d7e50c3aedfc",
+      "prompt": "Art style: Japanese anime. wide shot in The Ashen Circle Haven (night). No characters in frame. Camera: slow pan across the haven. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "c9207d8aa48e9c7d986407e69789d535364796907625ad8b127d9a3110a578cf"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_alliances",
+          "shotId": "wr_alliances__s2"
         }
       ],
       "accepted": true

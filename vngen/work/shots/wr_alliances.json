@@ -14,7 +14,7 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. establishing shot in The Ashen Circle Haven (night). No characters in frame. Render as a single illustrated frame, no UI text.",
-        "image": "0ae60bb6c378ccb70c815cd9a9d719ba630e24c4fb755e58ba4a26251134f872",
+        "image": "fbdf00926304cb35ce4b03473eb6486f960f90223d53605910f7ba17338d61b9",
         "proseHash": "95eeb63ac9f0dfbf1e6f6c3c34ec7a0f8271de493db2e35c8468a836be538655",
         "status": "accepted"
       }
@@ -32,9 +32,9 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. wide shot in The Ashen Circle Haven (night). No characters in frame. Camera: slow pan across the haven. Render as a single illustrated frame, no UI text.",
-        "image": "518154315f9d8333b7c8d2bc693089624669f395a5fa76d268d5b4ade92d8878",
+        "image": "fc5ae00d8a583d6c6c2871cd5f0ffa042af46871ffdd42934d51504a73c29eef",
         "proseHash": "9cbabdb7086c849e476da2075847eb6998df59498e8e60094d85b4112a66c2d0",
-        "status": "needs_human"
+        "status": "accepted"
       }
     },
     {
@@ -48,7 +48,7 @@
       ],
       "shotData": {
         "prompt": "Art style: Japanese anime. medium shot in The Ashen Circle Haven (night). No characters in frame. Render as a single illustrated frame, no UI text.",
-        "image": "b83ffaa8e94330c184386ef5eb2b07fab27c75f1457bda4e34dcc067783072ff",
+        "image": "28ffb490b6e7b6cb156f3504afd4318b990bb90c064b71a917b99f4b81f39d55",
         "proseHash": "3541ed4d92d1b1869437f5472962091dbc071ef31cd49b7b03d18db0129e17b4",
         "status": "accepted"
       }
