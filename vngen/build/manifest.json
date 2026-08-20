@@ -38,6 +38,25 @@
       "accepted": true
     },
     {
+      "hash": "01668969fbb0619428508150ea569517abf44922bf524879f3f136ce0e5b464b",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "f7f0bc4f2ddda92a0c51e65dd35c14e4e0e2841e352512f92b6afbeb30e97e1b",
+      "prompt": "Art style: Japanese anime. close shot in The College Woods (day). Subjects: Seraphine Halcyon, wearing Loomwright student's indigo coat with silver thread trim over a high-collared cream blouse, fitted trousers, and soft leather boots; a silver Loomwright pin at the throat., pose: turning to speak, expression: knowing. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "2a7a549c627b80c7c69f2958e34b7bbb578672b7ce29a4e1796a8a4aa44c7491",
+        "911643aed4303a4c97cd4f6345431014e7995ba502050641514ad9d98c66eb83"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c09_se",
+          "shotId": "c09_se__s3"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "01d83964ad0a450ecf0cb88f59379872ced8474248751866ada4c87f2355724a",
       "ext": "png",
       "kind": "shot_image",
@@ -93,6 +112,24 @@
       "accepted": true
     },
     {
+      "hash": "075930f3889ab41e1eaa1229f8c74018c814acc0569dc3f123e2655534fb8b82",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "09bbb267883a65516e7916bc3435ab6a4caeb815fee3d2049539e78fb37a83e5",
+      "prompt": "Art style: Japanese anime. establishing shot in The Foreign Court (day). No characters in frame. Render as a single illustrated frame, no UI text. Corrections: Remove all figures to render a clean empty establishing plate..",
+      "refs": [
+        "53b3fdb53deaae1d4f5cd7da4a3a69dff579573dde64a3348cfc58b839e3603e"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "se_landing",
+          "shotId": "se_landing__establishing"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "0a48fe121638590f022e7771e7f2f38d35e417c0f4f38ccbf14321e6af23d9ae",
       "ext": "png",
       "kind": "shot_image",
@@ -107,6 +144,25 @@
         {
           "sceneId": "c07_is",
           "shotId": "c07_is__s3"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "0c3286acbe539a935f78f761f60a985fac3cee09c9e7e9520fe31447dfc17802",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "a99d45001b318047f8480c1a9c104a5dd01e703d0db5bca52d616749961539a3",
+      "prompt": "Art style: Japanese anime. close shot in The College Woods (day). Subjects: Isolde Vorn, wearing A high-collared grey habit of Vorn cut, iron clasps, and a single iron key-pendant at the throat — austere, devout, unmarked by any Order's livery., pose: turning to speak, expression: thoughtful. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "2a7a549c627b80c7c69f2958e34b7bbb578672b7ce29a4e1796a8a4aa44c7491",
+        "52b03a948745bde30c4d776674f30d68f8b1884bb4a98da71a246d88aa5ca05a"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c09_is",
+          "shotId": "c09_is__s3"
         }
       ],
       "accepted": true
@@ -127,7 +183,7 @@
           "shotId": "c08_se__s1"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "0c79d2581949e6bed584a5fa5c0d552e2a31cba940cb79c225abae03e9a4648b",
@@ -186,6 +242,24 @@
       "accepted": false
     },
     {
+      "hash": "10cf36b6801e0efa7cf28a81aa8b007f962f51325ce10e1e4fd07c84bd6fe8cf",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "2b63e15ef58534cb1d93c31d1fe85c3e89025789cc462760ea0b81879022b150",
+      "prompt": "Art style: Japanese anime. medium shot in College Infirmary (day). No characters in frame. Camera: push in on lamp-lit window. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "4a56bcd697336b8854d022cb1bc8de23ea3b25361a24845a11b28e420947e12b"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c08_se",
+          "shotId": "c08_se__s3"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "10fc803d43fad5407d5d69e5399be3c48b46cec9d1ffa694df72e01f46b340fa",
       "ext": "png",
       "kind": "shot_image",
@@ -204,6 +278,24 @@
       "accepted": false
     },
     {
+      "hash": "1254767148a55d567957734ec03e339f8b4c91cc2a6f1402b10adc5783a03561",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "46ace56adfdcf24d16f0d6195c92971afa66363089f97758952a8f2b46a603a8",
+      "prompt": "Art style: Japanese anime. establishing shot in Scattered Wilds (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "f22edf18c501f298c500f3c2aaba36aff62ee298be8fa498d2196836394fe099"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c11_execution",
+          "shotId": "c11_execution__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "12b2a126ff6ca577fce68b9bce3f980a5fd543a0cf9cf1297242bb6da50dfb47",
       "ext": "png",
       "kind": "shot_image",
@@ -218,6 +310,24 @@
         {
           "sceneId": "c07_wr",
           "shotId": "c07_wr__s4"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "140610b0ace34e726cf092e96caad2a96bd9b5d0186d05a1688fddb5f03c4d82",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "2a54d7d48af27fbde7cc092f04a4b82d289e8b698da4c848974dfe5b6603ffa1",
+      "prompt": "Art style: Japanese anime. establishing shot in The Conquered Empire (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "6c8a8ab5bb68e9ed81794c9d83ffa588a9e70e45f5e581ee16f600e972f41c08"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "ud_conquest",
+          "shotId": "ud_conquest__s1"
         }
       ],
       "accepted": true
@@ -313,6 +423,42 @@
       "accepted": true
     },
     {
+      "hash": "1aa8e9cc093be1ac418c802f2362770246538488e9aaf561a214690e4d6a344c",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "546254acb552530b4d0d765d3529d6f81f0373aef3cbc1b33ed42b322335edd6",
+      "prompt": "Art style: Japanese anime. establishing shot in The College Woods (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "2a7a549c627b80c7c69f2958e34b7bbb578672b7ce29a4e1796a8a4aa44c7491"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c09_se",
+          "shotId": "c09_se__s1"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "1f65f9d18f94668768e84aad6ba2cf47f54c85df161beb7270cc46220b0825e4",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "a49bc33c64d95ce7c4ab1c070bd987da63747e28eb410d2a677a1a7105c1a197",
+      "prompt": "Art style: Japanese anime. establishing shot in Cinderhold — Vashan Forge-City (day). No characters in frame. Render as a single illustrated frame, no UI text. Corrections: Regenerate the image to remove all characters, ensuring it is a pure background plate as specified..",
+      "refs": [
+        "c55289c45fc58632d5c9283f84ae9e42c3aced337a99deca5f74a79c3255baab"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "em_ending",
+          "shotId": "em_ending__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "2183d25a2806999b495737543a22a53fc5cb4364c977883342e8f32c39052a13",
       "ext": "png",
       "kind": "shot_image",
@@ -348,6 +494,24 @@
         }
       ],
       "accepted": false
+    },
+    {
+      "hash": "297ebe5d6d77d641912e0d2a0e5b7e021dc77c3dc0bbe4773b3a710531bafe81",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "54aa9c0c72f8209c21b068a29e321a1434abec70dcdaa62d5a8841b8a32419c3",
+      "prompt": "Art style: Japanese anime. establishing shot in College Infirmary (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "4a56bcd697336b8854d022cb1bc8de23ea3b25361a24845a11b28e420947e12b"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c08_ud",
+          "shotId": "c08_ud__s1"
+        }
+      ],
+      "accepted": true
     },
     {
       "hash": "2ba9220785c71eec76fae8676a5ff28c5e04ec15769ebb2edfffdda21b255948",
@@ -405,6 +569,97 @@
       "accepted": true
     },
     {
+      "hash": "320bb5e4c3cd1a7376104919acaa05a65b63af4cffb7f2b01de0783824af6736",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "7749a01466325d1212bb19d83ab3198ab7fc6eed5e7e97be2236edf67282aef4",
+      "prompt": "Art style: Japanese anime. establishing shot in Halcyon Reach (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "ade745380a93a2854c609012dfc928a21bd2dcdbd94087bf285c8defbbd101d3"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "se_ending",
+          "shotId": "se_ending__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "33b333d0013be9c3b64c4ec710d7bd89674b44f80a91c94184f2646ad32ed2ec",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "1b53127e0fb0fd75aa926f3f71eb0d5f6efd6424235c143fe2f64f42a92af728",
+      "prompt": "Art style: Japanese anime. establishing shot in The College Woods (day). Subjects: Ember Kellan, wearing Ash-grey forge leathers scorched at the cuffs, sleeves rolled to bare her rust-scarred forearm, ember-orange sash of the Kiln-Sworn knotted at the hip., pose: walking ahead, expression: beckoning. Camera: wide canopy light. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "2a7a549c627b80c7c69f2958e34b7bbb578672b7ce29a4e1796a8a4aa44c7491",
+        "a5bc386b7eaeedee62693b9632e3ab07054efa6f31e845e3730afa960ef1ce87"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c09_em",
+          "shotId": "c09_em__s1"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "35228e251756af5d38e64c3eb9115d8247636592fde17839ad82a6168431ab93",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "ef49996632e27973fe12f8fa1b7a7650f1f628b240107f46488a443c6067da03",
+      "prompt": "Art style: Japanese anime. wide shot in College Infirmary (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "4a56bcd697336b8854d022cb1bc8de23ea3b25361a24845a11b28e420947e12b"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c08_ud",
+          "shotId": "c08_ud__s3"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "37c536e97cb14d8c8f1fdcc2691dc576761ab3790f0d366edb4fc5344866adb8",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "39685b7ab63bba038010ad82b13982c4c9e704d9d9a076049bcd00f78cf559ba",
+      "prompt": "Art style: Japanese anime. medium shot in College Infirmary (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "4a56bcd697336b8854d022cb1bc8de23ea3b25361a24845a11b28e420947e12b"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c08_wr",
+          "shotId": "c08_wr__s2"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "403cf435e84d8b8d01b3bbc37b54902768b732db075dd41a0a0fba01e01b1751",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "c287987c01d2f268ffa4e29a75c9f8d80f674eb85974a9f840b4eda9938185d6",
+      "prompt": "Art style: Japanese anime. establishing shot in Scattered Wilds (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "f22edf18c501f298c500f3c2aaba36aff62ee298be8fa498d2196836394fe099"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c11b_on_the_run",
+          "shotId": "c11b_on_the_run__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "409c0a012e8ccf0646d59b3b7c5cfeaefc24795c0ce603775b0148fb484af081",
       "ext": "png",
       "kind": "shot_image",
@@ -418,6 +673,24 @@
         {
           "sceneId": "se_landing",
           "shotId": "se_landing__establishing"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "41e2fcc9d31a577177bf9005ce6c31290f77d1a4a2ca68c88e4ccf0f0b44a0c3",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "8aa0b3a5eaa8a6df77291cc0cdac2efc9d789f1b5ec2ced072a0fbc4ebceec34",
+      "prompt": "Art style: Japanese anime. establishing shot in The Organization — Inner Sanctum (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "e48f4cfc25e320980a25fd88b53448b364567b50c6d66925e09c9d56de10eede"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "se_final_boss",
+          "shotId": "se_final_boss__establishing"
         }
       ],
       "accepted": false
@@ -439,6 +712,42 @@
         }
       ],
       "accepted": false
+    },
+    {
+      "hash": "440cff0e227b675c4a85993fefcf73ea327b4131160495205cc66fe87e2923e4",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "8e465558d608584d00c3540c5c6272fd688c729e1c404b69ca401394c496bd2b",
+      "prompt": "Art style: Japanese anime. wide shot in The College Woods (day). No characters in frame. Camera: lone path deeper into woods. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "2a7a549c627b80c7c69f2958e34b7bbb578672b7ce29a4e1796a8a4aa44c7491"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c09_ud",
+          "shotId": "c09_ud__s2"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "45100f934bc2f6de191ca53a588560b4628b39890c0bc1ec3c265a09d035198d",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "192391a8b8f3be2bce4c3628d11b427dee4e2d3441d9352538c8ef2cf7516d54",
+      "prompt": "Art style: Japanese anime. wide shot in College Infirmary (day). No characters in frame. Camera: slow pull-back. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "4a56bcd697336b8854d022cb1bc8de23ea3b25361a24845a11b28e420947e12b"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c08_wr",
+          "shotId": "c08_wr__s3"
+        }
+      ],
+      "accepted": true
     },
     {
       "hash": "4592a7845e6af988feedf14fd0d342d2009b5b625c093cf7105332b463f4a295",
@@ -472,6 +781,24 @@
         {
           "sceneId": "is_landing",
           "shotId": "is_landing__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "46ff99b21ed1704c452b65fef896550e142790db463fce5d1315a294025865e1",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "4a45175195e830a522eb626d072d42bc4dca0b84b0dd61bdd7a5548a1bda4131",
+      "prompt": "Art style: Japanese anime. establishing shot in Halcyon Reach (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "ade745380a93a2854c609012dfc928a21bd2dcdbd94087bf285c8defbbd101d3"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "se_alliances",
+          "shotId": "se_alliances__establishing"
         }
       ],
       "accepted": true
@@ -585,6 +912,43 @@
       "accepted": false
     },
     {
+      "hash": "49559e30ca1572a611af11a377553b9ff098fa2d0ffec677787e98bd85cde12e",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "e2d78050049982bfaa95d4d5bb4aa110544113ae0b60b0f8372ba6aa6146a494",
+      "prompt": "Art style: Japanese anime. establishing shot in Cloudlane Bolt-Hole (night). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "7ff6b3302e48df1e4b2e7d507d38f85b2acfb34860a3e69e283da1836eb89334"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "ud_binding",
+          "shotId": "ud_binding__s1"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "49962544a73613b93bc735ff19def2c8cace4b3c4af50798442842f9aec41c9a",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "fbdfa518e7dfc342bea79eece1ba76996b4ab9ffe47108e21f5ba526e5a4c259",
+      "prompt": "Art style: Japanese anime. wide shot in The College Woods (day). Subjects: Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord., pose: leading, expression: focused. Render as a single illustrated frame, no UI text. Corrections: Regenerate the image ensuring Wren Ashfield is wearing the 'warrens' outfit as depicted in the character reference image.; Add the striped scarf to match the character reference outfit..",
+      "refs": [
+        "2a7a549c627b80c7c69f2958e34b7bbb578672b7ce29a4e1796a8a4aa44c7491",
+        "8a843719657f5845cea392baba7f5d34b935c6543d870d81278a720fdc33d79c"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c09_wr",
+          "shotId": "c09_wr__s2"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "499d098ec56b343cabb0673b3d189354d1759f64533be603d250a532525b204b",
       "ext": "png",
       "kind": "shot_image",
@@ -659,6 +1023,24 @@
       "accepted": true
     },
     {
+      "hash": "5125eb50eb035cd707fb26a140b7c5c7b82e780a6b3b2f51672aba5d389e29ee",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "8ed64e35765d28efefd88dae5b3fed3eabcab6d70adb1028f2a87665df268d51",
+      "prompt": "Art style: Japanese anime. wide shot in The Ruined Cities (Timeskip) (day). No characters in frame. Camera: pan across gutted ruins. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "40ba4b4ee552959453b69b5572ff1392e7babf4e7c42d7d7d56317bdcf0ca39b"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "ud_epilogue",
+          "shotId": "ud_epilogue__s2"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "515920fbff7be789c8cf94f38470d4e05f07fe2cdcaee4058adb9f61e0a1b153",
       "ext": "png",
       "kind": "shot_image",
@@ -672,6 +1054,24 @@
         {
           "sceneId": "c08_is",
           "shotId": "c08_is__s3"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "520676bfc0e963067e91e741b602694a3b38f0c7b5f9f103e595ff2ba8b63296",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "56588688dfa4f2a2cf2f60f7f25bd6c018a28ed950f4b36e24335f3099a973f6",
+      "prompt": "Art style: Japanese anime. establishing shot in The College Woods (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "2a7a549c627b80c7c69f2958e34b7bbb578672b7ce29a4e1796a8a4aa44c7491"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c09_wr",
+          "shotId": "c09_wr__s1"
         }
       ],
       "accepted": true
@@ -713,6 +1113,24 @@
       "accepted": true
     },
     {
+      "hash": "582bf7126d2aea3ec55d811f583bb557b2337d99c650d653e6c65fad9c20227a",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "59e9834f52628c64a40ac3988a909c123b87ce284272c8bbe610f5bb29bca86c",
+      "prompt": "Art style: Japanese anime. establishing shot in The Organization — Outer Works (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "20724af016fd65d618b1108ea909d92085660f077002e44db7add2c4dbd82d16"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "se_infiltration",
+          "shotId": "se_infiltration__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "583659ca9146ebf181d8a0834ffd8d0c6528e864a7c948e08fffbe123a065482",
       "ext": "png",
       "kind": "shot_image",
@@ -732,6 +1150,42 @@
       "accepted": true
     },
     {
+      "hash": "597ce50c86355c59fcd926ef70852664d26726b54bd978d1ef75da6d7be00caf",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "a49bc33c64d95ce7c4ab1c070bd987da63747e28eb410d2a677a1a7105c1a197",
+      "prompt": "Art style: Japanese anime. establishing shot in Cinderhold — Vashan Forge-City (day). No characters in frame. Render as a single illustrated frame, no UI text. Corrections: Remove all character figures from the image to create a pure background plate as specified..",
+      "refs": [
+        "c55289c45fc58632d5c9283f84ae9e42c3aced337a99deca5f74a79c3255baab"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "em_ending",
+          "shotId": "em_ending__establishing"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "5a7b3c0ab3b9f5648ea8280fc910ce73c0c1b4fda5c5c4c7397e172d1c3f7fd5",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "fce14b024d38fb905ff5afdba2af77281a54557675f0be98b8d596831cb4e3d5",
+      "prompt": "Art style: Japanese anime. medium shot in Cloudlane Bolt-Hole (night). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "7ff6b3302e48df1e4b2e7d507d38f85b2acfb34860a3e69e283da1836eb89334"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "ud_binding",
+          "shotId": "ud_binding__s3"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "5aff03789a9e3a8cdf10fe595d46072b6e21419e956e777ac4c8db8b247f8ebb",
       "ext": "png",
       "kind": "shot_image",
@@ -745,6 +1199,24 @@
         {
           "sceneId": "em_alliances",
           "shotId": "em_alliances__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "5c08e430e8b7f89f62d8a1e13c3ed5961cebe389458be4a57bc7fc54907458bf",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "e894fc54b0325fd161f17d92e0e113433e676558a68d10527d5d3d84a76cf9fd",
+      "prompt": "Art style: Japanese anime. establishing shot in Vashan Borderland (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "be02706bd2f6776538d3ff6893c55e7db8d0a2f366ec55ed11f9198e6489b823"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "em_landing",
+          "shotId": "em_landing__establishing"
         }
       ],
       "accepted": true
@@ -858,6 +1330,24 @@
       "accepted": true
     },
     {
+      "hash": "6497620e8085c4428cf45bfac031ac989a3602afa6dfd7626c4b5d696944bc5c",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "09bbb267883a65516e7916bc3435ab6a4caeb815fee3d2049539e78fb37a83e5",
+      "prompt": "Art style: Japanese anime. establishing shot in The Foreign Court (day). No characters in frame. Render as a single illustrated frame, no UI text. Corrections: Remove all characters from the image to align with the 'background plate' instruction and the empty 'characters' array in the shot specification.; Remove all characters to produce a clean empty establishing plate..",
+      "refs": [
+        "53b3fdb53deaae1d4f5cd7da4a3a69dff579573dde64a3348cfc58b839e3603e"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "se_landing",
+          "shotId": "se_landing__establishing"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "64a2d6d8868c038b58dde3a2782e3010a3e91efdf18168b59daf859f03acf8b2",
       "ext": "png",
       "kind": "shot_image",
@@ -913,6 +1403,24 @@
       "accepted": true
     },
     {
+      "hash": "680b3b09cc7ce3477c3502dac9eb2f2582e582eb5a3fa7b61706a7a1c8103908",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "c5a6b8044eb5103ba568475d3613f16879d1bb8a60999e7944124cd1d9e640a1",
+      "prompt": "Art style: Japanese anime. establishing shot in The Organization — Outer Works (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "20724af016fd65d618b1108ea909d92085660f077002e44db7add2c4dbd82d16"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "em_infiltration",
+          "shotId": "em_infiltration__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "6817ca50a9ce4f1a1e9d3af50553e41eb66209cd47cf37c86cc35732550a2764",
       "ext": "png",
       "kind": "shot_image",
@@ -949,6 +1457,25 @@
       "accepted": true
     },
     {
+      "hash": "6b2160de4038548cb7812784a2a4b5a8bcd75694acea24534bd89eb34ca18dfa",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "6047e561ecca3b7d992df67a4f01b1dfb305cb04230cc4a6d6f5bd8c626e4efb",
+      "prompt": "Art style: Japanese anime. medium shot in The College Woods (day). Subjects: Ember Kellan, wearing Ash-grey forge leathers scorched at the cuffs, sleeves rolled to bare her rust-scarred forearm, ember-orange sash of the Kiln-Sworn knotted at the hip., pose: turning to face, expression: intense. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "2a7a549c627b80c7c69f2958e34b7bbb578672b7ce29a4e1796a8a4aa44c7491",
+        "a5bc386b7eaeedee62693b9632e3ab07054efa6f31e845e3730afa960ef1ce87"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c09_em",
+          "shotId": "c09_em__s2"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "6b4e5dc8ea6676716ca2115cca6d6d3bf1e043ae952716c8b7a7be221535d305",
       "ext": "png",
       "kind": "shot_image",
@@ -965,6 +1492,60 @@
         }
       ],
       "accepted": true
+    },
+    {
+      "hash": "6d87729647d75b19e3c0e1aec2eccf521563e6bc32ea24af25b6cc5ef735f6b2",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "a1a0a2678783196cd97e4bd697723d3c93f9c49a3570f9664b66e716d4e63eb2",
+      "prompt": "Art style: Japanese anime. wide shot in The Conquered Empire (day). No characters in frame. Camera: slow pan over burning banners. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "6c8a8ab5bb68e9ed81794c9d83ffa588a9e70e45f5e581ee16f600e972f41c08"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "ud_conquest",
+          "shotId": "ud_conquest__s2"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "6e5e3c1ed56bd588af27d2b74d93492b312c98c6a9c1d37d3377eb396dd59968",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "cf47b14121632252fdaa3b6ae7ad71706e71c459fdae77a2896b4c3ac242c2db",
+      "prompt": "Art style: Japanese anime. establishing shot in Execution Square (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "c03a8ef5467bf069bad3bae255266695100edb5c0c884ff76f867f1797d82c98"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "ud_break",
+          "shotId": "ud_break__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "70932a8ac5d9c0b055d27f6c9d69180785ec666b9b1011c175a09d8f63d95f3a",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "41b7f095a4186278726bb9dcf897c2bb471d4a8c448594819d96ee0e8bf258fd",
+      "prompt": "Art style: Japanese anime. establishing shot in The Translocation Hall (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "33e056001513454e3f213bc3b00baec5a5a761e5420653be1fa7b9feb46d8eb2"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c11a_teleport",
+          "shotId": "c11a_teleport__establishing"
+        }
+      ],
+      "accepted": false
     },
     {
       "hash": "73800ac3c1f87dff9d3a885abcef0575f1339e6a2640ce9d3cdc6c5bf4ba9db2",
@@ -1058,6 +1639,24 @@
       "accepted": true
     },
     {
+      "hash": "784142b9b92b56a1f015c70fd140206abe8db4102fda6b4e5f5f4c927679b983",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "74771591b1bd71b8c4c063ab8c4589bdde7c4517a8399ca021bca5624a989aec",
+      "prompt": "Art style: Japanese anime. establishing shot in The Grey Hands' Assay-Hold (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "6e6e57d2c1994bda6680c2f49ded40fe8d9e68f466811f7407f05c9301f35ab8"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "is_alliances",
+          "shotId": "is_alliances__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "78c7cdccff190ac25a2ac1048f691a2173ab5ae1a5ba83902042e57a70ac2374",
       "ext": "png",
       "kind": "shot_image",
@@ -1090,6 +1689,42 @@
         {
           "sceneId": "c11a_teleport",
           "shotId": "c11a_teleport__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "797979e7aba4abc087c7375c6db455249efdab970e8ef243da48e9a7ce31a74e",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "09bbb267883a65516e7916bc3435ab6a4caeb815fee3d2049539e78fb37a83e5",
+      "prompt": "Art style: Japanese anime. establishing shot in The Foreign Court (day). No characters in frame. Render as a single illustrated frame, no UI text. Corrections: Regenerate the establishing plate without any characters present..",
+      "refs": [
+        "53b3fdb53deaae1d4f5cd7da4a3a69dff579573dde64a3348cfc58b839e3603e"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "se_landing",
+          "shotId": "se_landing__establishing"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "79b8ed810831a5ba846e7fd0059ed7f4fbf0e35e896deb4b5a285149bdd0dc26",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "52760f3a625bcb638a0fab21b566f01f39f85d2851e44502d9e2cbad8641c1c1",
+      "prompt": "Art style: Japanese anime. establishing shot in The Grey Principality of Vorn (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "4fc232cd134113fe3fe1726f1385b378f9eeb0dda290191a8323b4a85d151c5f"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "is_landing",
+          "shotId": "is_landing__establishing"
         }
       ],
       "accepted": true
@@ -1203,6 +1838,25 @@
       "accepted": true
     },
     {
+      "hash": "8ca171bf85437a84f287234170a21f797123033527fcb90beaffa582296a2ead",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "eecfd5a60dcf37018a9604b07de5f90d59538a32eec89f7a885f511d07839563",
+      "prompt": "Art style: Japanese anime. medium shot in The College Woods (day). Subjects: Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord., pose: gesturing, expression: sly. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "2a7a549c627b80c7c69f2958e34b7bbb578672b7ce29a4e1796a8a4aa44c7491",
+        "8a843719657f5845cea392baba7f5d34b935c6543d870d81278a720fdc33d79c"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c09_wr",
+          "shotId": "c09_wr__s3"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "8d1694b70f694b5ff44f54fe81334acdcb15cd99ad4b7f0b2669a47a2294efff",
       "ext": "png",
       "kind": "shot_image",
@@ -1234,6 +1888,25 @@
         {
           "sceneId": "se_alliances",
           "shotId": "se_alliances__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "947653be378bb749bcba8d29ddc31c5f67443e620a4e6ded0ae9a8bc2843884d",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "eecfd5a60dcf37018a9604b07de5f90d59538a32eec89f7a885f511d07839563",
+      "prompt": "Art style: Japanese anime. medium shot in The College Woods (day). Subjects: Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord., pose: gesturing, expression: sly. Render as a single illustrated frame, no UI text. Corrections: Generate Wren Ashfield in the 'warrens' outfit, ensuring all components like the grey top, scarf, arm wraps, brown gloves, and hair bun are present, as depicted in Reference 3..",
+      "refs": [
+        "2a7a549c627b80c7c69f2958e34b7bbb578672b7ce29a4e1796a8a4aa44c7491",
+        "8a843719657f5845cea392baba7f5d34b935c6543d870d81278a720fdc33d79c"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c09_wr",
+          "shotId": "c09_wr__s3"
         }
       ],
       "accepted": true
@@ -1288,6 +1961,24 @@
         {
           "sceneId": "opening",
           "shotId": "opening__s1"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "9b7c997aab32acd478e1548a00da021edf571ffcd0026450447e39835545dce2",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "cce294e598f1c8cb7d34bafe2a220b0f26e439d0ede7a5f9b6f2f9e533a20ee0",
+      "prompt": "Art style: Japanese anime. establishing shot in The College Woods (day). No characters in frame. Camera: slow push through dappled canopy. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "2a7a549c627b80c7c69f2958e34b7bbb578672b7ce29a4e1796a8a4aa44c7491"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c09_ud",
+          "shotId": "c09_ud__s1"
         }
       ],
       "accepted": true
@@ -1396,6 +2087,43 @@
         {
           "sceneId": "em_ending",
           "shotId": "em_ending__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "a63205a8de70e2f70c83bfffd8b5c28606a2759e0ee8bd0f208593d5f3f8656e",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "8aa0b3a5eaa8a6df77291cc0cdac2efc9d789f1b5ec2ced072a0fbc4ebceec34",
+      "prompt": "Art style: Japanese anime. establishing shot in The Organization — Inner Sanctum (day). No characters in frame. Render as a single illustrated frame, no UI text. Corrections: Adjust the lighting and overall ambience to reflect a 'day' setting. This would typically involve brighter, more naturalistic lighting, or a significant increase in ambient light to convey daytime within such a structure, unless 'day' refers only to the narrative time and the location is inherently dark, in which case the specification might need clarification or adjustment.; Add brighter daylight cues if day is required, otherwise acceptable as atmospheric establishing plate..",
+      "refs": [
+        "e48f4cfc25e320980a25fd88b53448b364567b50c6d66925e09c9d56de10eede"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "se_final_boss",
+          "shotId": "se_final_boss__establishing"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "a657afe5ed27237deacf088c9a44f4992e034a3b2d52f44d16166d8155f78970",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "ab184fae7c75b4c3a3df11d439abbe6f0eb15861ab68a1f91ad9a8e0ded9d19f",
+      "prompt": "Art style: Japanese anime. wide shot in The College Woods (day). Subjects: Seraphine Halcyon, wearing Loomwright student's indigo coat with silver thread trim over a high-collared cream blouse, fitted trousers, and soft leather boots; a silver Loomwright pin at the throat., pose: weaving magic, expression: focused. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "2a7a549c627b80c7c69f2958e34b7bbb578672b7ce29a4e1796a8a4aa44c7491",
+        "911643aed4303a4c97cd4f6345431014e7995ba502050641514ad9d98c66eb83"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c09_se",
+          "shotId": "c09_se__s2"
         }
       ],
       "accepted": true
@@ -1522,6 +2250,24 @@
         {
           "sceneId": "c11b_on_the_run",
           "shotId": "c11b_on_the_run__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "b3d2ae0d96889e2ed8553ebbfd8f1b4ddeea748f9549d0e21dedf89936a55b08",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "8aa0b3a5eaa8a6df77291cc0cdac2efc9d789f1b5ec2ced072a0fbc4ebceec34",
+      "prompt": "Art style: Japanese anime. establishing shot in The Organization — Inner Sanctum (day). No characters in frame. Render as a single illustrated frame, no UI text. Corrections: Remove all humanoid figures from the image to ensure it is a pure background plate as specified.; Adjust the overall lighting to reflect a 'day' setting. This might involve increasing ambient light, introducing more natural light sources, or brightening the scene without losing the intended mood.; Remove residual watermark text from lower-right area.; Consider brighter ambient lighting if daytime feel is required..",
+      "refs": [
+        "e48f4cfc25e320980a25fd88b53448b364567b50c6d66925e09c9d56de10eede"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "se_final_boss",
+          "shotId": "se_final_boss__establishing"
         }
       ],
       "accepted": true
@@ -1654,6 +2400,42 @@
       "accepted": false
     },
     {
+      "hash": "bef999cbf715325b64eac01154b1a0572a9dc172c27ed652259e54fe4152ffd7",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "fa5eefb535bb1f3d712745809f5c9b2c8ed9a30e205c4bf98944887525f2a768",
+      "prompt": "Art style: Japanese anime. wide shot in Cloudlane Bolt-Hole (night). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "7ff6b3302e48df1e4b2e7d507d38f85b2acfb34860a3e69e283da1836eb89334"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "ud_binding",
+          "shotId": "ud_binding__s2"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "bf0ce462e46663854edca6bef67981a237724de07b932537d3fe98509dbd1212",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "cde04d1a359de6faee83a5d19c5dec30df90ed1be9bf56e34e77332a3bb48076",
+      "prompt": "Art style: Japanese anime. establishing shot in Cinderhold — Vashan Forge-City (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "c55289c45fc58632d5c9283f84ae9e42c3aced337a99deca5f74a79c3255baab"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "em_alliances",
+          "shotId": "em_alliances__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "c0f501946bad273140ee0d4da7f0edb786d4e94932690b202295cd328c63860e",
       "ext": "png",
       "kind": "shot_image",
@@ -1667,6 +2449,24 @@
         {
           "sceneId": "se_infiltration",
           "shotId": "se_infiltration__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "c4390cb77fd75bb901955267d560eb79d80b754afbc1466fde2fe4d42c2c3a26",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "066c919a8c16ff3bfe77d970e3ff1b3a6deb49ff9365db916b1f9af85207b584",
+      "prompt": "Art style: Japanese anime. establishing shot in The College Woods (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "2a7a549c627b80c7c69f2958e34b7bbb578672b7ce29a4e1796a8a4aa44c7491"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c09_is",
+          "shotId": "c09_is__s1"
         }
       ],
       "accepted": true
@@ -1746,6 +2546,24 @@
       "accepted": false
     },
     {
+      "hash": "c858c33fafc120f03d64140852468245a7ab6a7aa8e0e05fd6cd5ef5e88c3dee",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "b2afd50550fce86ba41f0ba8661ab0f969d7f2c12f3acf9b396b299cf5dde988",
+      "prompt": "Art style: Japanese anime. establishing shot in The Grey Principality of Vorn (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "4fc232cd134113fe3fe1726f1385b378f9eeb0dda290191a8323b4a85d151c5f"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "is_ending",
+          "shotId": "is_ending__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "c8cf27dc4d4413f03ae81051ed6d43cdeec2f33afef8a5895f0959f942361afa",
       "ext": "png",
       "kind": "shot_image",
@@ -1820,6 +2638,42 @@
       "accepted": true
     },
     {
+      "hash": "cd0ff2c1b322b4dc4ba7c35c60c13f697e608a9d6c287962f197f3aa7bb0afb7",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "63f058f392ecbb44f51b7f8261292e638a6526cc71237853e734c0c91f4b2675",
+      "prompt": "Art style: Japanese anime. establishing shot in College Infirmary (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "4a56bcd697336b8854d022cb1bc8de23ea3b25361a24845a11b28e420947e12b"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c08_wr",
+          "shotId": "c08_wr__s1"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "cd831ca8af5267df3cda50f7d114a804a342790b503e2ae561ed10dfe930ec4f",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "487ecd41e171c1e1be6cdca01171dea2f33989c46f7563c6e2582ab05d5dd1b8",
+      "prompt": "Art style: Japanese anime. establishing shot in The Organization — Outer Works (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "20724af016fd65d618b1108ea909d92085660f077002e44db7add2c4dbd82d16"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "is_infiltration",
+          "shotId": "is_infiltration__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "ce65a993811736621293b436348f45293793fa3ce52efebba2af9a63d3814d1f",
       "ext": "png",
       "kind": "shot_image",
@@ -1833,6 +2687,43 @@
         {
           "sceneId": "c07_the_ambush",
           "shotId": "c07_the_ambush__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "cf5a9a721dbeb3e937d18a65a3e5bd3d008326bcac63269f263d86218c58a219",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "09bbb267883a65516e7916bc3435ab6a4caeb815fee3d2049539e78fb37a83e5",
+      "prompt": "Art style: Japanese anime. establishing shot in The Foreign Court (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "53b3fdb53deaae1d4f5cd7da4a3a69dff579573dde64a3348cfc58b839e3603e"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "se_landing",
+          "shotId": "se_landing__establishing"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "d25c975425555f89dfb0c5a4fe9be2d7620a3e69392429b1159d43b1f39425d9",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "113c29360711d5b272dd0b960e68051521925ae98d31df9f821c18c0058274b8",
+      "prompt": "Art style: Japanese anime. wide shot in The College Woods (day). Subjects: Isolde Vorn, wearing A high-collared grey habit of Vorn cut, iron clasps, and a single iron key-pendant at the throat — austere, devout, unmarked by any Order's livery., pose: walking, expression: serene. Camera: following through mossed standing stones. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "2a7a549c627b80c7c69f2958e34b7bbb578672b7ce29a4e1796a8a4aa44c7491",
+        "52b03a948745bde30c4d776674f30d68f8b1884bb4a98da71a246d88aa5ca05a"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c09_is",
+          "shotId": "c09_is__s2"
         }
       ],
       "accepted": true
@@ -1892,6 +2783,42 @@
       "accepted": true
     },
     {
+      "hash": "da059995e2294cf73964881c355016e76902576e329ebdc67f6e86055c3ae20d",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "1969be42ce645822fd52178994b03a4275bfd65c4906e8f7a1b7083accd927fc",
+      "prompt": "Art style: Japanese anime. establishing shot in The Organization — Inner Sanctum (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "e48f4cfc25e320980a25fd88b53448b364567b50c6d66925e09c9d56de10eede"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "em_final_boss",
+          "shotId": "em_final_boss__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "dbc02b22412afa9cd0fe680510aee998d4625bf6624c65e108e5ec0343e7a394",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "f3fb99a178c86d068cde5d958cc33e14ec1c086c8c6fbbef88789d010f07afbd",
+      "prompt": "Art style: Japanese anime. establishing shot in The Organization — Inner Sanctum (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "e48f4cfc25e320980a25fd88b53448b364567b50c6d66925e09c9d56de10eede"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "is_final_boss",
+          "shotId": "is_final_boss__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "dc13bbfc4abe9f791327c4900f9ebcb81f193965b6fd11eb820e11b35d9f1dcf",
       "ext": "png",
       "kind": "shot_image",
@@ -1905,6 +2832,60 @@
         {
           "sceneId": "is_ending",
           "shotId": "is_ending__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "dd456116322548d2e3733afd4519097736c873f802287bbb82f316107d661ea7",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "a49bc33c64d95ce7c4ab1c070bd987da63747e28eb410d2a677a1a7105c1a197",
+      "prompt": "Art style: Japanese anime. establishing shot in Cinderhold — Vashan Forge-City (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "c55289c45fc58632d5c9283f84ae9e42c3aced337a99deca5f74a79c3255baab"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "em_ending",
+          "shotId": "em_ending__establishing"
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "hash": "df5c000b6cb9535cadc406da0b04b1e7adeb28195ae2cb03e06ba96bbcf918a5",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "41b7f095a4186278726bb9dcf897c2bb471d4a8c448594819d96ee0e8bf258fd",
+      "prompt": "Art style: Japanese anime. establishing shot in The Translocation Hall (day). No characters in frame. Render as a single illustrated frame, no UI text. Corrections: Remove all characters to produce a clean, empty background plate..",
+      "refs": [
+        "33e056001513454e3f213bc3b00baec5a5a761e5420653be1fa7b9feb46d8eb2"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c11a_teleport",
+          "shotId": "c11a_teleport__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "dfe730d8421665cc6197ea12720e134cc2e8e78d23f4c266fecb555a538f81b8",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "9cc87cbd820cecc95b1432564e5d3188f1d249059ebf2d63877fcc62f773bdda",
+      "prompt": "Art style: Japanese anime. establishing shot in The Ruined Cities (Timeskip) (day). No characters in frame. Camera: slow aerial push over shattered skyline. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "40ba4b4ee552959453b69b5572ff1392e7babf4e7c42d7d7d56317bdcf0ca39b"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "ud_epilogue",
+          "shotId": "ud_epilogue__s1"
         }
       ],
       "accepted": true
@@ -1945,6 +2926,25 @@
         }
       ],
       "accepted": true
+    },
+    {
+      "hash": "e5de12ad1eb658a3457a8cd0c340ea90be05e33368cd4e75b84023246bc6a4ed",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "fbdfa518e7dfc342bea79eece1ba76996b4ab9ffe47108e21f5ba526e5a4c259",
+      "prompt": "Art style: Japanese anime. wide shot in The College Woods (day). Subjects: Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord., pose: leading, expression: focused. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "2a7a549c627b80c7c69f2958e34b7bbb578672b7ce29a4e1796a8a4aa44c7491",
+        "8a843719657f5845cea392baba7f5d34b935c6543d870d81278a720fdc33d79c"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c09_wr",
+          "shotId": "c09_wr__s2"
+        }
+      ],
+      "accepted": false
     },
     {
       "hash": "e6d7dc217441131e32d70d33bcba22292fd2b92c03e5dd0477f51890dd81c9dc",
@@ -2037,6 +3037,24 @@
       "accepted": true
     },
     {
+      "hash": "efcf39a220adf81ac31afbef0a56ea1d75bed870f0c639e97dcee041756b65fc",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "41b7f095a4186278726bb9dcf897c2bb471d4a8c448594819d96ee0e8bf258fd",
+      "prompt": "Art style: Japanese anime. establishing shot in The Translocation Hall (day). No characters in frame. Render as a single illustrated frame, no UI text. Corrections: Regenerate without any characters - just the empty hall, thrones, and armillary sphere..",
+      "refs": [
+        "33e056001513454e3f213bc3b00baec5a5a761e5420653be1fa7b9feb46d8eb2"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c11a_teleport",
+          "shotId": "c11a_teleport__establishing"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "f48eabda4b56e483fa863c6c2e37e28f70fa8d2b200704e7441ab9b6963eafc4",
       "ext": "png",
       "kind": "shot_image",
@@ -2089,6 +3107,42 @@
         }
       ],
       "accepted": false
+    },
+    {
+      "hash": "faab4819b4057d1c17ffbc4093c7011aa3efc5c8ab32fd4ff7f13ed3da3597d2",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "e465bd67409b2cedd555668bbb5bc5a8bb712e81c306557cf0c9eb5dead2cd85",
+      "prompt": "Art style: Japanese anime. establishing shot in Great Assembly Hall (day). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "7c32805d7b38201ed81649e5f38ba76ef8b6401348ebebd72bbcb190bdda7bce"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "c10_the_world_breaks",
+          "shotId": "c10_the_world_breaks__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "fd248d8fcd09291580f3a278424a54ebfbc5c31dff849d8646c88138e304127c",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "7d9b1bdc0b57dd90e7a6d2944caa0cd807877e47cccf76d3fb8d20aacd6cbb7d",
+      "prompt": "Art style: Japanese anime. establishing shot in Cog-College — Approach (dusk). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "34cef9c93eefd1d683c0e8ca3daa14365e9e15cdf15692854e71efac8bef4d67"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "opening",
+          "shotId": "opening__s1"
+        }
+      ],
+      "accepted": true
     }
   ]
 }
