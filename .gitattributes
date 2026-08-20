@@ -10,3 +10,4 @@ vngen/state/notifications.jsonl merge=union
 #   git checkout --theirs .vnstudio/layouts/<name>.json    # take theirs
 #   git add               .vnstudio/layouts/<name>.json
 .vnstudio/layouts/*.json text eol=lf -merge
+.vnstudio/pages/vn-site.mjs -merge
