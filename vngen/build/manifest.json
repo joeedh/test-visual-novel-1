@@ -223,6 +223,24 @@
       "accepted": true
     },
     {
+      "hash": "104f5ba49c1c91fe33da16c742d7bdf2be5b5ed94ab978253398613444e64b1c",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "508b1ea8127cf79f319e60aff5ccfe03fba944b71757d6a1c354a92f9bc18f2d",
+      "prompt": "Art style: Japanese anime. wide shot in The Ashen Circle Haven (night). No characters in frame. Camera: slow pan across the haven. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "456e7624ea1dfce28b29191e8f1cfcbe6e4d8f282e566367994a76e66a778d70"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_alliances",
+          "shotId": "wr_alliances__s2"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "108d9d9f13bfcfe4ae70515f825f27d72821ecd88e2dceab998bb0e1357ec50d",
       "ext": "png",
       "kind": "shot_image",
@@ -768,6 +786,24 @@
       "accepted": true
     },
     {
+      "hash": "45e166f01ae3db95cb6371c24fad245cf56686137ecd7f3de21e3fc77b3d6070",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "53e52c9190ff9fecc15396858bb27a653375034ca190a2285fdeb0c5662e39ca",
+      "prompt": "Art style: Japanese anime. medium shot in The Ashen Circle Haven (night). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "456e7624ea1dfce28b29191e8f1cfcbe6e4d8f282e566367994a76e66a778d70"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_alliances",
+          "shotId": "wr_alliances__s3"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "465ee58b207c4a7bfe3860299a4431adbbb6523cf894aaa3ef2a6e1be2f37bb4",
       "ext": "png",
       "kind": "shot_image",
@@ -986,6 +1022,26 @@
       "accepted": true
     },
     {
+      "hash": "4b8cb8b4bb9d325b4024f2695261a36fd9c6184a1e702126814a00a5beabeff0",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "e5d48f15c820d7c2bea2c8d5e884f5f86244470bd0f989b0d76142d15fd09cff",
+      "prompt": "Art style: Japanese anime. establishing shot in The Ashen Circle Haven (night). Subjects: Caedon Vale, wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear.; Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord.. Camera: wide hearth glow. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "456e7624ea1dfce28b29191e8f1cfcbe6e4d8f282e566367994a76e66a778d70",
+        "e13b85bb9f4aeebb2f0839715d3a40fce20d10145cef340f13e0e72f0412e815",
+        "8a843719657f5845cea392baba7f5d34b935c6543d870d81278a720fdc33d79c"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_ending",
+          "shotId": "wr_ending__s1"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "4c592dd519a7759da2d5634312c8123aca53ed03a39a7c85f258bb66e9540985",
       "ext": "png",
       "kind": "shot_image",
@@ -1166,6 +1222,24 @@
         }
       ],
       "accepted": false
+    },
+    {
+      "hash": "5a7a9eaa33a94bdf5c17a2561f0324f7128dc527efc198b3254906ab33846552",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "af6c62bfde37cc5eb3443f1dde41eae5258ca3df3cc75efbc14c1d4f0dd9788c",
+      "prompt": "Art style: Japanese anime. medium shot in The Ruined Cities (Timeskip) (day). No characters in frame. Camera: static on drifting ash. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "40ba4b4ee552959453b69b5572ff1392e7babf4e7c42d7d7d56317bdcf0ca39b"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "ud_epilogue",
+          "shotId": "ud_epilogue__s3"
+        }
+      ],
+      "accepted": true
     },
     {
       "hash": "5a7b3c0ab3b9f5648ea8280fc910ce73c0c1b4fda5c5c4c7397e172d1c3f7fd5",
@@ -1838,6 +1912,24 @@
       "accepted": true
     },
     {
+      "hash": "8baa7e8726c0dadb192e1e4d71f6049d44de95b9beeb32f5ccabc8fc2d273591",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "55ffdbaccf4af9fc5cb04ac5ec4a3453bcf8ea27921f4a14a75424d8435b7ee4",
+      "prompt": "Art style: Japanese anime. establishing shot in The Organization — Inner Sanctum (night). No characters in frame. Camera: slow push into the sanctum. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "c390b1918be0e1e3751c6620433152a5e2d5615e1049dcbd6c68686a597ec40b"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "ud_final_boss",
+          "shotId": "ud_final_boss__s1"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "8ca171bf85437a84f287234170a21f797123033527fcb90beaffa582296a2ead",
       "ext": "png",
       "kind": "shot_image",
@@ -2129,6 +2221,24 @@
       "accepted": true
     },
     {
+      "hash": "a8e678439e675bedeb6a61126d6ad9f447cb5ac3104eb8c4446a686c57d4a370",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "72886a8722cae3c4df39306a5e8ba2982631247df37f18006f48d4a3bc90494a",
+      "prompt": "Art style: Japanese anime. medium shot in The Organization — Inner Sanctum (night). No characters in frame. Camera: static on the throne, aftermath. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "c390b1918be0e1e3751c6620433152a5e2d5615e1049dcbd6c68686a597ec40b"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "ud_final_boss",
+          "shotId": "ud_final_boss__s3"
+        }
+      ],
+      "accepted": true
+    },
+    {
       "hash": "acaf8041c5ef3abc67028fc5998f8d1685f1438b7a20ab0648d364ded0137d63",
       "ext": "png",
       "kind": "shot_image",
@@ -2196,6 +2306,24 @@
         {
           "sceneId": "c10_the_world_breaks",
           "shotId": "c10_the_world_breaks__establishing"
+        }
+      ],
+      "accepted": true
+    },
+    {
+      "hash": "b0048d28914a27bcfd8af431dbd90e10d1070e5cde0a3f0b43df33fe4a9f5ff4",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "577ab37f6fc92ca4bba537262de36e991ad967e9801b0703537b078e4e8f209a",
+      "prompt": "Art style: Japanese anime. wide shot in The Organization — Inner Sanctum (night). No characters in frame. Camera: sweeping across the hall. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "c390b1918be0e1e3751c6620433152a5e2d5615e1049dcbd6c68686a597ec40b"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "ud_final_boss",
+          "shotId": "ud_final_boss__s2"
         }
       ],
       "accepted": true
@@ -2452,6 +2580,26 @@
         }
       ],
       "accepted": true
+    },
+    {
+      "hash": "c346b58e8e9875a4b97fcb85ebf5af746c6789170d59c041a33af11d1b3e8604",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "11a1a7c63c6261d3ece37bfe5e9582aa7b6da590bdb820d0ee05084fb7b166a8",
+      "prompt": "Art style: Japanese anime. medium shot in The Ashen Circle Haven (night). Subjects: Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord., pose: holding hands, expression: softened; Caedon Vale, wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear., pose: holding hands. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "456e7624ea1dfce28b29191e8f1cfcbe6e4d8f282e566367994a76e66a778d70",
+        "8a843719657f5845cea392baba7f5d34b935c6543d870d81278a720fdc33d79c",
+        "e13b85bb9f4aeebb2f0839715d3a40fce20d10145cef340f13e0e72f0412e815"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_ending",
+          "shotId": "wr_ending__s2"
+        }
+      ],
+      "accepted": false
     },
     {
       "hash": "c4390cb77fd75bb901955267d560eb79d80b754afbc1466fde2fe4d42c2c3a26",
@@ -3053,6 +3201,24 @@
         }
       ],
       "accepted": false
+    },
+    {
+      "hash": "f1bb3c05bcb08a95588c1c0ee256354901d47ad3c5fa1206a820f15140353028",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "1cf32176c6d960596d33faa9fc423de9c8fcb0e1936771baf75a0aed89823875",
+      "prompt": "Art style: Japanese anime. establishing shot in The Ashen Circle Haven (night). No characters in frame. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "456e7624ea1dfce28b29191e8f1cfcbe6e4d8f282e566367994a76e66a778d70"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_alliances",
+          "shotId": "wr_alliances__s1"
+        }
+      ],
+      "accepted": true
     },
     {
       "hash": "f48eabda4b56e483fa863c6c2e37e28f70fa8d2b200704e7441ab9b6963eafc4",
