@@ -145,7 +145,7 @@
           "shotId": "se_landing__establishing"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "08e89888202cd9b0bc82a7d198dff7584588b7c181fa374e130a7a9d262138ff",
@@ -425,7 +425,7 @@
           "shotId": "c10_the_world_breaks__establishing"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "11b39ef2cc2e15e464c8990688e3a5fde9e6e237144e19d116cae2faa4b81a03",
@@ -815,7 +815,7 @@
           "shotId": "is_final_boss__establishing"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "297ebe5d6d77d641912e0d2a0e5b7e021dc77c3dc0bbe4773b3a710531bafe81",
@@ -890,7 +890,7 @@
           "shotId": "is_final_boss__establishing"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "2e5afce02a1df7034c3126432105ccc3e7c0e3b50e990e45f274f7ff9af74afc",
@@ -1093,7 +1093,7 @@
           "shotId": "se_landing__establishing"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "41e2fcc9d31a577177bf9005ce6c31290f77d1a4a2ca68c88e4ccf0f0b44a0c3",
@@ -1111,7 +1111,7 @@
           "shotId": "se_final_boss__establishing"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "420c3a86fae36a5d3fbd9fd9bbba01b5749bbd94cd443977d25e4600452db3d5",
@@ -1129,7 +1129,7 @@
           "shotId": "wr_landing__establishing"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "440cff0e227b675c4a85993fefcf73ea327b4131160495205cc66fe87e2923e4",
@@ -1421,7 +1421,7 @@
           "shotId": "em_final_boss__establishing"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "49559e30ca1572a611af11a377553b9ff098fa2d0ffec677787e98bd85cde12e",
@@ -1663,7 +1663,7 @@
           "shotId": "wr_alliances__s2"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "520676bfc0e963067e91e741b602694a3b38f0c7b5f9f103e595ff2ba8b63296",
@@ -1810,7 +1810,7 @@
           "shotId": "em_ending__establishing"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "5a7a9eaa33a94bdf5c17a2561f0324f7128dc527efc198b3254906ab33846552",
@@ -1972,7 +1972,7 @@
           "shotId": "is_final_boss__establishing"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "5f983e373fb2b8218bc639f023e7d43b9faab54daff0b848d1397c8e74a540c2",
@@ -2047,7 +2047,7 @@
           "shotId": "se_landing__establishing"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "64a2d6d8868c038b58dde3a2782e3010a3e91efdf18168b59daf859f03acf8b2",
@@ -2267,7 +2267,7 @@
           "shotId": "wr_alliances__s2"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "6d87729647d75b19e3c0e1aec2eccf521563e6bc32ea24af25b6cc5ef735f6b2",
@@ -2359,7 +2359,7 @@
           "shotId": "c11a_teleport__establishing"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "73800ac3c1f87dff9d3a885abcef0575f1339e6a2640ce9d3cdc6c5bf4ba9db2",
@@ -2470,7 +2470,7 @@
           "shotId": "em_final_boss__establishing"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "75aa230e441333ab5af79b85dae394cb153ef0b6c7c6474aa12299e672c6490e",
@@ -2620,7 +2620,7 @@
           "shotId": "se_landing__establishing"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "79b8ed810831a5ba846e7fd0059ed7f4fbf0e35e896deb4b5a285149bdd0dc26",
@@ -2819,7 +2819,7 @@
           "shotId": "c02_first_meetings__establishing"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "8dbeee2389f6555e418627616b3b5a974d83fa69e199c984b799bdcd37ece381",
@@ -3093,7 +3093,7 @@
           "shotId": "is_final_boss__establishing"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "a3bde59fca2b1e29803ce6302cc94549316a1b58d39e8ef27769b1e9508e62c8",
@@ -3205,7 +3205,7 @@
           "shotId": "se_final_boss__establishing"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "a657afe5ed27237deacf088c9a44f4992e034a3b2d52f44d16166d8155f78970",
@@ -3447,7 +3447,7 @@
           "shotId": "c02_first_meetings__establishing"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "b23606bc0b982dee165a69b3918868d1759aa59ec3fedccae3da841f7c63efb5",
@@ -3685,7 +3685,7 @@
           "shotId": "se_landing__establishing"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "bef999cbf715325b64eac01154b1a0572a9dc172c27ed652259e54fe4152ffd7",
@@ -3966,7 +3966,7 @@
           "shotId": "c02_first_meetings__establishing"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "c858c33fafc120f03d64140852468245a7ab6a7aa8e0e05fd6cd5ef5e88c3dee",
@@ -4149,7 +4149,7 @@
           "shotId": "se_landing__establishing"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "d090a3bdddb6dd4ea0604dd2adb98edc98110785a084da076f3456bc058adafe",
@@ -4167,7 +4167,7 @@
           "shotId": "wr_alliances__s2"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "d25c975425555f89dfb0c5a4fe9be2d7620a3e69392429b1159d43b1f39425d9",
@@ -4295,7 +4295,7 @@
           "shotId": "wr_alliances__s2"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "dbc02b22412afa9cd0fe680510aee998d4625bf6624c65e108e5ec0343e7a394",
@@ -4367,7 +4367,7 @@
           "shotId": "em_ending__establishing"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "ddca8f1bae537754a99f1e2f18d4ebb82a1a4ed5c54c93fb56fd8edd38d8ddc5",
@@ -4554,7 +4554,7 @@
           "shotId": "se_landing__establishing"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "ea75310215b3e97fc00034d553b2e79a296935aeeb0aacd9a67c2bbb60b0ce73",
@@ -4590,7 +4590,7 @@
           "shotId": "se_landing__establishing"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "ecab944851c8773895752ae43b2fc51c951a8b98dafe22921b8c933d30eb72e3",
@@ -4645,7 +4645,7 @@
           "shotId": "c11a_teleport__establishing"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "f00fa6f2f4c1d2fbfe0313c10ea159885fb3522b735c4255038d90d47a6972b7",
@@ -4775,7 +4775,7 @@
           "shotId": "is_final_boss__establishing"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "faab4819b4057d1c17ffbc4093c7011aa3efc5c8ab32fd4ff7f13ed3da3597d2",
