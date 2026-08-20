@@ -1169,6 +1169,25 @@
       "accepted": true
     },
     {
+      "hash": "55ae628383adf5fa3df7f95967d41e662c6c7f0580d7d7b0b99a95b47e83d338",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "c84cba38b5c2254356a895b22c09e72fcf1fb38d373e828d57f745cc187523dc",
+      "prompt": "Art style: Japanese anime. close shot in The Ashen Circle Haven (night). Subjects: Wren Ashfield, wearing Patched smuggler's leathers in soot-grey, a hooded canvas coat with too many hidden pockets, fingerless gloves worn over rust-scarred hands, and a filed-smooth cog-token on a leather cord., expression: trusting. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "456e7624ea1dfce28b29191e8f1cfcbe6e4d8f282e566367994a76e66a778d70",
+        "8a843719657f5845cea392baba7f5d34b935c6543d870d81278a720fdc33d79c"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_ending",
+          "shotId": "wr_ending__s4"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "582bf7126d2aea3ec55d811f583bb557b2337d99c650d653e6c65fad9c20227a",
       "ext": "png",
       "kind": "shot_image",
@@ -1693,7 +1712,7 @@
           "shotId": "wr_ending__s3"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "7544c0a1bcc32aa21b0141c056cc95bd6dee936f86599c58ed2612caf952f50e",
@@ -2618,7 +2637,7 @@
           "shotId": "wr_ending__s2"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "c4390cb77fd75bb901955267d560eb79d80b754afbc1466fde2fe4d42c2c3a26",
