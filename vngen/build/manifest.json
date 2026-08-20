@@ -276,7 +276,7 @@
           "shotId": "c07_ud__s3"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "0de58dc911f031d8e5b580520f80f42f112cbb513f8fbe6d3e62648c1894714f",
@@ -1258,7 +1258,7 @@
           "shotId": "c07_is__s2"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "465ee58b207c4a7bfe3860299a4431adbbb6523cf894aaa3ef2a6e1be2f37bb4",
@@ -2322,7 +2322,7 @@
           "shotId": "wr_ending__s3"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "6fdfe25ed32779dcf758781abfb15ea828d2bc30e54166911af877e7dfcd10d6",
@@ -4481,7 +4481,7 @@
           "shotId": "c07_ud__s3"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "e44a43d81c1014e178b237c46ecc3099b9b332459f54b1eab4fe6aa58a4e1a55",
@@ -4664,7 +4664,7 @@
           "shotId": "wr_infiltration__s4"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "f1bb3c05bcb08a95588c1c0ee256354901d47ad3c5fa1206a820f15140353028",
@@ -4866,7 +4866,7 @@
           "shotId": "c07_se__s1"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "ff583d0bcae5977acbaa04364c109a0b3698ababaacab7141741c889de854b08",

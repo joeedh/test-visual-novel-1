@@ -33,7 +33,7 @@
           "outfit": "college_gown"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "0472f47cb312b250a63bb90cd1f3bddc13e68b07e0b2c86b4fde4c5db518dfaf",
@@ -67,7 +67,7 @@
           "outfit": "everyday"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "068eb4f76f453fc55447085e8946bdf88ab67cad889cff0bedd796eec3a18981",
@@ -149,7 +149,7 @@
           "outfit": "workshop"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "0c12f20626a1be8315913e7d4b89cc226b4dca8ca790225e21888a519e9e83bc",
@@ -558,7 +558,7 @@
           "outfit": "college_leathers"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "2e9be6bdaafa1b1818b28e4f1c87585f5426d1f32ed3b3362f2ae768435d47a8",
@@ -736,7 +736,7 @@
           "outfit": "warrens"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "3d0c1bc64b4d1f7d38bb360a82dc8d84c39caedeae803aede3bbf39df1b46547",
@@ -982,7 +982,7 @@
           "outfit": "everyday"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "490599dbb80bb328ef37778ab184a855ec6529a2622f6a2956c480616ebf43dc",
@@ -1015,7 +1015,7 @@
           "outfit": "workshop"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "4a56bcd697336b8854d022cb1bc8de23ea3b25361a24845a11b28e420947e12b",
@@ -1133,7 +1133,7 @@
           "outfit": "college_workshop"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "52b03a948745bde30c4d776674f30d68f8b1884bb4a98da71a246d88aa5ca05a",
@@ -1246,7 +1246,7 @@
           "outfit": "office"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "5a406fdf960b8ab6548ff95d336f7eccb58fe9bc17dc0aca94fb279370d341d9",
@@ -1264,7 +1264,7 @@
           "outfit": "college_leathers"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "5b27e5e7f0e4350d5ba4269deafcac622a3510ed8027498e18f63bc0b487304a",
@@ -1378,7 +1378,7 @@
           "outfit": "college_indigo"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "636e04bea7a8e0a25884237105838f141c434156f2af5a9cd07f52373440f9d3",
@@ -1396,7 +1396,7 @@
           "outfit": "scholar_scruffs"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "63db430f3b664d4cea56f08ef6454d9329f0b68854ab8d84b316873bac549ab1",
@@ -1543,7 +1543,7 @@
           "outfit": "scholar_scruffs"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "6cf250d3ee91ce5ca0c6fea3cfe8464943912678be23be76fb4c086f95433c43",
@@ -1611,7 +1611,7 @@
           "outfit": "warrens"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "7275ff4b78dc981dd75491e009aa7306d7677fe5cea1d6edf82da6dbea59c14b",
@@ -1788,7 +1788,7 @@
           "outfit": "grey_habit"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "7f882a19d6e90a54ba9f907281960dd3a56a57fded5e2fcdc075199f637f8c2d",
@@ -1920,7 +1920,7 @@
           "outfit": "college_uniform"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "8717460492414308d261a9ba99c1e417c7b1dab58bf927bc45f8abb43c4f4a6e",
@@ -2021,7 +2021,7 @@
           "outfit": "workshop"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "911643aed4303a4c97cd4f6345431014e7995ba502050641514ad9d98c66eb83",
@@ -2054,7 +2054,7 @@
           "outfit": "warrens"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "939eba1416ccb7b70d5b4eb01f9c9b0168b9062e18912c6729b5270a77a9aa5b",
@@ -2088,7 +2088,7 @@
           "outfit": "college_uniform"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "99edfaa71c5861c5f52a7c9b7d540684548e71cf073a10e4e3d7d492df37b635",
@@ -2106,7 +2106,7 @@
           "outfit": "college_workshop"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "9a31917e15582d9e78e856aed51192d30904d38b589efb44bf7602ce9faf0bcb",
@@ -2124,7 +2124,7 @@
           "outfit": "college_indigo"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "9ac33dfe714cd127310a05b1d3e7dd785ed8291caaaeb0dc2d81dfc3b8c56485",
@@ -2208,7 +2208,7 @@
           "outfit": "college_gown"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "a047f5185f047ecdb40a3734343ed28c1e9b5ed2209e2ffbe10c44d63acca07c",
@@ -2242,7 +2242,7 @@
           "outfit": "office"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "a51789061fce7c17b3dd521647d45cd0fb20d477179cd90de211c5628142d767",
@@ -2260,7 +2260,7 @@
           "outfit": "college_gown"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "a59df5478123f86ab4647289534c0d7b4659f763eae17a2ed04d18dfbc5e9f70",
@@ -2278,7 +2278,7 @@
           "outfit": "grey_habit"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "a5bc386b7eaeedee62693b9632e3ab07054efa6f31e845e3730afa960ef1ce87",
@@ -2669,7 +2669,7 @@
           "outfit": "office"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "c80cb572b7ac708344471a22782c7fd13cc7446c4b780c1161318b9c963fb913",
@@ -2857,7 +2857,7 @@
           "outfit": "college_workshop"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "d19c2271d9d4280d8a52fec33d6029deed42e39ba940fae76883a9a23e37954e",
@@ -3018,7 +3018,7 @@
           "outfit": "scholar_scruffs"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "de8ceaebc83f2367ab83cb5c58e63517a823f15ad7e43ccbe9c924248cc52bea",
@@ -3070,7 +3070,7 @@
           "outfit": "college_leathers"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "e003651cbc02c8d86528eb4ad18c6fb5d6899ecf0b61786bf05babcd7db71b2c",
@@ -3284,7 +3284,7 @@
           "outfit": "everyday"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "e9c96b852924a75adc6a8d332c6c6f8e8ee24cd622d1bd0bc075db44c91db950",
@@ -3333,7 +3333,7 @@
           "outfit": "grey_habit"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "f1301586db3c79ac29af042cd7b8962477b7613942dc30b8b284e8d1d0c633b0",
@@ -3351,7 +3351,7 @@
           "outfit": "college_uniform"
         }
       ],
-      "accepted": false
+      "accepted": true
     },
     {
       "hash": "f22edf18c501f298c500f3c2aaba36aff62ee298be8fa498d2196836394fe099",
@@ -3565,7 +3565,7 @@
           "outfit": "college_indigo"
         }
       ],
-      "accepted": false
+      "accepted": true
     }
   ]
 }
