@@ -1677,6 +1677,25 @@
       "accepted": true
     },
     {
+      "hash": "746a0f6522e0ece945be8b9656db167c1c534fb8e2a3145366210017c905b4e2",
+      "ext": "png",
+      "kind": "shot_image",
+      "sourceTask": "afb233e5bf24ead439bcbc3fca8e0d8fff4e79e33cc33bb0593a1b7f386a9073",
+      "prompt": "Art style: Japanese anime. close shot in The Ashen Circle Haven (night). Subjects: Caedon Vale, wearing The Cog-College student uniform: a slate-grey wool coat with brass gear-buttons, a high collar, canvas trousers, and scuffed work boots. A scholarship student's version — patched at the elbows, the brass dulled from wear., expression: tender. Render as a single illustrated frame, no UI text.",
+      "refs": [
+        "456e7624ea1dfce28b29191e8f1cfcbe6e4d8f282e566367994a76e66a778d70",
+        "e13b85bb9f4aeebb2f0839715d3a40fce20d10145cef340f13e0e72f0412e815"
+      ],
+      "modelId": "gemini-2.5-flash-image",
+      "satisfies": [
+        {
+          "sceneId": "wr_ending",
+          "shotId": "wr_ending__s3"
+        }
+      ],
+      "accepted": false
+    },
+    {
       "hash": "7544c0a1bcc32aa21b0141c056cc95bd6dee936f86599c58ed2612caf952f50e",
       "ext": "png",
       "kind": "shot_image",
