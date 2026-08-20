@@ -20,7 +20,7 @@ palette:
   - "#c9cdd6"
   - "#e8e2d0"
   - "#8a93a8"
-approved_portrait: 911643aed4303a4c97cd4f6345431014e7995ba502050641514ad9d98c66eb83
+approved_portrait: 603756e4c7607298f3c7f21f6aca8c2afa0f37e46bf1f2571dda40dec8f94ca4
 ---
 
 A poised, quick-witted daughter of Halcyon Reach's ruling house, sent to the Cog-College as much for diplomacy as for schooling. Sela-strong and drawn to the Loomwrights' subtle art, she braids Spirit and Air with a delicacy that unnerves her instructors. Silver-blonde hair worn in a coiled braid, cloud-grey eyes, and the unhurried grace of someone raised to be watched. Warm beneath a practiced court reserve, she is torn between the peace-broker role her mother groomed her for and a hunger to choose her own thread.
